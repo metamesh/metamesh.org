@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
-gem 'jekyll'
-gem 'RedCloth'
+gem 'maruku'
+gem 'rack-jekyll'
 
 group :development do
   gem "heroku"
