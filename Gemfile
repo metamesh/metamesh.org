@@ -1,7 +1,7 @@
-# A sample Gemfile
 source "https://rubygems.org"
 
-gem "jekyl"
+gem 'jekyll'
+gem 'RedCloth'
 
 group :development do
   gem "heroku"
