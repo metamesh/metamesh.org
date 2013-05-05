@@ -1,0 +1,26 @@
+!!! 5
+%html
+  %head
+    %title 
+      {{ page.title }}
+    %link{ href:'http://fonts.googleapis.com/css?family=Abel', rel: 'stylesheet', type: 'text/css' }
+    %link{ href:'/styles/main.css', rel: 'stylesheet', type: 'text/css' }
+    :css
+%body
+  %header
+    %h1
+      %img{ alt:"META MESH", title:"META MESH", src: "/images/metamesh_logotext.svg", style:"width:100%; position:relative"}
+    %nav
+      %ul
+        %li
+          %a{ href: '/about.html' }
+            About
+        %li
+          %a{ href: '/contact.html' }
+            Contact
+        %li
+          %a{ href: '/blog.html' }
+            Blog
+  #content
+    {{ content }}
+

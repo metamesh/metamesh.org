@@ -1,0 +1,27 @@
+$yellow: #f5ca00;
+$black:  #000;
+
+body {
+  font-family: 'Abel', sans-serif;
+}
+
+header {
+  nav {
+    ul {
+      list-style-type: none;
+    
+      li {
+        padding: 0;
+        margin: 0;
+        display: inline;
+
+        a {
+          color: $black;
+          background-color: $yellow;
+          border: 2px solid $black;
+
+        }
+      }
+    }
+  }
+}
