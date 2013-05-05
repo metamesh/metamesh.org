@@ -47,8 +47,6 @@ GEM
     mime-types (1.23)
     netrc (0.7.7)
     posix-spawn (0.3.6)
-    puma (2.0.1)
-      rack (>= 1.1, < 2.0)
     pygments.rb (0.3.7)
       posix-spawn (~> 0.3.6)
       yajl-ruby (~> 1.1.0)
@@ -70,5 +68,4 @@ DEPENDENCIES
   jekyll-haml
   jekyll-sass
   maruku
-  puma
   rack-jekyll!
