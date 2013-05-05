@@ -11,16 +11,15 @@
     %h1
       %img{ alt:"META MESH", title:"META MESH", src: "/images/metamesh_logotext.svg", style:"width:100%; position:relative"}
     %nav
-      %ul
-        %li
-          %a{ href: '/about.html' }
-            About
-        %li
-          %a{ href: '/contact.html' }
-            Contact
-        %li
-          %a{ href: '/blog.html' }
-            Blog
+      .link
+        %a{ href: '/about.html' }
+          About
+      .link
+        %a{ href: '/contact.html' }
+          Contact
+      .link
+        %a{ href: '/blog.html' }
+          Blog
   #content
     {{ content }}
 

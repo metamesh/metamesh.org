@@ -3,23 +3,29 @@ $black:  #000;
 
 body {
   font-family: 'Abel', sans-serif;
+  font-size: 120%;
 }
 
 header {
   nav {
-    ul {
-      list-style-type: none;
-    
-      li {
-        padding: 0;
-        margin: 0;
-        display: inline;
+    text-align: center;
+    margin: 0 auto;
 
-        a {
-          color: $black;
-          background-color: $yellow;
-          border: 2px solid $black;
+    .link {
+      padding: 0.5em;
+      margin: 0.1em auto;
+      display: inline-block;
+      width:31%;
+      background-color: $yellow;
+      border: 3px solid $black;
 
+      a {
+        color: $black;
+        font-size: 2em;
+        text-decoration: none;
+
+        &:hover {
+          text-decoration: underline;
         }
       }
     }
