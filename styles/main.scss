@@ -6,13 +6,21 @@ body {
   font-size: 120%;
 }
 
+#container {
+  width: 80%;
+  margin: 0 auto;
+}
+
 header {
+  h1 {
+    text-align:center;
+}
   nav {
     text-align: center;
     margin: 0 auto;
 
     .link {
-      padding: 0.5em;
+      padding: 0.3em;
       margin: 0.1em auto;
       display: inline-block;
       width:20%;
@@ -21,7 +29,7 @@ header {
 
       a {
         color: $black;
-        font-size: 2em;
+        font-size: 1.4em;
         text-decoration: none;
 
         &:hover {
@@ -29,5 +37,11 @@ header {
         }
       }
     }
+  }
+}
+
+@media screen and (max-width: 1024px){
+  #container {
+    width: 100%;
   }
 }
