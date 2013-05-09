@@ -14,7 +14,7 @@ body {
 header {
   h1 {
     text-align:center;
-}
+  }
   nav {
     text-align: center;
     margin: 0 auto;
@@ -40,7 +40,15 @@ header {
   }
 }
 
-@media screen and (max-width: 1024px){
+blockquote {
+  margin: 1em 3em;
+  font-style: italic;
+  color: #666;
+  border-left: 2px solid #666;
+  padding-left: 1em;
+}
+
+@media screen and (max-width: 720px){
   #container {
     width: 100%;
   }
