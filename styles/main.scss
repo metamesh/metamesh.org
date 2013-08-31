@@ -4,6 +4,7 @@ $black:  #000;
 body {
   font-family: 'Roboto', sans-serif;
   font-size: 120%;
+  font-weight: 300;
 }
 
 #container {
@@ -46,6 +47,18 @@ blockquote {
   color: #666;
   border-left: 2px solid #666;
   padding-left: 1em;
+}
+
+div.post {
+    .byline {
+      font-size: 70%;
+    }
+    .date {
+      font-size: 60%;
+    }
+    a {
+      //text-decoration: none;
+    }
 }
 
 @media screen and (max-width: 720px){

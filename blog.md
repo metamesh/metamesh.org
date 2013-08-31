@@ -5,4 +5,6 @@ title: META MESH | Blog
 
 # Blog
 
-When we take time to write, it shall appear here.
+We write about our business, our processes, our triumphs, and our defeats.
+
+{% convert_include blog_post_list.haml %}

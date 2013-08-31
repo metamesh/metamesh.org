@@ -1,30 +1,9 @@
-!!! 5
+!!!5
 %html
-  %head
-    %title 
-      {{ page.title }}
-    %link{ href:'//fonts.googleapis.com/css?family=Roboto', rel: 'stylesheet', type: 'text/css' }
-    %link{ href:'/styles/main.css', rel: 'stylesheet', type: 'text/css' }
-    :css
-%body
-  #container
-    %header
-      %h1
-        %a{ href: '/index.html'}
-          %img{ alt:"META MESH", title:"META MESH", src: "/images/metamesh_logotext.svg", style:"width:80%; position:relative"}
-      %nav
-        .link
-          %a{ href: '/projects.html' }
-            Projects
-        .link
-          %a{ href: '/vision.html' }
-            Vision
-        .link
-          %a{ href: '/contact.html' }
-            Contact
-        .link
-          %a{ href: '/blog.html' }
-            Blog
-    #content
+  {% convert_include global_head.haml %}
+  %body
+    #container
+      {% convert_include global_nav.haml %}
+      #content.page
       {{ content }}
 
