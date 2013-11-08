@@ -1,5 +1,5 @@
 ---
-title: META MESH awarded Awesome Pittsburgh Grant
+title: META MESH awarded Awesome Pittsburgh grant
 layout: post
 author: Colin Dean
 date: 2013-11-08
