@@ -6,8 +6,11 @@ layout: front
 
 ## Ongoing Projects
 
-**[PittMesh](http://pittmesh.org)** is a community wireless mesh project.
+**[PittMesh](http://pittmesh.org)** is a community wireless mesh project. Our
+[informational video](https://www.youtube.com/watch?v=OvAT7DTspaM) explains the
+wireless mesh networking and what we hope to achieve with it in Pittsburgh.
 
 ## In Development
 
-Currently nothing.
+Keep an eye on the [PittMesh Github organization](https://github.com/pittmesh)
+for any code we publish!
