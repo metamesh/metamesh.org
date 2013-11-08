@@ -53,6 +53,7 @@ GEM
     maruku (0.6.1)
       syntax (>= 1.0.0)
     mime-types (1.25)
+    mr_poole (0.4.0)
     netrc (0.7.7)
     posix-spawn (0.3.6)
     pygments.rb (0.5.2)
@@ -78,4 +79,5 @@ DEPENDENCIES
   jekyll-haml
   jekyll-sass
   maruku
+  mr_poole
   rack-jekyll!

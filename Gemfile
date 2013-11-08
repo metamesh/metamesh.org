@@ -7,4 +7,6 @@ gem 'jekyll-sass'
 gem 'jekyll-haml'
 group :development do
   gem "heroku"
+  gem "mr_poole" #quick way to generate posts: poole post "Title" | editor
+                 #https://github.com/mmcclimon/mr_poole _
 end
