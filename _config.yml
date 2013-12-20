@@ -1,3 +1,10 @@
 exclude:  [ Gemfile, Gemfile.lock, Procfile, vendor, gems, Readme.md, config.ru, Rakefile]
 plugins:  ./_plugins
 permalink: /blog/:year/:month/:day/:title
+name: META MESH Blog
+url: http://metamesh.org
+description: The annals of META MESH, a wireless networking provider in Pittsburgh, Pennsylvania
+copyright: META MESH, LLC
+rss_path: /
+rss_name: rss.xml
+rss_post_limit: 100
