@@ -8,7 +8,8 @@ Cold weather and a fear of heights did not stop META MESH from ascending to the 
 
 Originally, HackPittsburgh's roof sported a large parabolic dish and a high-gain omnidirectional antenna that broadcasted the [PittMesh](http://pittmesh.org) SSID on 2.4 GHz. This was attached to the century-old chimney by Tapcon screws and aluminum stripping. Test broadcast resulted in signal a mile away in the South Side. Work originally completed in the Spring of 2013 but by winter, the strain on the dish had torn out the screws in the crumbling brick of the chimney.
 
-![Imgur](http://i.imgur.com/hUvFbKTl.jpg)
+{:.img}
+![The primary node, now securely fastened](http://i.imgur.com/hUvFbKTl.jpg)
 
 Thanks to the [financial support](http://www.metamesh.org/blog/2013/11/08/awesome-pittsburgh) of the [Pittsburgh chapter of the Awesome Foundation](http://awesomepgh.com/), META MESH was able to purchase chimney straps that repaired the mount and a brand new 5 GHz directional Ubiquiti AirGrid that doubles the size of the backhaul network. In the months to come, PittMesh will be expanding into Oakland, the South Side, and all the way up to Allentown.
 
