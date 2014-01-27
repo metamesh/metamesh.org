@@ -8,7 +8,7 @@ editor: Colin Dean
 
 Braving the wind, rain, and cold, a band of [PittMesh](http://pittmesh.net) volunteers ascended a last-century house overlooking the Monongahela alley to install some decidedly this-century wireless radios. 
 
-This second node, which sits on a house perched upon the cliff over Interstate 376 in [Oakland](https://goo.gl/maps/APzoq), has perfect line-of-sight to PittMesh's original node atop [HackPittsburgh](http://www.hackpittsburgh.org/) and a third, planned node in [Allentown](https://goo.gl/maps/MiYlC), above the [Southside Slopes](https://goo.gl/maps/yHN6P). In total, the network now spans almost two miles.
+This second node, which sits on a house perched upon the cliff over Interstate 376 in [Oakland](https://goo.gl/maps/APzoq), has perfect line-of-sight to PittMesh's original node atop [HackPittsburgh](http://www.hackpittsburgh.org/) and a third new node in [Allentown](https://goo.gl/maps/MiYlC), above the [Southside Slopes](https://goo.gl/maps/yHN6P). In total, the network now spans almost two miles.
 
 {:.img}
 ![Adam finishing up the second PittMesh node](http://i.imgur.com/rivBEj2l.jpg)
