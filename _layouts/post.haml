@@ -14,3 +14,5 @@
             posted {{ page.date | date_to_long_string }}
         %article
           {{ content }}
+    %footer
+      {% convert_include global_footer.haml %}
