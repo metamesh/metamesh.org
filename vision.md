@@ -12,7 +12,7 @@ Our company envisions a regional, publicly owned and operated network of
 inexpensive Wi-Fi nodes on or in residences and small businesses, creating a 
 shared network that is open, secure, anonymous, and free to use.
 
-Unlike regular ISPs' networks, the PittMesh network has no central points of
+Unlike regular ISPs' networks, the [PittMesh](http://www.pittmesh.net) network has no central points of
 failure. As long as nodes are powered, no ISP, terrorist organization, weather
-event, hacker, or government institution can disrupt the entire PittMesh
+event, hacker, or government institution can disrupt the entire [PittMesh](http://www.pittmesh.net)
 network. 

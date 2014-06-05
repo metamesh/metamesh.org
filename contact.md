@@ -5,7 +5,7 @@ title: META MESH | Contact
 
 # Contact Us
 
-Do you want to help build PittMesh? Let us know.
+Do you want to help build [PittMesh](http://www.pittmesh.net)? Let us know.
 
 ## IRC
 
@@ -14,7 +14,7 @@ FreeNode: [irc://irc.freenode.net:6667/pittmesh](http://webchat.freenode.net/?ch
 
 ## Donations
 
-While we prefer to help interested people set up nodes to connect to PittMesh, we
+While we prefer to help interested people set up nodes to connect to [PittMesh](http://www.pittmesh.net), we
 also accept donations to drive our rollout. 
 
 ### Hardware
