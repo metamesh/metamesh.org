@@ -1,8 +1,8 @@
 source "https://rubygems.org"
-ruby '1.9.3'
-gem 'maruku'
-gem 'jekyll'
-gem 'rack-jekyll', :git => 'https://github.com/adaoraul/rack-jekyll'
+ruby '2.1.2'
+gem 'maruku', '~> 0.7.2'
+gem 'jekyll', '~> 2.2.0'
+gem 'rack-jekyll', "~> 0.4.1", git: "https://github.com/adaoraul/rack-jekyll.git"
 gem 'jekyll-sass'
 gem 'jekyll-haml'
 group :development do
