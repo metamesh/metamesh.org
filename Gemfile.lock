@@ -74,7 +74,6 @@ GEM
       celluloid (>= 0.15.2)
       rb-fsevent (>= 0.9.3)
       rb-inotify (>= 0.9)
-    maruku (0.7.2)
     mercenary (0.3.4)
     mime-types (2.3)
     mr_poole (0.6.0)
@@ -110,6 +109,5 @@ DEPENDENCIES
   jekyll (~> 2.2.0)
   jekyll-haml
   jekyll-sass
-  maruku (~> 0.7.2)
   mr_poole
   rack-jekyll (~> 0.4.1)!
