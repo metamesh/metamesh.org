@@ -17,6 +17,12 @@ FreeNode: [irc://irc.freenode.net:6667/pittmesh](http://webchat.freenode.net/?ch
 We adhere to a [Code of Conduct](https://github.com/pittmesh/governance/blob/master/code-of-conduct.markdown)
 that governs how we interact with each other and our community.
 
+## Mailing list
+
+Our mailing list traffic is pretty low, and is only used for major announcements.
+
+{% convert_include mailchimp.haml %}
+
 ## Donations
 
 While we prefer to help interested people set up nodes to connect to [PittMesh](http://www.pittmesh.net), we
