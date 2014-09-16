@@ -22,3 +22,5 @@ Installation is becoming easier for the team. The original installation at HackP
 In the upcoming months, META MESH is aiming to connect [Allentown](https://goo.gl/maps/MiYlC), the [Southside Flats](https://goo.gl/maps/7XTwl), [Oakland](https://goo.gl/maps/APzoq), and the [Hill District](https://goo.gl/maps/cXj46) with its backhaul network, begin deploying nodes that use mesh routing protocols in these neighborhoods, and begin hosting services out onto the network.
 
 If you live in these areas and are interested in hosting a node, please contact us through our [contact form](/contact.html) at MetaMesh.org. 
+
+_Photo by [Heather Kresge](http://www.hkphoto.co/)._
