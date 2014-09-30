@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-ruby '2.1.2'
+ruby '2.0.0'
 gem 'jekyll', '~> 2.2.0'
 gem 'rack-jekyll', "~> 0.4.1", git: "https://github.com/adaoraul/rack-jekyll.git"
 gem 'jekyll-sass'
