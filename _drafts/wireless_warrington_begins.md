@@ -17,7 +17,7 @@ Store](http://workhardpgh.com/), a
 Meta Mesh's office, can also be found along the corridor.
 
 {:.img} ![Allentown relative to
-downtown](/images/wireless-warrington-begins/allentown-rel-downtown.jpg)
+downtown](/images/posts/wireless_warrington_begins/allentown-rel-downtown.jpg)
 
 These nodes represent the first consumer-oriented deployment of the
 PittMesh network, where anyone with a WiFi-capable device can connect to
