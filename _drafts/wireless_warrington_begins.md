@@ -15,7 +15,7 @@ Store](http://workhardpgh.com/), a
 [coworking](http://en.wikipedia.org/wiki/Coworking) space serving as
 Meta Mesh's office, can also be found along the corridor.
 
-{:.img} ![Allentown relative to
+![Allentown relative to
 downtown](/images/posts/wireless_warrington_begins/allentown-rel-downtown.jpg)
 
 These nodes represent the first consumer-oriented deployment of the
