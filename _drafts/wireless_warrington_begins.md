@@ -25,8 +25,7 @@ them with no special equipment or networking knowledge. Simply connect
 to the "PittMesh" network, open your favorite web-browser, read and
 accept the Terms of Service, and you're connected!  In addition to
 mesh-only services in the works, access to the Internet is graciously
-provided by Sweet Peaches and the Hardware Store, some of the essential
-businesses that keep Allentown running.
+provided by Sweet Peaches, the Hardware Store and soon a few other businesses!
 
 
 MetaMesh is always looking for businesses and individuals who would be
