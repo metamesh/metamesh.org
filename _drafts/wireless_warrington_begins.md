@@ -39,8 +39,8 @@ stylish, and use minimal electricity.  For further information, please
 [contact](/contact.html) MetaMesh.
 
 Wireless Warrington has been made possible by a generous grant from the
-[URA](http://www.ura.org) and the [Allentown
-CDC](http://www.allentowncdc.org/), the local [Community Development
+[URA](http://www.ura.org) and the [Mount Washington
+CDC](http://mwcdc.org/), the local [Community Development
 Corporation](http://en.wikipedia.org/wiki/Community_development_corporation).
 Additionally, a special shout-out goes to [The Hardware
 Store](http://workhardpgh.com/) and [Sweet
