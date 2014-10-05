@@ -46,7 +46,8 @@ Heroku access puts it up.
 
 If your post has images, put the images in a directory within `images/posts` that
 bears the same name as the post's slug. That is, the filename that `poole`
-generates without the extension.
+generates without the extension. Make sure that you put `{:.img}` on the line
+*before* a line that just has an image, so that the image will be centered.
 
 Ship ship ship
 --------------
