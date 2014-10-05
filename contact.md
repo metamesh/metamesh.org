@@ -59,6 +59,11 @@ Otherwise, we accept WePay and can take credit
 cards directly via Square. Contact us for more information on those and other
 donation methods, including other cryptocurrencies.
 
+Additionally, you can [donate directly to Meta Mesh agents via Gratipay](https://gratipay.com/MetaMeshLLC). Donations on Gratipay are divided among those active in our organization according to each person's activity.
+
+<script data-gratipay-username="MetaMeshLLC"
+        src="//gttp.co/v1.js"></script>
+
 META MESH is a for-profit, but bootstrapped company the beneficial community
 focus of which may lead the average person to believe that it is a non-profit.
 Unfortunately, donations to META MESH are *not tax deductible*.
