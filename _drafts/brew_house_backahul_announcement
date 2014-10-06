@@ -1,3 +1,9 @@
+---
+layout: post
+title: Brewing up wifi at the Brew House in the South Side Flats
+author: Adam Longwill
+---
+
 Meta Mesh is proud to announce our highest-visibility node yet! 10 stories above the streets of the South Side are four new antennas broadcasting the PittMesh SSID for all to use! This 5GHz backhaul node is not connected to the Internet and does not host any services. Instead, it acts as a central point that thousands of Pittsburgh residents can point an antenna toward and get connected to the network. What this means is that someone living on 8th street can use a wireless router running the Commotion firmware and a directional antenna pointed to the roof of the Brew House apartments to connect to a friend or coworker on 24th street who has set up a similar wireless transciever. 
 
 Where is the Brew House? It's right behind the building with the nation's largest outdoor clockface. Because of South Side clock being in the way, some parts of the South Side will not have line-of-site to the antennas. Please see the below heatmap of where you are able to receive a signal from the Brew House node.
