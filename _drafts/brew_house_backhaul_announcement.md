@@ -26,7 +26,7 @@ If you have any questions about PittMesh, compatibility, or are interested in ho
 
 ## Coverage Map
 
-![coverage map of brew house node](/images/posts/brew_house_backhaul_announcement/coverage_map.png)
+![coverage map of brew house node](/images/posts/brew_house_backhaul_announcement/brew_house_coverage_map.png)
 
 ## Technical Details
 
