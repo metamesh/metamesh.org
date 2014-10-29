@@ -30,7 +30,7 @@ If you have any questions about [PittMesh](http://www.pittmesh.net), compatibili
 
 ## Technical Details
 
-The Brew House node is comprised of four Ubiquiti 19 dBi, 120˚ sector antennas connected to four Ubiquiti [Rocket M5's](http://www.ubnt.com/airmax/rocketm/) routers. The routers are connected to each other via a gigabit 
+The Brew House node is comprised of four Ubiquiti 19 dBi, 120˚ sector antennas connected to four Ubiquiti [Rocket M5](http://www.ubnt.com/airmax/rocketm/) routers. The routers are connected to each other via a gigabit 
 [Power-over-Ethernet](https://en.wikipedia.org/wiki/Power_over_Ethernet) switch. They are only broadcasting on 5 GHz, as they are meant to be backhaul-only.
 
 We realize that the word “central” might be alarming to those familiar with mesh configuration. We anticipate this being simply the first of several node clusters constructed in the South Side and intend for it not to be the node in the South Side. We do greatly encourage South Side residents to set up their own nodes, including 5 GHz backhaul and 2.4 GHz client access, in order to expand the network backhaul throughout the area.
