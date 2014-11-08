@@ -72,6 +72,9 @@ div.post {
     }
     p.img {
       text-align:center;
+      img {
+        max-width: 100%;
+      }
     }
 }
 
