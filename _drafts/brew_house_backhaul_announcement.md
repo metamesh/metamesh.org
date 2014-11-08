@@ -6,6 +6,8 @@ author: Adam Longwill
 
 Ten stories above the South Side, four huge WiFi antennas are perched in their new roost. 
 
+![View of downtown Pittsburgh from the Brew House with antennae in sight](/images/posts/brew_house_backhaul_announcement/brew_house_rooftop.jpg)
+
 Meta Mesh is overjoyed to announce the completion of its most ambitious installation yet: a backhaul node comprised of four routers with sector antennas at the Brew House. This addition expands [PittMesh](http://www.pittmesh.net)'s availability from a few dozen Pittsburgh residents to a few thousand. 
 
 This node is connecting the South Side Slopes and Flats with a 5 GHz, ad-hoc, backhaul network, identified by the “PittMesh_Backhaul” SSID. This node serves two of Pittsburgh’s most unique neighborhoods with a central connection point for [PittMesh](http://www.pittmesh.net), Pittsburgh’s most unique wireless network.
