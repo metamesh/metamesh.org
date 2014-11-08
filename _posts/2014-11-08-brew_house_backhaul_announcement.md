@@ -6,6 +6,7 @@ author: Adam Longwill
 
 Ten stories above the South Side, four huge WiFi antennas are perched in their new roost. 
 
+{:.img}
 ![View of downtown Pittsburgh from the Brew House with antennae in sight](/images/posts/brew_house_backhaul_announcement/brew_house_rooftop.jpg)
 
 Meta Mesh is overjoyed to announce the completion of its most ambitious installation yet: a backhaul node comprised of four routers with sector antennas at the Brew House. This addition expands [PittMesh](http://www.pittmesh.net)'s availability from a few dozen Pittsburgh residents to a few thousand. 
@@ -28,6 +29,7 @@ If you have any questions about [PittMesh](http://www.pittmesh.net), compatibili
 
 ## Coverage Map
 
+{:.img}
 ![coverage map of brew house node](/images/posts/brew_house_backhaul_announcement/brew_house_coverage_map.png)
 
 ## Technical Details

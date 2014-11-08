@@ -6,6 +6,7 @@ author: Colin Dean
 ---
 [PittMesh.net](http://www.pittmesh.net) got a major update this week! It is now displaying actual node locations instead of just a number of nodes online. 
 
+{:.img}
 ![PittMesh.net as of {{post.date}}](/images/posts/pittmeshnet_now_showing_node_locations/pittmesh.net.png)
 
 Moreover, this information is stored in such a way that moving to a truely dynamic, live status display is trivial: we need only change the data source for the node locations to something collecting the information at current instead of using a static file.
