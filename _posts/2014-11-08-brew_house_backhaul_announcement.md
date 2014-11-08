@@ -2,14 +2,15 @@
 layout: post
 title: Fermenting WiFi from the Brew House for the South Side Flats and Slopes
 author: Adam Longwill
+excerpt: Thanks to the Brew House, the South Side Flats and Slopes can access PittMesh. Read on for details.
 ---
 
-Ten stories above the South Side, four huge WiFi antennas are perched in their new roost. 
-
-{:.img}
+{:.img.halfsize}
 ![View of downtown Pittsburgh from the Brew House with antennae in sight](/images/posts/brew_house_backhaul_announcement/brew_house_rooftop.jpg)
 
-Meta Mesh is overjoyed to announce the completion of its most ambitious installation yet: a backhaul node comprised of four routers with sector antennas at the Brew House. This addition expands [PittMesh](http://www.pittmesh.net)'s availability from a few dozen Pittsburgh residents to a few thousand. 
+Ten stories above the South Side, four huge WiFi antennas are perched in their new roost.
+
+Meta Mesh is overjoyed to announce the completion of its most ambitious installation yet: a backhaul node comprised of four routers with sector antennas at the Brew House. This addition expands [PittMesh](http://www.pittmesh.net)'s availability from a few dozen Pittsburgh residents to a few thousand.
 
 This node is connecting the South Side Slopes and Flats with a 5 GHz, ad-hoc, backhaul network, identified by the “PittMesh_Backhaul” SSID. This node serves two of Pittsburgh’s most unique neighborhoods with a central connection point for [PittMesh](http://www.pittmesh.net), Pittsburgh’s most unique wireless network.
 
@@ -17,7 +18,7 @@ Where is the Brew House? It's the building *behind* the [nation's one-time large
 
 As a backhaul node, the Brew House node produces an ad-hoc mode connection--not the more common Client Mode type that is used in WiFi hotspots. This means that a smart phone, tablet, or laptop may not be able to see it, as it is meant for [OLSR](https://en.wikipedia.org/wiki/Optimized_Link_State_Routing_Protocol)-enabled routers.
 
-This node does not serve as an Internet [gateway](https://en.wikipedia.org/wiki/Default_gateway). Rather, it acts as a central point through which residents can connect by aiming directional antennas at that are attached to their wireless access points or WiFi cards. So, if someone on 8th Street wants to connect to a friend on 24th, they can both point their 5 GHz antennas at the top of the Brew House behind the famous South Side clock tower to connect. 
+This node does not serve as an Internet [gateway](https://en.wikipedia.org/wiki/Default_gateway). Rather, it acts as a central point through which residents can connect by aiming directional antennas at that are attached to their wireless access points or WiFi cards. So, if someone on 8th Street wants to connect to a friend on 24th, they can both point their 5 GHz antennas at the top of the Brew House behind the famous South Side clock tower to connect.
 
 Ideally, nodes connecting to the Brew House node will be a wireless router running Commotion Wireless firmware, obtainable from www.commotionwireless.net, which is based on [OpenWRT](https://openwrt.org/), a popular alternative to the firmwares shipped on most commodity routers available on-line and at brick-and-mortar retailers. However, any router running the [OLSR](https://en.wikipedia.org/wiki/Optimized_Link_State_Routing_Protocol) network protocol can connect for basic functionality.
 
@@ -34,7 +35,7 @@ If you have any questions about [PittMesh](http://www.pittmesh.net), compatibili
 
 ## Technical Details
 
-The Brew House node is comprised of four Ubiquiti 19 dBi, 120˚ sector antennas connected to four Ubiquiti [Rocket M5](http://www.ubnt.com/airmax/rocketm/) routers. The routers are connected to each other via a gigabit 
+The Brew House node is comprised of four Ubiquiti 19 dBi, 120˚ sector antennas connected to four Ubiquiti [Rocket M5](http://www.ubnt.com/airmax/rocketm/) routers. The routers are connected to each other via a gigabit
 [Power-over-Ethernet](https://en.wikipedia.org/wiki/Power_over_Ethernet) switch. They are only broadcasting on 5 GHz, as they are meant to be backhaul-only.
 
 We realize that the word “central” might be alarming to those familiar with mesh configuration. We anticipate this being simply the first of several node clusters constructed in the South Side and intend for it not to be the node in the South Side. We do greatly encourage South Side residents to set up their own nodes, including 5 GHz backhaul and 2.4 GHz client access, in order to expand the network backhaul throughout the area.
