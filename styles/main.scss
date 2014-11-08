@@ -75,6 +75,12 @@ div.post {
       img {
         max-width: 100%;
       }
+      &.main {
+        img {
+          max-width: 50%;
+          float: right;
+        }
+      }
     }
 }
 

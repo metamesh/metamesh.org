@@ -5,7 +5,7 @@ author: Adam Longwill
 excerpt: Thanks to the Brew House, the South Side Flats and Slopes can access PittMesh. Read on for details.
 ---
 
-{:.img.halfsize}
+{:.img.main}
 ![View of downtown Pittsburgh from the Brew House with antennae in sight](/images/posts/brew_house_backhaul_announcement/brew_house_rooftop.jpg)
 
 Ten stories above the South Side, four huge WiFi antennas are perched in their new roost.
