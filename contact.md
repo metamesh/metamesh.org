@@ -14,8 +14,7 @@ FreeNode: [irc://irc.freenode.net:6667/pittmesh](http://webchat.freenode.net/?ch
 
 ## Conduct
 
-We adhere to a [Code of Conduct](https://github.com/pittmesh/governance/blob/master/code-of-conduct.markdown)
-that governs how we interact with each other and our community.
+We adhere to a the [PittMesh Code of Conduct](https://github.com/pittmesh/governance/blob/master/code-of-conduct.markdown), which governs how we interact with each other and our community.
 
 ## Mailing list
 
@@ -59,7 +58,7 @@ Otherwise, we accept WePay and can take credit
 cards directly via Square. Contact us for more information on those and other
 donation methods, including other cryptocurrencies.
 
-Additionally, you can [donate directly to Meta Mesh agents via Gratipay](https://gratipay.com/MetaMeshLLC). Donations on Gratipay are divided among those active in our organization according to each person's activity.
+Additionally, you can [donate directly to META MESH agents via Gratipay](https://gratipay.com/MetaMeshLLC). Donations on Gratipay are divided among those active in our organization according to each person's activity.
 
 <script data-gratipay-username="MetaMeshLLC"
         src="//gttp.co/v1.js"></script>
