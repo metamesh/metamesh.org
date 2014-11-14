@@ -40,7 +40,7 @@ stylish, and use minimal electricity.  For further information, please
 [contact Meta Mesh](/contact.html).
 
 Wireless Warrington has been made possible by a generous grant from the
-[URA](http://www.ura.org) and the [Mount Washington
+[URA](http://www.ura.org) via the [Mount Washington
 CDC](http://mwcdc.org/), the local [Community Development
 Corporation](http://en.wikipedia.org/wiki/Community_development_corporation).
 Additionally, a special shout-out goes to [The Hardware
