@@ -34,6 +34,9 @@ of our community-focused message.
 <blockquote class="twitter-tweet" lang="en"><p>&quot;We want to guide you as you grow the network because we don&#39;t own the network, you do.&quot; <a href="https://twitter.com/hashtag/pittmesh?src=hash">#pittmesh</a> <a href="https://twitter.com/MetaMeshLLC">@MetaMeshLLC</a></p>&mdash; Colleen Hannagan (@MissHannagan) <a href="https://twitter.com/MissHannagan/status/533048294055108609">November 14, 2014</a></blockquote>
 <blockquote class="twitter-tweet" lang="en"><p>Had a very busy night at <a href="https://twitter.com/workhardpgh">@workhardpgh</a>, featuring <a href="https://twitter.com/billpeduto">@billpeduto</a> on our network! <a href="https://twitter.com/hashtag/wirelesswarrington?src=hash">#wirelesswarrington</a> <a href="https://twitter.com/MetaMeshLLC">@MetaMeshLLC</a> <a href="http://t.co/5kM9S1Yqwq">pic.twitter.com/5kM9S1Yqwq</a></p>&mdash; Emma (@em_zyme) <a href="https://twitter.com/em_zyme/status/533068899101995011">November 14, 2014</a></blockquote>
 
+You can these and more pictures posted on the [Meetup
+event](http://www.meetup.com/Events-at-the-Hardware-Store/photos/all_photos/?photoAlbumId=25736873 "#WirelessWarrington­ Launch Party w/Meta Mesh") photo album.
+
 We met some generous Pittsburghers who live in Allentown and want to help spread
 PittMesh throughout the neighborhood for which we received a [grant from the
 URA](/blog/2014/10/05/wireless_warrington_begins "Wireless
