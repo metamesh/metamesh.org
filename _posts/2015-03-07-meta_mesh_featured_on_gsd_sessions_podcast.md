@@ -1,7 +1,8 @@
 ---
 title: Meta Mesh featured on The GSD Sessions podcast
 layout: post
-date: 2015-02-21
+date: 2015-03-07 15:46
+
 author: Colin Dean
 ---
 
