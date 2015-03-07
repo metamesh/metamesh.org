@@ -6,8 +6,8 @@ author: Colin Dean
 ---
 
 Four members of [Meta Mesh](http://www.metamesh.org) were featured on the
-Feburary 19, 2015 episode of The GSD Sessions, talking about what a mesh 
-network is, how Pittsburgh can benefit from one, and the future of Meta Mesh 
+Feburary 19, 2015 episode of The GSD Sessions, explaining what mesh networks 
+are, how mesh networks can benefit Pittsburgh, and the future of Meta Mesh 
 as a company.
 
 Listen on
