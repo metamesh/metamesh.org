@@ -5,9 +5,10 @@ date: 2015-02-21
 author: Colin Dean
 ---
 
-Four members of [Meta Mesh](http://www.metamesh.org) were featured on The GSD
-Sessions on February 19, 2015, talking about what a mesh network is, how
-Pittsburgh can benefit from one, and the future of Meta Mesh as a company.
+Four members of [Meta Mesh](http://www.metamesh.org) were featured on the
+Feburary 19, 2015 episode of The GSD Sessions, talking about what a mesh 
+network is, how Pittsburgh can benefit from one, and the future of Meta Mesh 
+as a company.
 
 Listen on
 [Stitcher](http://www.stitcher.com/podcast/epicast-network/the-gsd-sessions/e/gsd-session-10-metamesh-37062968),
