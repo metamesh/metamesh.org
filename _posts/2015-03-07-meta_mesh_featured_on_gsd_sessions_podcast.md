@@ -7,8 +7,8 @@ author: Colin Dean
 ---
 
 Four members of [Meta Mesh](http://www.metamesh.org) were featured on the
-Feburary 19, 2015 episode of The GSD Sessions, explaining what mesh networks 
-are, how mesh networks can benefit Pittsburgh, and the future of Meta Mesh 
+Feburary 19, 2015 episode of The GSD Sessions, explaining what mesh networks
+are, how mesh networks can benefit Pittsburgh, and the future of Meta Mesh
 as a company.
 
 Listen on
@@ -27,6 +27,6 @@ minute show.
 [The GSD Sessions](http://www.stitcher.com/podcast/the-gsd-sessions) is a
 Pittsburgh-based podcast about "getting stuff done" and is hosted by
 [Josh Lucas](https://twitter.com/sixfloors) of
-[The Hardware Store](http://www.workhardpgh.org), the co-working space that
+[The Hardware Store](http://www.workhardpgh.com), the co-working space that
 Meta Mesh calls home. The podcast is recorded in The Cloakroom at The Livermore,
 a new restaurant and bar in the East Liberty neighborhood of Pittsburgh.
