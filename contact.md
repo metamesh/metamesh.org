@@ -7,6 +7,9 @@ title: META MESH | Contact
 
 Do you want to help build [PittMesh](http://www.pittmesh.net)? Let us know.
 
+If you are interested in helping with a specific seed network, please see our
+[projects](/projects.html) for contact information, or use the form below.
+
 ## IRC
 
 We maintain an [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) channel on
