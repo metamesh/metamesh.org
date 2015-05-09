@@ -20,3 +20,7 @@ Meta Mesh is not responsible for any of this material, unless noted.
  * mesh networking, but not specific to community wireless networks
     * [/r/darknetplan](https://www.reddit.com/r/darknetplan)
     * [/r/meshnet](https://www.reddit.com/r/meshnet)
+
+## White papers and other research
+
+* [The Pittsburgh WiFi Project: The Hybrid WiFi Model Framework](http://apps.pittsburghpa.gov/cis/Final_Report.pdf) by Parham, Gibbs, Sutton, Pelayo, and Nalubolu (Meta Mesh was interviewed for parts of this publication)
