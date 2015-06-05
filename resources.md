@@ -8,9 +8,11 @@ This is a list of useful information we have gathered throughout our research an
 
 Meta Mesh is not responsible for any of this material, unless noted.
 
-## Other mesh network projects
+## Active Community Wireless Network Projects
 
-* [Buffalo Mesh](http://www.buffalomesh.net/), Buffalo, New York, USA
+* [Buffalo Mesh](http://www.buffalomesh.net/)
+  * Location: Buffalo, New York
+  * Organizing Entity: BuffaloLab
 * [Red Hook WiFi](https://www.facebook.com/RHWiFi), Red Hook (Brooklyn), New York, USA
 * [MileMesh](http://www.milemesh.com/), Hoboken, New Jersy, USA
 
