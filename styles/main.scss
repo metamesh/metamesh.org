@@ -35,7 +35,8 @@ header {
       padding: 0.3em;
       margin: 0.1em auto;
       display: inline-block;
-      width:20%;
+      width: auto;
+      min-width: 15%;
       background-color: $yellow;
       border: 3px solid $black;
 
@@ -73,7 +74,7 @@ header {
       margin: 0.3em 0;
     }
     nav {
-      text-align: right;
+      width: 60%;
       margin: 0.7em 0;
       float: right;
       display: inline-block;
@@ -146,6 +147,7 @@ div.post {
     }
     nav {
       margin: 0;
+      width: 40%;
       .link {
         font-size: 0.5em;
         border-width: 1px;
