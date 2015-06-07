@@ -25,7 +25,7 @@ footer {
 
 header {
   h1 {
-    text-align:center;
+    text-align: center;
   }
   nav {
     text-align: center;
@@ -74,13 +74,15 @@ header {
       margin: 0.3em 0;
     }
     nav {
-      width: 60%;
+      width: 65%;
       margin: 0.7em 0;
       float: right;
       display: inline-block;
+      text-align: right;
 
       .link {
         width: auto;
+        text-align: center;
         a {
           font-size: 1em;
         }
