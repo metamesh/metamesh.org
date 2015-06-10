@@ -5,7 +5,7 @@ title: META MESH | Contact
 
 # Contact Us
 
-Do you want to help build [PittMesh](http://www.pittmesh.net)? Let us know.
+Do you want to help build [PittMesh](http://www.pittmesh.net)? Let us know. Want to suggest an improvement for our site? It's [open source](https://github.com/metamesh/metamesh.org/issues).
 
 If you are interested in helping with a specific seed network, please see our
 [projects](/projects.html) for contact information, or use the form below.
