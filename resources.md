@@ -91,13 +91,8 @@ https://wiki.projectmeshnet.org/List_of_Mesh_Locals#United_States
     * [Volunteers bring Open WiFi Network to Detroit - The Public i - January 2011](http://publici.ucimc.org/?p=1342)
     * [A Tech Innovation in Detroit: Connect People, Not Computers - Colorlines - 3 October 2012] (http://www.colorlines.com/articles/tech-innovation-detroit-connect-people-not-computers)
     * [Detroit is the testing ground for a new open source wireless network technology - Gigaom - 18 December 2012](https://gigaom.com/2012/12/18/detroit-is-the-testing-ground-for-a-new-open-source-wireless-network-technology/)
-    * 
 
 
-International:
-
-* [Freifunk]
-* [Guifi.net]
 
 ## Community Wireless Network online communities
 
