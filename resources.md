@@ -49,8 +49,8 @@ https://wiki.projectmeshnet.org/List_of_Mesh_Locals#United_States
    * Press:
    
 
-* [Red Hook WiFi](https://www.facebook.com/RHWiFi), Red Hook (Brooklyn), New York, USA
-  * Location: New York, New York
+* [Red Hook WiFi](http://redhookwifi.org/)
+  * Location: Brooklyn, New York
   * Organizing Entity: Red Hook Initiative
   * Firmware: Stock Ubiquiti firmware
   * Routing Protocol: None (Not a Mesh Network)
@@ -71,6 +71,28 @@ https://wiki.projectmeshnet.org/List_of_Mesh_Locals#United_States
     * [DNAinfo - Nonprofits Build Free Community Internet Network in Red Hook](http://www.dnainfo.com/new-york/20130710/red-hook/non-profits-build-free-community-internet-network-red-hook)
     * [Urban Omnibus - Local Connections: The Red Hook WiFi Project](http://urbanomnibus.net/2013/09/local-connections-the-red-hook-wifi-project/)
     * [Orion Magazine - Getting Connected](https://orionmagazine.org/article/getting-connected/))
+    * [How Mesh Networks can Bridge the Digital Divide - Next City - 23 April 2014](https://nextcity.org/daily/entry/how-mesh-networks-can-bridge-the-digital-divide)
+ 
+* [Detroit Community Technology Project](https://www.alliedmedia.org/dctp) Detroit, Michigan, USA
+  * Location: Detroit, Michigan
+  * Organizing Entity: Allied Media Project / Detroit Digital Stewards / Detroit Digital Justice Coalition
+  * Firmware: Commotion (OpenWRT derivant)
+  * Routing Protocol: OLSR
+  * Number of live nodes: 
+  * Contact Info: 
+    * Direct: [DCTP](https://www.alliedmedia.org/dctp/contact)
+    * Address: None
+    * IRC: None
+    * Mailing List: None
+    * Twitter: [@DetCommTech](https://twitter.com/DetCommTech)
+    * Facebook [Detroit Community Technology Project](https://www.facebook.com/CommunityTechnology)
+   * Press: 
+    * [Mesh Wireless Networks: A Real Detroit Future - Critical Moment - 12 April 2013](http://critical-moment.org/2013/04/12/mesh-wireless-networks-a-real-detroit-future/)
+    * [Volunteers bring Open WiFi Network to Detroit - The Public i - January 2011](http://publici.ucimc.org/?p=1342)
+    * [A Tech Innovation in Detroit: Connect People, Not Computers - Colorlines - 3 October 2012] (http://www.colorlines.com/articles/tech-innovation-detroit-connect-people-not-computers)
+    * [Detroit is the testing ground for a new open source wireless network technology - Gigaom - 18 December 2012](https://gigaom.com/2012/12/18/detroit-is-the-testing-ground-for-a-new-open-source-wireless-network-technology/)
+    * 
+
 
 International:
 
