@@ -8,9 +8,12 @@ This is a list of useful information we have gathered throughout our research an
 
 Meta Mesh is not responsible for any of this material, unless noted.
 
-## Active Community Wireless Network Projects (This is updated on a best-effort basis. Emails to organizing entities are sent out monthly requesting updates.)
+## Active Community Wireless Network Projects (No defunct or stagnated projects. This is updated on a best-effort basis. Emails to organizing entities are sent out monthly requesting updates.)
 
 United States:
+
+https://wiki.projectmeshnet.org/List_of_Mesh_Locals#United_States
+
 
 * [PittMesh](http://www.pittmesh.net)
   * Location: Pittsburgh, PA
@@ -68,10 +71,6 @@ United States:
     * [DNAinfo - Nonprofits Build Free Community Internet Network in Red Hook](http://www.dnainfo.com/new-york/20130710/red-hook/non-profits-build-free-community-internet-network-red-hook)
     * [Urban Omnibus - Local Connections: The Red Hook WiFi Project](http://urbanomnibus.net/2013/09/local-connections-the-red-hook-wifi-project/)
     * [Orion Magazine - Getting Connected](https://orionmagazine.org/article/getting-connected/))
- 
-* [MileMesh](http://www.milemesh.com/), Hoboken, New Jersy, USA
-
-* [Sudoroom](https://sudoroom.org/wiki/Mesh)
 
 International:
 
@@ -85,6 +84,25 @@ International:
     * [/r/darknetplan](https://www.reddit.com/r/darknetplan)
     * [/r/meshnet](https://www.reddit.com/r/meshnet)
 
-## White papers and other research
+## General News and Documentation
 
 * [The Pittsburgh WiFi Project: The Hybrid WiFi Model Framework](http://apps.pittsburghpa.gov/cis/Final_Report.pdf) by Parham, Gibbs, Sutton, Pelayo, and Nalubolu (Meta Mesh was interviewed for parts of this publication)
+* [The Mesh We’re In - Fast Company  - May 5, 2015](https://www.fastcompany.com/3044686/mesh-networks-and-the-local-internet-movement)
+* [How Wireless Mesh Networks Work - HowStuffWorks - 20 June 2007](http://computer.howstuffworks.com/how-wireless-mesh-networks-work.htm)
+* [Wireless carriers testing technology that would share your strong signal with others - Techspot](http://www.techspot.com/news/58761-wireless-share-strong-signal.html)
+* [The Rise of the Digital Walled Gardens - Slate - 12 May 2015](http://www.slate.com/articles/technology/future_tense/2015/05/micronetworks_mesh_networks_walled_gardens_are_the_internet_s_future.html)
+* [The Pentagon Wants to Turn our Phones into a Giant Mesh Network - Gizmodo - 8 May 2015](http://www.gizmodo.in/news/The-Pentagon-Wants-to-Turn-Our-Phones-Into-a-Giant-Mesh-Network/articleshow/47206609.cms)
+* [Securing Wireless Mesh Networks of the Future - The Charger Times - 21 April 2015](http://www.chargertimes.com/2084/science-and-technology/securing-wireless-mesh-networks-of-the-future/)
+* [Our Routers, Ourselves - Mesh Networking in the Wake of Political Internet Shutdowns - The New Yorker - 30 March 2014](http://www.newyorker.com/tech/elements/our-routers-ourselves)
+* [It’s Time to Take Mesh Networks Seriously (and not just for the reasons you think) - Wired - 2 January 2014 ](http://www.wired.com/2014/01/its-time-to-take-mesh-networks-seriously-and-not-just-for-the-reasons-you-think/)
+* [Your Survival Guide for an Internet Blackout - The Verge - 10 June 2014](http://www.theverge.com/2014/6/10/5794406/what-do-you-do-when-the-internet-turns-off)
+* [How to Survive an Internet Apocalypse - The New Yorker - 11 April 2014](http://www.newyorker.com/tech/elements/how-to-survive-an-internet-apocalypse)
+
+Tools and Technology:
+* [Project Byzantium](http://project-byzantium.org/)
+* [Commotion Wireless](https://commotionwireless.net/)
+* [OpenWRT](https://openwrt.org/)
+* [OLSR routing protocol](http://www.olsr.org/mediawiki/index.php/Main_Page)
+* [BABEL routing protocol](http://www.pps.univ-paris-diderot.fr/~jch/software/babel/)
+* [BATMAN routing Protocol and Open-MESH](http://www.open-mesh.org/projects/open-mesh/wiki)
+*[TFTP2 Client for Windows](http://www.shadowsoftware.net/shadowgameworld/downloads/tftp2.exe)
