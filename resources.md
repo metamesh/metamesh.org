@@ -99,10 +99,10 @@ International:
 * [How to Survive an Internet Apocalypse - The New Yorker - 11 April 2014](http://www.newyorker.com/tech/elements/how-to-survive-an-internet-apocalypse)
 
 Tools and Technology:
-* [Project Byzantium](http://project-byzantium.org/)
-* [Commotion Wireless](https://commotionwireless.net/)
-* [OpenWRT](https://openwrt.org/)
-* [OLSR routing protocol](http://www.olsr.org/mediawiki/index.php/Main_Page)
-* [BABEL routing protocol](http://www.pps.univ-paris-diderot.fr/~jch/software/babel/)
-* [BATMAN routing Protocol and Open-MESH](http://www.open-mesh.org/projects/open-mesh/wiki)
-*[TFTP2 Client for Windows](http://www.shadowsoftware.net/shadowgameworld/downloads/tftp2.exe)
+* [Project Byzantium](http://project-byzantium.org/) - Linux distro that turns PC's into wireless routers
+* [Commotion Wireless](https://commotionwireless.net/) - OTI's fork of OpenWRT in active development
+* [OpenWRT](https://openwrt.org/) - The standard for open-source router technology
+* [OLSR routing protocol](http://www.olsr.org/mediawiki/index.php/Main_Page) - Old and well-documented routing protocol
+* [BABEL routing protocol](http://www.pps.univ-paris-diderot.fr/~jch/software/babel/) - Layer 2 routing protocol
+* [BATMAN routing Protocol and Open-MESH](http://www.open-mesh.org/projects/open-mesh/wiki) - Developed by Freifunk to replace OLSR
+* [TFTP2 Client for Windows](http://www.shadowsoftware.net/shadowgameworld/downloads/tftp2.exe) - Windows-based TFTP tool. Very simple and effective
