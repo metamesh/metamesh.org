@@ -22,7 +22,7 @@ United States:
   * Contact Info
     * Info@MetaMesh.org
     * [744 East Warrington Avenue, Pittsburgh, PA 15210](https://goo.gl/maps/2FsYl)
-    * IRC: PittMesh@freenode.net
+    * IRC: #pittmesh on Freenode
     * Mailing List: [metamesh.org/contact.html](http://www.metamesh.org/contact.html)
     * Twitter: [@MetaMeshLLC](https://twitter.com/metameshllc)
     * Facebook: [https://www.facebook.com/pittmesh](https://www.facebook.com/pittmesh)
@@ -40,7 +40,7 @@ United States:
   * Contact Info:
     * Direct: http://www.buffalomesh.net/contact-us
     * Address: [298 Northampton St, Buffalo NY 14208](https://goo.gl/maps/dP6bB)
-    * IRC: BuffaloMesh.net@freenode.net
+    * IRC: #buffalomesh.net on freenode
     * Mailing List: [https://groups.google.com/forum/#!forum/discuss-buffalomeshnet](https://groups.google.com/forum/#!forum/discuss-buffalomeshnet)
     * Twitter: [@BuffaloMeshNet](https://twitter.com/Buffalomeshnet)
     * Facebook: [https://www.facebook.com/Buffalomesh.net](https://www.facebook.com/Buffalomesh.net)
@@ -87,7 +87,7 @@ United States:
    * Press: 
     * [Mesh Wireless Networks: A Real Detroit Future - Critical Moment - 12 April 2013](http://critical-moment.org/2013/04/12/mesh-wireless-networks-a-real-detroit-future/)
     * [Volunteers bring Open WiFi Network to Detroit - The Public i - January 2011](http://publici.ucimc.org/?p=1342)
-    * [A Tech Innovation in Detroit: Connect People, Not Computers - Colorlines - 3 October 2012] (http://www.colorlines.com/articles/tech-innovation-detroit-connect-people-not-computers)
+    * [A Tech Innovation in Detroit: Connect People, Not Computers - Colorlines - 3 October 2012](http://www.colorlines.com/articles/tech-innovation-detroit-connect-people-not-computers)
     * [Detroit is the testing ground for a new open source wireless network technology - Gigaom - 18 December 2012](https://gigaom.com/2012/12/18/detroit-is-the-testing-ground-for-a-new-open-source-wireless-network-technology/)
 
 
@@ -113,7 +113,7 @@ United States:
 * [Your Survival Guide for an Internet Blackout - The Verge - 10 June 2014](http://www.theverge.com/2014/6/10/5794406/what-do-you-do-when-the-internet-turns-off)
 * [How to Survive an Internet Apocalypse - The New Yorker - 11 April 2014](http://www.newyorker.com/tech/elements/how-to-survive-an-internet-apocalypse)
 
-Tools and Technology:
+## Tools and Technology:
 * [Project Byzantium](http://project-byzantium.org/) - Linux distro that turns PC's into wireless routers
 * [Commotion Wireless](https://commotionwireless.net/) - OTI's fork of OpenWRT in active development
 * [OpenWRT](https://openwrt.org/) - The standard for open-source router technology
