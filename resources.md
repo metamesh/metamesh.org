@@ -8,7 +8,8 @@ This is a list of useful information we have gathered throughout our research an
 
 Meta Mesh is not responsible for any of this material, unless noted.
 
-## Active Community Wireless Network Projects (No defunct or stagnated projects. This is updated on a best-effort basis. Emails to organizing entities are sent out monthly requesting updates.)
+## Active Community Wireless Network Projects 
+(No defunct or stagnated projects. This is updated on a best-effort basis. Emails to organizing entities are sent out monthly requesting updates.)
 
 United States:
 
