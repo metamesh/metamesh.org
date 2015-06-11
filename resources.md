@@ -12,9 +12,6 @@ Meta Mesh is not responsible for any of this material, unless noted.
 
 United States:
 
-https://wiki.projectmeshnet.org/List_of_Mesh_Locals#United_States
-
-
 * [PittMesh](http://www.pittmesh.net)
   * Location: Pittsburgh, PA
   * Organizing Entity: Meta Mesh llc
