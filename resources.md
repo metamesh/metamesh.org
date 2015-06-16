@@ -27,7 +27,7 @@ United States:
     * Twitter: [@MetaMeshLLC](https://twitter.com/metameshllc)
     * Facebook: [https://www.facebook.com/pittmesh](https://www.facebook.com/pittmesh)
     * Facebook: [https://www.facebook.com/MetaMesh](https://www.facebook.com/metamesh)
-   * Press:
+  * Press:
     * [Pittsburgh Post-Gazette - Pittsburgh's Allentown gets free wireless Internet](http://www.post-gazette.com/local/city/2014/11/14/Pittsburgh-s-Allentown-gets-free-wireless-Internet/stories/201411130171)
     * [South Pittsburgh Reporter - Free wireless Internet is online on Warrington Ave.](http://www.sopghreporter.com/story/2014/12/02/front-page/free-wireless-internet-is-online-on-warrington-ave/15061.html)
 
@@ -44,7 +44,7 @@ United States:
     * Mailing List: [https://groups.google.com/forum/#!forum/discuss-buffalomeshnet](https://groups.google.com/forum/#!forum/discuss-buffalomeshnet)
     * Twitter: [@BuffaloMeshNet](https://twitter.com/Buffalomeshnet)
     * Facebook: [https://www.facebook.com/Buffalomesh.net](https://www.facebook.com/Buffalomesh.net)
-   * Press:
+  * Press:
 
 
 * [Red Hook WiFi](http://redhookwifi.org/)
@@ -60,7 +60,7 @@ United States:
     * Mailing List:
     * Twitter: [@RedHookWiFi](https://twitter.com/RedHookWiFi)
     * Facebook [Red Hook WiFi](https://www.facebook.com/RHWiFi)
-   * Press:
+  * Press:
     * [New York Times - Red Hook's Cutting-Edge Wireless Network](http://www.nytimes.com/2014/08/24/nyregion/red-hooks-cutting-edge-wireless-network.html)
     * [The Nation - To Help Connect the Two New Yorks, Bill de Blasio Should Build More Community Broadband](http://www.thenation.com/article/177839/mayor-de-blasio-should-build-more-community-broadband#)
     * [Color Lines - A Tech Innovation in Red Hook's Housing Projects](http://www.colorlines.com/articles/tech-innovation-red-hooks-housing-projects)
@@ -84,7 +84,7 @@ United States:
     * Mailing List: None
     * Twitter: [@DetCommTech](https://twitter.com/DetCommTech)
     * Facebook [Detroit Community Technology Project](https://www.facebook.com/CommunityTechnology)
-   * Press:
+  * Press:
     * [Mesh Wireless Networks: A Real Detroit Future - Critical Moment - 12 April 2013](http://critical-moment.org/2013/04/12/mesh-wireless-networks-a-real-detroit-future/)
     * [Volunteers bring Open WiFi Network to Detroit - The Public i - January 2011](http://publici.ucimc.org/?p=1342)
     * [A Tech Innovation in Detroit: Connect People, Not Computers - Colorlines - 3 October 2012](http://www.colorlines.com/articles/tech-innovation-detroit-connect-people-not-computers)
@@ -95,9 +95,9 @@ United States:
 ## Community Wireless Network online communities
 
 * reddit
- * mesh networking, but not specific to community wireless networks
-    * [/r/darknetplan](https://www.reddit.com/r/darknetplan)
-    * [/r/meshnet](https://www.reddit.com/r/meshnet)
+   * mesh networking, but not specific to community wireless networks
+      * [/r/darknetplan](https://www.reddit.com/r/darknetplan)
+      * [/r/meshnet](https://www.reddit.com/r/meshnet)
 
 ## General News and Documentation
 
