@@ -113,7 +113,8 @@ United States:
 * [Your Survival Guide for an Internet Blackout - The Verge - 10 June 2014](http://www.theverge.com/2014/6/10/5794406/what-do-you-do-when-the-internet-turns-off)
 * [How to Survive an Internet Apocalypse - The New Yorker - 11 April 2014](http://www.newyorker.com/tech/elements/how-to-survive-an-internet-apocalypse)
 
-Tools and Technology:
+## Tools and Technology:
+
 * [Project Byzantium](http://project-byzantium.org/) - Linux distro that turns PC's into wireless routers
 * [Commotion Wireless](https://commotionwireless.net/) - OTI's fork of OpenWRT in active development
 * [OpenWRT](https://openwrt.org/) - The standard for open-source router technology
