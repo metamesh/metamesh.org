@@ -9,18 +9,19 @@ This is a list of useful information we have gathered throughout our research an
 Meta Mesh is not responsible for any of this material, unless noted.
 
 ## Active Community Wireless Network Projects
-(No defunct or stagnated projects. This is updated on a best-effort basis. Emails to organizing entities are sent out monthly requesting updates.)
+
+This is updated on a best-effort basis. We do not list defunct or stagnated projects. Emails to organizing entities are sent out monthly requesting updates.
 
 United States:
 
 * [PittMesh](http://www.pittmesh.net)
   * Location: Pittsburgh, PA
-  * Organizing Entity: Meta Mesh llc
-  * Firmware: Commotion (OpenWRT derivant)
-  * Routing Protocol: OLSR
+  * Organizing Entity: [Meta Mesh, LLC](http://www.metamesh.org)
+  * Firmware: Commotion (OpenWRT derivative)
+  * Routing Protocol: <abbr title="Optimized Link State Routing protocol">OLSR</abbr>
   * Number of live nodes: 13
   * Contact Info
-    * Info@MetaMesh.org
+    * [info@metamesh.org](mailto:Info@MetaMesh.org)
     * [744 East Warrington Avenue, Pittsburgh, PA 15210](https://goo.gl/maps/2FsYl)
     * IRC: PittMesh@freenode.net
     * Mailing List: [metamesh.org/contact.html](http://www.metamesh.org/contact.html)
@@ -89,8 +90,6 @@ United States:
     * [Volunteers bring Open WiFi Network to Detroit - The Public i - January 2011](http://publici.ucimc.org/?p=1342)
     * [A Tech Innovation in Detroit: Connect People, Not Computers - Colorlines - 3 October 2012](http://www.colorlines.com/articles/tech-innovation-detroit-connect-people-not-computers)
     * [Detroit is the testing ground for a new open source wireless network technology - Gigaom - 18 December 2012](https://gigaom.com/2012/12/18/detroit-is-the-testing-ground-for-a-new-open-source-wireless-network-technology/)
-
-
 
 ## Community Wireless Network online communities
 
