@@ -12,7 +12,7 @@ Meta Mesh is not responsible for any of this material, unless noted.
 
 This is updated on a best-effort basis. We do not list defunct or stagnated projects. Emails to organizing entities are sent out monthly requesting updates.
 
-United States:
+### United States
 
 * [PittMesh](http://www.pittmesh.net)
   * Location: Pittsburgh, PA
@@ -21,46 +21,45 @@ United States:
   * Routing Protocol: <abbr title="Optimized Link State Routing protocol">OLSR</abbr>
   * Number of live nodes: 13
   * Contact Info
-    * [info@metamesh.org](mailto:Info@MetaMesh.org)
+    * <info@metamesh.org>
     * [744 East Warrington Avenue, Pittsburgh, PA 15210](https://goo.gl/maps/2FsYl)
-    * IRC: PittMesh@freenode.net
-    * Mailing List: [metamesh.org/contact.html](http://www.metamesh.org/contact.html)
+    * IRC: [#PittMesh on chat.freenode.net](irc://chat.freenode.net:6667/pittmesh)
+    * Mailing List: [here](http://www.metamesh.org/contact.html)
     * Twitter: [@MetaMeshLLC](https://twitter.com/metameshllc)
-    * Facebook: [https://www.facebook.com/pittmesh](https://www.facebook.com/pittmesh)
-    * Facebook: [https://www.facebook.com/MetaMesh](https://www.facebook.com/metamesh)
+    * Facebook: [pittmesh](https://www.facebook.com/pittmesh)
+    * Facebook: [MetaMesh](https://www.facebook.com/metamesh)
   * Press:
     * [Pittsburgh Post-Gazette - Pittsburgh's Allentown gets free wireless Internet](http://www.post-gazette.com/local/city/2014/11/14/Pittsburgh-s-Allentown-gets-free-wireless-Internet/stories/201411130171)
     * [South Pittsburgh Reporter - Free wireless Internet is online on Warrington Ave.](http://www.sopghreporter.com/story/2014/12/02/front-page/free-wireless-internet-is-online-on-warrington-ave/15061.html)
 
 * [Buffalo Mesh](http://www.buffalomesh.net/)
   * Location: Buffalo, New York
-  * Organizing Entity: BuffaloLab
-  * Firmware: Commotion (OpenWRT derivant)
-  * Routing Protocol: OLSR
+  * Organizing Entity: [BuffaloLab](http://buffalolab.org)
+  * Firmware: Commotion (OpenWRT derivative)
+  * Routing Protocol: <abbr title="Optimized Link State Routing protocol">OLSR</abbr>
   * Number of live nodes: 8
   * Contact Info:
-    * Direct: http://www.buffalomesh.net/contact-us
+    * Direct: [Contact Buffalo Mesh](http://www.buffalomesh.net/contact-us)
     * Address: [298 Northampton St, Buffalo NY 14208](https://goo.gl/maps/dP6bB)
-    * IRC: BuffaloMesh.net@freenode.net
-    * Mailing List: [https://groups.google.com/forum/#!forum/discuss-buffalomeshnet](https://groups.google.com/forum/#!forum/discuss-buffalomeshnet)
+    * IRC: [#BuffaloMesh.net on chat.freenode.net](irc://chat.freenode.net:6667/BuffaloMesh.net)
+    * Mailing List: [discuss-buffalomeshnet](https://groups.google.com/forum/#!forum/discuss-buffalomeshnet)
     * Twitter: [@BuffaloMeshNet](https://twitter.com/Buffalomeshnet)
-    * Facebook: [https://www.facebook.com/Buffalomesh.net](https://www.facebook.com/Buffalomesh.net)
+    * Facebook: [Buffalomesh.net](https://www.facebook.com/Buffalomesh.net)
   * Press:
-
 
 * [Red Hook WiFi](http://redhookwifi.org/)
   * Location: Brooklyn, New York
-  * Organizing Entity: Red Hook Initiative
+  * Organizing Entity: [Red Hook Initiative](http://rhicenter.org/)
   * Firmware: Stock Ubiquiti firmware
   * Routing Protocol: None (Not a Mesh Network)
   * Number of live nodes: 12
   * Contact Info:
-    * Direct: info@rhicenter.org
-    * Address: 767 Hicks Street, Brooklyn, NY 11231
+    * Direct: <info@rhicenter.org>
+    * Address: [767 Hicks Street, Brooklyn, NY 11231](https://goo.gl/ru8rry)
     * IRC: None
-    * Mailing List:
+    * Mailing List: None
     * Twitter: [@RedHookWiFi](https://twitter.com/RedHookWiFi)
-    * Facebook [Red Hook WiFi](https://www.facebook.com/RHWiFi)
+    * Facebook [RHWiFi](https://www.facebook.com/RHWiFi)
   * Press:
     * [New York Times - Red Hook's Cutting-Edge Wireless Network](http://www.nytimes.com/2014/08/24/nyregion/red-hooks-cutting-edge-wireless-network.html)
     * [The Nation - To Help Connect the Two New Yorks, Bill de Blasio Should Build More Community Broadband](http://www.thenation.com/article/177839/mayor-de-blasio-should-build-more-community-broadband#)
@@ -72,19 +71,19 @@ United States:
     * [Orion Magazine - Getting Connected](https://orionmagazine.org/article/getting-connected/))
     * [How Mesh Networks can Bridge the Digital Divide - Next City - 23 April 2014](https://nextcity.org/daily/entry/how-mesh-networks-can-bridge-the-digital-divide)
 
-* [Detroit Community Technology Project](https://www.alliedmedia.org/dctp) Detroit, Michigan, USA
+* [Detroit Community Technology Project](https://www.alliedmedia.org/dctp)
   * Location: Detroit, Michigan
-  * Organizing Entity: Allied Media Project / Detroit Digital Stewards / Detroit Digital Justice Coalition
-  * Firmware: Commotion (OpenWRT derivant)
-  * Routing Protocol: OLSR
-  * Number of live nodes:
+  * Organizing Entity: [Allied Media Project](https://www.alliedmedia.org/) / [Detroit Digital Stewards](http://detroitdigitalstewards.tumblr.com/) / [Detroit Digital Justice Coalition](http://detroitdjc.org/)
+  * Firmware: Commotion (OpenWRT derivative)
+  * Routing Protocol: <abbr title="Optimized Link State Routing protocol">OLSR</abbr>
+  * Number of live nodes: ?
   * Contact Info:
     * Direct: [DCTP](https://www.alliedmedia.org/dctp/contact)
     * Address: None
     * IRC: None
     * Mailing List: None
     * Twitter: [@DetCommTech](https://twitter.com/DetCommTech)
-    * Facebook [Detroit Community Technology Project](https://www.facebook.com/CommunityTechnology)
+    * Facebook: [Detroit Community Technology Project](https://www.facebook.com/CommunityTechnology)
   * Press:
     * [Mesh Wireless Networks: A Real Detroit Future - Critical Moment - 12 April 2013](http://critical-moment.org/2013/04/12/mesh-wireless-networks-a-real-detroit-future/)
     * [Volunteers bring Open WiFi Network to Detroit - The Public i - January 2011](http://publici.ucimc.org/?p=1342)
