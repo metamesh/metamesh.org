@@ -120,5 +120,5 @@ United States:
 * [OpenWRT](https://openwrt.org/) - The standard for open-source router technology
 * [OLSR routing protocol](http://www.olsr.org/mediawiki/index.php/Main_Page) - Old and well-documented routing protocol
 * [BABEL routing protocol](http://www.pps.univ-paris-diderot.fr/~jch/software/babel/) - Layer 2 routing protocol
-* [BATMAN routing Protocol and Open-MESH](http://www.open-mesh.org/projects/open-mesh/wiki) - Developed by Freifunk to replace OLSR
+* [BATMAN routing Protocol and Open-MESH](http://www.open-mesh.org/projects/open-mesh/wiki) - Developed by [Freifunk](http://freifunk.net/) to replace OLSR
 * [TFTP2 Client for Windows](http://www.shadowsoftware.net/shadowgameworld/downloads/tftp2.exe) - Windows-based TFTP tool. Very simple and effective
