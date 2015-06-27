@@ -57,14 +57,24 @@ Our preferred donation method is Bitcoin. Our anonymous donation address is
 but consider sending us a message so that we can credit you somehow for your
 generousity. We also accept [Dogecoin](dogecoin:DMMx3mSt5swBqQZEwtw3haYmMoLwmSP3zj){:.coin}
 and [Litecoin](litecoin:LMMQQNHT172pK6Ys9u64fFbodHtHGWJHBX){:.coin}.
-Otherwise, we accept WePay and can take credit
-cards directly via Square. Contact us for more information on those and other
-donation methods, including other cryptocurrencies.
+
+We also [accept Bitcoin tips via ChangeTip](http://metamesh.tip.me).
+If you have it associated with your Twitter account already, you can simply
+<a href="{% tweet_link Hey @MetaMeshLLC! Please accept 100 mBTC via @ChangeTip to help bring easy wireless community networks to the world%%pittmesh %}" target="_blank">tweet something</a>
+like "@MetaMeshLLC Please accept 100 mBTC via @ChangeTip to help bring easy wireless community networks to the world"
+
+
+
+
+{% convert_include widget_changetip.haml %}
 
 Additionally, you can [donate directly to META MESH agents via Gratipay](https://gratipay.com/MetaMeshLLC). Donations on Gratipay are divided among those active in our organization according to each person's activity.
 
-<script data-gratipay-username="MetaMeshLLC"
-        src="//gttp.co/v1.js"></script>
+{% convert_include widget_gratipay.haml %}
+
+Otherwise, we accept WePay and can take credit
+cards directly via Square. Contact us for more information on those and other
+donation methods, including other cryptocurrencies.
 
 META MESH is a for-profit, but bootstrapped company the beneficial community
 focus of which may lead the average person to believe that it is a non-profit.
