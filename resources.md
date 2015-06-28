@@ -29,7 +29,10 @@ This is updated on a best-effort basis. We do not list defunct or stagnated proj
     * Facebook: [pittmesh](https://www.facebook.com/pittmesh)
     * Facebook: [MetaMesh](https://www.facebook.com/metamesh)
   * Press:
-    * [Pittsburgh Post-Gazette - Pittsburgh's Allentown gets free wireless Internet](http://www.post-gazette.com/local/city/2014/11/14/Pittsburgh-s-Allentown-gets-free-wireless-Internet/stories/201411130171)
+    * [Allentown firm aims to rethink, rewire Internet access in Pittsburgh region - Pittsburgh Post-Gazette - 26 June, 2015](http://www.post-gazette.com/business/tech-news/2015/06/26/Allentown-firm-aims-to-rethink-rewire-Internet-access-in-region/stories/201506260151) 
+    * [Meta Mesh wants to get mesh network Wi-Fi to neighborhoods throughout Pittsburgh - NEXTPittsburgh - 22 June, 2015](http://www.nextpittsburgh.com/business-tech-news/meta-mesh-wants-to-get-mesh-network-wi-fi-to-neighborhoods-throughout-pittsburgh/)
+    * [Pittsburgh's Allentown gets free wireless Internet- Pittsburgh Post-Gazette - 14 November, 2014](http://www.post-gazette.com/local/city/2014/11/14/Pittsburgh-s-Allentown-gets-free-wireless-Internet/stories/201411130171)
+    * [Project Spotlight: Episode 1: Meta Mesh - Imagine Careers - 16 May, 2015](https://imaginecareers.wordpress.com/2015/05/16/project-spotlight-episode-1-meta-mesh/)
     * [South Pittsburgh Reporter - Free wireless Internet is online on Warrington Ave.](http://www.sopghreporter.com/story/2014/12/02/front-page/free-wireless-internet-is-online-on-warrington-ave/15061.html)
 
 * [Buffalo Mesh](http://www.buffalomesh.net/)
