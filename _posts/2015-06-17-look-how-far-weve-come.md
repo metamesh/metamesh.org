@@ -19,7 +19,7 @@ We raided the vaults and put togethere a short collection of some... interesting
 {:.img}
 [Bad Omni](http://i.imgur.com/mxWoQUF.jpg)
 So when we first started out, we were using WRT54G's-- admittedly workhorses of the 802.11g era, but our solution to "waterproof" them was to
-buy some cheap tupperware from Dollar General and use a lot of hot glue. As for the antennas, those are strips of 14 gauge electrical 
+buy some cheap tupperware from Dollar General and use a lot of hot glue. As for the antennas, those are strips of 14 gauge electrical
 wire that we had laying around that we, very carefully, slathered in hot glue to the tiny stock antennas that are inside the rubber ducky
 antennas that come with the 54G's. I think we were too ashamed to actually use them for anything- and those antennas
 did not improve the signal strength.
@@ -46,9 +46,9 @@ have looked like a crazy person.
 {:.img}
 [Good Sector](http://i.imgur.com/0cqzWvp.jpg)
 These are Ubiquiti branded 90 degree 5GHz sector antennas purchased by one of our coolest (and smartest, nicest, and prettiest)
-Meta Mesh team members. Originally, they were on the Brew House in the South Side but due to renovations starting in summer 2015 we 
-had to move them. Thanks to StartUptown and the Paramount for hosting 2 each. These antennas have a very thin horizontal beamwidth 
-so we had to aim them just right to cover the South Side in the PittMesh_Backhaul ad-hoc network. One of these days we'll do some 
+Meta Mesh team members. Originally, they were on the Brew House in the South Side but due to renovations starting in summer 2015 we
+had to move them. Thanks to StartUptown and the Paramount for hosting 2 each. These antennas have a very thin horizontal beamwidth
+so we had to aim them just right to cover the South Side in the PittMesh_Backhaul ad-hoc network. One of these days we'll do some
 wardriving in the so-called "WiFi Wagon" and publish a coverage map. These four sector antennas (only 2 picutred) cover a lot of
 the South Side and the Slopes-- even more than the Brew House location did.
 
@@ -61,8 +61,8 @@ technically it can work as long as your antennas are at the feed horn, it's just
 [Good Dish](http://i.imgur.com/AD5vGCH.jpg)
 Here's an iteration of the parabolic dish design that DID work and worked REALLY well. That's a wok lid (thanks Jared, I stole that, sorry)
 with a cheap 2.4GHz yagi antenna from China that cost $2.95 and took 6 weeks to be delivered. It's pretty sweet though and you can get
-some SERIOUS range on that. In fact, using just the wok lid and a USB WiFi dongle, I was able to get onto the Schenley Plaza WiFi network 
-from the top of the Cathedral of Learning. Don't knock the wok. 
+some SERIOUS range on that. In fact, using just the wok lid and a USB WiFi dongle, I was able to get onto the Schenley Plaza WiFi network
+from the top of the Cathedral of Learning. Don't knock the wok.
 
 {:.img}
 [b b b b b bad](http://i.imgur.com/6y7UU70.jpg)
@@ -77,19 +77,19 @@ This link is about a mile and it allowed us to connect our Allentown nodes with 
 {:.img}
 [Old Workshop](http://i.imgur.com/Rhh12oA.jpg)
 It's amazing what you can accomplish with a hacksaw, some duct tape, a pair of vice grips, and some hot glue. This is what
-sufficed as a basement workshop for me in 2011 and 2012. Money was scarce and lampshades were scarcer. This is where I built some wireless 
+sufficed as a basement workshop for me in 2011 and 2012. Money was scarce and lampshades were scarcer. This is where I built some wireless
 Frankenstein monsters. Experimentation is a stop on the road to success.
 
 {:.img}
 [New Workshop](http://i.imgur.com/pg3N2sW.png)
-Ok, I know what you're thinking. Yes, we're still in a basement. But this one has a couch in the bottom right, a build station with 
-some Sprite on it in the bottom left, a ton of storage in the back left, a server cabinet with white board panels on the right and 
-a peg board with an entire test network of Ubiquiti and TP-Link gear with serial cables running out of them on the far right. 
-We spend way too much time down here, but we've been able to thrive because of the support of the Hardware Store and espcially 
+Ok, I know what you're thinking. Yes, we're still in a basement. But this one has a couch in the bottom right, a build station with
+some Sprite on it in the bottom left, a ton of storage in the back left, a server cabinet with white board panels on the right and
+a peg board with an entire test network of Ubiquiti and TP-Link gear with serial cables running out of them on the far right.
+We spend way too much time down here, but we've been able to thrive because of the support of the Hardware Store and espcially
 Josh Lucas. In a few weeks we'll actually be renovating the Hardware Store's network and building a dedicated server room with air-conditioning
 and Proliant servers for hosting some future projects and anyone who needs storage in the Hardware Store's coworking space.
 
-We've come a long way. From hot glue and aluminum to multi-mile WiFi links across the Mon, Meta Mesh has grown and will continue to 
+We've come a long way. From hot glue and aluminum to multi-mile WiFi links across the Mon, Meta Mesh has grown and will continue to
 grow. In the coming months we hope to lock down a few grants for interested communities and build out wireless infrastructure that connects
 residents not only to the Internet but to each other.
 
