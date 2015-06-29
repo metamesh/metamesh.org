@@ -7,14 +7,7 @@ author: Adam Longwill
 ---
 
 
-We're about to be doing some really big things in the next few weeks. So we decided it would be a cool idea to look back at some
-
-of the bad old days when we had very little money and even less knowledge of WiFi. And boy does it show! But instead of just
-
-laughing at our noobishness, we thought it would be neat to see a contrast in the way we did things then and the way we do things now.
-
-We raided the vaults and put togethere a short collection of some... interesting attempts at making do with what we had at the time.
-
+We're about to be doing some really big things in the next few weeks. So we decided it would be a cool idea to look back at some of the bad old days when we had very little money and even less knowledge of WiFi. And boy does it show! But instead of just laughing at our noobishness, we thought it would be neat to see a contrast in the way we did things then and the way we do things now. We raided the vaults and put togethere a short collection of some... interesting attempts at making do with what we had at the time.
 
 {:.img}
 ![Bad Omni](http://i.imgur.com/mxWoQUF.jpg)
@@ -25,6 +18,7 @@ wire that we had laying around that we, very carefully, slathered in hot glue to
 antennas that come with the 54G's. I think we were too ashamed to actually use them for anything- and those antennas
 did not improve the signal strength.
 
+
 {:.img}
 ![Good Omni](http://i.imgur.com/B7b17dH.jpg)
 
@@ -34,11 +28,13 @@ M5 on 5GHz and the larger is the Rocket M2 on the 2.4GHz band. These antennas fl
 coverage is maximized along East Warrington Avenue. This node can be used up to 3 blocks away although we tell people the expected
 range should be about 2 blocks. This node meshes with 8 other nodes in Allentown, most paid for by the URA. Thanks URA!
 
+
 {:.img}
 ![Bad sector exhibit A](http://i.imgur.com/RTP7UUa.jpg)
 
 Yeesh. So I had the wise idea to get some 8 inch duct and shove a WRT54G in there. Obviously, I pointed the antennas down the shafts.
 Spoilers: this doesn't work.
+
 
 {:.img}
 ![Bad Sector exhibit B](http://i.imgur.com/2Co8Sia.jpg)
@@ -46,6 +42,7 @@ Spoilers: this doesn't work.
 It also looked really dumb. And yes, I did drag this out into a ballfield in Hazelwood and plugged it into a UPS and tested the signal
 strength. I placed it on a folding chair, was disappointed that the signal strength was no better than stock antennas, and must
 have looked like a crazy person.
+
 
 {:.img}
 ![Good Sector](http://i.imgur.com/0cqzWvp.jpg)
@@ -57,11 +54,13 @@ so we had to aim them just right to cover the South Side in the PittMesh_Backhau
 wardriving in the so-called "WiFi Wagon" and publish a coverage map. These four sector antennas (only 2 picutred) cover a lot of
 the South Side and the Slopes-- even more than the Brew House location did.
 
+
 {:.img}
 ![Lazy Dish](http://i.imgur.com/sBZ8v9a.jpg)
 
 Ok, to be fair, this was a proof of concept. I duct taped an 802.11n router in a WRT54G case to a satellite dish. I mean,
 technically it can work as long as your antennas are at the feed horn, it's just ugly as sin.
+
 
 {:.img}
 ![Good Dish](http://i.imgur.com/AD5vGCH.jpg)
@@ -71,10 +70,12 @@ with a cheap 2.4GHz yagi antenna from China that cost $2.95 and took 6 weeks to 
 some SERIOUS range on that. In fact, using just the wok lid and a USB WiFi dongle, I was able to get onto the Schenley Plaza WiFi network
 from the top of the Cathedral of Learning. Don't knock the wok.
 
+
 {:.img}
 ![b b b b b bad](http://i.imgur.com/6y7UU70.jpg)
 
 That thing was bad to the bone.
+
 
 {:.img}
 ![Great Dish](http://i.imgur.com/uZs8wlA.jpg)
@@ -83,12 +84,14 @@ This was taken on top of the Caliguiri building in Allentown. We happened to hav
 before the renovation and the Housing Authority of the City Pittsburgh was kind enough to let us use an existing gravity mount up there.
 This link is about a mile and it allowed us to connect our Allentown nodes with the rest of the network. Thanks HACP.
 
+
 {:.img}
 ![Old Workshop](http://i.imgur.com/Rhh12oA.jpg)
 
 It's amazing what you can accomplish with a hacksaw, some duct tape, a pair of vice grips, and some hot glue. This is what
 sufficed as a basement workshop for me in 2011 and 2012. Money was scarce and lampshades were scarcer. This is where I built some wireless
 Frankenstein monsters. Experimentation is a stop on the road to success.
+
 
 {:.img}
 ![New Workshop](http://i.imgur.com/pg3N2sW.png)
