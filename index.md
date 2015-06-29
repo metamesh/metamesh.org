@@ -1,6 +1,6 @@
 ---
 layout: front
-title: META MESH | Building the next Internet
+title: META MESH | Wireless Networking for All
 ---
 # META MESH empowers people to build Community Wireless Networks
 
