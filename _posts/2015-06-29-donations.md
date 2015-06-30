@@ -11,11 +11,10 @@ author: Adam Longwill
 If you're like us, you probably have some old computer equipment collecting cobwebs in your basement. Technology "graveyards"
 are a surefire symptom of being chronically sick with IT-itis, which is, of course, incurable.
 
-Fortunately Meta Mesh is anouncing the implementation of a donation program that will allow you to donate your old wireless
-radios, routers, antennas, cables, and tools to Meta Mesh so that they can be given for FREE to node hosts on PittMesh. Even
+Fortunately Meta Mesh is anouncing a donation program that will allow you to donate your old wireless
+radios, routers, antennas, cables, and tools to Meta Mesh so that they can be given away for FREE to node hosts on PittMesh. Even
 though Meta Mesh's equipment is relatively inexpensive compared to many other wireless solutions, the cost to buy, configure, 
-and mount the equipment can still be prohibitive. We already are teaching classes on how to build wireless antennas for under $50,
-why not take up a collection and reuse old wireless equipment that is compatible with our routers?
+and mount the equipment can still be prohibitive. Why not take up a collection and reuse old wireless equipment that is compatible with our routers?
 
 Here's a few details:
     * Meta Mesh is not a 501c3 organization and therefore, your donations are NOT tax deductible.
@@ -36,6 +35,7 @@ We are most interested in the following items:
     * Parabolic Dishes (NO satellite dishes. Yes, they can be used for WiFi. No, we will not accept them)
     * Patch and Panels (Preferably with N-Type connectors)
     * Lightning arrestors or grounding equipment
+    
   * Routers and switches
     * 802.11n or 802.11ac routers only (Please do not donate your WRT54g's, as much as we love them)
     * Preferably routers supported by Commotion. You can find the current list of compatible routers [here](https://commotionwireless.net/docs/supported-devices/)
@@ -44,12 +44,12 @@ We are most interested in the following items:
     * Power over Ethernet injectors
     
   * Cables
-    * Unused indoor-rated (UTP, preferably plenum), Category 5e Ethernet cable in lengths over 100 feet, either crimped or uncrimped.
-    * Unused outdoor-rated (STP), Category 5e Ethernet cable in any lengths, crimped or uncrimped.
-    * Unused, never crimped, Category 5e RJ45 Ethernet ends of both the shielded and unshielded varieties.
+    * Unused indoor-rated (UTP, preferably plenum), Category 5e Ethernet cable in lengths over 100 feet, either terminated or unterminated.
+    * Unused outdoor-rated (STP), Category 5e Ethernet cable in any lengths, terminated or unterminated.
+    * Unused Category 5e RJ45 Ethernet ends of both the shielded and unshielded varieties.
     * Gently used serial-USB cables, JTAG devices and cables, and pinout connectors (must come with documentation on their voltages)
 
-We are not interested in the following items:
+We will not accept the following items:
   * Desktop computers
   * Laptop computers
   * Power cables that to not come without associated devices
