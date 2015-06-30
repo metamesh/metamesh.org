@@ -7,7 +7,7 @@ layout: front
 ## [PittMesh](http://pittmesh.net) 
 
 PittMesh is Meta Mesh's Community Wireless Networking project in Pittsburgh, Pennsylvania, USA. Check out our
-[old informational video](https://www.youtube.com/watch?v=OvAT7DTspaM) which explains the
+[old informational video](https://www.youtube.com/watch?v=OvAT7DTspaM) which explains
 wireless mesh networking and what we hope to achieve with it in Pittsburgh. We will be updating this video soon, but for now, this should answer some basic questions of how the network works. You can see the current locations of wireless nodes at
 www.pittmesh.net.
 
@@ -23,11 +23,11 @@ There are two varieties of mesh networking devices available today. You can purc
 
 Meta Mesh is combining the simplicity of purchasing a powerful, enterprise-grade device with the flexibility of a OpenWRT-based firmware, preconfigured for ease-of-use. Launching in September, 2015, the Community Wireless Networking Webstore will be the first of its kind, complete with kit-based purchases and a la carte options. Each device will be pre-assembled and pre-configured by Meta Mesh. All you need to do is mount it and plug it in.
 
-A launch date will be announced shortly.
+A launch date for the webstore will be announced shortly.
 
 ## Meta Mesh Grant Writing
 
-  While PittMesh can be built one node at a time, seed networks spur faster adoption. Seed networks are funded by grants or generous residents who want to accelerate growth of PittMesh in specific areas of the city. Meta Mesh will work with your community to write a grant on behalf of a 501c3 entity. Since Meta Mesh is an limited liability company, we are not eligible to receive grants directly. Meta Mesh will direct you on how to properly equip a local team from your community with the installation tools, skills, and wireless equipment to build your own network and connect it to the greater PittMesh network. While some of these seed networks may be isolated from other parts of the PittMesh network, once online, we actively seek to connect these network segmemts to the main network either physically or temporarily over the Internet. Meta Mesh holds training classes for your community's installation team to prepare them to install, maintain, and expand the network independent of Meta Mesh. If you don't rely on Meta Mesh, you further decentralize who owns and controls the network just like decentralizing the infrastructure itself!
+  While PittMesh can be built one node at a time, seed networks spur faster adoption. Seed networks are funded by grants or generous residents who want to accelerate growth of PittMesh in specific areas of the city. Meta Mesh will work with your community to write a grant on behalf of a 501c3 entity. Since Meta Mesh is an limited liability company, we are not eligible to receive grants directly. Meta Mesh will direct you on how to properly equip a local team from your community with the installation tools, skills, and wireless equipment to build your own network and connect it to the greater PittMesh network. While some of these seed networks may be isolated from other parts of the PittMesh network, once online, we actively seek to connect these network segmemts to the main network either physically or temporarily over the Internet. Meta Mesh holds training classes for your community's installation team to prepare them to install, maintain, and expand the network independent of Meta Mesh. If you don't rely on Meta Mesh to manage your network, you further decentralize who owns and controls the network just like decentralizing the infrastructure itself!
 
 ## In Development
 
