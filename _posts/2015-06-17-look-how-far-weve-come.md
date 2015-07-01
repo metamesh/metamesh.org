@@ -99,7 +99,7 @@ Frankenstein monsters. Experimentation is a stop on the road to success.
 Ok, I know what you're thinking. Yes, we're still in a basement. But this one has a couch in the bottom right, a build station with
 some Sprite on it in the bottom left, a ton of storage in the back left, a server cabinet with white board panels on the right and
 a peg board with an entire test network of Ubiquiti and TP-Link gear with serial cables running out of them on the far right.
-We spend way too much time down here, but we've been able to thrive because of the support of the Hardware Store and espcially
+We spend way too much time down here, but we've been able to thrive because of the support of the Hardware Store and especially
 Josh Lucas. In a few weeks we'll actually be renovating the Hardware Store's network and building a dedicated server room with air-conditioning
 and Proliant servers for hosting some future projects and anyone who needs storage in the Hardware Store's coworking space.
 
