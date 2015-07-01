@@ -40,7 +40,10 @@ offers services on the network, it has no mandatory centralized control over it.
 {:.img}
 ![PittMesh](http://i.imgur.com/cW6BdDk.png)
 
-PittMesh is Meta Mesh's Community Wireless Networking project in Pittsburgh, Pennsylvania, USA. Check out our
-[old informational video](https://www.youtube.com/watch?v=OvAT7DTspaM) which explains
-wireless mesh networking and what we hope to achieve with it in Pittsburgh. We will be updating this video soon, but for now, this should answer some basic questions of how the network works. You can see the current locations of wireless nodes at
-[www.pittmesh.net](www.pittmesh.net).
+[**PittMesh**](http://pittmesh.net) is a network of routers connected wirelessly. 
+Meta Mesh uses only consumer-grade, off-the-shelf WiFi hardware
+easily available at electronics stores or online. When you use the PittMesh Network, you not
+only gain access to all the "mesh-only" resources that the
+network affords, but you expand the network, allowing others to connect and
+expand the network even further. To see the location of live nodes in your area, check out
+[www.PittMesh.net](http://www.pittmesh.net).
