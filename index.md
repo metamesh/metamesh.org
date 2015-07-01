@@ -19,7 +19,7 @@ What if, after building that wireless network you opened it up so that anyone co
 
 What if you organized your community to raise funds to build a network of these wireless devices, a Community Wireless Network, that did all this, used inexpensive routers, had no monthly fees, and created a decentralized, resilient network that could be used for work or for fun when things were good and could be used to get Internet access or to communicate locally when a a bad storm came through and knocked out Internet access? That's a Community Wireless Network. And that is what Meta Mesh wants to help you build.
 
-Meta Mesh has two primary goals. 
+**Meta Mesh's Goals**
 
 First, to make Community Wireless Networks so simple that almost any non-technical person create them. 
 This means writing documentation, streamlining solutions, and educating people so that they can build
