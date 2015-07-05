@@ -1,14 +1,15 @@
 ---
 title: Have extra wireless equipment? Donate it to Meta Mesh!
 layout: post
-date: 2015-06-29
+date: 2015-07-05
 author: Adam Longwill
+excerpt: Meta Mesh is starting a donation program for old computer and networking equipment. Learn how you can donate unused antennas, switches, routers, and more.
 ---
 
 {:.img}
 ![Donate your WiFi equipment to Meta Mesh!](http://i.imgur.com/HY0Hrpy.jpg)
 
-If you're like us, you probably have some old computer equipment collecting cobwebs in your basement. Technology "graveyards"
+If you are like us, you probably have some old computer equipment collecting cobwebs in your basement. Technology "graveyards"
 are a surefire symptom of being chronically sick with IT-itis, which is, of course, incurable.
 
 Fortunately Meta Mesh is announcing a donation program that will allow you to donate your old wireless
@@ -17,6 +18,7 @@ though Meta Mesh's equipment is relatively inexpensive compared to many other wi
 and mount the equipment can still be prohibitive. Why not take up a collection and reuse old wireless equipment that is compatible with our routers?
 
 Here's a few details:
+
     * Meta Mesh is not a 501(c)3 organization and therefore, your donations are NOT tax deductible.
     * If you want to target your donation to a specific charity operating in a neighborhood or municipality in which you would like to see PittMesh have a presence, we can work with you to make that happen.
     * Meta Mesh will not compensate or trade any currency or in-kind payment for your donation. It's a donation.
@@ -27,7 +29,8 @@ Here's a few details:
     * Meta Mesh will refuse any equipment dropped off without our knowledge at our office. You must contact Meta Mesh first before donating any equipment.
     
 We are most interested in the following items:
-  * 2.4 and 5GHz Antennas:
+
+  * 2.4 and 5 GHz antennas:
     * Yagis
     * > 10 DBi omni-directionals (NO ["rubber ducky"](http://www.eagle-antenna.com/images/htantenna.jpg) antennas)
     * Sectors
@@ -39,29 +42,30 @@ We are most interested in the following items:
   * Routers and switches
     * 802.11n or 802.11ac routers only (Please do not donate your WRT54g's, as much as we love them)
     * Preferably routers supported by Commotion. You can find the current list of compatible routers [here](https://commotionwireless.net/docs/supported-devices/)
-    * Switches only if they are gigabit speeds AND have a power adapter included.
+    * Switches only if they are gigabit speeds AND have a power adapter included (or use a standard [three-prong IEC 60320 C13 coupler power cable](https://en.wikipedia.org/wiki/IEC_60320#C13.2FC14_coupler)).
     * Routers and switches in good, working condition only. Stained, cracked, broken, bricked, or "for parts only" routers and switches will not be accepted.
     * Power over Ethernet injectors
     
   * Cables
-    * Unused indoor-rated (UTP, preferably plenum), Category 5e Ethernet cable in lengths over 100 feet, either terminated or unterminated.
-    * Unused outdoor-rated (STP), Category 5e Ethernet cable in any lengths, terminated or unterminated.
-    * Unused Category 5e RJ45 Ethernet ends of both the shielded and unshielded varieties.
+    * Unused indoor-rated (UTP, preferably plenum), Category 5e or 6 Ethernet cable in lengths over 100 feet, either terminated or unterminated.
+    * Unused outdoor-rated (STP), Category 5e or 6 Ethernet cable in any lengths, terminated or unterminated.
+    * Unused RJ45 Ethernet ends of both the shielded and unshielded varieties.
     * Gently used serial-USB cables, JTAG devices and cables, and pinout connectors (must come with documentation on their voltages)
 
 We will not accept the following items:
+
   * Desktop computers
   * Laptop computers
-  * Power cables that to not come without associated devices
+  * Power cables that do not come without associated devices
   * Video or sound equipment and/or cables
   * Discrete components unless it's a bad-to-the bone graphics card which we WILL use ourselves. Witcher 3 doesn't run itself, you know.
   * Blenders, washers, dryers, printers, alien technology, illegal or unsafe equipment, or anything too large to fit through a doorway.
   
-If you have any of the unwanted or restricted items listed, please donate them to our friends at Goodwill in Lawrenceville located at 125 51st st., Pittsburgh, PA 15201.
+If you have any of the unwanted or restricted items listed, please donate them to our friends at [Goodwill Computer Store](http://www.goodwillswpa.org/computer-store) in Lawrenceville located at 125 51st st., Pittsburgh, PA 15201 or [Computer Reach](http://computerreach.org/) at 214 N. Lexington Street, Pittsburgh, PA  15208 (inside Construction Junction).
 
 By donating any equipment to Meta Mesh for use in PittMesh, you relinquish any and all ownership and rights to how, when, or if it is used.
 
-If you are interested, feel free to use our [Contact Page](http://www.metamesh.org/contact.html) or e-mail use at Info@metamesh.org.
+If you are interested, feel free to use our [Contact Page](http://www.metamesh.org/contact.html) or e-mail use at <Info@metamesh.org>.
 
 Thank you!
 -The Meta Mesh team
