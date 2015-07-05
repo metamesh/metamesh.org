@@ -109,18 +109,21 @@ div.post {
     a {
       //text-decoration: none;
     }
-    p.img {
-      text-align:center;
+}
+
+div.post, div.page {
+  p.img {
+    text-align:center;
+    img {
+      max-width: 100%;
+    }
+    &.main {
       img {
-        max-width: 100%;
-      }
-      &.main {
-        img {
-          max-width: 50%;
-          float: right;
-        }
+        max-width: 50%;
+        float: right;
       }
     }
+  }
 }
 
 @media screen and (max-width: 720px){
