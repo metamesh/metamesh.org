@@ -7,15 +7,15 @@ excerpt: Meta Mesh is starting a donation program for old computer and networkin
 ---
 
 {:.img}
-![Donate your WiFi equipment to Meta Mesh!](http://i.imgur.com/HY0Hrpy.jpg)
+![Thanks to Robert Crecine for the donation you see here!](http://i.imgur.com/HY0Hrpy.jpg)
 
 If you are like us, you probably have some old computer equipment collecting cobwebs in your basement. Technology "graveyards"
 are a surefire symptom of being chronically sick with IT-itis, which is, of course, incurable.
 
-Fortunately Meta Mesh is announcing a donation program that will allow you to donate your old wireless
-radios, routers, antennas, cables, and tools to Meta Mesh so that they can be given away for FREE to node hosts on PittMesh. Even
+Fortunately Meta Mesh is announcing a donation program that will allow you to put your old wireless
+radios, routers, antennas, cables, and tools towards growing the PittMesh network. When you donate usable equipment, we set it aside to be given to node hosts to lighten the financial load of purchasing a node. Even
 though Meta Mesh's equipment is relatively inexpensive compared to many other wireless solutions, the cost to buy, configure,
-and mount the equipment can still be prohibitive. Why not take up a collection and reuse old wireless equipment that is compatible with our routers?
+and mount the equipment can still be prohibitive for some people. Why not take up a collection and reuse old wireless equipment that is compatible with our routers?
 
 Here are a few details:
 
