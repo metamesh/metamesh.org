@@ -34,7 +34,7 @@ also accept donations to drive our rollout.
 
 We accept donated hardware.
 
-Please see our [Donation Blog Post](http://www.metamesh.org/blog/2015/07/05/donations) pertaining to donating hardware.
+Please see our [Donation Blog Post](/blog/2015/07/05/donations) pertaining to donating hardware.
 
 ### Funding
 
