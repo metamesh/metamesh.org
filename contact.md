@@ -21,7 +21,7 @@ We adhere to a the [PittMesh Code of Conduct](https://github.com/pittmesh/govern
 
 ## Mailing list
 
-Our mailing list traffic is pretty low, and is only used for major announcements.
+Get notified when we have big news we want to share with the world!
 
 {% convert_include mailchimp.haml %}
 
@@ -34,25 +34,11 @@ also accept donations to drive our rollout.
 
 We accept donated hardware.
 
-For routers, our primary requirement is that routers are able to run OSLRd. For
-the most part, this means that we want
-[routers that can run OpenWRT](http://wiki.openwrt.org/toh/start) or
-[routers that can run DD-WRT](http://dd-wrt.com/wiki/index.php/Supported_Devices).
-If the router you want to donate is on either of those lists as supported, then
-we can put it to good use! If it is not on that list, and your other option is to
-discard it, we will happily take it anyway,
-[donating it to Goodwill](http://www.goodwillswpa.org/computer-store)
-if we cannot use it.
-
-For spare computers, we are in need of rack servers, 1U or 2U, that were
-manufactured in the last five years.
-
-We could also use antennas, antenna mounting equipment, spare Ethernet cabling,
-and other miscellaneous items. Let us know!
+Please see our [Donation Blog Post](http://www.metamesh.org/blog/2015/07/05/donations) pertaining to donating hardware.
 
 ### Funding
 
-Our preferred donation method is Bitcoin. Our anonymous donation address is
+Our preferred donation method is cold hard cash, but we accept Bitcoin, as well. Our anonymous donation address is
 [1meshQDzpXUQJSdNVH7BujkudqfatFxnq](bitcoin:1meshQDzpXUQJSdNVH7BujkudqfatFxnq){:.coin}
 but consider sending us a message so that we can credit you somehow for your
 generousity. We also accept [Dogecoin](dogecoin:DMMx3mSt5swBqQZEwtw3haYmMoLwmSP3zj){:.coin}
@@ -68,7 +54,7 @@ like "@MetaMeshLLC Please accept 100 mBTC via @ChangeTip to help bring easy wire
 
 {% convert_include widget_changetip.haml %}
 
-Additionally, you can [donate directly to META MESH agents via Gratipay](https://gratipay.com/MetaMeshLLC). Donations on Gratipay are divided among those active in our organization according to each person's activity.
+Additionally, you can [donate directly to META MESH agents via Gratipay](https://gratipay.com/MetaMeshLLC). 
 
 {% convert_include widget_gratipay.haml %}
 
@@ -78,7 +64,8 @@ donation methods, including other cryptocurrencies.
 
 META MESH is a for-profit, but bootstrapped company the beneficial community
 focus of which may lead the average person to believe that it is a non-profit.
-Unfortunately, donations to META MESH are *not tax deductible*.
+Unfortunately, donations to META MESH are *not tax deductible*. That doesn't mean we made this company to line our pockets.
+We have a mission of propogating wireless mesh networks for community use and donations will go toward that mission.
 
 ## Other stuff
 
