@@ -1,5 +1,5 @@
 ---
-title: We're launching a Kickstarter SOON!
+title: Kickstarter Incoming!
 layout: post
 date: 2015-07-19
 author: Becky Zajdel
