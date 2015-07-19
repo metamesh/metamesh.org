@@ -34,6 +34,7 @@ This is updated on a best-effort basis. We do not list defunct or stagnated proj
     * [Pittsburgh's Allentown gets free wireless Internet- Pittsburgh Post-Gazette - 14 November, 2014](http://www.post-gazette.com/local/city/2014/11/14/Pittsburgh-s-Allentown-gets-free-wireless-Internet/stories/201411130171)
     * [Project Spotlight: Episode 1: Meta Mesh - Imagine Careers - 16 May, 2015](https://imaginecareers.wordpress.com/2015/05/16/project-spotlight-episode-1-meta-mesh/)
     * [Free wireless Internet is online on Warrington Ave. - Southern Pittsburgh Reporter - 2, December, 2014](http://www.sopghreporter.com/story/2014/12/02/front-page/free-wireless-internet-is-online-on-warrington-ave/15061.html)
+    * [At least 1.1 million Pennsylvania homes lack Internet access - Public Source - 19 July](http://publicsource.org/investigations/least-11-million-pennsylvania-homes-lack-internet-access#.VawNqflVhBc)
 <br><br>
 * [Buffalo Mesh](http://www.buffalomesh.net/)
   * Location: Buffalo, New York
@@ -73,6 +74,7 @@ This is updated on a best-effort basis. We do not list defunct or stagnated proj
     * [Urban Omnibus - Local Connections: The Red Hook WiFi Project](http://urbanomnibus.net/2013/09/local-connections-the-red-hook-wifi-project/)
     * [Orion Magazine - Getting Connected](https://orionmagazine.org/article/getting-connected/))
     * [How Mesh Networks can Bridge the Digital Divide - Next City - 23 April 2014](https://nextcity.org/daily/entry/how-mesh-networks-can-bridge-the-digital-divide)
+    * [At least 1.1 million Pennsylvania homes lack Internet access - Public Source - 19 July](http://publicsource.org/investigations/least-11-million-pennsylvania-homes-lack-internet-access#.VawNqflVhBc)
 <br><br>
 * [Detroit Community Technology Project](https://www.alliedmedia.org/dctp)
   * Location: Detroit, Michigan
