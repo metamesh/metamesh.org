@@ -2,6 +2,9 @@
 layout: front
 title: META MESH | Wireless Networking for All
 ---
+
+#META MESH's Kickstarter campaign has LAUNCHED! [Click here to donate!](https://www.kickstarter.com/projects/metamesh/meta-mesh-community-wireless-networks-for-all?ref=discovery)
+
 # META MESH empowers people to build Community Wireless Networks
 
 ### What is a Community Wireless Network?
