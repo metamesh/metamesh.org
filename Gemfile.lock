@@ -97,3 +97,6 @@ DEPENDENCIES
   jekyll-sass
   mr_poole
   rack-jekyll (~> 0.4.1)!
+
+BUNDLED WITH
+   1.10.2
