@@ -1,6 +1,6 @@
 ---
 title: Meta Mesh to attend BattleMesh V8 next week
-author: Adam Longwill
+author: Becky Zajdel
 layout: post
 date: 2015-07-29
 ---
