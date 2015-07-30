@@ -21,7 +21,7 @@ This would be exciting enough on its own, but this year there has been a lot of 
 
 This discussion at BattleMesh could be uniquely important to the growing Community Wireless Networking community because of the particular language in [a document](https://apps.fcc.gov/oetcf/kdb/forms/FTSSearchResultPage.cfm?id=39498&switch=P) from the FCC that states that "for U-NII devices operating under Part 15 rules to require all devices to implement software security to ensure that the devices operate as authorized and cannot be modified."
 
-Could this be the end of development of open source routing firmwares on commercial hardware? Meta Mesh is doubtful of this, as there is always more to the story than a juicy headline. But Adam will be sure to get the information out as soon as he can and answer this eyebrow-raising question.
+Could this be the end of development of third party firmwares on commercial hardware? Meta Mesh is doubtful of this, as there is always more to the story than a juicy headline. But Adam will be sure to get the information out as soon as he can and answer this eyebrow-raising question.
 
 More updates to come soon! Make sure to follow Meta Mesh on Twitter at [@metameshllc](https://twitter.com/metameshllc).
 
