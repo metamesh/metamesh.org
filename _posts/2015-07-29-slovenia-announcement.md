@@ -5,7 +5,7 @@ layout: post
 date: 2015-07-29
 ---
 
-Now that we have launched our [Kickstarter](https://www.kickstarter.com/projects/metamesh/meta-mesh-community-wireless-networks-for-all), to which you should totally back and get some super-duper backer rewards, we wanted to start announcing some really exciting upcoming news for Meta Mesh. First up, a trip to Slovenia for Battlemesh!
+Now that we have launched our [Kickstarter](https://www.kickstarter.com/projects/metamesh/meta-mesh-community-wireless-networks-for-all), to which you should totally back and get some super-duper backer rewards, we wanted to start announcing some really exciting upcoming news for Meta Mesh. First up, a trip to Slovenia for [Battlemesh](http://battlemesh.org/)!
 
 {:.img}
 ![Slovenia](http://imgur.com/80V7Xd8.png)
