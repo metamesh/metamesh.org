@@ -30,7 +30,8 @@ GEM
     execjs (2.4.0)
     fast-stemmer (1.0.2)
     ffi (1.12.2)
-    haml (4.0.6)
+    haml (5.1.2)
+      temple (>= 0.8.0)
       tilt
     hitimes (1.2.2)
     jekyll (2.5.3)
@@ -81,7 +82,8 @@ GEM
     redcarpet (3.2.2)
     safe_yaml (1.0.4)
     sass (3.4.13)
-    tilt (2.0.1)
+    temple (0.8.2)
+    tilt (2.0.10)
     timers (4.0.1)
       hitimes
     toml (0.1.2)
