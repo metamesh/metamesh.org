@@ -1,0 +1,24 @@
+# Hugo default output directory
+/public
+
+# Caching that we don't need in Git
+/resources
+
+# Obtain this later during build
+/themes
+
+## OS Files
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# OSX
+.DS_Store
+
+# Other
+.htaccess
+
+# Editor Configurations
+/.vscode

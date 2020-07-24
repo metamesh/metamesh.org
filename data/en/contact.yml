@@ -1,0 +1,31 @@
+############################## Contact #############################
+contact:
+  enable : true
+  title : Contact Us
+  subtitle : Contact Details
+  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+
+  # Contact details
+  contact_list:
+    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+      info : "744 East Warrington Ave, Pittsburgh PA, 15210"
+
+    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      info : "Phone: +1 (412) 223-4253"
+
+    - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
+      info : "Fax: +1 (412) 229-0322"
+
+    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      info : "Email: info@metamesh.org"
+
+
+  # Contact form
+  contact_form:
+    enable : true
+    form_action : "#" #contact form works with https://formspree.io
+    name : "Your Name"
+    email : "Your Email"
+    subject : "Subject"
+    message : "Message"
+    submit : "Submit"
