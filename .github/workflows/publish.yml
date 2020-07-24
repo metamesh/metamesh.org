@@ -1,0 +1,38 @@
+name: Publish Site to GitHub Pages
+
+on:
+  pull_request:
+    branches:
+      - master
+
+jobs:
+  publish:
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Get GitHub repo 'metamesh/metamesh.org'
+        uses: actions/checkout@v2
+        with:
+          ref: master
+      - name: Get Hugo theme 'themefisher/meghna-hugo'
+        uses: actions/checkout@v2
+        with:
+          repository: themefisher/meghna-hugo
+          ref: 63e8bcb2b7b1182a866b186554713a98cfdefec9
+          path: themes/
+      - name: Get Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: "0.74.2"
+          extended: true
+      - name: Announce Hugo information
+        run: hugo env
+      - name: Announce site configuration
+        run: hugo config
+      - name: Build metamesh.org with Hugo
+        run: hugo --debug --i18n-warnings --ignoreCache --minify
+      - name: Deploy built site to gh-pages branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          commit_message: ${{ github.event.head_commit.message }}
