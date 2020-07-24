@@ -19,10 +19,6 @@ jobs:
           repository: themefisher/meghna-hugo
           ref: 63e8bcb2b7b1182a866b186554713a98cfdefec9
           path: themes/meghna-hugo
-      - name: debug
-        run: |
-          echo "### dir -- ${{ github.workspace }}"
-          ls -al
       - name: Get Hugo
         uses: peaceiris/actions-hugo@v2
         with:
@@ -34,6 +30,8 @@ jobs:
           hugo config
       - name: Build metamesh.org with Hugo
         run: hugo --debug --i18n-warnings --ignoreCache --minify
+      - name: Remove unwanted files  # comes from meghna theme's cruft
+        run: rm -f ./public/.htaccess
       - name: Deploy built site to gh-pages branch
         uses: peaceiris/actions-gh-pages@v3
         with:
