@@ -1,7 +1,7 @@
 name: Publish Site to GitHub Pages
 
 on:
-  pull_request:
+  push:
     branches:
       - master
 
@@ -24,12 +24,10 @@ jobs:
         with:
           hugo-version: "0.74.2"
           extended: true
-      - name: debug -- ls
-        run: ls -al
-      - name: Announce Hugo information
-        run: hugo env
-      - name: Announce site configuration
-        run: hugo config
+      - name: Announce env debug info
+        run: |
+          hugo env
+          hugo config
       - name: Build metamesh.org with Hugo
         run: hugo --debug --i18n-warnings --ignoreCache --minify
       - name: Deploy built site to gh-pages branch
