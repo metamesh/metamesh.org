@@ -24,6 +24,8 @@ jobs:
         with:
           hugo-version: "0.74.2"
           extended: true
+      - name: debug -- ls
+        run: ls -al
       - name: Announce Hugo information
         run: hugo env
       - name: Announce site configuration
