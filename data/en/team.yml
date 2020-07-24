@@ -1,0 +1,144 @@
+############################### team ############################
+team:
+  enable: true
+  title: Our Team
+  team_member:
+    # team member loop
+    - name: Adam Longwill
+      image_webp: images/team/team-1.webp
+      image: images/team/team-1.jpg
+      designation: Executive Director
+      content: >
+        Adam has always wanted to live in an egalitarian society. He believes that access to information
+        is a fundamental part of this, and that building a resiliant, expandable, and community-owned
+        wireless infrastructure is the best way he can help to achieve it.
+      # (original)
+      # content: >
+      #   Adam was born in Pittsburgh, went to Woodland Hills, studied Industrial Design at Philadelphia
+      #   University before transferring and earning an English degree from Goucher College. He spent a
+      #   semester at UMBC studying Human-Centered Computing before looking at this bank account and promptly
+      #   fainting.
+      #
+      #   When he came to, Adam was back in Pittsburgh working in IT. He founded Meta Mesh in 2012.
+      #   He believes access to information is essential to having a more equal society and the best way to
+      #   disseminate information is through community-owned infrastructure that is resilient and expandable.
+      social:
+        - icon: ti-twitter-alt # themify icon pack: https://themify.me/themify-icons
+          link: "https://twitter.com/adamlongwill"
+        - icon: ti-linkedin # themify icon pack: https://themify.me/themify-icons
+          link: "https://www.linkedin.com/in/adam-longwill-61b8154a"
+        # - icon: ti-facebook # themify icon pack: https://themify.me/themify-icons
+        #   link: "#"
+        # - icon: ti-dribbble # themify icon pack: https://themify.me/themify-icons
+        #   link: "#"
+
+    # team member loop
+    - name: Becky Zajdel
+      image_webp: images/team/team-4.webp
+      image: images/team/team-4.jpg
+      designation: Director of Outreach
+      content: >
+        Despite a story that starts and stops in Pittsburgh, Becky has run the gamut. She is excited
+        by international travel and foreign language, policital science and history, comic books,
+        and the dryness of both British television and a good wine.
+      # (original)
+      # content: >
+      #   Becky is a "citizen of the world," born and raised in North Braddock before graduating from
+      #   Penn Hills High School.  She then headed to Juniata College for her double BA in International
+      #   Politics and History.
+
+      #   After a few years bouncing back and forth between the US and Central Europe as a Political Science PhD
+      #   candidate and teaching fellow at Pitt, she left to work for an international law firm before joining
+      #   Pittsburgh's growing startup scene. Becky is happy to be part of the Meta Mesh team and loves working with
+      #   the lovely people at WorkHardPGH in Allentown! She is passionate about foreign languages, comic books,
+      #   good wine, and British television.
+      social:
+        # - icon: ti-facebook # themify icon pack: https://themify.me/themify-icons
+        #   link: "#"
+        # - icon: ti-twitter-alt # themify icon pack: https://themify.me/themify-icons
+        #   link: "#"
+        # - icon: ti-linkedin # themify icon pack: https://themify.me/themify-icons
+        #   link: "#"
+        # - icon: ti-dribbble # themify icon pack: https://themify.me/themify-icons
+        #   link: "#"
+
+    # team member loop
+    - name: Jacob Driggs
+      image_webp: images/team/team-2.webp
+      image: images/team/team-2.jpg
+      designation: Network and Systems Designer
+      content: >
+        A life-long tinkerer, Jacob has always had a proclivity for the intersection of technology and real-world
+        experiences. Previously an IT consultant for startups, he's particularly excited to be doing impactful work
+        with like-minded folks!
+      # (original, long)
+      # content: >
+      #   Jacob, a life-long tinkerer, graduated from Fox Chapel Area High School where he first honed his
+      #   interest in server administration, and network design.  He then attended Penn State University where
+      #   he focused his attention on the Industrial Organizational work of Psychology. After graduating and
+      #   spending some time in the real world, he started his own business marrying his skills in the IT world
+      #   with his I/O psychology experience, acting as an IT Consultant for small businesses and non-profits.
+      #   He became interested in the potential of wireless networking technology and built some long distance
+      #   Point-to-Multipoint systems before being introduced to Meta Mesh. He’s excited to continue doing impactful work
+      #   with like-minded folks!
+      social:
+        # - icon: ti-facebook # themify icon pack: https://themify.me/themify-icons
+        #   link: "#"
+        # - icon: ti-twitter-alt # themify icon pack: https://themify.me/themify-icons
+        #   link: "#"
+        # - icon: ti-linkedin # themify icon pack: https://themify.me/themify-icons
+        #   link: "#"
+        # - icon: ti-dribbble # themify icon pack: https://themify.me/themify-icons
+        #   link: "#"
+
+    # team member loop
+    - name: Justin Goetz
+      image_webp: images/team/team-3.webp
+      image: images/team/team-3.jpg
+      designation: Systems Administrator
+      content: >
+        From a young age, Justin has enjoyed all things tech. His current skill set focuses on Linux Systems
+        and Network Administration. He also maintains all Meta Mesh server infrastructure and helps keep the
+        network of hundreds of nodes running smoothly.
+      # (original)
+      # content: >
+      #   Justin Goetz grew up in the neighborhood of Brookline in Pittsburgh. Since a kid he's enjoyed all things
+      #   tech. His current skill set focuses on Linux System Administration and Network Administration, with 4 years
+      #   of real-world hands-on experience. Justin maintains all Meta Mesh server infrastructure as well as assists
+      #   in keeping a 100+ node network functioning.
+      social:
+        # - icon: ti-facebook # themify icon pack: https://themify.me/themify-icons
+        #   link: "#"
+        # - icon: ti-twitter-alt # themify icon pack: https://themify.me/themify-icons
+        #   link: "#"
+        # - icon: ti-linkedin # themify icon pack: https://themify.me/themify-icons
+        #   link: "#"
+        # - icon: ti-dribbble # themify icon pack: https://themify.me/themify-icons
+        #   link: "#"
+
+    # # team member loop
+    # - name: Drew von Zhrodague
+    #   image_webp: images/team/team-2.webp
+    #   image: images/team/team-2.jpg
+    #   designation: Network and Systems Consultant
+    #   content: >
+    #     Some are said to "wear many hats" in the tech sector, but Drew takes the concept to its logical end by
+    #     dabbling in HAM radio, mesh networking, GIS technologies, embedded computing, and much more. He's also
+    #     contributed to the popular O'Reilly books series.
+    #   # (original)
+    #   # content: >
+    #   #   Drew von Zhrodague is a 300-foot tall fire-breathing sysadmin, living at the top of the South Side Slopes.
+    #   #   He is an amateur radio enthusiast who has built his own antennas for use in the 40 meter and 160 meter bands.
+    #   #   Drew has contributed to O'Reilly books such as "Google Map Hacks" and has also taught other classes on
+    #   #   building omnidirectional antennas for the 2.4 GHz band at Hack Pittsburgh. He’s worked with dorkbot, Meta Mesh,
+    #   #   and with a few other local groups. When not toppling buildings, Drew works on many projects, including
+    #   #   HAM radio, mesh networking, GIS systems, and recycled embedded computing projects.
+    #   social:
+    #     # - icon: ti-facebook # themify icon pack: https://themify.me/themify-icons
+    #     #   link: "#"
+    #     # - icon: ti-twitter-alt # themify icon pack: https://themify.me/themify-icons
+    #     #   link: "#"
+    #     # - icon: ti-linkedin # themify icon pack: https://themify.me/themify-icons
+    #     #   link: "#"
+    #     # - icon: ti-dribbble # themify icon pack: https://themify.me/themify-icons
+    #     #   link: "#"
