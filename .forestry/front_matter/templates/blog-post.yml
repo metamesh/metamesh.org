@@ -8,17 +8,5 @@ fields:
   config:
     required: false
   label: Title
-- name: date
-  type: datetime
-  label: Date
-  description: ''
-  config:
-    required: false
-    date_format: 
-    time_format: 
-    display_utc: false
-- name: draft
-  type: boolean
-  label: Draft
 pages:
 - content/hello-world.md
