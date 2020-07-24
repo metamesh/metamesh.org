@@ -110,7 +110,7 @@ logo = "images/logo.png"
 description = "Responsive Multipurpose Parallax HTML5 Template"
 author = "Meta Mesh Wireless Communities"
 # Google Analytics
-# google_analytics_id = "" # Your ID
+# google_analytics_id = "" UA-35167230-1 Your ID
 # post share
 post_share = true
 
