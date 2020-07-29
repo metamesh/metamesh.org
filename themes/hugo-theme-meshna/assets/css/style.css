@@ -48,12 +48,12 @@ pre {
 ::-moz-selection {
   /* Code for Firefox */
   color: #fff;
-  background: #57cbcc;
+  background: #cdbc17;
 }
 
 ::selection {
   color: #fff;
-  background: #57cbcc;
+  background: #cdbc17;
 }
 
 hr {
@@ -115,7 +115,7 @@ a:hover {
 
 .btn-transparent:hover,
 .btn-transparent:focus {
-  background-color: #57cbcc;
+  background-color: #cdbc17;
   border: 1px solid transparent;
   color: #fff;
 }
@@ -137,7 +137,7 @@ a:hover {
   position: absolute;
   top: -4px;
   width: 50px;
-  background-color: #57cbcc;
+  background-color: #cdbc17;
 }
 
 .color {
@@ -215,11 +215,11 @@ a:hover {
 
 a:focus,
 a:hover {
-  color: #57cbcc;
+  color: #cdbc17;
 }
 
 .btn-main {
-  background: #57cbcc;
+  background: #cdbc17;
   color: #fff;
   display: inline-block;
   font-size: 14px;
@@ -307,7 +307,7 @@ a:hover {
 }
 
 .title h2 span {
-  color: #57cbcc;
+  color: #cdbc17;
 }
 
 .title p {
@@ -352,7 +352,7 @@ a:hover {
 }
 
 .header-bradcrumb a:hover {
-  color: #57cbcc;
+  color: #cdbc17;
 }
 
 .slick-slide {
@@ -416,7 +416,7 @@ a:hover {
 .navbar-dark .navbar-nav .nav-link.active,
 .navbar-dark .navbar-nav .nav-link.show,
 .navbar-dark .navbar-nav .show>.nav-link {
-  color: #57cbcc;
+  color: #cdbc17;
 }
 
 .navbar-toggler:focus {
@@ -460,7 +460,7 @@ a:hover {
 
 .hero-area .block .video-button {
   background: #fff;
-  color: #57cbcc;
+  color: #cdbc17;
   display: inline-block;
   height: 60px;
   width: 60px;
@@ -555,7 +555,7 @@ a:hover {
 }
 
 .about .block:hover {
-  border-bottom: 2px solid #57cbcc;
+  border-bottom: 2px solid #cdbc17;
 }
 
 .about .block:hover .icon-box {
@@ -627,7 +627,7 @@ a:hover {
 
 .about-2 .content-block .media i {
   font-size: 30px;
-  color: #57cbcc;
+  color: #cdbc17;
 }
 
 .about-2 .content-block .media h4 {
@@ -707,12 +707,12 @@ a:hover {
 
 .form-meshna input:hover,
 .form-meshna textarea:hover {
-  border-color: #57cbcc;
+  border-color: #cdbc17;
 }
 
 #contact-submit {
   border: 1px solid rgba(236, 239, 241, 0.07);
-  background: #57cbcc;
+  background: #cdbc17;
   padding: 12px 0;
   width: 100%;
   margin: 0;
@@ -809,7 +809,7 @@ a:hover {
 }
 
 .price-title h3 {
-  color: #57cbcc;
+  color: #cdbc17;
   margin: 0 0 10px;
   text-transform: uppercase;
 }
@@ -820,7 +820,7 @@ a:hover {
 }
 
 .price-title .value {
-  color: #57cbcc;
+  color: #cdbc17;
   font-size: 30px;
 }
 
@@ -870,7 +870,7 @@ a:hover {
 }
 
 .portfolio-filter .btn.active {
-  border-color: #57cbcc;
+  border-color: #cdbc17;
 }
 
 .portfolio-block {
@@ -929,7 +929,7 @@ a:hover {
 }
 
 .portfolio-block .caption .search-icon {
-  background: #57cbcc;
+  background: #cdbc17;
   width: 50px;
   height: 50px;
   color: #fff;
@@ -975,13 +975,13 @@ a:hover {
 
 .service-2 .service-item:hover i {
   background: #fff;
-  color: #57cbcc;
+  color: #cdbc17;
 }
 
 .service-2 .service-item i {
   font-size: 30px;
   display: inline-block;
-  background: #57cbcc none repeat scroll 0 0;
+  background: #cdbc17 none repeat scroll 0 0;
   border-radius: 30px;
   box-shadow: 0 5px 6px 0 rgba(0, 0, 0, 0.1);
   color: #fff;
@@ -1014,7 +1014,7 @@ a:hover {
 }
 
 .skill-bar .progress .progress-bar {
-  background: #57cbcc;
+  background: #cdbc17;
 }
 
 /*=================================================================
@@ -1093,7 +1093,7 @@ a:hover {
 
 .member-photo .mask ul li a:hover {
   background-color: #fff;
-  color: #57cbcc;
+  color: #cdbc17;
   border: 1px solid transparent;
 }
 
@@ -1174,7 +1174,7 @@ a:hover {
 
 .owl-controls .owl-page.active span,
 .owl-controls .owl-page:hover span {
-  background-color: #57cbcc;
+  background-color: #cdbc17;
   border: 2px solid transparent;
 }
 
@@ -1268,7 +1268,7 @@ a:hover {
 }
 
 .post-meta a {
-  color: #57cbcc;
+  color: #cdbc17;
 }
 
 .post-meta>span {
@@ -1329,7 +1329,7 @@ a:hover {
 }
 
 .next-prev a:hover {
-  color: #57cbcc;
+  color: #cdbc17;
 }
 
 .next-prev .prev-post i {
@@ -1352,7 +1352,7 @@ a:hover {
 }
 
 .social-profile ul li a i:hover {
-  color: #57cbcc;
+  color: #cdbc17;
 }
 
 .comments-section {
@@ -1400,7 +1400,7 @@ a:hover {
 }
 
 .comment-wrap .media .media-heading a {
-  color: #57cbcc;
+  color: #cdbc17;
   font-size: 13px;
 }
 
@@ -1427,7 +1427,7 @@ a:hover {
 .comment-reply-form input:focus,
 .comment-reply-form textarea:focus {
   box-shadow: none;
-  border: 1px solid #57cbcc;
+  border: 1px solid #cdbc17;
 }
 
 .comment-reply-form textarea,
@@ -1529,7 +1529,7 @@ input#e-mail,
 }
 
 .social-icon ul li a:hover {
-  background: #57cbcc;
+  background: #cdbc17;
 }
 
 .social-icon ul li a:hover i {
@@ -1572,8 +1572,8 @@ input#e-mail,
 }
 
 #scrollUp:hover {
-  background-color: #57cbcc;
-  border: 1px solid #57cbcc;
+  background-color: #cdbc17;
+  border: 1px solid #cdbc17;
 }
 
 /*=================================================================
@@ -1999,7 +1999,7 @@ blockquote {
 }
 
 .form-control-meshna .form-control:focus {
-  border-color: #57cbcc;
+  border-color: #cdbc17;
   box-shadow: 0 0 0 0.2rem rgba(0, 174, 255, 0.432);
 }
 
@@ -2253,8 +2253,8 @@ figcaption {
 }
 
 .pagination .page-item .page-link:hover {
-  background: #57cbcc;
-  border-color: #57cbcc;
+  background: #cdbc17;
+  border-color: #cdbc17;
   color: #fff
 }
 
@@ -2264,9 +2264,9 @@ figcaption {
 }
 
 .pagination .page-item.active .page-link {
-  background: #57cbcc;
+  background: #cdbc17;
   color: #fff;
-  border-color: #57cbcc;
+  border-color: #cdbc17;
 }
 
 #select-language {
@@ -2280,5 +2280,3 @@ figcaption {
   padding: 10px;
   display: block;
 }
-
-/*# sourceMappingURL=maps/style.css.map */
