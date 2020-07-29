@@ -10,14 +10,14 @@ sections:
   create: all
   match: "**/*.{yaml,yml,toml,json}"
 - type: directory
-  path: content/en/author
+  path: content/english/author
   label: Authors
   create: documents
   match: "*.md"
   templates:
   - author
 - type: directory
-  path: content/en/blog
+  path: content/english/blog
   label: Blogs
   create: documents
   match: "*.md"
