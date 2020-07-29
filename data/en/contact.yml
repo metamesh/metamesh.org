@@ -7,16 +7,16 @@ contact:
 
   # Contact details
   contact_list:
-    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+    - icon : fa-map-marker
       info : "744 East Warrington Ave, Pittsburgh PA, 15210"
 
-    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+    - icon : fa-phone
       info : "Phone: +1 (412) 223-4253"
 
-    - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
+    - icon : fa-fax
       info : "Fax: +1 (412) 229-0322"
 
-    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+    - icon : fa-envelope
       info : "Email: info@metamesh.org"
 
 
