@@ -7,7 +7,8 @@ team:
     image_webp: images/team/sam-garfinkel.webp
     image: images/team/sam-garfinkel.jpg
     role: Development Coordinator
-    blurb: Insert short phrase here
+    blurb: A professional writer by trade, Sam helps Meta Mesh communicate its project
+      needs and goals to the public, to partners, and to donors or grantors.
     biography: Insert (optional) longer phrase here; doesn't show up on the site
     social: ''
   - name: Adam Longwill
