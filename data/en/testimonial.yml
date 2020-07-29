@@ -4,12 +4,6 @@ testimonial:
   bg_image: images/backgrounds/bg-testimonial.jpg
   bg_image_webp: images/backgrounds/bg-testimonial.webp
   testimonial_item:
-  - name: Jeff Warner
-    image: uploads/self_2020_covid19.jpg
-    image_webp: uploads/self_2020_covid19.webp
-    date: Jul 28, 2020
-    content: Meta Mesh restored my confidence in humanity. I still won't take off
-      my respirator mask, but at least I can go out in public again.
   - name: Jonathon Andrew
     image: images/client/client-1.jpg
     image_webp: images/client/client-1.webp
