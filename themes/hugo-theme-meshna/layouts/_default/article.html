@@ -1,10 +1,7 @@
-{{ $img := resources.Get .Params.Image }}
-{{ $img_webp := resources.Get .Params.Image_webp }}
-
 <article class="col-lg-4 col-md-6 col-12 clearfix wow fadeInUp mb-4" data-wow-duration="500ms">
   <div class="post-block">
     <div class="media-wrapper">
-      <img class="img-fluid lozad" data-src="{{ $img_webp.Permalink }}" onerror="this.onerror=null;this.src='{{ $img.Permalink }}'">
+      <img class="img-fluid lozad" data-src="{{ .Params.Image_webp | absURL }}" onerror="this.onerror=null;this.src='{{ .Params.Image | absURL }}'">
     </div>
 
     <div class="content">

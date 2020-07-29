@@ -21,12 +21,14 @@
           {{ .Content }}
         </div>
         {{ if site.Params.post_share }}
-        {{ partial "post-share.html" . }}
+          {{ partial "post-share.html" . }}
         {{ end }}
         {{/* comments */}}
-        <div class="mt-5">
-          {{ template "_internal/disqus.html" . }}
-        </div>
+        {{ if .Site.DisqusShortname }}
+          <div class="mt-5">
+            {{ template "_internal/disqus.html" . }}
+          </div>
+        {{ end }}
       </div>
     </div>
   </div>

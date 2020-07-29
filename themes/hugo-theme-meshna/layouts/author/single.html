@@ -13,12 +13,13 @@
 				</div>
 				<div class="content text-center">
 					<figure>
-						{{ if .Params.Image }}
-						<img class="rounded-circle img-fluid lozad" data-src="{{.Params.Image | relURL }}">
-						{{else if .Params.Email}}
-						<img class="rounded-circle img-fluid lozad"
-							data-src="https://www.gravatar.com/avatar/{{ md5 .Params.email }}?s=128&pg&d=identicon">
-						{{ end }}
+            {{ if .Params.Image }}
+              {{ $image := resources.Get .Params.Image }}
+              <img class="rounded-circle img-fluid lozad" data-src="{{ $image.Permalink }}" alt='{{ printf "Picture of %s" .Title }}'>
+            {{else if .Params.Email}}
+              {{ $checksum := md5 .Params.Email }}
+              <img class="rounded-circle img-fluid lozad" data-src='{{ printf "https://www.gravatar.com/avatar/%s?s=128&pg&d=identicon" $checksum }}'>
+            {{ end }}
 						<figcaption>
 							<h5 class="font-weight-bold">
 								{{ .Title }}
