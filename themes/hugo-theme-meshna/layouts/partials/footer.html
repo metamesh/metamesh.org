@@ -1,0 +1,55 @@
+{{/* end Contact Area  */}}
+<footer id="footer" class="section-bg">
+	<div class="container">
+		<div class="row wow fadeInUp" data-wow-duration="500ms">
+			<div class="col-xl-12">
+
+        {{ with site.Params.social }}
+          {{/* Footer Social Links  */}}
+          <div class="social-icon">
+            <ul class="list-inline">
+              {{ range . }}
+                <li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="fa {{ .icon }}"></i></a></li>
+              {{ end }}
+            </ul>
+          </div>
+        {{ end }}
+
+				{{/* copyright  */}}
+				<div class="copyright text-center">
+          {{ with $logo := resources.Get site.Params.logo }}
+            <a href="{{ site.Home.Permalink }}">
+              <img src="{{ .Permalink }}" alt="{{ site.Title }}" height="42" />
+            </a>
+          {{ end }}
+					<br>
+					<p>{{ site.Params.copyright | markdownify }}</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</footer>
+{{/* /footer  */}}
+
+{{ with site.Params.map }}
+  {{/* Google Map API  */}}
+  {{ if site.Params.map.enable }}
+    <script src='{{ printf "https://maps.googleapis.com/maps/api/js?key=%s" site.Params.map.api_token | safeURL }}'></script>
+  {{ end }}
+{{ end }}
+
+{{/* Third-Party JS  */}}
+{{ range site.Params.plugins.js }}
+  <script src="{{ .link | safeURL }}" ></script>
+{{ end }}
+
+{{/* FontAwesome */}}
+{{ with site.Params.fontawesome_kit_id }}
+  <script src='{{ printf "https://kit.fontawesome.com/%s.js" . | safeURL }}' crossorigin="anonymous"></script>
+{{ else }}
+  {{ warnf "missing FontAwesome kit ID in config.toml; no icons will be rendered -- please obtain a kit ID at https://fontawesome.com/start" }}
+{{ end }}
+
+{{/* Init Script  */}}
+{{ $script := resources.Get "js/script.js" | fingerprint "sha384" }}
+<script src="{{ $script.Permalink }}" integrity="{{ $script.Data.Integrity }}"></script>

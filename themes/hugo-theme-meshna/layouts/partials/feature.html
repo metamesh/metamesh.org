@@ -1,0 +1,44 @@
+{{ $data := index site.Data site.Language.Lang }}
+
+
+{{ with $data.feature.feature }}
+  {{ if $data.feature.feature.enable }}
+    {{ $image := resources.Get .image }}
+    {{ $image_webp := resources.Get .image_webp }}
+    {{/* Feature  */}}
+    <section class="section section-bg about-2 padding-0" id="feature">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-lg-6 padding-0" style="background-image: url('{{ $image_webp.Permalink }}'); background-size: cover; background-position: top center; background-repeat: no-repeat; min-height: 400px;">
+            {{/* this image is for trigger this section fallback background image */}}
+            <img class="lozad" style="display: none;" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ $image.Permalink }})'" data-src="{{ $image_webp.Permalink }}" />
+          </div>
+          <div class="col-lg-6">
+            <div class="content-block">
+              <h2>{{ .title | markdownify }}</h2>
+              <p>{{ .content | markdownify }}</p>
+              <div class="row">
+                {{ range .feature_item }}
+                <div class="col-lg-6">
+                  <div class="media">
+                    {{with .icon}}
+                    <div class="align-self-start mr-3">
+                      <i class="fa {{ . }}"></i>
+                    </div>
+                    {{ end }}
+                    <div class="media-body">
+                      <h4 class="media-heading">{{ .title | markdownify }}</h4>
+                      <p>{{ .content | markdownify }}</p>
+                    </div>
+                  </div>
+                </div>
+                {{ end }}
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    {{/* /Feature  */}}
+  {{ end }}
+{{ end }}

@@ -1,0 +1,11 @@
+{{ with site.Params.preloader }}
+  {{ if .enable }}
+    {{/* preloader start  */}}
+    <div class="preloader">
+      {{ with $image := resources.Get site.Params.preloader.image }}
+        <img src="{{ .Permalink }}" alt="preloader">
+      {{ end }}
+    </div>
+    {{/* preloader end  */}}
+  {{ end }}
+{{ end }}

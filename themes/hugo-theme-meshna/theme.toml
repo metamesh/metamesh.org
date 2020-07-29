@@ -1,0 +1,12 @@
+name = "Meshna"
+license = "CC BY 3.0"
+licenselink = "https://creativecommons.org/licenses/by/3.0/"
+description = "Modification of Themefisher’s Meghna Template, for Meta Mesh Wireless Communities"
+homepage = "https://github.com/jwarner112/hugo-theme-meshna"
+tags = ['landing-page', 'google-analytics', 'fast', 'modern', 'minimal', 'minimalistic', 'business', 'agency-template', 'hugo-theme', 'hugo-templates', 'bootstrap', 'responsive', 'portfolio', 'dark', 'clean', 'simple', 'company', 'creative', 'contact-form', 'custom-themes', 'mobile']
+features = ['bootstrap','responsive']
+min_version = "0.58.0"
+
+[author]
+  name = "Jeff Warner"
+  homepage = "https://github.com/jwarner112"

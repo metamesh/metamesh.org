@@ -4,9 +4,6 @@
 # Caching that we don't need in Git
 /resources
 
-# Obtain this later during build
-/themes
-
 ## OS Files
 # Windows
 Thumbs.db

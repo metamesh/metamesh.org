@@ -1,7 +1,7 @@
 ################################# Default configuration ###################
 baseURL = "https://jwarner112.github.io/metamesh.org"
 title = "Meta Mesh Wireless Communities [Staging]"
-theme = "meghna-hugo"
+theme = "hugo-theme-meshna"
 # post pagination
 paginate = "6"
 # post excerpt
@@ -46,17 +46,6 @@ link = "https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js
 link = "https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css"
 [[params.plugins.js]]
 link = "https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/js/bootstrap.min.js"
-
-
-# TODO: Replace with external embed
-[[params.plugins.js]]
-link = "plugins/google-map/map.js"
-
-# TODO: Replace with another icon library, maybe https://thenounproject.com?
-[[params.plugins.css]]
-link = "plugins/themify-icons/themify-icons.css"
-
-
 
 
 ############################# Navigation ##################################
@@ -110,49 +99,44 @@ logo = "images/logo.png"
 description = "Responsive Multipurpose Parallax HTML5 Template"
 author = "Meta Mesh Wireless Communities"
 # Google Analytics
-google_analytics_id = "UA-35167230-1"
+# google_analytics_id = "UA-35167230-1"
+# FontAwesome
+fontawesome_kit_id = "c4fa996494"
 # post share
 post_share = true
 
 # preloader
 [params.preloader]
 enable = true
-preloader = "images/logo.png"
+image = "images/splash.png"
 
-# google map
-[params.map]
-enable = true
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=long-secret-token"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
-map_marker = "images/marker.png"
+
+
+# # Optional: Google Maps widget (currently disabled)
+# [params.map]
+# enable = true
+# api_key = ""
+# map_latitude = "51.5223477"
+# map_longitude = "-0.1622023"
+# map_marker = "images/marker.png"
 
 
 ############################# social icons ##########################
 [[params.social]]
-icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
+icon = "fa-facebook-f"
 link = "https://www.facebook.com/MetaMesh/"
 
 [[params.social]]
-icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
+icon = "fa-twitter"
 link = "http://www.twitter.com/metameshwc"
 
 [[params.social]]
-icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
+icon = "fa-youtube"
 link = "https://www.youtube.com/metameshwc"
 
 [[params.social]]
-icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
+icon = "fa-linkedin"
 link = "https://www.linkedin.com/company/meta-mesh-llc"
-
-# [[params.social]]
-# icon = "ti-dribbble" # themify icon pack : https://themify.me/themify-icons
-# link = "#"
-
-# [[params.social]]
-# icon = "ti-pinterest" # themify icon pack : https://themify.me/themify-icons
-# link = "#"
-
 
 
 ################################ English Language ########################
@@ -166,10 +150,10 @@ copyright = "copyright &copy; 2020 Meta Mesh Wireless Communities, all rights re
 
 
 # ################################ France Language ########################
-# [Languages.fr]
-# languageName = "Fr"
-# languageCode = "fr-fr"
-# contentDir = "content/french"
-# weight = 2
-# home = "Accueil"
-# copyright = "copyright &copy; 2020 [gethugothemes](https://gethugothemes.com) tous droits réservés"
+[Languages.fr]
+languageName = "Fr"
+languageCode = "fr-fr"
+contentDir = "content/french"
+weight = 2
+home = "Accueil"
+copyright = "copyright &copy; 2020 Meta Mesh Wireless Communities, tous droits réservés"
