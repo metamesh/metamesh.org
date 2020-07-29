@@ -10,10 +10,19 @@ sections:
   create: all
   match: "**/*.{yaml,yml,toml,json}"
 - type: directory
-  path: content
-  label: Pages
-  create: all
-  match: "*"
+  path: content/en/author
+  label: Authors
+  create: documents
+  match: "*.md"
+  templates:
+  - author
+- type: directory
+  path: content/en/blog
+  label: Blogs
+  create: documents
+  match: "*.md"
+  templates:
+  - post
 upload_dir: assets/uploads
 public_path: "/uploads"
 front_matter_path: ''
