@@ -15,21 +15,13 @@ sections:
   - author
 - type: directory
   path: content/english/blog
-  label: Blogs
+  label: Blog Post
   create: documents
   match: "*.md"
   templates:
   - post
 - type: heading
-  label: Edit Existing
-- type: document
-  path: data/en/cta.yml
-  label: Call to Action
-- type: directory
-  path: data/en
-  label: Raw Data Files
-  create: none
-  match: "**/*.{yaml,yml,toml,json}"
+  label: Edit Content
 - type: document
   path: data/en/front_page.yml
   label: Front Page
