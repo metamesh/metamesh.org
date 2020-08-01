@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: ".forestry"
-webhook_url: 
+webhook_url:
 sections:
 - type: heading
   label: Create New
@@ -31,7 +31,7 @@ sections:
   create: all
   match: "**/*.{yaml,yml,toml,json}"
 - type: document
-  path: data/en/xyzzy.yml
+  path: data/en/front_page.yml
   label: Front Page
 upload_dir: assets/uploads
 public_path: "/uploads"

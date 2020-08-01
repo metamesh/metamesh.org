@@ -10,7 +10,7 @@ banner:
     label: Explore Us
     link: "#services"
 
-
+---
 about:
   enable : true
   title : About Us
@@ -25,7 +25,7 @@ about:
     title : We're Genius
     content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimo
 
-
+---
 feature:
   enable : true
   image : images/about/about-business-man.jpg
@@ -46,7 +46,7 @@ feature:
       icon : fa-bullhorn
       content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
 
-
+---
 cta:
   enable : true
   bg_image : "images/backgrounds/bg-white-wall.jpg"
@@ -58,7 +58,7 @@ cta:
     label : "Start a project with us"
     link : "#contact"
 
-
+---
 service:
   enable : true
   title : Our Services
@@ -82,7 +82,7 @@ service:
       icon : fa-handshake
       content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
 
-
+---
 skill:
   enable : true
   title : Our Skills
@@ -101,7 +101,7 @@ skill:
     - name :  Android Development
       percent : 75%
 
-
+---
 portfolio:
   enable : true
   title : Our Works
@@ -161,7 +161,7 @@ portfolio:
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
 
-
+---
 funfacts:
   enable : true
   bg_image : "images/backgrounds/bg-white-wall.jpg"
@@ -180,7 +180,7 @@ funfacts:
       icon : "fa-coffee"
       count : "250"
 
-
+---
 team:
   enable: true
   title: Our Team
@@ -251,7 +251,7 @@ team:
       hands-on experience. Justin maintains all Meta Mesh server infrastructure as
       well as assists in keeping a 100+ node network functioning.
 
-
+---
 pricing:
   enable : true
   title : Our Plans
@@ -309,7 +309,7 @@ pricing:
         label : "Signup"
         link : "#"
 
-
+---
 testimonial:
   enable: true
   bg_image: images/backgrounds/bg-testimonial.jpg
@@ -337,7 +337,7 @@ testimonial:
       minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi
       aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
 
-
+---
 contact:
   enable : true
   title : Contact Us
