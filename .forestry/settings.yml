@@ -6,7 +6,7 @@ webhook_url:
 sections:
 - type: directory
   path: data
-  label: Data
+  label: Raw Data Files
   create: all
   match: "**/*.{yaml,yml,toml,json}"
 - type: directory

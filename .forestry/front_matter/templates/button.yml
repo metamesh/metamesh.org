@@ -1,7 +1,6 @@
 ---
 label: Button
 hide_body: false
-is_partial: true
 fields:
 - type: text
   name: button_uri
