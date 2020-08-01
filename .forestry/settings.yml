@@ -28,8 +28,8 @@ sections:
 - type: directory
   path: data/en
   label: Raw Data Files
-  create: documents
-  match: "*.{yaml,yml,toml,json}"
+  create: none
+  match: "**/*.{yaml,yml,toml,json}"
 - type: document
   path: data/en/front_page.yml
   label: Front Page
