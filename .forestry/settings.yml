@@ -26,10 +26,10 @@ sections:
   path: data/en/cta.yml
   label: Call to Action
 - type: directory
-  path: data
+  path: data/en
   label: Raw Data Files
   create: all
-  match: "**/*.{yaml,yml,toml,json}"
+  match: "*.{yaml,yml,toml,json}"
 - type: document
   path: data/en/front_page.yml
   label: Front Page
