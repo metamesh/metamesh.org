@@ -1,4 +1,150 @@
 ---
 label: XYZZY
 hide_body: true
-fields: []
+fields:
+- name: text
+  type: text
+  config:
+    required: true
+  label: TEXT
+  hidden: true
+  default: xyz
+- name: textarea
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: TEXTAREA
+- name: numbers
+  type: number
+  label: NUMBERS
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+- name: toggle
+  type: boolean
+  label: TOGGLE
+- name: dropdown
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: DROPDOWN
+- name: date_picker
+  type: datetime
+  label: DATE PICKER
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+- name: color_picker
+  type: color
+  label: COLOR PICKER
+  config:
+    required: false
+    color_format: Hex
+- name: tags
+  type: tag_list
+  default: []
+  label: TAGS
+- name: sortable_list
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: SORTABLE LIST
+- name: one_image
+  type: file
+  config:
+    maxSize: 64
+  label: ONE IMAGE
+- name: multi_image
+  type: image_gallery
+  config: {}
+  label: MULTI_IMAGE
+- name: set
+  type: field_group
+  config: {}
+  fields:
+  - name: 'yes'
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: 'yes'
+  - name: 'no'
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: 'no'
+  - name: yess
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: 'yes'
+  label: SET
+- name: list
+  type: field_group_list
+  fields:
+  - name: 'yes'
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: 'YES'
+  - name: yess
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: 'YES'
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: LIST
+- name: arrangeable_blocks
+  type: blocks
+  label: ARRANGEABLE BLOCKS
+  template_types: []
+  config:
+    min: 
+    max: 
+- name: imported_other_front_matter
+  type: include
+  config: {}
+  template: author
+  label: IMPORTED OTHER FRONT MATTER
