@@ -22,3 +22,5 @@ fields:
   name: description
   label: description
   description: meta description
+pages:
+- content/english/blog/pbbbbbbt.md
