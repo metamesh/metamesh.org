@@ -25,7 +25,6 @@ sections:
 - type: document
   path: data/en/cta.yml
   label: Call to Action
-  match: "**/*"
 - type: directory
   path: data
   label: Raw Data Files
