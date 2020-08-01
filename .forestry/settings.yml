@@ -30,6 +30,10 @@ sections:
   label: Raw Data Files
   create: all
   match: "**/*.{yaml,yml,toml,json}"
+- type: document
+  path: data/en/xyzzy.yml
+  label: XYZZY
+  match: "**/*"
 upload_dir: assets/uploads
 public_path: "/uploads"
 front_matter_path: ''
