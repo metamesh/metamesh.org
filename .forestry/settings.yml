@@ -4,11 +4,8 @@ auto_deploy: false
 admin_path: ".forestry"
 webhook_url: 
 sections:
-- type: directory
-  path: data
-  label: Raw Data Files
-  create: all
-  match: "**/*.{yaml,yml,toml,json}"
+- type: heading
+  label: Create New
 - type: directory
   path: content/english/author
   label: Authors
@@ -23,6 +20,17 @@ sections:
   match: "*.md"
   templates:
   - post
+- type: heading
+  label: Edit Existing
+- type: document
+  path: data/en/cta.yml
+  label: Call to Action
+  match: "**/*"
+- type: directory
+  path: data
+  label: Raw Data Files
+  create: all
+  match: "**/*.{yaml,yml,toml,json}"
 upload_dir: assets/uploads
 public_path: "/uploads"
 front_matter_path: ''
