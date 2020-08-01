@@ -4,6 +4,13 @@ auto_deploy: false
 admin_path: ".forestry"
 webhook_url: 
 sections:
+- type: directory
+  path: content/english/xyzzy
+  label: xyzzy's
+  create: all
+  match: "**/*.md"
+  templates:
+  - xyzzy
 - type: heading
   label: Create New
 - type: directory
