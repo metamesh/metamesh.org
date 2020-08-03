@@ -273,7 +273,7 @@ team:
       hands-on experience. Justin maintains all Meta Mesh server infrastructure as
       well as assists in keeping a 100+ node network functioning.
 pricing:
-  enable: true
+  enable: false
   title: Our Plans
   pricing_table:
   - name: Free
