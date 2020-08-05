@@ -7,19 +7,6 @@ Version: 1.3
 Tags: one-page, single-page, portfolio, custom-colors, post-formats, responsive, html5, css3
 */
 
-/* Theme:
-    - Primary (yellow): #cdbc17
-    - Secondary (dark yellow): #ad9e03
-    - Background: #4b4938
-    - Background (Dark): #302e22
-    - Text: #97957c
-    - Headers: #cfccb2
-    - Button: #a39512
-    - Button Border: #858371
-    - Button (Clicked): rgba(247, 247, 243, 0.07)
-    - Nav Tab (Clicked): #778d78
-*/
-
 /*=== MEDIA QUERY ===*/
 html {
   background-color: #4b4938;
@@ -346,7 +333,7 @@ a:hover {
 
 .overly:before {
   content: '';
-  background: rgba(0, 0, 0, 0.096);
+  background: rgba(134, 117, 105, 0.25);
   position: absolute;
   top: 0;
   right: 0;
@@ -459,7 +446,7 @@ a:hover {
 
 .hero-area:before {
   content: '';
-  background: rgba(0, 0, 0, 0.63);
+  background: rgba(55, 50, 45, 0.5);
   position: absolute;
   top: 0;
   right: 0;
@@ -1123,7 +1110,7 @@ a:hover {
   Testimonial section
 ==================================================================*/
 .testimonial:before {
-  background: rgba(42, 48, 55, 0.7);
+  background: rgba(36, 27, 20, 0.5);
 }
 
 .client-info {
@@ -1548,7 +1535,7 @@ input#e-mail,
 }
 
 .social-icon ul li a i {
-  color: #55606a;
+  color: ##97957c
   display: inline-block;
   font-size: 32px;
   line-height: 70px;
@@ -2259,7 +2246,7 @@ figcaption {
   text-align: center;
   margin-right: 6px;
   font-weight: 700;
-  color: #55606a;
+  color: #97957c;
 }
 
 .pagination .page-item .page-link:hover {
