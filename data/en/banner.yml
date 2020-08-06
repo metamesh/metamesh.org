@@ -1,7 +1,6 @@
 ---
 banner:
   enable: true
-  bg_image_webp: images/backgrounds/bg-hero.webp
   bg_image: images/backgrounds/bg-hero.png
   title: Experience Mesh Wireless
   content: Community-owned Wireless Mesh Networks put power and control in your hands,

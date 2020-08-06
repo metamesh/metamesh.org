@@ -4,12 +4,8 @@
 {{ with $data.testimonial.testimonial }}
   {{ if $data.testimonial.testimonial.enable }}
     {{ $bg := resources.Get .bg_image }}
-    {{ $bg_webp := resources.Get .bg_image_webp }}
     {{/* Start Testimonial  */}}
-    <section id="testimonial" class="testimonial overly section bg-2"
-      style='background-image: url("{{ $bg_webp.Permalink }}")'>
-      {{/* this image is for trigger this section fallback background image */}}
-      <img class="lozad" style="display: none;" onerror="this.onerror=null;this.parentElement.style.backgroundImage='url({{ $bg.Permalink }})'" data-src="{{ $bg_webp.Permalink }}" />
+    <section id="testimonial" class="testimonial overly section bg-2 lozad" data-background-image="{{ $bg.Permalink }}">
       <div class="container">
         <div class="row">
           <div class="col-xl-12">
@@ -19,10 +15,9 @@
                 {{/* testimonial single  */}}
                 <div class="item text-center">
                   {{ $img := resources.Get .image }}
-                  {{ $img_webp := resources.Get .image_webp }}
                   {{/* client photo  */}}
                   <div class="client-thumb">
-                    <img class="img-fluid lozad" data-src="{{ $img_webp.Permalink }}" onerror="this.onerror=null;this.src='{{ $img.Permalink }}'" alt="{{ .name }}">
+                    <img class="img-fluid lozad" data-src="{{ $img.Permalink }}" alt="{{ .name }}">
                   </div>
 
                   {{/* client info  */}}

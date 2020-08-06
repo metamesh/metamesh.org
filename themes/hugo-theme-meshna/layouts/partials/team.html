@@ -25,8 +25,7 @@
               <div class="member-photo">
                 {{/* member photo  */}}
                 {{ $image := resources.Get .image }}
-                {{ $image_webp := resources.Get .image_webp }}
-                <img class="img-fluid lozad" data-src="{{ $image_webp.Permalink }}" onerror="this.onerror=null;this.src='{{ $image.Permalink }}'" alt="{{ .name }}">
+                <img class="img-fluid lozad" data-src="{{ $image.Permalink }}" alt="{{ .name }}">
                 {{ with .social }}
                   {{/* member social profile  */}}
                   <div class="mask">
