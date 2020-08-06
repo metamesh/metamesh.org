@@ -9,7 +9,7 @@ jobs:
   publish:
     runs-on: ubuntu-20.04
     steps:
-      - name: Get GitHub repo 'metamesh/metamesh.org'
+      - name: Get source repo
         uses: actions/checkout@v2
         with:
           ref: master
@@ -22,7 +22,12 @@ jobs:
         run: |
           hugo env
           hugo config
-      - name: Build metamesh.org with Hugo
+      - name: Build site
+        run: hugo --debug --i18n-warnings --ignoreCache --minify --baseURL "${{ secrets.BASE_URL }}"
+        if: env.BASE_URL != ''
+        env:
+          BASE_URL: ${{ secrets.BASE_URL }}
+      - name: Build site (default)
         run: hugo --debug --i18n-warnings --ignoreCache --minify
       - name: Deploy built site to gh-pages branch
         uses: peaceiris/actions-gh-pages@v3

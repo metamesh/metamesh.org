@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
-baseURL = "https://jwarner112.github.io/metamesh.org"
-title = "Meta Mesh Wireless Communities [Staging]"
+baseURL = "https://metamesh.org"
+title = "Meta Mesh Wireless Communities"
 theme = "hugo-theme-meshna"
 # post pagination
 paginate = "6"
