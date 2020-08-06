@@ -8,6 +8,8 @@ paginate = "6"
 summaryLength = "15"
 # # disqus short name
 # disqusShortname = "" # get your shortname form here : https://disqus.com
+# set metadata output format (used by Forestry CMS)
+metaDataFormat = "yaml"
 # disable language
 disableLanguages = ['fr']
 
@@ -104,6 +106,7 @@ google_analytics_id = "UA-35167230-1"
 fontawesome_kit_id = "c4fa996494"
 # post share
 post_share = true
+
 
 # preloader
 [params.preloader]
