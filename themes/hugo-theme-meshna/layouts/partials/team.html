@@ -1,7 +1,7 @@
-{{ $data := index site.Data site.Language.Lang }}
+{{ $data := index site.Data site.Language.Lang "front_page" }}
 
-{{ with $data.team.team }}
-  {{ if $data.team.team.enable }}
+{{ with $data.team }}
+  {{ if $data.team.enable }}
     {{/* Start Our Team  */}}
     <section id="team" class="section">
       <div class="container">

@@ -1,7 +1,7 @@
-{{ $data := index site.Data site.Language.Lang }}
+{{ $data := index site.Data site.Language.Lang "front_page" }}
 
-{{ if $data.about.about.enable }}
-  {{ with $data.about.about }}
+{{ with $data.about }}
+  {{ if $data.about.enable }}
   {{/* Start About Section  */}}
   <section class="bg-one about section" id="about">
     <div class="container">

@@ -1,7 +1,7 @@
-{{ $data := index site.Data site.Language.Lang }}
+{{ $data := index site.Data site.Language.Lang "front_page" }}
 
-{{ with $data.cta.cta}}
-  {{ if $data.cta.cta.enable}}
+{{ with $data.cta}}
+  {{ if $data.cta.enable}}
     {{/* Start Call To Action  */}}
     {{ $bg := resources.Get .bg_image }}
     <section id="cta" class="call-to-action section-sm bg-1 overly lozad" data-background-image="{{ $bg.Permalink }}">

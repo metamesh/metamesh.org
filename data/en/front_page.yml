@@ -203,7 +203,7 @@ team:
   enable: true
   title: Our Team
   team_member:
-  - name: Sam Garfinkel
+  - name: Sam Dinkleburg
     image: images/team/sam-garfinkel.jpg
     role: Development Coordinator
     blurb: A professional writer by trade, Sam helps Meta Mesh communicate its project

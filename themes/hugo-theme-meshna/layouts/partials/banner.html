@@ -1,7 +1,7 @@
-{{ $data := index site.Data site.Language.Lang }}
+{{ $data := index site.Data site.Language.Lang "front_page" }}
 
-{{ with $data.banner.banner }}
-  {{ if $data.banner.banner.enable }}
+{{ with $data.banner }}
+  {{ if $data.banner.enable }}
     {{/* Welcome Slider */}}
     {{ $bg := resources.Get .bg_image }}
     <section class="hero-area lozad" data-background-image='{{ $bg.Permalink }}'>

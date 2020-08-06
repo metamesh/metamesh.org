@@ -1,8 +1,8 @@
-{{ $data := index site.Data site.Language.Lang }}
+{{ $data := index site.Data site.Language.Lang "front_page" }}
 
 
-{{ with $data.feature.feature }}
-  {{ if $data.feature.feature.enable }}
+{{ with $data.feature }}
+  {{ if $data.feature.enable }}
     {{ $image := resources.Get .image }}
     {{/* Feature  */}}
     <section class="section section-bg about-2 padding-0" id="feature">

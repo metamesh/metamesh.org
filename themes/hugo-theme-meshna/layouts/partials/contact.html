@@ -1,7 +1,7 @@
-{{ $data := index site.Data site.Language.Lang }}
+{{ $data := index site.Data site.Language.Lang "front_page" }}
 
-{{ if $data.contact.contact.enable }}
-{{ with $data.contact.contact }}
+{{ if $data.contact.enable }}
+{{ with $data.contact }}
 {{/* Start Contact Us  */}}
 <section id="contact" class="contact-us section-bg">
 	<div class="container pb-5">
