@@ -148,5 +148,3 @@ fields:
   config: {}
   template: author
   label: IMPORTED OTHER FRONT MATTER
-pages:
-- content/english/xyzzy/john-doe.md
