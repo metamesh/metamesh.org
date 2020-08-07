@@ -1,0 +1,102 @@
+---
+label: Team Member
+hide_body: true
+fields:
+- name: portrait
+  type: file
+  config:
+    maxSize: 64
+  label: Portrait
+  description: An image used to portray this member of the Team. This does not have to include their face.
+- name: name
+  type: text
+  config:
+    required: true
+  label: Name
+  description: The name by which an employee of Meta Mesh identifies themselves
+- name: hidden
+  type: boolean
+  label: Hidden
+  description: Do not display this individual on the site
+  default: false
+- name: role
+  type: text
+  config:
+    required: true
+  label: Role
+  description: The set of tasks and responsibilities expected of this Team Member
+- name: blurb
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: false
+    schema:
+      format: markdown
+    max: 160
+  label: Blurb
+  description: A <em>short</em> passage describing this member of the Team (160 chars
+    max)
+- name: about
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+    max: 2000
+  label: About
+  description: A <em>long</em> description of this member of the Team (2000 char max)
+- name: social_media
+  type: field_group_list
+  fields:
+  - name: icon_name
+    type: select
+    default: []
+    config:
+      required: false
+      options:
+      - artstation
+      - bandcamp
+      - battle-net
+      - behance
+      - deviantart
+      - discord
+      - dribbble
+      - fa-facebook-f
+      - ello
+      - etsy
+      - github
+      - gitlab
+      - gitter
+      - hackerrank
+      - instagram
+      - invision
+      - keybase
+      - linkedin-in
+      - mastodon
+      - medium-m
+      - pinterest-p
+      - quora
+      - reddit-alien
+      - twitter
+      source:
+        type: simple
+        section:
+        file:
+        path:
+    label: Icon Name
+    description: As referenced in <a href="https://fontawesome.com/icons?d=gallery&amp;s=brands"
+      title="FontAwesome Icon Gallery" target="_blank">FontAwesome 5.14</a>
+  - name: url
+    type: text
+    config:
+      required: false
+    label: URL
+    description: Address to the platform
+  config:
+    min:
+    max:
+    labelField:
+  label: Social Media
