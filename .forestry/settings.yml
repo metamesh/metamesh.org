@@ -20,13 +20,6 @@ sections:
   match: "*.md"
   templates:
   - post
-- type: directory
-  path: content/english/xyzzy
-  label: xyzzy's
-  create: all
-  match: "**/*.md"
-  templates:
-  - xyzzy
 - type: heading
   label: Edit Content
 - type: document
