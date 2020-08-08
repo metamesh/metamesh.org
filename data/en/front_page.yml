@@ -9,8 +9,6 @@ banner:
     enable: true
     label: Explore Us
     link: "#services"
-
-
 about:
   enable: true
   title: About Us
@@ -27,8 +25,6 @@ about:
     title: We're Genius
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
       libero, perspiciatis eos provident laborum eum dignissimo
-
-
 feature:
   enable: true
   image: images/about/about-business-man.jpg
@@ -52,8 +48,6 @@ feature:
     icon: fa-bullhorn
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
       dolores repellendus eos saepe
-
-
 call_to_action:
   enable: true
   bg_image: images/backgrounds/bg-white-wall.jpg
@@ -64,8 +58,6 @@ call_to_action:
     enable: true
     label: Start a project with us
     link: "#contact"
-
-
 service:
   enable: true
   title: Our Services
@@ -94,8 +86,6 @@ service:
     icon: fa-handshake
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
       facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-
-
 skill:
   enable: true
   title: Our Skills
@@ -115,8 +105,6 @@ skill:
     percent: 95%
   - name: Android Development
     percent: 75%
-
-
 portfolio:
   enable: true
   title: Our Works
@@ -179,8 +167,6 @@ portfolio:
     - photography
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
-
-
 funfacts:
   enable: true
   bg_image: images/backgrounds/bg-white-wall.jpg
@@ -197,25 +183,17 @@ funfacts:
   - title: Square Feet of Coverage
     icon: fa-map
     count: "250"
-
-
 team:
   enable: true
   title: Our Team
   team_member:
-  - name: Sam Garfinkel
-    image: images/team/sam-garfinkel.jpg
-    role: Development Coordinator
-    blurb: A professional writer by trade, Sam helps Meta Mesh communicate its project
-      needs and goals to the public, to partners, and to donors or grantors.
-    social: ''
   - name: Adam Longwill
     image: images/team/adam-longwill.jpg
     role: Executive Director
-    blurb: Adam seeks to live in a society of equals. He believes that access to
-      information is a fundamental part of this, and that building a resiliant,
-      expandable, and community-owned wireless infrastructure is the best way he
-      can help to achieve it.
+    blurb: Adam seeks to live in a society of equals. He believes that access to information
+      is a fundamental part of this, and that building a resiliant, expandable, and
+      community-owned wireless infrastructure is the best way he can help to achieve
+      it.
     biography: Adam was born in Pittsburgh, went to Woodland Hills, studied Industrial
       Design at Philadelphia University before transferring and earning an English
       degree from Goucher College. He spent a semester at UMBC studying Human-Centered
@@ -224,11 +202,13 @@ team:
       2012. He believes access to information is essential to having a more equal
       society and the best way to disseminate information is through community-owned
       infrastructure that is resilient and expandable.
-    social:
-    - icon: twitter
-      link: https://twitter.com/adamlongwill
-    - icon: linkedin
-      link: https://www.linkedin.com/in/adam-longwill-61b8154a
+    social: "[object Object],[object Object]"
+  - name: Sam Garfinkel
+    image: images/team/sam-garfinkel.jpg
+    role: Development Coordinator
+    blurb: A professional writer by trade, Sam helps Meta Mesh communicate its project
+      needs and goals to the public, to partners, and to donors or grantors.
+    social: ''
   - name: Becky Zajdel
     image: images/team/team-4.jpg
     designation: Director of Outreach
@@ -269,8 +249,6 @@ team:
       System Administration and Network Administration, with 4 years of real-world
       hands-on experience. Justin maintains all Meta Mesh server infrastructure as
       well as assists in keeping a 100+ node network functioning.
-
-
 pricing:
   enable: true
   title: Our Plans
@@ -327,8 +305,6 @@ pricing:
     button:
       label: Signup
       link: "#"
-
-
 testimonial:
   enable: true
   bg_image: images/backgrounds/bg-testimonial.jpg
@@ -351,8 +327,6 @@ testimonial:
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium
       minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi
       aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
-
-
 contact:
   enable: true
   title: Contact Us
