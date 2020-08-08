@@ -5,23 +5,15 @@ admin_path: ".forestry"
 webhook_url: 
 sections:
 - type: heading
-  label: Create New
-- type: directory
-  path: content/english/author
-  label: Authors
-  create: documents
-  match: "*.md"
-  templates:
-  - author
-- type: directory
-  path: content/english/blog
-  label: Blog Post
-  create: documents
-  match: "*.md"
-  templates:
-  - post
-- type: heading
   label: Edit Content
+- type: directory
+  path: data/en
+  label: Data
+  create: all
+  match: "**/*.{yml,yaml,json,toml}"
+  new_doc_ext: ".yml"
+  templates:
+  - team-member
 - type: document
   path: data/en/front_page.yml
   label: Front Page
