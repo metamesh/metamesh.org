@@ -13,6 +13,7 @@ sections:
   match: "**/*.{yml,yaml,json,toml}"
   new_doc_ext: yml
   templates:
+  - banner
   - team-member
 - type: document
   path: data/en/front_page.yml
