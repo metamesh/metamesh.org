@@ -1,22 +1,22 @@
-{{ $data := index site.Data site.Language.Lang "front_page" }}
+{{ $banner := index site.Data site.Language.Lang "banner" }}
 
-{{ with $data.banner }}
-  {{ if $data.banner.enable }}
+{{ with $banner }}
+  {{ if .enable }}
     {{/* Welcome Slider */}}
     {{ $bg := resources.Get .bg_image }}
     <section class="hero-area lozad" data-background-image='{{ $bg.Permalink }}'>
       <div class="block">
         {{ if .icon }}
-        <div class="video-button">
-          <i class="{{ .icon }}"></i>
-        </div>
+          <div class="video-button">
+            <i class="{{ .icon }}"></i>
+          </div>
         {{ end }}
-        <h1>{{ .title | markdownify }}</h1>
-        <p>{{ .content | markdownify }}</p>
-        {{ if .button.enable }}
+        <h1>{{ .heading | markdownify }}</h1>
+        <p>{{ .subheading | markdownify }}</p>
         {{ with .button }}
-        <a href="{{ .link }}" class="btn btn-transparent page-scroll">{{ .label }}</a>
-        {{ end }}
+          {{ if .button.enable }}
+            <a href="{{ .link }}" class="btn btn-transparent page-scroll">{{ .label }}</a>
+          {{ end }}
         {{ end }}
       </div>
     </section>
