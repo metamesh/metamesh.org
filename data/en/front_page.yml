@@ -202,13 +202,11 @@ team:
       2012. He believes access to information is essential to having a more equal
       society and the best way to disseminate information is through community-owned
       infrastructure that is resilient and expandable.
-    social: "[object Object],[object Object]"
   - name: Sam Garfinkel
     image: images/team/sam-garfinkel.jpg
     role: Development Coordinator
     blurb: A professional writer by trade, Sam helps Meta Mesh communicate its project
       needs and goals to the public, to partners, and to donors or grantors.
-    social: ''
   - name: Becky Zajdel
     image: images/team/team-4.jpg
     designation: Director of Outreach
