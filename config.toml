@@ -108,13 +108,6 @@ fontawesome_kit_id = "c4fa996494"
 post_share = true
 
 
-# preloader
-[params.preloader]
-enable = true
-image = "images/splash.png"
-
-
-
 # # Optional: Google Maps widget (currently disabled)
 # [params.map]
 # enable = true

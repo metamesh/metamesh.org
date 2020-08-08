@@ -4,7 +4,6 @@
 
 <body id="body" data-spy="scroll" data-target=".navbar" data-offset="55">
   <div id="content">
-    {{ partial "preloader.html" . }}
     {{- block "main" . }}{{- end }}
   </div>
   {{- partial "footer.html" . -}}
