@@ -4,29 +4,43 @@ hide_body: true
 fields:
 - type: text
   name: title
-  label: title
+  label: Title
+  config:
+    required: true
 - type: boolean
   name: enable
-  label: enable
+  label: Enable
+  default: true
 - type: file
   name: bg_image
-  label: bg_image
-- type: text
-  name: heading
-  label: heading
+  label: Background Image
+- name: heading
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Heading
+  description: The first and largest of the lines on this section
 - type: textarea
   name: subheading
-  label: subheading
+  label: Sub-Heading
+  description: The second and smallest of the lines on this section
 - type: field_group
   name: button
-  label: button
+  label: Button
   fields:
   - type: boolean
     name: enable
-    label: enable
+    label: Enable
+    description: Display / Do not Display this Button
   - type: text
     name: label
-    label: label
+    label: Label
+    description: The text on this button
   - type: text
     name: link
-    label: link
+    label: URL
+    description: The web address to which this button will point
