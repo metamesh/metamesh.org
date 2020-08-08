@@ -11,7 +11,7 @@ sections:
   label: Data
   create: all
   match: "**/*.{yml,yaml,json,toml}"
-  new_doc_ext: ".yml"
+  new_doc_ext: yml
   templates:
   - team-member
 - type: document

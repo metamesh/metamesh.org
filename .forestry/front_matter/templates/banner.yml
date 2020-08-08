@@ -1,0 +1,32 @@
+---
+label: Banner
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: boolean
+  name: enable
+  label: enable
+- type: file
+  name: bg_image
+  label: bg_image
+- type: text
+  name: heading
+  label: heading
+- type: textarea
+  name: subheading
+  label: subheading
+- type: field_group
+  name: button
+  label: button
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: label
+    label: label
+  - type: text
+    name: link
+    label: link
