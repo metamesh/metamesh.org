@@ -3,8 +3,9 @@
 {{ with $banner }}
   {{ if .enable }}
     {{/* Welcome Slider */}}
-    {{ $bg := resources.Get .bg_image }}
-    <section class="hero-area lozad" data-background-image='{{ $bg.Permalink }}'>
+    {{ $resource := resources.Get .bg_image }}
+    {{ $image := $resource.Resize "x1024" | images.Filter (images.GaussianBlur 2) }}
+    <section class="hero-area lozad" data-background-image='{{ $image.Permalink }}'>
       <div class="block">
         {{ if .icon }}
           <div class="video-button">
