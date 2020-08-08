@@ -1,0 +1,24 @@
+################################# funfacts ##################################
+funfacts:
+  enable : true
+  bg_image : "images/backgrounds/bg-white-wall.jpg"
+  counter_item:
+    # counter item loop
+    - title : "Happy Clients"
+      icon : "fa-smile"
+      count : "320"
+
+    # counter item loop
+    - title : "Projects completed"
+      icon : "fa-tasks"
+      count : "350"
+
+    # counter item loop
+    - title : "Positive feedback"
+      icon : "fa-thumbs-up"
+      count : "158"
+
+    # counter item loop
+    - title : "Cups of Coffee"
+      icon : "fa-coffee"
+      count : "250"
