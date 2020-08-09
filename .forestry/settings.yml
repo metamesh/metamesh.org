@@ -18,8 +18,8 @@ sections:
 - type: document
   path: data/en/front_page.yml
   label: Front Page
-upload_dir: assets/uploads
-public_path: "/uploads"
+upload_dir: assets/media
+public_path: "/media"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
