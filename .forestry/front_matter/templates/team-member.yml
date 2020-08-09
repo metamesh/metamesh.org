@@ -102,4 +102,5 @@ fields:
     labelField: 
   label: Social Media
 pages:
+- data/en/team/adam-longwill.yml
 - data/en/team/john-doe.yml
