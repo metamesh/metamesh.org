@@ -8,7 +8,7 @@ sections:
   label: Edit Content
 - type: directory
   path: data/en
-  label: Data
+  label: Site Data
   create: all
   match: "**/*.{yml,yaml,json,toml}"
   new_doc_ext: yml
