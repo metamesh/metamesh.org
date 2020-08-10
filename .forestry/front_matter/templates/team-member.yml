@@ -9,7 +9,7 @@ fields:
   label: Portrait
   description: An image used to portray this member of the Team. This does not have
     to include their face.
-- name: name
+- name: title
   type: text
   config:
     required: true
@@ -52,11 +52,17 @@ fields:
 - name: social_media
   type: field_group_list
   fields:
+  - name: title
+    type: text
+    config:
+      required: true
+    label: Title
+    description: Name of the platform
   - name: icon_name
     type: select
     default: []
     config:
-      required: false
+      required: true
       options:
       - artstation
       - bandcamp
@@ -65,7 +71,7 @@ fields:
       - deviantart
       - discord
       - dribbble
-      - fa-facebook-f
+      - facebook-f
       - ello
       - etsy
       - github
@@ -84,22 +90,21 @@ fields:
       - twitter
       source:
         type: simple
-        section: 
-        file: 
-        path: 
-    label: Icon Name
-    description: As referenced in <a href="https://fontawesome.com/icons?d=gallery&amp;s=brands"
-      title="FontAwesome Icon Gallery" target="_blank">FontAwesome 5.14</a>
+        section:
+        file:
+        path:
+    label: Icon
+    description: As referenced in <a href="https://fontawesome.com/icons?d=gallery&amp;s=brands" title="FontAwesome Icon Gallery" target="_blank">FontAwesome 5.14</a>
   - name: url
     type: text
     config:
-      required: false
+      required: true
     label: URL
     description: Address to the platform
   config:
-    min: 
-    max: 
-    labelField: 
+    min:
+    max:
+    labelField:
   label: Social Media
 pages:
 - data/en/team/adam-longwill.yml
