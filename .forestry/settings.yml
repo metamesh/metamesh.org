@@ -6,15 +6,6 @@ webhook_url:
 sections:
 - type: heading
   label: Edit Content
-- type: directory
-  path: data/en
-  label: Site Data
-  create: all
-  match: "**/*.{yml,yaml,json,toml}"
-  new_doc_ext: yml
-  templates:
-  - banner
-  - team-member
 - type: document
   path: data/en/banner.yml
   label: Banner
