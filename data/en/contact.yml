@@ -1,30 +1,24 @@
 ---
-enable : true
-title : Contact Us
-subtitle : Contact Details
-content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
-
-# Contact details
+enable: false
+title: Contact Us
+subtitle: Contact Details
+content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident,
+  eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo
+  officiis ratione vel fugiat dicta laboriosam labore adipisci.
 contact_list:
-  - icon : fa-map-marker
-    info : "744 East Warrington Ave, Pittsburgh PA, 15210"
-
-  - icon : fa-phone
-    info : "Phone: +1 (412) 223-4253"
-
-  - icon : fa-fax
-    info : "Fax: +1 (412) 229-0322"
-
-  - icon : fa-envelope
-    info : "Email: info@metamesh.org"
-
-
-# Contact form
+- icon: fa-map-marker
+  info: 744 East Warrington Ave, Pittsburgh PA, 15210
+- icon: fa-phone
+  info: 'Phone: +1 (412) 223-4253'
+- icon: fa-fax
+  info: 'Fax: +1 (412) 229-0322'
+- icon: fa-envelope
+  info: 'Email: info@metamesh.org'
 contact_form:
-  enable : true
-  form_action : "#" #contact form works with https://formspree.io
-  name : "Your Name"
-  email : "Your Email"
-  subject : "Subject"
-  message : "Message"
-  submit : "Submit"
+  enable: true
+  form_action: "#"
+  name: Your Name
+  email: Your Email
+  subject: Subject
+  message: Message
+  submit: Submit

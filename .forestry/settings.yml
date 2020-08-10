@@ -20,7 +20,7 @@ sections:
   label: Team Members
   create: documents
   match: "**/*.{yml,yaml,json,toml}"
-  new_doc_ext: ".yml"
+  new_doc_ext: yml
   templates:
   - team-member
 - type: document
