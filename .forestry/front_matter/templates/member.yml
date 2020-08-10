@@ -107,3 +107,5 @@ fields:
     max: 
     labelField: 
   label: Social Media
+pages:
+- data/en/team/sam-garfinkel.yml
