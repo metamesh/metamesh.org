@@ -15,6 +15,10 @@ sections:
   templates:
   - banner
   - team-member
+- type: document
+  path: data/en/banner.yml
+  label: Banner
+  match: "**/*"
 - type: directory
   path: data/en/team
   label: Team Members
@@ -23,9 +27,6 @@ sections:
   new_doc_ext: yml
   templates:
   - team-member
-- type: document
-  path: data/en/front_page.yml
-  label: Front Page
 upload_dir: assets/images
 public_path: "/images"
 front_matter_path: ''
