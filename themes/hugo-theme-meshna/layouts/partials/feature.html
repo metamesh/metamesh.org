@@ -1,8 +1,8 @@
-{{ $data := index site.Data site.Language.Lang "front_page" }}
+{{ $feature := index site.Data site.Language.Lang "feature" }}
 
 
-{{ with $data.feature }}
-  {{ if $data.feature.enable }}
+{{ with $feature }}
+  {{ if $feature.enable }}
     {{ $image := resources.Get .image }}
     {{/* Feature  */}}
     <section class="section section-bg about-2 padding-0" id="feature">
@@ -12,8 +12,8 @@
           </div>
           <div class="col-lg-6">
             <div class="content-block">
-              <h2>{{ .title | markdownify }}</h2>
-              <p>{{ .content | markdownify }}</p>
+              <h2>{{ .heading | markdownify }}</h2>
+              <p>{{ .subheading | markdownify }}</p>
               <div class="row">
                 {{ range .feature_item }}
                 <div class="col-lg-6">
@@ -24,8 +24,8 @@
                     </div>
                     {{ end }}
                     <div class="media-body">
-                      <h4 class="media-heading">{{ .title | markdownify }}</h4>
-                      <p>{{ .content | markdownify }}</p>
+                      <h4 class="media-heading">{{ .heading | markdownify }}</h4>
+                      <p>{{ .subheading | markdownify }}</p>
                     </div>
                   </div>
                 </div>

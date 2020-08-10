@@ -1,8 +1,8 @@
-{{ $data := index site.Data site.Language.Lang "front_page" }}
+{{ $testimonial := index site.Data site.Language.Lang "testimonial" }}
 
 
-{{ with $data.testimonial }}
-  {{ if $data.testimonial.enable }}
+{{ with $testimonial }}
+  {{ if $testimonial.enable }}
     {{ $bg := resources.Get .bg_image }}
     {{/* Start Testimonial  */}}
     <section id="testimonial" class="testimonial overly section bg-2 lozad" data-background-image="{{ $bg.Permalink }}">
@@ -23,7 +23,7 @@
                   {{/* client info  */}}
                   <div class="client-info">
                     <div class="client-meta">
-                      <h3>{{ .name }}</h3>
+                      <h3>{{ .title }}</h3>
                       <span>{{ .date }}</span>
                     </div>
                     <div class="client-comment">

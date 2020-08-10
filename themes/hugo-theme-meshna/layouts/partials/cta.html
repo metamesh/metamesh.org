@@ -1,17 +1,17 @@
-{{ $data := index site.Data site.Language.Lang "front_page" }}
+{{ $cta := index site.Data site.Language.Lang "cta" }}
 
-{{ with $data.cta}}
-  {{ if $data.cta.enable}}
+{{ with $cta }}
+  {{ if $cta.enable}}
     {{/* Start Call To Action  */}}
     {{ $bg := resources.Get .bg_image }}
     <section id="cta" class="call-to-action section-sm bg-1 overly lozad" data-background-image="{{ $bg.Permalink }}">
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
-            <h2>{{ .title | markdownify }}</h2>
-            <p>{{ .content | markdownify }}</p>
-            {{ with $data.cta.cta.button }}
-              {{ if $data.cta.cta.button.enable }}
+            <h2>{{ .heading | markdownify }}</h2>
+            <p>{{ .subheadin | markdownify }}</p>
+            {{ with $cta.button }}
+              {{ if $cta.button.enable }}
                 <a href="{{ .link }}" class="btn btn-main page-scroll">{{ .label }}</a>
               {{ end }}
             {{ end }}

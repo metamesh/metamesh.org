@@ -1,7 +1,7 @@
-{{ $data := index site.Data site.Language.Lang "front_page" }}
+{{ $pricing := index site.Data site.Language.Lang "pricing" }}
 
-{{ with $data.pricing }}
-  {{ if $data.pricing.enable }}
+{{ with $pricing }}
+  {{ if $pricing.enable }}
     {{/* Start Pricing section  */}}
     <section id="pricing" class="pricing section">
       <div class="container">

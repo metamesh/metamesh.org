@@ -1,7 +1,7 @@
-{{ $data := index site.Data site.Language.Lang "front_page" }}
+{{ $portfolio := index site.Data site.Language.Lang "portfolio" }}
 
-{{ with $data.portfolio }}
-  {{ if $data.portfolio.enable }}
+{{ with $portfolio }}
+  {{ if $portfolio.enable }}
     {{/* Portfolio Section  */}}
     <section class="portfolio section" id="portfolio">
       <div class="container">

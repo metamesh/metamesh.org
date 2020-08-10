@@ -1,24 +1,24 @@
-################################# funfacts ##################################
-funfacts:
-  enable : true
-  bg_image : "images/backgrounds/bg-white-wall.jpg"
-  counter_item:
-    # counter item loop
-    - title : "Happy Clients"
-      icon : "fa-smile"
-      count : "320"
+---
+enable: true
+title: Fun Facts
+bg_image: "images/backgrounds/bg-white-wall.jpg"
+counter_item:
+  # counter item loop
+  - title: "Founded"
+    icon: "fa-file-signature"
+    count: "2013"
 
-    # counter item loop
-    - title : "Projects completed"
-      icon : "fa-tasks"
-      count : "350"
+  # counter item loop
+  - title: "Active Nodes"
+    icon: "fa-broadcast-tower"
+    count: "65"
 
-    # counter item loop
-    - title : "Positive feedback"
-      icon : "fa-thumbs-up"
-      count : "158"
+  # counter item loop
+  - title: "Avg. Active Users"
+    icon: "fa-users"
+    count: "50"
 
-    # counter item loop
-    - title : "Cups of Coffee"
-      icon : "fa-coffee"
-      count : "250"
+  # counter item loop
+  - title: "Covered Sq Footage"
+    icon: "fa-map"
+    count: "450000"

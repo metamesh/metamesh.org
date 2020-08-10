@@ -1,7 +1,7 @@
-{{ $data := index site.Data site.Language.Lang "front_page" }}
+{{ $skill := index site.Data site.Language.Lang "skill" }}
 
-{{ with $data.skill }}
-  {{ if $data.skill.enable }}
+{{ with $skill }}
+  {{ if $skill.enable }}
     {{/* Skills  */}}
     <section id="skills" class="parallax-section section section-bg overly">
       <div class="container">

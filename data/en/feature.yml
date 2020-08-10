@@ -1,26 +1,26 @@
-############################# feature ###################################
-feature:
-  enable : true
-  image : images/about/about-business-man.jpg
-  title : We’re A Digital Design Agency.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
-  feature_item :
-      # feature item loop
-    - title : SEO Optimized
-      icon : fa-globe
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+---
+enable : true
+title : Feature
+image : images/about/about-business-man.jpg
+heading : We’re A Digital Design Agency.
+subheading : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
+feature_item :
+  - title: Highlight A
+    heading : SEO Optimized
+    icon : fa-globe
+    subheading : Mollit est eu et do laboris do reprehenderit cillum anim nostrud ad.
 
-      # feature item loop
-    - title : Easy Customization
-      icon : fa-sliders-h
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+  - title: Highlight B
+    heading : Great Metrics
+    icon : fa-sliders-h
+    subheading : Id et eiusmod proident ut anim mollit.
 
-      # feature item loop
-    - title : SEO Optimized
-      icon : fa-chart-line
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+  - title: Highlight C
+    heading : SEO Optimized
+    icon : fa-chart-line
+    subheading : Laboris in elit magna ipsum dolore.
 
-      # feature item loop
-    - title : Easy Customization
-      icon : fa-bullhorn
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+  - title: Highlight D
+    heading : Turn-Key Profits
+    icon : fa-dollar
+    subheading : Consequat consectetur laborum ex aute.
