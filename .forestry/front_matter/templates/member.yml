@@ -1,5 +1,5 @@
 ---
-label: Team Member
+label: Team or Board Member
 hide_body: true
 fields:
 - name: portrait
@@ -81,7 +81,7 @@ fields:
       - instagram
       - invision
       - keybase
-      - linkedin-in
+      - linkedin
       - mastodon
       - medium-m
       - pinterest-p
@@ -90,9 +90,9 @@ fields:
       - twitter
       source:
         type: simple
-        section: 
-        file: 
-        path: 
+        section:
+        file:
+        path:
     label: Icon
     description: As referenced in <a href="https://fontawesome.com/icons?d=gallery&amp;s=brands"
       title="FontAwesome Icon Gallery" target="_blank">FontAwesome 5.14</a>
@@ -103,10 +103,7 @@ fields:
     label: URL
     description: Address to the platform
   config:
-    min: 
-    max: 
-    labelField: 
+    min:
+    max:
+    labelField:
   label: Social Media
-pages:
-- data/en/team/adam-longwill.yml
-- data/en/team/john-doe.yml
