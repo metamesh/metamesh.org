@@ -1,9 +1,12 @@
 ---
-portrait: "/images/client/client-1.jpg"
-title: John Doe
+portrait: "/images/team/team-4.jpg"
+title: Jane Smith
 hidden: true
 role: Wooden Board
 blurb: Definitely some type of Pine or Walnut
-about: |-
-  Ullamco aliqua magna quis occaecat. Velit pariatur consectetur dolore proident minim do veniam tempor nulla anim in sunt. Laborum occaecat id non enim quis. Dolor in officia nostrud ut aliquip excepteur adipisicing fugiat culpa quis eiusmod consequat anim elit. Est Lorem adipisicing incididunt sunt laboris. Exercitation officia non veniam consequat amet.
+about: Ullamco aliqua magna quis occaecat. Velit pariatur consectetur dolore proident
+  minim do veniam tempor nulla anim in sunt. Laborum occaecat id non enim quis. Dolor
+  in officia nostrud ut aliquip excepteur adipisicing fugiat culpa quis eiusmod consequat
+  anim elit. Est Lorem adipisicing incididunt sunt laboris. Exercitation officia non
+  veniam consequat amet.
 social_media: []
