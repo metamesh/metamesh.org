@@ -72,26 +72,31 @@ URL = "team"
 weight = 4
 
 [[menu.main]]
+name = "board"
+URL = "board"
+weight = 5
+
+[[menu.main]]
 name = "pricing"
 URL = "pricing"
-weight = 5
+weight = 6
 
 [[menu.main]]
 name = "blog"
 URL = "blog"
-weight = 6
+weight = 7
 
 [[menu.main]]
 name = "contact"
 URL = "contact"
-weight = 7
+weight = 8
 
 
 #### external / static link ####
 [[menu.static]]
 name = "github"
 URL = "https://github.com/metamesh"
-weight = 8
+weight = 9
 
 
 ############################# Default Parameters ##########################

@@ -1,7 +1,7 @@
-{{ $section_name := "Our Team" }}
-{{ $team_members := index site.Data site.Language.Lang "team" }}
+{{ $section_name := "Board of Directors" }}
+{{ $board_members := index site.Data site.Language.Lang "board" }}
 {{ $unhidden_members := slice }}
-{{ range $team_members }}
+{{ range $board_members }}
   {{ if not .hidden }}
     {{ $unhidden_members = $unhidden_members | append . }}
   {{ end }}
@@ -9,15 +9,16 @@
 
 {{ with $unhidden_members }}
   {{ if $unhidden_members }}
-    <section id="team" class="section">
+    <section id="board" class="section section-bg overly">
       <div class="container">
         <div class="row justify-blurb-center">
           <div class="col-lg-12">
             <div class="title text-center wow fadeInUp" data-wow-duration="500ms">
               <h2>
                 {{ with $section_name }}
-                  {{ index (split . " ") 0 | safeHTML }}
-                  <span class="color">{{ index (split . " ") 1 | safeHTML }}</span>
+                  {{ (index (split . " ") 0) | safeHTML }}
+                  {{ (index (split . " ") 1) | safeHTML }}
+                  <span class="color">{{ index (split . " ") 2 | safeHTML }}</span>
                 {{ end }}
               </h2>
               <div class="border-meshna"></div>
@@ -25,7 +26,7 @@
           </div>
           {{ range $unhidden_members }}
             <div class="col-lg-3 col-md-6 col-12 wow fadeInDown" data-wow-duration="500ms">
-              <div class="team-member">
+              <div class="board-member">
                 <div class="member-photo">
                   {{ $image := resources.Get .portrait }}
                   {{ $image := $image.Resize "350x350" }}

@@ -20,6 +20,8 @@
   translation: Portfolio
 - id: team
   translation: Team
+- id: board
+  translation: Board
 - id: pricing
   translation: Pricing
 - id: blog

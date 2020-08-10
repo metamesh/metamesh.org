@@ -1002,14 +1002,14 @@ a:hover {
 }
 
 /*=================================================================
-  Our Team
+  Our Team + Board
 ==================================================================*/
-.team-member {
+.team-member, .board-member {
   background-color: #302e22;
   margin-bottom: 10px;
 }
 
-.team-member:hover .mask {
+.team-member:hover .mask, .board-member:hover .mask {
   cursor: pointer;
   opacity: 1;
   filter: alpha(opacity=100);
