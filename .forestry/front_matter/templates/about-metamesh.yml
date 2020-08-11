@@ -14,9 +14,13 @@ fields:
   - type: text
     name: title
     label: Title
-  - type: text
-    name: icon
-    label: icon
+  - name: icon
+    type: include
+    config: {}
+    template: fontawesome-icon
+    label: Icon
+    description: Icon (provided by <a href="https://fontawesome.com/cheatsheet" title="FontAwesome
+      Cheatsheet" target="_blank">FontAwesome</a>)
   - type: textarea
     name: body
     label: Body
