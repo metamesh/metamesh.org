@@ -1,4 +1,26 @@
 ---
 label: FontAwesome Icon
 hide_body: true
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+  description: Not used in your site. Just used to make more pleasant to use within
+    Forestry.
+- name: name
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  description: The class used to determine which icon is rendered. A complete list
+    of the valid options can be found on <a href="https://fontawesome.com/cheatsheet"
+    title="FontAwesome Cheetsheet" target="_blank">FontAwesome's cheatsheet</a>.
+  label: Icon Name
