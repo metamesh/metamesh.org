@@ -5,7 +5,7 @@ admin_path: static/admin
 webhook_url: 
 sections:
 - type: directory
-  path: data/en
+  path: data/en/taco/tuesday
   label: Data
   create: all
   match: "*.yml"
