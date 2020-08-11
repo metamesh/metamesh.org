@@ -17,12 +17,6 @@ jobs:
         with:
           ref: master
 
-      # Required in order to have the same site across multiple repos for GitHub Pages
-      - name: Insert Forestry Site ID
-        run: "sed -i 's/siteId: \":xxxxxxx:\",/siteId: \"${{ env.FORESTRY_SITE_ID }}\",/' .forestry/index.html"
-        env:
-          FORESTRY_SITE_ID: ${{ secrets.FORESTRY_SITE_ID }}
-
       - name: Get Hugo
         uses: peaceiris/actions-hugo@v2
         with:
@@ -35,9 +29,15 @@ jobs:
           hugo config
 
       - name: Build site
-        run: hugo --debug --i18n-warnings --ignoreCache --minify --baseURL "${{ env.BASE_URL }}"
+        run: hugo --debug --i18n-warnings --enableGitInfo --ignoreCache --minify --baseURL "${{ env.BASE_URL }}"
         env:
           BASE_URL: ${{ secrets.BASE_URL }}
+
+      # Required in order to have the same site across multiple repos for GitHub Pages
+      - name: "Modify site: patch in Forestry Site ID"
+        run: "sed -i 's/siteId: \":^xxxXxxx^:\",/siteId: \"${{ env.FORESTRY_SITE_ID }}\",/' public/admin/index.html"
+        env:
+          FORESTRY_SITE_ID: ${{ secrets.FORESTRY_SITE_ID }}
 
       - name: Deploy built site to gh-pages branch
         uses: peaceiris/actions-gh-pages@v3

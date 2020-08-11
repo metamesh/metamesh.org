@@ -1,6 +1,9 @@
 # Hugo default output directory
 /public
 
+# Forestry CMS Admin file -- otherwise it overwrites the token in the repo
+/static/admin/index.html
+
 # Caching that we don't need in Git
 /resources
 
