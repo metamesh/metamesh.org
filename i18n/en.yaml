@@ -28,3 +28,5 @@
   translation: Blog
 - id: contact
   translation: Contact
+- id: github
+  translation: GitHub
