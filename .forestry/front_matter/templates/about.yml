@@ -17,6 +17,11 @@ fields:
     config:
       required: true
     label: Title
+  - name: icon
+    type: include
+    config: {}
+    template: fontawesome-icon
+    label: Icon
   - name: body
     type: textarea
     default: ''
@@ -26,11 +31,6 @@ fields:
       schema:
         format: markdown
     label: Body
-  - name: icon
-    type: include
-    config: {}
-    template: fontawesome-icon
-    label: Icon
   config:
     min: 
     max: 
