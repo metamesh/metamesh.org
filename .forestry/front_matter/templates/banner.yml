@@ -1,5 +1,5 @@
+label: Banner Section
 ---
-label: Banner
 hide_body: true
 fields:
 - type: text
