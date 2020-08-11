@@ -1,5 +1,5 @@
 ---
-label: Banner Section
+label: Homepage Banner
 hide_body: true
 fields:
 - type: text
