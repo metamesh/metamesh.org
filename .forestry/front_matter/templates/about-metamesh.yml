@@ -2,22 +2,22 @@
 label: About MetaMesh
 hide_body: true
 fields:
-- type: boolean
-  name: enable
-  label: enable
 - type: text
   name: title
-  label: title
+  label: Title
+- type: boolean
+  name: enable
+  label: Enable
 - type: field_group_list
   name: about_item
-  label: about_item
   fields:
+  - type: text
+    name: title
+    label: Title
   - type: text
     name: icon
     label: icon
-  - type: text
-    name: title
-    label: title
   - type: textarea
-    name: content
-    label: content
+    name: body
+    label: Body
+  label: Items
