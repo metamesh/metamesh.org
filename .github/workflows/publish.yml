@@ -17,6 +17,12 @@ jobs:
         with:
           ref: master
 
+      # Required in order to have the same site across multiple repos for GitHub Pages
+      - name: Insert Forestry Site ID
+        run: "sed -i 's/siteId: \":xxxxxxx:\",/siteId: \"${{ env.FORESTRY_SITE_ID }}\",/' .forestry/index.html"
+        env:
+          FORESTRY_SITE_ID: ${{ secrets.FORESTRY_SITE_ID }}
+
       - name: Get Hugo
         uses: peaceiris/actions-hugo@v2
         with:
