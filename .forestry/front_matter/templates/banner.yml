@@ -46,3 +46,4 @@ fields:
     description: The web address to which this button will point
 pages:
 - data/en/banner.yml
+- data/en/banner.yml

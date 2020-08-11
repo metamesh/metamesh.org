@@ -1,0 +1,23 @@
+---
+label: About
+hide_body: true
+fields:
+- type: boolean
+  name: enable
+  label: enable
+- type: text
+  name: title
+  label: title
+- type: field_group_list
+  name: about_item
+  label: about_item
+  fields:
+  - type: text
+    name: icon
+    label: icon
+  - type: text
+    name: title
+    label: title
+  - type: textarea
+    name: content
+    label: content
