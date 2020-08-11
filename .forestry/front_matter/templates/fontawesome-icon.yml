@@ -1012,7 +1012,4 @@ fields:
       section: 
       file: 
       path: 
-  description: The class used to determine which icon is rendered. A complete list
-    of the valid options can be found on <a href="https://fontawesome.com/cheatsheet"
-    title="FontAwesome Cheetsheet" target="_blank">FontAwesome's cheatsheet</a>.
   label: Icon Name
