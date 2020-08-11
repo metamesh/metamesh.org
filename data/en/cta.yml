@@ -1,10 +1,10 @@
 ---
-enable : true
+enable: true
 title: Call to Action
-bg_image : "images/backgrounds/bg-white-wall.jpg"
-heading : "Great Design & Incredible Features"
-subheading : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
+bg_image: "images/backgrounds/bg-white-wall.jpg"
+heading: "Great Design & Incredible Features"
+subheading: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
 button:
-  enable : true
-  label : "Start a project with us"
-  link : "#contact"
+  enable: true
+  label: "Start a project with us"
+  link: "#contact"

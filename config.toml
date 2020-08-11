@@ -7,7 +7,7 @@ paginate = "6"
 # post excerpt
 summaryLength = "15"
 # # disqus short name
-# disqusShortname = "" # get your shortname form here : https://disqus.com
+# disqusShortname = "" # get your shortname form here: https://disqus.com
 # set metadata output format (used by Forestry CMS)
 metaDataFormat = "yaml"
 # disable language
