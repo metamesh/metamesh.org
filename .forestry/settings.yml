@@ -2,8 +2,13 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: static/admin
-webhook_url:
+webhook_url: 
 sections:
+- type: directory
+  path: data/en
+  label: Data
+  create: all
+  match: "*.yml"
 - type: heading
   label: Edit Content
 - type: document
@@ -15,14 +20,16 @@ sections:
   create: documents
   match: "**/*.{yml,yaml,json,toml}"
   new_doc_ext: yml
-  templates: [member]
+  templates:
+  - member
 - type: directory
   path: data/en/board
   label: Board Members
   create: documents
   match: "**/*.{yml,yaml,json,toml}"
   new_doc_ext: yml
-  templates: [member]
+  templates:
+  - member
 upload_dir: assets/images
 public_path: "/images"
 front_matter_path: ''
