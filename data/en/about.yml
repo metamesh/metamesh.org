@@ -1,15 +1,13 @@
 ---
-enable: true
 title: About Us
-about_item :
-- icon: fa-pencil-ruler
-  title: We're Creative
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
-
-- icon: fa-briefcase
-  title: We're Professional
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
-
-- icon: fa-lightbulb
-  title: We're Genius
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+enable: true
+items:
+- title: Our Mission
+  icon_name: award
+  body: Wireless, everywhere. We want to bridge the digital divide between every person in a meaningful and permanent way.
+- title: Our Values
+  icon_name: balance-scale
+  body: Community, Integrity, and Transparency. We're only as good as our word, and we intend to live up to it.
+- title: Our Vision
+  icon_name: globe-americas
+  body: The largest community-owned public WiFi network in the United States, allowing all to be connected for free.

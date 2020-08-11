@@ -1,0 +1,40 @@
+---
+label: About Section
+hide_body: true
+display_field: title
+fields:
+- type: text
+  name: title
+  label: Title
+- type: boolean
+  name: enable
+  label: Enable
+- name: items
+  type: field_group_list
+  fields:
+  - name: title
+    type: text
+    config:
+      required: true
+    label: Title
+  - name: body
+    type: textarea
+    default: ''
+    config:
+      required: true
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Body
+  - name: icon
+    type: include
+    config: {}
+    template: fontawesome-icon
+    label: Icon
+  config:
+    min:
+    max:
+    labelField:
+  label: Items
+pages:
+- data/en/about-us.md

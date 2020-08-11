@@ -2,18 +2,24 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: static/admin
-webhook_url: 
+webhook_url:
 sections:
 - type: directory
   path: data/en
   label: Data
   create: all
   match: "*.yml"
+  new_doc_ext: yml
 - type: heading
   label: Edit Content
 - type: document
   path: data/en/banner.yml
   label: Banner
+  new_doc_ext: yml
+- type: document
+  path: data/en/about.yml
+  label: About
+  new_doc_ext: yml
 - type: directory
   path: data/en/team
   label: Team Members

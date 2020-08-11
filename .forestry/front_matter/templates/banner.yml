@@ -1,5 +1,5 @@
 ---
-label: Homepage Banner
+label: Banner Section
 hide_body: true
 fields:
 - type: text
@@ -45,5 +45,4 @@ fields:
     label: URL
     description: The web address to which this button will point
 pages:
-- data/en/banner.yml
 - data/en/banner.yml
