@@ -1,5 +1,5 @@
 ---
-enable: true
+enable: false
 title: Testimonial
 bg_image: images/backgrounds/bg-testimonial.jpg
 testimonial_item:
