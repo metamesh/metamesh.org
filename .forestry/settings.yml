@@ -35,7 +35,6 @@ sections:
 - type: document
   path: content/english/standalone/about.md
   label: Who We Are
-  match: "**/*"
 upload_dir: assets/images
 public_path: "/images"
 front_matter_path: ''
