@@ -4,14 +4,8 @@ auto_deploy: false
 admin_path: static/admin
 webhook_url: 
 sections:
-- type: directory
-  path: data/en/taco/tuesday
-  label: Data
-  create: all
-  match: "*.yml"
-  new_doc_ext: yml
 - type: heading
-  label: Edit Content
+  label: Front Page
 - type: document
   path: data/en/banner.yml
   label: Banner
@@ -36,6 +30,12 @@ sections:
   new_doc_ext: yml
   templates:
   - member
+- type: heading
+  label: Standalone Pages
+- type: document
+  path: content/english/standalone/about.md
+  label: Who We Are
+  match: "**/*"
 upload_dir: assets/images
 public_path: "/images"
 front_matter_path: ''
