@@ -1,7 +1,7 @@
 ---
 title: Who We Are
 layout: standalone
-date: 2020-08-13T19:24:50.000+00:00
+date: '2020-08-13T19:24:50.000+00:00'
 url: "/about"
 
 ---

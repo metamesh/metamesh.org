@@ -1,17 +1,11 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+layout: standalone
+date: "{{ .Date }}"
 draft: true
+url: "/{{ .File.BaseFileName }}"
 ---
 
-My Page Title! <!-- omit in toc -->
----
+# This is the {{ .File.BaseFileName | title }} page!
 
-## Table of Contents <!-- omit in toc -->
-
-## My First Entry
-
-- This
-- Is
-- A
-- List
+Check me out.
