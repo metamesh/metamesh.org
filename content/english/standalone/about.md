@@ -2,8 +2,7 @@
 title: Who We Are
 layout: standalone
 date: 2020-08-13T19:24:50+00:00
-aliases:
- - /about
+url: /about
 ---
 
 ## Table of Contents
@@ -31,7 +30,7 @@ aliases:
 
 ## Our Mission
 
-To bridge the [Digital Divide][/glossary#digital-divide] in a meaningful and permanent way by building [Community Wireless Networks](/glossary#community-wireless-networks) in Pittsburgh and around the world.
+To bridge the Digital Divide in a meaningful and permanent way by building Community Wireless Networks in Pittsburgh and around the world.
 
 In our own city of Pittsburgh, nearly 23% of people do not have Internet access. To live and work in today's digital society, it is essential to have access to the Internet. Reliable Internet access is no longer a luxury – it is a necessity and a right.
 
@@ -141,10 +140,10 @@ The full report titled _Home Internet Access and A Sustainable Approach to Publi
 
 [In May of 2020](https://www.cmu.edu/news/stories/archives/2020/may/meta-mesh.html), Meta Mesh partnered with Carnegie Mellon University’s Sustaining Equitable Education Network [(SEEN)](https://www.cmu.edu/seen/). SEEN is “_focused on first helping high-need K-12 schools make a successful transition to remote learning through emergency relief, and then continuing partnerships with those schools and communities to invest in equitable new educational systems post-COVID-19_”.
 
-Through this partnership, Meta Mesh and SEEN have secured an invaluable opportunity: to mount four HD [PtMP][/glossary#ptmp] [sector antennas][/glossary#sector-antenna] on the top of the University of Pittsburgh’s Cathedral of Learning. This [high point location](/glossary#high-point-location] will allow us to broadcast The Meta Mesh Network across farther distances, reaching Pittsburgh areas that we could have reached not before. The Cathedral is our gateway to the internet provided by [KINBER)(https://kinber.org/), and will act as our “hub,” beaming direct connection to and from each of our towers.
+Through this partnership, Meta Mesh and SEEN have secured an invaluable opportunity: to mount four HD PtMP sector antennas on the top of the University of Pittsburgh’s Cathedral of Learning. This high point location will allow us to broadcast The Meta Mesh Network across farther distances, reaching Pittsburgh areas that we could have reached not before. The Cathedral is our gateway to the internet provided by [KINBER](https://kinber.org/), and will act as our “hub,” beaming direct connection to and from each of our towers.
 
 {{< image src="/images/mmwc-cathy-supernode.png" alt="Image of the Super Node at the Cathedral of Learning" class="banner" >}}
 
-Thanks to this integral development, we are currently working to get Internet access to the areas of New Kensington-Arnold School District, Cornell School District, and Homewood School District. We are also in the process of planning the construction of a communication tower to enhance the connection between these areas and the Cathedral. More information on the procedures and equipment used for these projects is available on the [tech resources](/info#resources) page.
+Thanks to this integral development, we are currently working to get Internet access to the areas of New Kensington-Arnold School District, Cornell School District, and Homewood School District. We are also in the process of planning the construction of a communication tower to enhance the connection between these areas and the Cathedral. More information on the procedures and equipment used for these projects is available on the tech resources page.
 
-We are honored that other interested parties have contacted us about setting up their own projects with Meta Mesh. Please [contact us](/help#contact) if you are interested in what we do and want to explore options for connecting your area. New partnerships will be announced on this page.
+We are honored that other interested parties have contacted us about setting up their own projects with Meta Mesh. Please contact us if you are interested in what we do and want to explore options for connecting your area. New partnerships will be announced on this page.
