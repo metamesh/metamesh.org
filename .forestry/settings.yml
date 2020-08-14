@@ -35,6 +35,18 @@ sections:
 - type: document
   path: content/english/standalone/about.md
   label: Who We Are
+- type: document
+  path: content/english/standalone/works.md
+  label: What We Do
+  match: "**/*"
+- type: document
+  path: content/english/standalone/help.md
+  label: How to Help
+  match: "**/*"
+- type: document
+  path: content/english/standalone/more.md
+  label: Learn More
+  match: "**/*"
 upload_dir: assets/images
 public_path: "/images"
 front_matter_path: ''

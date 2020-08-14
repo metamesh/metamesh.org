@@ -1,8 +1,8 @@
 ---
-title: "Info"
+title: "More"
 layout: standalone
 date: "2020-08-14T05:28:48-07:00"
-url: "/info"
+url: "/more"
 ---
 
 # This is the Info page!

@@ -14,6 +14,3 @@ fields:
     required: true
 pages:
 - content/english/standalone/about.md
-- content/english/standalone/help.md
-- content/english/standalone/info.md
-- content/english/standalone/works.md
