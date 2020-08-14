@@ -71,19 +71,19 @@ A Pittsburgh where everyone has affordable and reliable access to the Internet.
 
 | Rania Abdulnour | Administrative Assistant |
 | --- | --- |
-| {{< image src="images/default-femme.jpg" alt="Portrait of Rania Abdulnour" >}} | To Do: Insert description here |
+| {{< image src="images/default.png" alt="Portrait of Rania Abdulnour" >}} | To Do: Insert description here |
 
 ### **Jacob Driggs**, Network and Systems Designer
 
 | Jacob Driggs | Network and Systems Designer |
 | --- | --- |
-| {{< image src="images/default-masc.jpg" alt="Portrait of Jacob Driggs" >}} | Jacob, a life-long tinkerer, graduated from Fox Chapel Area High School where he first honed his interest in server administration, and network design.  He then attended Penn State University where he focused his attention on the Industrial Organizational work of Psychology. After graduating and spending some time in the real world, he started his own business marrying his skills in the IT world with his I/O psychology experience, acting as an IT Consultant for small businesses and non-profits. He became interested in the potential of wireless networking technology and built some long distance Point-to-Multipoint systems before being introduced to Meta Mesh. He’s excited to continue doing impactful work with like-minded folks! |
+| {{< image src="images/default.png" alt="Portrait of Jacob Driggs" >}} | Jacob, a life-long tinkerer, graduated from Fox Chapel Area High School where he first honed his interest in server administration, and network design.  He then attended Penn State University where he focused his attention on the Industrial Organizational work of Psychology. After graduating and spending some time in the real world, he started his own business marrying his skills in the IT world with his I/O psychology experience, acting as an IT Consultant for small businesses and non-profits. He became interested in the potential of wireless networking technology and built some long distance Point-to-Multipoint systems before being introduced to Meta Mesh. He’s excited to continue doing impactful work with like-minded folks! |
 
 ### **Justin Goetz**, System Administrator
 
 | Justin Goetz | System Administrator |
 | --- | --- |
-| {{< image src="images/default-masc.jpg" alt="Portrait of Justin Goetz" >}} | Justin grew up in the neighborhood of Brookline in Pittsburgh. Since he was a kid he's enjoyed all things tech. His current skill set focuses on Linux System Administration and Network Administration, with 4 years of real-world hands on experience. Justin maintains all Meta Mesh server infrastructure as well as assists in keeping a 100+ node network functioning. |
+| {{< image src="images/default.png" alt="Portrait of Justin Goetz" >}} | Justin grew up in the neighborhood of Brookline in Pittsburgh. Since he was a kid he's enjoyed all things tech. His current skill set focuses on Linux System Administration and Network Administration, with 4 years of real-world hands on experience. Justin maintains all Meta Mesh server infrastructure as well as assists in keeping a 100+ node network functioning. |
 
 ## Our Board of Directors
 
@@ -97,19 +97,19 @@ A Pittsburgh where everyone has affordable and reliable access to the Internet.
 
 | Ashley Corts | Vice President |
 | --- | --- |
-| {{< image src="images/default-femme.jpg" alt="Portrait of Ashley Corts" >}} | A resident of the Allentown neighborhood in Pittsburgh, Ashley is also the co-owner of Black Forge Coffee House on Arlington Avenue. She is a dedicated fixture in the Allentown business community and is dedicated to improving her hilltop neighborhood. The Blackforge Coffee House is one of the many locations where guests can jump on the Pittmesh wireless network and is home to both indoor and outdoor wireless routers. |
+| {{< image src="images/default.png" alt="Portrait of Ashley Corts" >}} | A resident of the Allentown neighborhood in Pittsburgh, Ashley is also the co-owner of Black Forge Coffee House on Arlington Avenue. She is a dedicated fixture in the Allentown business community and is dedicated to improving her hilltop neighborhood. The Blackforge Coffee House is one of the many locations where guests can jump on the Pittmesh wireless network and is home to both indoor and outdoor wireless routers. |
 
 ### **Knowledge Build Hudson**, Board Member
 
 | Knowledge Build Hudson | Board Member |
 | --- | --- |
-| {{< image src="images/default-masc.jpg" alt="Portrait of Knowledge Build Hudson" >}} | As a full time entrepreneur, Knowledge Build A. Hudson utilizes on the ground and social media strategies to reach, engage, and connect people to opportunities. Knowledge has a strong background in planning, coordinating, and facilitating campaigns. He also has a comprehensive experience in recruitment and managing projects. In his free time he enjoys traveling, learning, and teaching. Knowledge Build-Hudson graduated from the University of Pittsburgh with a degree in Interdisciplinary Studies focusing on child development and comparative cultures. |
+| {{< image src="images/default.png" alt="Portrait of Knowledge Build Hudson" >}} | As a full time entrepreneur, Knowledge Build A. Hudson utilizes on the ground and social media strategies to reach, engage, and connect people to opportunities. Knowledge has a strong background in planning, coordinating, and facilitating campaigns. He also has a comprehensive experience in recruitment and managing projects. In his free time he enjoys traveling, learning, and teaching. Knowledge Build-Hudson graduated from the University of Pittsburgh with a degree in Interdisciplinary Studies focusing on child development and comparative cultures. |
 
 ### **Sascha Meinrath**, Board Member
 
 | Sascha Meinrath | Board Member |
 | --- | --- |
-| {{< image src="images/default-masc.jpg" alt="Portrait of Sascha Meinrath" >}} | To Do: Insert description here ([wikipedia source](https://en.wikipedia.org/wiki/Sascha_Meinrath)) |
+| {{< image src="images/default.png" alt="Portrait of Sascha Meinrath" >}} | To Do: Insert description here ([wikipedia source](https://en.wikipedia.org/wiki/Sascha_Meinrath)) |
 
 ## Research
 
