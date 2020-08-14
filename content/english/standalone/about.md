@@ -2,8 +2,7 @@
 title: "Who We Are"
 layout: standalone
 date: 2020-08-13T12:24:50-07:00
-draft: true
-images:
+draft: false
 ---
 
 Who We Are <!-- omit in toc -->
