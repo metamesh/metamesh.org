@@ -4,13 +4,11 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
-- type: text
-  name: layout
-  label: layout
-- type: datetime
-  name: date
-  label: date
+  label: Title
+  config:
+    required: true
 - type: text
   name: url
-  label: url
+  label: URL
+  config:
+    required: true
