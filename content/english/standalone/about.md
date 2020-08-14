@@ -2,35 +2,38 @@
 title: Who We Are
 layout: standalone
 date: 2020-08-13T19:24:50+00:00
-
+aliases:
+ - /about
 ---
-## Table of Contents <!-- omit in toc -->
 
-1. [Our Mission](#our-mission)
-2. [Our Vision](#our-vision)
-3. [Our Values](#our-values)
-4. [Our Team](#our-team)
-   1. [**Adam Longwill**, Executive Director](#adam-longwill-executive-director)
-   2. [**Becky Zajdel**, Director of Outreach](#becky-zajdel-director-of-outreach)
-   3. [**Sam Garfinkel**, Development Coordinator](#sam-garfinkel-development-coordinator)
-   4. [**Rania Abdulnour**, Administrative Assistant](#rania-abdulnour-administrative-assistant)
-   5. [**Jacob Driggs**, Network and Systems Designer](#jacob-driggs-network-and-systems-designer)
-   6. [**Justin Goetz**, System Administrator](#justin-goetz-system-administrator)
-5. [Our Board of Directors](#our-board-of-directors)
-   1. [**Colin Dean**, President](#colin-dean-president)
-   2. [**Ashley Corts**, Vice President](#ashley-corts-vice-president)
-   3. [**Knowledge Build Hudson**, Board Member](#knowledge-build-hudson-board-member)
-   4. [**Sascha Meinrath**, Board Member](#sascha-meinrath-board-member)
-6. [Research](#research)
-   1. [COVID-19 Notice](#covid-19-notice)
-   2. [Heinz Endowment Grant](#heinz-endowment-grant)
-7. [Partnerships](#partnerships)
+## Table of Contents
+
+1. [Table of Contents](#table-of-contents)
+2. [Our Mission](#our-mission)
+3. [Our Vision](#our-vision)
+4. [Our Values](#our-values)
+5. [Our Team](#our-team)
+    1. [**Adam Longwill**, Executive Director](#adam-longwill-executive-director)
+    2. [**Becky Zajdel**, Director of Outreach](#becky-zajdel-director-of-outreach)
+    3. [**Sam Garfinkel**, Development Coordinator](#sam-garfinkel-development-coordinator)
+    4. [**Rania Abdulnour**, Administrative Assistant](#rania-abdulnour-administrative-assistant)
+    5. [**Jacob Driggs**, Network and Systems Designer](#jacob-driggs-network-and-systems-designer)
+    6. [**Justin Goetz**, System Administrator](#justin-goetz-system-administrator)
+6. [Our Board of Directors](#our-board-of-directors)
+    1. [**Colin Dean**, President](#colin-dean-president)
+    2. [**Ashley Corts**, Vice President](#ashley-corts-vice-president)
+    3. [**Knowledge Build Hudson**, Board Member](#knowledge-build-hudson-board-member)
+    4. [**Sascha Meinrath**, Board Member](#sascha-meinrath-board-member)
+7. [Research](#research)
+    1. [COVID-19 Notice](#covid-19-notice)
+    2. [Heinz Endowment Grant](#heinz-endowment-grant)
+8. [Partnerships](#partnerships)
 
 ## Our Mission
 
-To bridge the \[Digital Divide\]\[glossary#dd\] in a meaningful and permanent way by building \[Community Wireless Networks\]\[glossary#cwn\] in Pittsburgh and around the world.
+To bridge the [Digital Divide][/glossary#digital-divide] in a meaningful and permanent way by building [Community Wireless Networks](/glossary#community-wireless-networks) in Pittsburgh and around the world.
 
-In our own city of Pittsburgh, \[nearly 23% of people do not have Internet access\]\[todo#replace\]. To live and work in today's digital society, it is essential to have access to the Internet. Reliable Internet access is no longer a luxury – it is a necessity and a right.
+In our own city of Pittsburgh, nearly 23% of people do not have Internet access. To live and work in today's digital society, it is essential to have access to the Internet. Reliable Internet access is no longer a luxury – it is a necessity and a right.
 
 ## Our Vision
 
@@ -39,7 +42,7 @@ A Pittsburgh where everyone has affordable and reliable access to the Internet.
 ## Our Values
 
 * **Inclusion** -- We support people in underserved communities by addressing the critical need for affordable Internet access. We also created a glossary of terms to translate “tech talk” into concepts that everyone can understand.
-* **Transparency** -- We ensure the public can view our progress and see metrics of our success on our \[live map\]\[tool#pittmesh\].
+* **Transparency** -- We ensure the public can view our progress and see metrics of our success on our [live map](https://pittmesh.com/).
 * **Stewardship** -- We organize existing neighborhood resources to maintain and monitor good connectivity for the public benefit.
 * **Equity** -- We embody equal opportunity through a not-for-profit model that requires low up-front investment from communities and low monthly fees for individual households. The income from these costs goes directly back into the operations of our organization to maintain and expand the network.
 * **Sustainability** -- We develop and install a complete Internet connectivity solution for our neighbors’ needs, from supplying the high speed bandwidth to the distribution throughout a neighborhood or event.
@@ -107,7 +110,7 @@ A Pittsburgh where everyone has affordable and reliable access to the Internet.
 
 | Sascha Meinrath | Board Member |
 | --- | --- |
-| {{< image src="images/default-masc.jpg" alt="Portrait of Sascha Meinrath" >}} | To Do: Insert description here (\[wikipedia source\]\[person#meinrath\]) |
+| {{< image src="images/default-masc.jpg" alt="Portrait of Sascha Meinrath" >}} | To Do: Insert description here ([wikipedia source](https://en.wikipedia.org/wiki/Sascha_Meinrath)) |
 
 ## Research
 
@@ -132,35 +135,16 @@ We had two general objectives for these three areas:
    3. Price is merely one element shaping the delicate balance of including home broadband into the monthly budget. ISP (Internet Service Provider) pricing issues go beyond the obvious challenge of steep monthly fees. Upfront hardware costs, billing transparency, the inability to assess the quality of service, and general service availability are major issues for low-income communities.
    4. Public organizations that offer free public WiFi such as libraries, community centers, and parks often fill the gap between low home adoption and high community demand. Libraries and community centers also provide a number of other critical services, such as training and support. These support organizations are under social and government pressure to meet community connectivity needs, and yet their public funding levels are at an all-time low. This is why the efforts of Meta Mesh are so important: libraries and community centers have hours of operation and long waits for a turn at a public computer. Public WiFi can be accessed at all hours of the day.
 
-The full report titled \[_Home Internet Access and A Sustainable Approach to Public WiFi in Three Underserved Pittsburgh Communities_\]\[todo#replace\] is available for your consideration.
+The full report titled _Home Internet Access and A Sustainable Approach to Public WiFi in Three Underserved Pittsburgh Communities_ is available for your consideration.
 
 ## Partnerships
 
-\[In May of 2020\]\[article#seen\], Meta Mesh partnered with Carnegie Mellon University’s Sustaining Equitable Education Network \[(SEEN)\]\[org#seen\]. SEEN is “_focused on first helping high-need K-12 schools make a successful transition to remote learning through emergency relief, and then continuing partnerships with those schools and communities to invest in equitable new educational systems post-COVID-19_”.
+[In May of 2020](https://www.cmu.edu/news/stories/archives/2020/may/meta-mesh.html), Meta Mesh partnered with Carnegie Mellon University’s Sustaining Equitable Education Network [(SEEN)](https://www.cmu.edu/seen/). SEEN is “_focused on first helping high-need K-12 schools make a successful transition to remote learning through emergency relief, and then continuing partnerships with those schools and communities to invest in equitable new educational systems post-COVID-19_”.
 
-Through this partnership, Meta Mesh and SEEN have secured an invaluable opportunity: to mount four HD \[PtMP\]\[glossary#ptmp\] \[sector antennas\]\[glossary#sant\] on the top of the University of Pittsburgh’s Cathedral of Learning. This \[high point location\]\[#hpl\] will allow us to broadcast The Meta Mesh Network across farther distances, reaching Pittsburgh areas that we could have reached not before. The Cathedral is our gateway to the internet provided by \[KINBER\]\[org#kinber\], and will act as our “hub,” beaming direct connection to and from each of our towers.
+Through this partnership, Meta Mesh and SEEN have secured an invaluable opportunity: to mount four HD [PtMP][/glossary#ptmp] [sector antennas][/glossary#sector-antenna] on the top of the University of Pittsburgh’s Cathedral of Learning. This [high point location](/glossary#high-point-location] will allow us to broadcast The Meta Mesh Network across farther distances, reaching Pittsburgh areas that we could have reached not before. The Cathedral is our gateway to the internet provided by [KINBER)(https://kinber.org/), and will act as our “hub,” beaming direct connection to and from each of our towers.
 
 {{< image src="/images/mmwc-cathy-supernode.png" alt="Image of the Super Node at the Cathedral of Learning" class="banner" >}}
 
-Thanks to this integral development, we are currently working to get Internet access to the areas of New Kensington-Arnold School District, Cornell School District, and Homewood School District. We are also in the process of planning the construction of a communication tower to enhance the connection between these areas and the Cathedral. More information on the procedures and equipment used for these projects is available on the \[tech resources\]\[pg#resources\] page.
+Thanks to this integral development, we are currently working to get Internet access to the areas of New Kensington-Arnold School District, Cornell School District, and Homewood School District. We are also in the process of planning the construction of a communication tower to enhance the connection between these areas and the Cathedral. More information on the procedures and equipment used for these projects is available on the [tech resources](/info#resources) page.
 
-We are honored that other interested parties have contacted us about setting up their own projects with Meta Mesh. Please \[contact us\]\[pg#contact\] if you are interested in what we do and want to explore options for connecting your area. New partnerships will be announced on this page.
-
-<!-- Links -->
-\[glossary#cwn\]: /glossary#community-wireless-networks
-\[glossary#dd\]: /glossary#digital-divide
-\[glossary#hpl\]: /glossary#high-point-location
-\[glossary#ptmp\]: /glossary#ptmp
-\[glossary#sant\]: /glossary#sector-antenna
-\[pg#resources\]: /info#resources
-\[pg#contact\]: /help#contact
-
-<!-- External -->
-\[article#seen\]: https://www.cmu.edu/news/stories/archives/2020/may/meta-mesh.html
-\[org#seen\]: https://www.cmu.edu/seen/
-\[org#kinber\]: https://kinber.org/
-\[person#meinrath\]: https://en.wikipedia.org/wiki/Sascha_Meinrath
-\[tool#pittmesh\]: http://pittmesh.com/
-
-<!-- TODO: Replace any links that refer to this anchor. -->
-\[todo#replace\]: https://en.wikipedia.org/wiki/Jabberwocky
+We are honored that other interested parties have contacted us about setting up their own projects with Meta Mesh. Please [contact us](/help#contact) if you are interested in what we do and want to explore options for connecting your area. New partnerships will be announced on this page.
