@@ -1,0 +1,17 @@
+<img
+  {{ with .Get "id" -}} id="{{ . }}" {{- end }}
+  {{ with .Get "class" -}} class="{{ . }}" {{- end }}
+  {{ with .Get "alt" -}} alt="{{ . }}" {{- else }} {{ warnf "a11y: missing 'alt' attribute in img tag => %s" .Position }} {{ end }}
+  {{ with .Get "width" -}} width="{{ . }}" {{- end }}
+  {{ with .Get "height" -}} height="{{ . }}" {{- end }}
+  {{ with .Get "src" -}}
+    {{ $img := resources.Get . }}
+    {{ with $img }}
+      src="{{ .Permalink }}"
+    {{ else }}
+      {{ errorf "fatal: could not find resource => %s" . }}
+    {{ end }}
+  {{- else }}
+    {{ errorf "fatal: missing 'src' attr in <img> => %s" .Position }}
+  {{ end }}
+/>

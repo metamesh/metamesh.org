@@ -147,7 +147,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 home = "Home"
-copyright = "copyright &copy; 2020 Meta Mesh Wireless Communities, all rights reserved"
+copyright = "Copyright &copy; 2020 Meta Mesh Wireless Communities. Share our content freely."
 
 
 # ################################ France Language ########################
@@ -158,3 +158,25 @@ contentDir = "content/french"
 weight = 2
 home = "Accueil"
 copyright = "copyright &copy; 2020 Meta Mesh Wireless Communities, tous droits réservés"
+
+
+# ################################ Markdown Parsing ########################
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+      linkify = true
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = true
+    [markup.goldmark.parser]
+      attribute = true
+      autoHeadingID = true
+      autoHeadingIDType = "github"
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = true
+      xhtml = false

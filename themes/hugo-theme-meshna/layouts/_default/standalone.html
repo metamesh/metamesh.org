@@ -1,0 +1,55 @@
+{{ define "main" }}
+
+{{ partial "navigation.html" . }}
+
+<style>
+table, caption, tbody, tfoot, thead, tr, th, td {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent;
+  margin-bottom: 2em;
+}
+table thead {
+  display: none;
+}
+table img {
+  max-width: 200px;
+  margin-top: 0.5em;
+  margin-right: 1em;
+  vertical-align: top;
+}
+table, ol, li, dd {
+  font-family: "Quattrocento Sans", sans-serif;
+}
+img.banner {
+  margin-bottom: 1em;
+  width: 100%;
+}
+</style>
+
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 offset-lg-2 text-center">
+        <h1>{{ .Title }}</h1>
+        <ul class="list-inline mb-50">
+          <li class="list-inline-item">{{ dateFormat "Monday, Jan 2, 2006" .Date }}</li>
+        </ul>
+      </div>
+      <div class="col-lg-8 offset-lg-2">
+        <div class="post-single-content">
+          {{ .Content }}
+        </div>
+        {{ if site.Params.post_share }}
+          {{ partial "post-share.html" . }}
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}
