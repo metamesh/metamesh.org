@@ -11,3 +11,7 @@ items:
 - title: Our Vision
   icon_name: globe-americas
   body: The largest community-owned public WiFi network in the United States, allowing all to be connected for free.
+button:
+  enable: true
+  label: "Learn More"
+  link: "/standalone/about"
