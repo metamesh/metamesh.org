@@ -165,12 +165,12 @@ copyright = "copyright &copy; 2020 Meta Mesh Wireless Communities, tous droits r
   defaultMarkdownHandler = "goldmark"
   [markup.goldmark]
     [markup.goldmark.extensions]
-      definitionList = true
-      footnote = true
+      definitionList = false
+      footnote = false
       linkify = true
-      strikethrough = true
+      strikethrough = false
       table = true
-      taskList = true
+      taskList = false
       typographer = true
     [markup.goldmark.parser]
       attribute = true
