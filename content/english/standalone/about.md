@@ -1,32 +1,31 @@
 ---
 title: Who We Are
 layout: standalone
-date: 2020-08-13T19:24:50+00:00
-url: /about
----
+date: 2020-08-13T19:24:50.000+00:00
+url: "/about"
 
+---
 ## Table of Contents
 
-1. [Table of Contents](#table-of-contents)
-2. [Our Mission](#our-mission)
-3. [Our Vision](#our-vision)
-4. [Our Values](#our-values)
-5. [Our Team](#our-team)
-    1. [**Adam Longwill**, Executive Director](#adam-longwill-executive-director)
-    2. [**Becky Zajdel**, Director of Outreach](#becky-zajdel-director-of-outreach)
-    3. [**Sam Garfinkel**, Development Coordinator](#sam-garfinkel-development-coordinator)
-    4. [**Rania Abdulnour**, Administrative Assistant](#rania-abdulnour-administrative-assistant)
-    5. [**Jacob Driggs**, Network and Systems Designer](#jacob-driggs-network-and-systems-designer)
-    6. [**Justin Goetz**, System Administrator](#justin-goetz-system-administrator)
-6. [Our Board of Directors](#our-board-of-directors)
-    1. [**Colin Dean**, President](#colin-dean-president)
-    2. [**Ashley Corts**, Vice President](#ashley-corts-vice-president)
-    3. [**Knowledge Build Hudson**, Board Member](#knowledge-build-hudson-board-member)
-    4. [**Sascha Meinrath**, Board Member](#sascha-meinrath-board-member)
-7. [Research](#research)
-    1. [COVID-19 Notice](#covid-19-notice)
-    2. [Heinz Endowment Grant](#heinz-endowment-grant)
-8. [Partnerships](#partnerships)
+1. [Our Mission](#our-mission)
+2. [Our Vision](#our-vision)
+3. [Our Values](#our-values)
+4. [Our Team](#our-team)
+   1. [**Adam Longwill**, Executive Director](#adam-longwill-executive-director)
+   2. [**Becky Zajdel**, Director of Outreach](#becky-zajdel-director-of-outreach)
+   3. [**Sam Garfinkel**, Development Coordinator](#sam-garfinkel-development-coordinator)
+   4. [**Rania Abdulnour**, Administrative Assistant](#rania-abdulnour-administrative-assistant)
+   5. [**Jacob Driggs**, Network and Systems Designer](#jacob-driggs-network-and-systems-designer)
+   6. [**Justin Goetz**, System Administrator](#justin-goetz-system-administrator)
+5. [Our Board of Directors](#our-board-of-directors)
+   1. [**Colin Dean**, President](#colin-dean-president)
+   2. [**Ashley Corts**, Vice President](#ashley-corts-vice-president)
+   3. [**Knowledge Build Hudson**, Board Member](#knowledge-build-hudson-board-member)
+   4. [**Sascha Meinrath**, Board Member](#sascha-meinrath-board-member)
+6. [Research](#research)
+   1. [COVID-19 Notice](#covid-19-notice)
+   2. [Heinz Endowment Grant](#heinz-endowment-grant)
+7. [Partnerships](#partnerships)
 
 ## Our Mission
 
@@ -109,7 +108,7 @@ A Pittsburgh where everyone has affordable and reliable access to the Internet.
 
 | Sascha Meinrath | Board Member |
 | --- | --- |
-| {{< image src="images/default.png" alt="Portrait of Sascha Meinrath" >}} | To Do: Insert description here ([wikipedia source](https://en.wikipedia.org/wiki/Sascha_Meinrath)) |
+| {{< image src="images/default.png" alt="Portrait of Sascha Meinrath" >}} | To Do: Insert description here (wikipedia source) |
 
 ## Research
 
