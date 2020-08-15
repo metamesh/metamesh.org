@@ -54,51 +54,24 @@ link = "https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/js/bootst
 
 ############################# Navigation ##################################
 [[menu.main]]
-name = "about"
+name = "[Who We Are]"
 URL = "about"
 weight = 1
 
 [[menu.main]]
-name = "services"
-URL = "services"
+name = "[What We Do]"
+URL = "works"
 weight = 2
 
 [[menu.main]]
-name = "portfolio"
-URL = "portfolio"
+name = "[How To Help]"
+URL = "help"
 weight = 3
 
 [[menu.main]]
-name = "team"
-URL = "team"
-weight = 4
-
-[[menu.main]]
-name = "board"
-URL = "board"
-weight = 5
-
-[[menu.main]]
-name = "pricing"
-URL = "pricing"
-weight = 6
-
-[[menu.main]]
-name = "blog"
-URL = "blog"
-weight = 7
-
-[[menu.main]]
-name = "contact"
-URL = "contact"
-weight = 8
-
-
-#### external / static link ####
-[[menu.static]]
-name = "github"
-URL = "https://github.com/metamesh"
-weight = 9
+name = "[Learn More]"
+URL = "more"
+weight = 3
 
 
 ############################# Default Parameters ##########################

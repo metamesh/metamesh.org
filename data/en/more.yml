@@ -1,0 +1,20 @@
+---
+title: Learn More
+enable: true
+items:
+- title: Item One
+  icon_name: glass
+  body: Sit in incididunt Lorem commodo ex consectetur laboris Lorem consectetur cupidatat.
+- title: Item Two
+  icon_name: phone
+  body: Sit in incididunt Lorem commodo ex consectetur laboris Lorem consectetur cupidatat.
+- title: Item Three
+  icon_name: star
+  body: Sit in incididunt Lorem commodo ex consectetur laboris Lorem consectetur cupidatat.
+- title: Item Four
+  icon_name: car
+  body: Sit in incididunt Lorem commodo ex consectetur laboris Lorem consectetur cupidatat.
+button:
+  enable: true
+  label: "Further Reading"
+  link: "/more"

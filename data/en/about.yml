@@ -14,4 +14,4 @@ items:
 button:
   enable: true
   label: "Learn More"
-  link: "/standalone/about"
+  link: "/about"

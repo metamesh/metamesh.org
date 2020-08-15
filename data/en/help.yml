@@ -1,6 +1,6 @@
 ---
 enable: true
-title: Our Services
+title: Offer Help
 service_item :
   # service item loop
   - name: Hugo Theme

@@ -1,9 +1,9 @@
-{{ $service := index site.Data site.Language.Lang "service" }}
+{{ $help := index site.Data site.Language.Lang "help" }}
 
-{{ with $service}}
-  {{ if $service.enable}}
+{{ with $help}}
+  {{ if $help.enable}}
     {{/* service  */}}
-    <section id="services" class="bg-one section section-bg overly">
+    <section id="help" class="bg-one section overly">
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-lg-12">

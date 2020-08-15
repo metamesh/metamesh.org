@@ -1,9 +1,9 @@
-{{ $portfolio := index site.Data site.Language.Lang "portfolio" }}
+{{ $works := index site.Data site.Language.Lang "works" }}
 
-{{ with $portfolio }}
-  {{ if $portfolio.enable }}
+{{ with $works }}
+  {{ if $works.enable }}
     {{/* Portfolio Section  */}}
-    <section class="portfolio section" id="portfolio">
+    <section class="portfolio section section-bg overly" id="works">
       <div class="container">
         <div class="row ">
           <div class="col-xl-12">

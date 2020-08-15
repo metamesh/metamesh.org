@@ -30,3 +30,5 @@
   translation: Contact
 - id: github
   translation: GitHub
+- id: help
+  translation: Help

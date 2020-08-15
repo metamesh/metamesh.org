@@ -2,9 +2,9 @@
 	<div class="container">
 		<nav class="navbar navbar-expand-lg navbar-dark">
 			<a class="navbar-brand p-0" href="{{ .Site.BaseURL | relLangURL }}">
-				{{ with $logo := resources.Get site.Params.logo }}
-  				<img class="lozad" data-src="{{ .Permalink }}" alt="{{ site.Title }}" height="42">
-				{{ else }}
+				{{ with resources.Get (site.Params.logo | absURL) }}
+  				<img src="{{ .Permalink }}" data-src="{{ .Permalink }}" alt="{{ site.Title }}" height="42">
+        {{ else }}
   				{{ site.Title }}
 				{{ end }}
 			</a>
@@ -15,22 +15,17 @@
 
 			<div class="collapse navbar-collapse" id="navigation">
 				<ul class="navbar-nav ml-auto">
-					<li class="nav-item"><a class="nav-link" href="#body">{{ site.Params.home }}</a></li>
-					{{ if .IsHome }}
+          {{ if .IsHome }}
+					  <li class="nav-item"><a class="nav-link" href="#body">{{ site.Params.home }}</a></li>
             {{ range site.Menus.main }}
-              <li class="nav-item"><a class="nav-link" href="#{{ .URL }}">{{ i18n .Name }}</a></li>
+              <li class="nav-item"><a class="nav-link" href="/{{ .URL }}">{{ .Name }}</a></li>
             {{ end }}
 					{{ else }}
             {{ range site.Menus.main }}
               <li class="nav-item">
-                <a class="nav-link" href="{{ site.BaseURL | relLangURL }}#{{ .URL }}">{{ i18n .Name }}</a>
+                <a class="nav-link" href="/{{ .URL }}">{{ .Name }}</a>
               </li>
             {{ end }}
-					{{ end }}
-
-					{{ range site.Menus.static }}
-            <li class="nav-item"><a class="nav-link" target="_blank" href="{{ .URL }}">{{ i18n .Name }}</a>
-            </li>
 					{{ end }}
 
 				</ul>
