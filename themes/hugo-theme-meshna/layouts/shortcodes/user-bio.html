@@ -1,0 +1,69 @@
+{{/* User Bio element for single-page Markdown documents.
+
+  Usage: {{< user-bio data="team/jessie-james.yml" >}}
+
+    $data => The path to the data file for the user, relative to the {Data / Lang} directory
+
+*/}}
+
+{{ $scratch := newScratch }}
+{{ warnf "" }}
+
+
+{{ if .IsNamedParams }}
+  {{ with .Get "data" }} {{ $scratch.Set "dataRelPath" . }}
+  {{ else }} {{ errorf "fatal: missing required parameter 'data' => %s" .Position }} {{ end }}
+{{ else }}
+  {{ with .Get 0 }} {{ $scratch.Set "dataRelPath" . }}
+  {{ else }} {{ errorf "fatal: missing required parameter 'data' => %s" .Position }} {{ end }}
+{{ end }}
+
+
+{{ $scratch.Set "dataRelPathDir" (index (split ($scratch.Get "dataRelPath") "/") 0) }}
+{{ $scratch.Set "dataRelPathBase" (strings.TrimSuffix (path.Ext ($scratch.Get "dataRelPath")) (index (path.Split ($scratch.Get "dataRelPath")) 1)) }}
+
+{{ $scratch.Set "dataPath" (delimit (slice "") site.Language.Lang ($scratch.Get "dataRelPath")) | absURL) }}
+{{ slice  delimit "/" | $scratch.Set "dataPath" }}
+
+{{/* range $k, $v := (index site.Data site.Language.Lang "team" "adam-longwill") */}}
+{{ range $scratch.Values }}
+  {{ warnf "##\t%s" . }}
+{{ end }}
+{{ range (slice (slice 1 2 6) (slice 1 7 7)) }}{{ warnf "##\t\t\t%d" . }}{{ end }}
+
+
+
+{{ with $data := resources.Get ($scratch.Get "dataPath") }}
+  {{ $scratch.Set "data" $data }}
+  {{ with $title := $data.title | title }} {{ $scratch.Set "title" $title }}
+  {{ else }} {{ errorf "fatal: data file is missing required field 'title' => %s" .Position }} {{ end }}
+  {{ with $role := $data.role | title }} {{ $scratch.Set "role" $role }}
+  {{ else }} {{ errorf "fatal: data file is missing required field 'role' => %s" .Position }} {{ end }}
+  {{ with $about := $data.about | markdownify }} {{ $scratch.Set "about" $about }}
+  {{ else }} {{ errorf "fatal: data file is missing required field 'about' => %s" .Position }} {{ end }}
+  {{ with $portraitPath := $data.portrait | absURL }} {{ $scratch.Set "portraitPath" $portraitPath }}
+  {{ else }} {{ errorf "fatal: data file is missing required field 'portrait' => %s" .Position }} {{ end }}
+  {{ if hasPrefix ($scratch.Get "portraitPath") site.BaseURL }}
+    {{ with $image := resources.Get ($scratch.Get "portraitPath") }}{{ $scratch.Set "imageURI" $image.Permalink }}
+    {{ else }} {{ errorf "fatal: unable to get image file at '%s' => " $scratch.Get "portraitPath" .Position }}{{ end }}
+  {{ else }}
+    {{ $scratch.Set "imageURI" ($scratch.Get "portraitPath") }}
+  {{ end }}
+{{ else }} {{ errorf "fatal: unable to get data file at '%s' => %s" ($scratch.Get "dataPath") .Position }} {{ end }}
+
+
+{{ printf "## **%s**, %s" ($scratch.Get "title") ($scratch.Get "role") | markdownify }}
+<div class="card border-0 rounded-0 mb-3 shortcode user-bio team-member">
+  <div class="row no-gutters">
+    <div class="col-lg-3 col-md-4">
+      <img class="card-img-top rounded-0 pb-1" alt='Portrait of {{ $scratch.Get "title" }}' src='{{ $scratch.Get "imageURI" }}'>
+    </div>
+    <div class="col-lg-9 col-md-8">
+      <div class="card-body pt-1">
+        <div class="card-text">
+          <p>{{ $scratch.Get "about" }}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
