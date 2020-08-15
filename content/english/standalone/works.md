@@ -21,6 +21,6 @@ More words
 
 ## Mobile Wi-Fi
 
-[Some Random Animal](https://placeimg.com/640/480/animals "An Animal")
+![](/images/portfolio/portfolio-3.jpg)
 
-Look at this little guy!
+Look at this clock! Why is it tipping over?
