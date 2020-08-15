@@ -1,10 +1,26 @@
 ---
-title: "Works"
+title: Works
 layout: standalone
-date: "2020-08-14T05:29:25-07:00"
+date: '2020-08-14T05:29:25-07:00'
 url: "/works"
----
 
+---
 # This is the Works page!
 
-Check me out.
+## Home Wi-Fi
+
+Some words
+
+* Details
+
+## Public Wi-Fi
+
+More words
+
+* Poignant example
+
+## Mobile Wi-Fi
+
+!\[Random animal image\](https://placeimg.com/640/480/animals)
+
+Look at this little guy!
