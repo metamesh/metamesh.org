@@ -1,6 +1,6 @@
 ---
 title: "Jeff Warner"
-image: "/uploads/self_atg_face-1.jpg"
+image: "/images/team/team-2.jpg"
 email: "jeff@develops.software"
 # social:
 #   - icon: "fa-facebook-f"
