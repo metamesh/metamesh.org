@@ -2,7 +2,12 @@
 	<div class="container">
 		<nav class="navbar navbar-expand-lg navbar-dark">
 			<a class="navbar-brand p-0" href="{{ site.Home.Permalink }}">
-        <img src="{{ site.Params.logo | absURL }}" alt="{{ site.Title }}" height="42">
+        {{ with resources.Get (site.Params.logo) }}
+          <img src="{{ .Permalink }}" alt="{{ site.Title }}" height="42">
+        {{ else }}
+          {{ warnf "unable to find site logo at '%s' => %s" site.Params.logo .Position }}
+          {{ site.Title }}
+        {{ end }}
 			</a>
 
 			<button class="navbar-toggler rounded-0" type="button" data-toggle="collapse" data-target="#navigation">

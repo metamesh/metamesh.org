@@ -18,7 +18,12 @@
 				{{/* copyright  */}}
 				<div class="copyright text-center">
           <a class="navbar-brand p-0" href="{{ site.Home.Permalink }}">
-            <img src="{{ site.Params.logo | absURL }}" alt="{{ site.Title }}" height="42">
+            {{ with resources.Get (site.Params.logo) }}
+              <img src="{{ .Permalink }}" alt="{{ site.Title }}" height="42">
+            {{ else }}
+              {{ warnf "unable to find site logo at '%s' => %s" site.Params.logo .Position }}
+              {{ site.Title }}
+            {{ end }}
           </a>
 					<br>
 					<p>{{ site.Params.copyright | markdownify }}</p>
