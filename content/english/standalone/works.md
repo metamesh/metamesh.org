@@ -21,6 +21,6 @@ More words
 
 ## Mobile Wi-Fi
 
-!\[Random animal image\](https://placeimg.com/640/480/animals)
+[Some Random Animal](https://placeimg.com/640/480/animals "An Animal")
 
 Look at this little guy!
