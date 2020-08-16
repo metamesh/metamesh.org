@@ -12,18 +12,7 @@ url: "/about"
 3. [Our Vision](#our-vision)
 4. [Our Values](#our-values)
 5. [Our Team](#our-team)
-    1. [**Testy Testington**, Employee Impersonator](#testy-testington-employee-impersonator)
-    2. [**Adam Longwill**, Executive Director](#adam-longwill-executive-director)
-    3. [**Becky Zajdel**, Director of Outreach](#becky-zajdel-director-of-outreach)
-    4. [**Sam Garfinkel**, Development Coordinator](#sam-garfinkel-development-coordinator)
-    5. [**Rania Abdulnour**, Administrative Assistant](#rania-abdulnour-administrative-assistant)
-    6. [**Jacob Driggs**, Network and Systems Designer](#jacob-driggs-network-and-systems-designer)
-    7. [**Justin Goetz**, System Administrator](#justin-goetz-system-administrator)
 6. [Our Board of Directors](#our-board-of-directors)
-    1. [**Colin Dean**, President](#colin-dean-president)
-    2. [**Ashley Corts**, Vice President](#ashley-corts-vice-president)
-    3. [**Knowledge Build Hudson**, Board Member](#knowledge-build-hudson-board-member)
-    4. [**Sascha Meinrath**, Board Member](#sascha-meinrath-board-member)
 7. [Research](#research)
     1. [COVID-19 Notice](#covid-19-notice)
     2. [Heinz Endowment Grant](#heinz-endowment-grant)
@@ -50,77 +39,27 @@ A Pittsburgh where everyone has affordable and reliable access to the Internet.
 
 ## Our Team
 
-### **Testy Testington**, Employee Impersonator
-
 {{< user-bio "team/adam-longwill.yml" >}}
 
-<!--
-![Testy Testington, Employee Impersonator](https://via.placeholder.com/500/666/999 "Portrait of Testy Testington")
+{{< user-bio "team/becky-zajdel.yml" >}}
 
-Sunt sint magna in aliquip esse Lorem ea in voluptate. Labore velit reprehenderit ut magna eiusmod. Exercitation fugiat qui non voluptate magna eu excepteur non elit. Lorem nisi Lorem anim veniam voluptate anim fugiat velit reprehenderit. Consequat esse esse culpa non reprehenderit eiusmod culpa culpa laboris ea quis. Ut do eiusmod sit anim incididunt occaecat.
--->
+{{< user-bio "team/sam-garfinkel.yml" >}}
 
-### **Adam Longwill**, Executive Director
+{{< user-bio "team/rania-abdulnour.yml" >}}
 
-| Adam Longwill | Executive Director |
-| --- | --- |
-| {{< image src="images/team/adam-longwill.jpg" alt="Portrait of Adam Longwill" >}} | Adam was born in Pittsburgh, went to Woodland Hills, studied Industrial Design at Philadelphia University before transferring and earning an English degree from Goucher College. He spent a semester at UMBC studying Human-Centered Computing before looking at his bank account and promptly fainting. When he came to, Adam was back in Pittsburgh working in IT. He founded Meta Mesh in 2012. He believes access to information is essential to having a more equal society and the best way to disseminate information is through community-owned infrastructure that is resilient and expandable. |
+{{< user-bio "team/jacob-driggs.yml" >}}
 
-### **Becky Zajdel**, Director of Outreach
-
-| Becky Zajdel | Director of Outreach |
-| --- | --- |
-| {{< image src="images/team/becky-zajdel.jpg" alt="Portrait of Becky Zajdel" >}} | Becky is a "citizen of the world," born and raised in North Braddock before graduating from Penn Hills High School.  She then headed to Juniata College for her double BA in International Politics and History.  After a few years bouncing back and forth between the US and Central Europe as a Political Science PhD candidate and teaching fellow at Pitt, she left to work for an international law firm before joining Pittsburgh's growing startup scene. Becky is happy to be part of the Meta Mesh team and loves working with the lovely people at WorkHardPGH in Allentown! She is passionate about foreign languages, comic books, good wine, and British television. |
-
-### **Sam Garfinkel**, Development Coordinator
-
-| Sam Garfinkel | Development Coordinator |
-| --- | --- |
-| {{< image src="images/team/sam-garfinkel.jpg" alt="Portrait of Sam Garfinkel" >}} | Sam is a Pittsburgh-native who grew up in Fox Chapel. She attended DePaul University in Chicago for undergrad, majoring in English and minoring in Studio Art. After her stint in the Windy City, she moved back to The Burgh and worked for Contemporary Craft, a local nonprofit museum, as well as for the University of Pittsburgh Cancer Institute as a Grants Administrator. She then went back to school and completed an MA in Rhetoric from Carnegie Mellon University. Sam is very happy to be back in the nonprofit community as a team member of Meta Mesh! Sam lives in Highland Park with her partner and their baby (who is a cat named Baby). In her spare time, Sam is a printmaker and an amateur non-fiction writer. |
-
-### **Rania Abdulnour**, Administrative Assistant
-
-| Rania Abdulnour | Administrative Assistant |
-| --- | --- |
-| {{< image src="https://via.placeholder.com/300/999/666" alt="Portrait of Rania Abdulnour" >}} | To Do: Insert description here |
-
-### **Jacob Driggs**, Network and Systems Designer
-
-| Jacob Driggs | Network and Systems Designer |
-| --- | --- |
-| {{< image src="https://via.placeholder.com/300/999/666" alt="Portrait of Jacob Driggs" >}} | Jacob, a life-long tinkerer, graduated from Fox Chapel Area High School where he first honed his interest in server administration, and network design.  He then attended Penn State University where he focused his attention on the Industrial Organizational work of Psychology. After graduating and spending some time in the real world, he started his own business marrying his skills in the IT world with his I/O psychology experience, acting as an IT Consultant for small businesses and non-profits. He became interested in the potential of wireless networking technology and built some long distance Point-to-Multipoint systems before being introduced to Meta Mesh. He’s excited to continue doing impactful work with like-minded folks! |
-
-### **Justin Goetz**, System Administrator
-
-| Justin Goetz | System Administrator |
-| --- | --- |
-| {{< image src="https://via.placeholder.com/300/999/666" alt="Portrait of Justin Goetz" >}} | Justin grew up in the neighborhood of Brookline in Pittsburgh. Since he was a kid he's enjoyed all things tech. His current skill set focuses on Linux System Administration and Network Administration, with 4 years of real-world hands on experience. Justin maintains all Meta Mesh server infrastructure as well as assists in keeping a 100+ node network functioning. |
+{{< user-bio "team/justin-goetz.yml" >}}
 
 ## Our Board of Directors
 
-### **Colin Dean**, President
+{{< user-bio "board/colin-dean.yml" >}}
 
-| Colin Dean | President |
-| --- | --- |
-| {{< image src="images/board/colin-dean.jpg" alt="Portrait of Colin Dean" >}} | Colin hails from the great northern Greater Pittsburgh area, with Bachelors and Masters degrees in Computer Science and Education from Westminster College and Robert Morris University, respectively. He’s run businesses and non-profits since he was 14 and has been involved with Meta Mesh since its humble beginnings as just an interest group meeting at Hofbraühaus. He is deeply involved with the developer community in Pittsburgh, Code & Supply, and has organized more than five major developer conferences in Pittsburgh. |
+{{< user-bio "board/ashley-corts.yml" >}}
 
-### **Ashley Corts**, Vice President
+{{< user-bio "board/knowledge-build-hudson.yml" >}}
 
-| Ashley Corts | Vice President |
-| --- | --- |
-| {{< image src="https://via.placeholder.com/300/999/666" alt="Portrait of Ashley Corts" >}} | A resident of the Allentown neighborhood in Pittsburgh, Ashley is also the co-owner of Black Forge Coffee House on Arlington Avenue. She is a dedicated fixture in the Allentown business community and is dedicated to improving her hilltop neighborhood. The Blackforge Coffee House is one of the many locations where guests can jump on the Pittmesh wireless network and is home to both indoor and outdoor wireless routers. |
-
-### **Knowledge Build Hudson**, Board Member
-
-| Knowledge Build Hudson | Board Member |
-| --- | --- |
-| {{< image src="https://via.placeholder.com/300/999/666" alt="Portrait of Knowledge Build Hudson" >}} | As a full time entrepreneur, Knowledge Build A. Hudson utilizes on the ground and social media strategies to reach, engage, and connect people to opportunities. Knowledge has a strong background in planning, coordinating, and facilitating campaigns. He also has a comprehensive experience in recruitment and managing projects. In his free time he enjoys traveling, learning, and teaching. Knowledge Build-Hudson graduated from the University of Pittsburgh with a degree in Interdisciplinary Studies focusing on child development and comparative cultures. |
-
-### **Sascha Meinrath**, Board Member
-
-| Sascha Meinrath | Board Member |
-| --- | --- |
-| {{< image src="https://via.placeholder.com/300/999/666" alt="Portrait of Sascha Meinrath" >}} | To Do: Insert description here (wikipedia source) |
+{{< user-bio "board/sascha-meinrath.yml" >}}
 
 ## Research
 
@@ -153,7 +92,7 @@ The full report titled _Home Internet Access and A Sustainable Approach to Publi
 
 Through this partnership, Meta Mesh and SEEN have secured an invaluable opportunity: to mount four HD PtMP sector antennas on the top of the University of Pittsburgh’s Cathedral of Learning. This high point location will allow us to broadcast The Meta Mesh Network across farther distances, reaching Pittsburgh areas that we could have reached not before. The Cathedral is our gateway to the internet provided by [KINBER](https://kinber.org/), and will act as our “hub,” beaming direct connection to and from each of our towers.
 
-{{< image src="/images/mmwc-cathy-supernode.png" alt="Image of the Super Node at the Cathedral of Learning" class="banner" >}}
+{{< banner-image src="/images/mmwc-cathy-supernode.png" alt="Image of the Super Node at the Cathedral of Learning" >}}
 
 Thanks to this integral development, we are currently working to get Internet access to the areas of New Kensington-Arnold School District, Cornell School District, and Homewood School District. We are also in the process of planning the construction of a communication tower to enhance the connection between these areas and the Cathedral. More information on the procedures and equipment used for these projects is available on the tech resources page.
 

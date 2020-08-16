@@ -1,0 +1,25 @@
+<div class="card border-0 shadow shortcode banner-image">
+  <div class="row no-gutters">
+    <div class="col-xs-auto">
+      <img class='card-img'
+        {{ with .Get "id" -}} id="{{ . }}" {{- end }}
+        {{ with .Get "alt" -}} alt="{{ . }}" {{- else }} {{ warnf "a11y: missing 'alt' attribute in img tag => %s" .Position }} {{ end }}
+        {{ with .Get "width" -}} width="{{ . }}" {{- end }}
+        {{ with .Get "height" -}} height="{{ . }}" {{- end }}
+        {{ with $url := .Get "src" -}}
+          {{ $fullURL := $url | absURL }}
+          {{ if hasPrefix $fullURL site.BaseURL }}
+            {{ with $img := resources.Get $url }}
+              src="{{ .Permalink }}"
+            {{ else }}
+            {{ errorf "fatal: could not find resource => %s" $fullURL }}
+            {{ end }}
+          {{ else }}
+            src="{{ $fullURL }}"
+          {{ end }}
+        {{- else }}
+          {{ errorf "fatal: missing 'src' attr in <img> => %s" .Position }}
+        {{ end }}/>
+    </div>
+  </div>
+</div>

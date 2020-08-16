@@ -1083,7 +1083,7 @@ a:hover {
 ==================================================================*/
 .team-member, .board-member {
   background-color: #302e22;
-  margin-bottom: 10px;
+  margin-bottom: 1em;
 }
 
 .team-member:hover .mask, .board-member:hover .mask {
@@ -1168,6 +1168,14 @@ a:hover {
 
 .member-meta span {
   font-size: 12px;
+}
+
+/*=================================================================
+  Our Team + Board
+==================================================================*/
+.banner-image {
+  background-color: #302e22;
+  margin-bottom: 1em;
 }
 
 /*=================================================================
