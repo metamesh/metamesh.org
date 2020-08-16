@@ -1,3 +1,18 @@
+{{/* Banner Image element for single-page Markdown documents.
+
+  Usage: {{< banner-img src="path/to/img.png" >}}
+
+  Named Parameters (required):
+    $src => The path to the data file for the user, relative to the {Assets} directory
+
+  Named Parameters (optional):
+    $id => element ID
+    $alt => The alt-text for the inner img tag
+    $width => How wide you want the image to render
+    $height => How tall you want the image to render
+
+*/}}
+
 <div class="card border-0 shadow shortcode banner-image">
   <div class="row no-gutters">
     <div class="col-xs-auto">
@@ -12,13 +27,13 @@
             {{ with $img := resources.Get $url }}
               src="{{ .Permalink }}"
             {{ else }}
-            {{ errorf "fatal: could not find resource => %s" $fullURL }}
+              {{ warnf "warn: could not find image at '%s', using default" $fullURL }}
             {{ end }}
           {{ else }}
             src="{{ $fullURL }}"
           {{ end }}
         {{- else }}
-          {{ errorf "fatal: missing 'src' attr in <img> => %s" .Position }}
+          {{ warnf "warn: missing 'src' attr, using default" }}
         {{ end }}/>
     </div>
   </div>
