@@ -5,18 +5,18 @@ date: '2020-08-13T19:24:50.000+00:00'
 url: "/about"
 
 ---
+
 ## Table of Contents
 
-1. [Table of Contents](#table-of-contents)
-2. [Our Mission](#our-mission)
-3. [Our Vision](#our-vision)
-4. [Our Values](#our-values)
-5. [Our Team](#our-team)
-6. [Our Board of Directors](#our-board-of-directors)
-7. [Research](#research)
+1. [Our Mission](#our-mission)
+2. [Our Vision](#our-vision)
+3. [Our Values](#our-values)
+4. [Our Team](#our-team)
+5. [Our Board of Directors](#our-board-of-directors)
+6. [Research](#research)
     1. [COVID-19 Notice](#covid-19-notice)
     2. [Heinz Endowment Grant](#heinz-endowment-grant)
-8. [Partnerships](#partnerships)
+7. [Partnerships](#partnerships)
 
 ## Our Mission
 
