@@ -33,9 +33,9 @@ fields:
         format: markdown
     label: Body
   config:
-    min:
-    max:
-    labelField:
+    min: 
+    max: 
+    labelField: 
   label: Items
 - name: button
   type: field_group
@@ -47,3 +47,5 @@ fields:
     template: button-w-label
     label: Button
   label: Button
+pages:
+- data/en/about.yml
