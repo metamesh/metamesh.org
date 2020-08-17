@@ -60,3 +60,7 @@ portfolio_item:
   - photography
   content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
   link: "#"
+button:
+  enable: true
+  label: Take a Look
+  link: "/works"
