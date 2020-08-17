@@ -6,16 +6,12 @@ items:
 - title: Founded
   icon: file-signature
   count: 2013
-  icon_name: ''
 - title: Active Nodes
   icon: broadcast-tower
   count: 65
-  icon_name: ''
 - title: Avg. Active Users
   icon: users
   count: 50
-  icon_name: ''
 - title: Covered Sq Footage
   icon: map
   count: 450000
-  icon_name: ''
