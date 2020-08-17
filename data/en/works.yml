@@ -8,13 +8,13 @@ portfolio_item:
   - design
   content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
   link: https://themefisher.com
-- name: Sound system A
+- name: Sound system
   image: images/portfolio/portfolio-2.jpg
   categories:
   - development
   content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
   link: ''
-- name: Clock Product A
+- name: Clock Product
   image: images/portfolio/portfolio-3.jpg
   categories:
   - design
