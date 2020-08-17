@@ -8,11 +8,11 @@ sections:
   label: Front Page
 - type: document
   path: data/en/banner.yml
-  label: Banner
+  label: Hero / Banner
   new_doc_ext: yml
 - type: document
   path: data/en/about.yml
-  label: About
+  label: About Us
   new_doc_ext: yml
 - type: heading
   label: Standalone Pages
