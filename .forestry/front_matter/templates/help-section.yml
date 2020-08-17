@@ -1,0 +1,26 @@
+---
+label: Help Section
+hide_body: true
+fields:
+- type: boolean
+  name: enable
+  label: enable
+- type: text
+  name: title
+  label: title
+- type: field_group_list
+  name: service_item
+  label: service_item
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: icon
+    label: icon
+  - type: textarea
+    name: content
+    label: content
