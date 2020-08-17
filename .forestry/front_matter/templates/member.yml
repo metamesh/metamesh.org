@@ -109,7 +109,5 @@ fields:
   label: Social Media
 pages:
 - data/en/board/colin-dean.yml
-- data/en/board/jane-smith.yml
 - data/en/team/adam-longwill.yml
-- data/en/team/john-doe.yml
 - data/en/team/sam-garfinkel.yml
