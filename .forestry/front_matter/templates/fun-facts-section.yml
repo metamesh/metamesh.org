@@ -4,23 +4,39 @@ hide_body: true
 fields:
 - type: boolean
   name: enable
-  label: enable
+  label: Enable
 - type: text
   name: title
-  label: title
+  label: Title
+  config:
+    required: true
 - type: file
   name: bg_image
-  label: bg_image
+  label: Background
 - type: field_group_list
-  name: counter_item
-  label: counter_item
+  name: items
   fields:
   - type: text
     name: title
-    label: title
+    label: Title
+    config:
+      required: true
   - type: text
     name: icon
-    label: icon
-  - type: text
-    name: count
-    label: count
+    label: Icon
+    config:
+      required: true
+  - name: count
+    type: number
+    description: ''
+    default: 0
+    required: true
+    config:
+      min: 
+      max: 
+      step: 
+      required: true
+    label: Figure
+  label: Facts
+  config:
+    labelField: title
