@@ -36,3 +36,13 @@ fields:
     max: 
     labelField: 
   label: Items
+- name: button
+  type: field_group
+  config: {}
+  fields:
+  - name: button
+    type: include
+    config: {}
+    template: button-w-label
+    label: Button
+  label: Button
