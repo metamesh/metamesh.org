@@ -13,28 +13,35 @@
 
 */}}
 
-<div class="card border-0 shadow shortcode banner-image">
+{{- $defaultURL := "https://via.placeholder.com/1024x256/666/999" -}}
+
+<div class="card border-0 my-4 shadow shortcode banner-image">
   <div class="row no-gutters">
     <div class="col-xs-auto">
       <img class='card-img'
         {{ with .Get "id" -}} id="{{ . }}" {{- end }}
-        {{ with .Get "alt" -}} alt="{{ . }}" {{- else }} {{ warnf "a11y: missing 'alt' attribute in img tag => %s" .Position }} {{ end }}
+        {{ with .Get "alt" -}} alt="{{ . }}" {{- else }} {{ warnf "a11y: missing 'alt' attribute in img tag" }}{{ end }}
         {{ with .Get "width" -}} width="{{ . }}" {{- end }}
         {{ with .Get "height" -}} height="{{ . }}" {{- end }}
-        {{ with $url := .Get "src" -}}
-          {{ $fullURL := $url | absURL }}
-          {{ if hasPrefix $fullURL site.BaseURL }}
-            {{ with $img := resources.Get $url }}
-              src="{{ .Permalink }}"
-            {{ else }}
-              {{ warnf "warn: could not find image at '%s', using default" $fullURL }}
-            {{ end }}
-          {{ else }}
-            src="{{ $fullURL }}"
-          {{ end }}
-        {{- else }}
-          {{ warnf "warn: missing 'src' attr, using default" }}
-        {{ end }}/>
+        src='
+          {{- with $url := .Get "src" -}}
+            {{- $fullURL := $url | absURL -}}
+            {{- if hasPrefix $fullURL site.BaseURL -}}
+              {{- with $img := resources.Get $url -}}
+                {{- .Permalink -}}
+              {{- else -}}
+                {{- warnf "warn: could not find image at '%s', using default" $fullURL -}}
+                {{- $defaultURL -}}
+              {{- end -}}
+            {{- else -}}
+              {{- $fullURL | safeHTMLAttr -}}"
+            {{- end -}}
+          {{- else -}}
+            {{- warnf "warn: missing 'src' attr, using default" -}}
+            {{- $defaultURL -}}
+          {{- end -}}
+        '
+      />
     </div>
   </div>
 </div>
