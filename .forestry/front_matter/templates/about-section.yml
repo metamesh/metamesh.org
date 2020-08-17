@@ -17,15 +17,12 @@ fields:
     config:
       required: true
     label: Title
-  - name: icon
-    type: field_group_list
-    fields:
-    - name: icon
-      type: include
-      config:
-        required: true
-      template: fontawesome-icon
-      label: Icon
+  - type: include
+    name: icon
+    config:
+      required: true
+    template: fontawesome-icon
+    label: Icon
   - name: body
     type: textarea
     default: ''
@@ -36,9 +33,9 @@ fields:
         format: markdown
     label: Body
   config:
-    min: 
-    max: 
-    labelField: 
+    min:
+    max:
+    labelField:
   label: Items
 - name: button
   type: field_group
