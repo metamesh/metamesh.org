@@ -4,33 +4,40 @@ hide_body: true
 fields:
 - type: text
   name: title
-  label: title
+  label: Title
+  config:
+    required: true
 - type: boolean
   name: enable
-  label: enable
+  label: Enable
 - type: field_group_list
   name: items
-  label: items
+  label: Items
   fields:
   - type: text
     name: title
-    label: title
+    label: Title
+    config:
+      required: true
   - type: text
     name: icon_name
-    label: icon_name
+    label: Icon
+    config:
+      required: true
   - type: text
     name: body
-    label: body
-- type: field_group
-  name: button
-  label: button
+    label: Body
+    config:
+      required: true
+  config:
+    min: 1
+- name: button
+  type: field_group
+  config: {}
   fields:
-  - type: boolean
-    name: enable
-    label: enable
-  - type: text
-    name: label
-    label: label
-  - type: text
-    name: link
-    label: link
+  - name: button
+    type: include
+    config: {}
+    template: button-w-label
+    label: Button
+  label: Button
