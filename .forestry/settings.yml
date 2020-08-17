@@ -4,13 +4,6 @@ auto_deploy: false
 admin_path: static/admin
 webhook_url: 
 sections:
-- type: directory
-  path: ''
-  label: XYZZY
-  create: all
-  match: "**/*"
-  templates:
-  - about
 - type: heading
   label: Front Page
 - type: document
@@ -22,8 +15,20 @@ sections:
   label: About Us
   new_doc_ext: yml
 - type: document
+  path: data/en/funfacts.yml
+  label: At a Glance
+  match: "**/*"
+- type: document
   path: data/en/works.yml
   label: Our Works
+- type: document
+  path: data/en/help.yml
+  label: Offer Help
+  match: "**/*"
+- type: document
+  path: data/en/more.yml
+  label: Learn More
+  match: "**/*"
 - type: heading
   label: Standalone Pages
 - type: document
