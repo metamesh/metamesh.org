@@ -17,7 +17,6 @@ sections:
 - type: document
   path: data/en/works.yml
   label: Our Works
-  match: "**/*"
 - type: heading
   label: Standalone Pages
 - type: document
