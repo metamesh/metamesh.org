@@ -58,44 +58,12 @@ fields:
       required: true
     label: Title
     description: Name of the platform
-  - name: icon_name
-    type: select
-    default: []
+  - type: include
+    name: icon
     config:
       required: true
-      options:
-      - artstation
-      - bandcamp
-      - battle-net
-      - behance
-      - deviantart
-      - discord
-      - dribbble
-      - facebook-f
-      - ello
-      - etsy
-      - github
-      - gitlab
-      - gitter
-      - hackerrank
-      - instagram
-      - invision
-      - keybase
-      - linkedin
-      - mastodon
-      - medium-m
-      - pinterest-p
-      - quora
-      - reddit-alien
-      - twitter
-      source:
-        type: simple
-        section: 
-        file: 
-        path: 
+    template: fontawesome-icon
     label: Icon
-    description: As referenced in <a href="https://fontawesome.com/icons?d=gallery&amp;s=brands"
-      title="FontAwesome Icon Gallery" target="_blank">FontAwesome 5.14</a>
   - name: url
     type: text
     config:
@@ -103,9 +71,9 @@ fields:
     label: URL
     description: Address to the platform
   config:
-    min: 
-    max: 
-    labelField: 
+    min:
+    max:
+    labelField:
   label: Social Media
 pages:
 - data/en/board/colin-dean.yml
