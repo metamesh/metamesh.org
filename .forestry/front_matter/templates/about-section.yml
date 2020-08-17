@@ -36,9 +36,9 @@ fields:
         format: markdown
     label: Body
   config:
-    min:
-    max:
-    labelField:
+    min: 
+    max: 
+    labelField: 
   label: Items
 - name: button
   type: field_group

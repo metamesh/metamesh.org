@@ -71,9 +71,9 @@ fields:
     label: URL
     description: Address to the platform
   config:
-    min:
-    max:
-    labelField:
+    min: 
+    max: 
+    labelField: 
   label: Social Media
 pages:
 - data/en/board/colin-dean.yml

@@ -24,8 +24,6 @@ fields:
       required: true
     template: fontawesome-icon
     label: Icon
-    config:
-      required: true
   - type: textarea
     name: content
     label: Content

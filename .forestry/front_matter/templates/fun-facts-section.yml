@@ -33,9 +33,9 @@ fields:
     default: 0
     required: true
     config:
-      min:
-      max:
-      step:
+      min: 
+      max: 
+      step: 
       required: true
     label: Figure
   label: Facts
