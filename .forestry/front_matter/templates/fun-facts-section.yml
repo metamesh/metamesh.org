@@ -1,0 +1,26 @@
+---
+label: Fun Facts Section
+hide_body: true
+fields:
+- type: boolean
+  name: enable
+  label: enable
+- type: text
+  name: title
+  label: title
+- type: file
+  name: bg_image
+  label: bg_image
+- type: field_group_list
+  name: counter_item
+  label: counter_item
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: icon
+    label: icon
+  - type: text
+    name: count
+    label: count
