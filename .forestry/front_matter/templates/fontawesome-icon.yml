@@ -1009,9 +1009,9 @@ fields:
     - yin-yang
     source:
       type: simple
-      section:
-      file:
-      path:
+      section: 
+      file: 
+      path: 
   label: Icon Name
   description: The class used to determine which icon is rendered. A complete list
     of the valid options can be found on <a href="https://fontawesome.com/cheatsheet"

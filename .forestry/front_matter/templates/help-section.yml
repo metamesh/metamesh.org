@@ -29,7 +29,7 @@ fields:
     label: Content
   label: Services
   config:
-    labelField: title
+    labelField: name
     min: 1
 - name: button
   type: field_group
@@ -41,3 +41,5 @@ fields:
     template: button-w-label
     label: Button
   label: Button
+pages:
+- data/en/help.yml
