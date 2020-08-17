@@ -2,23 +2,16 @@
 enable: true
 title: Fun Facts
 bg_image: "images/backgrounds/bg-white-wall.jpg"
-counter_item:
-  # counter item loop
+items:
   - title: "Founded"
-    icon: "fa-file-signature"
+    icon: "file-signature"
     count: "2013"
-
-  # counter item loop
   - title: "Active Nodes"
-    icon: "fa-broadcast-tower"
+    icon: "broadcast-tower"
     count: "65"
-
-  # counter item loop
   - title: "Avg. Active Users"
-    icon: "fa-users"
+    icon: "users"
     count: "50"
-
-  # counter item loop
   - title: "Covered Sq Footage"
-    icon: "fa-map"
+    icon: "map"
     count: "450000"

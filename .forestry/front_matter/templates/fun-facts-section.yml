@@ -21,20 +21,21 @@ fields:
     label: Title
     config:
       required: true
-  - type: text
+  - type: include
     name: icon
-    label: Icon
     config:
       required: true
+    template: fontawesome-icon
+    label: Icon
   - name: count
     type: number
     description: ''
     default: 0
     required: true
     config:
-      min: 
-      max: 
-      step: 
+      min:
+      max:
+      step:
       required: true
     label: Figure
   label: Facts
