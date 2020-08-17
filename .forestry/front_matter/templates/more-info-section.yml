@@ -42,3 +42,5 @@ fields:
     template: button-w-label
     label: Button
   label: Button
+pages:
+- data/en/more.yml

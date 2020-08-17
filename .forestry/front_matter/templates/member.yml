@@ -30,7 +30,7 @@ fields:
   type: textarea
   default: ''
   config:
-    required: true
+    required: false
     wysiwyg: false
     schema:
       format: markdown

@@ -3,7 +3,7 @@ title: Learn More
 enable: true
 items:
 - title: Item One
-  icon: glass
+  icon: ad
   body: Sit in incididunt Lorem commodo ex consectetur laboris Lorem consectetur cupidatat.
 - title: Item Two
   icon: phone
@@ -16,5 +16,5 @@ items:
   body: Sit in incididunt Lorem commodo ex consectetur laboris Lorem consectetur cupidatat.
 button:
   enable: true
-  label: "Further Reading"
+  label: Further Reading
   link: "/more"
