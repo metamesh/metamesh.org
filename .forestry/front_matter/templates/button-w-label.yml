@@ -1,5 +1,5 @@
 ---
-label: Button w/ Label
+label: Button with Label
 hide_body: true
 fields:
 - name: enable
