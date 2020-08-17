@@ -41,3 +41,5 @@ fields:
   label: Facts
   config:
     labelField: title
+pages:
+- data/en/funfacts.yml
