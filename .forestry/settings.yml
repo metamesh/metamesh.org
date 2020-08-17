@@ -4,6 +4,13 @@ auto_deploy: false
 admin_path: static/admin
 webhook_url: 
 sections:
+- type: directory
+  path: ''
+  label: XYZZY
+  create: all
+  match: "**/*"
+  templates:
+  - about
 - type: heading
   label: Front Page
 - type: document
