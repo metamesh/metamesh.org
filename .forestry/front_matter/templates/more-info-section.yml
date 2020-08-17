@@ -1,0 +1,36 @@
+---
+label: More Info Section
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: boolean
+  name: enable
+  label: enable
+- type: field_group_list
+  name: items
+  label: items
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: icon_name
+    label: icon_name
+  - type: text
+    name: body
+    label: body
+- type: field_group
+  name: button
+  label: button
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: label
+    label: label
+  - type: text
+    name: link
+    label: link
