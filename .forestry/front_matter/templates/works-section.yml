@@ -4,26 +4,34 @@ hide_body: true
 fields:
 - type: boolean
   name: enable
-  label: enable
+  label: Enable
 - type: text
   name: title
-  label: title
+  label: Title
+  config:
+    required: true
 - type: field_group_list
-  name: portfolio_item
-  label: portfolio_item
+  name: items
   fields:
   - type: text
     name: name
-    label: name
+    label: Name
+    config:
+      required: true
   - type: file
     name: image
-    label: image
+    label: Image
   - type: list
     name: categories
-    label: categories
+    label: Categories
+    config:
+      use_select: false
   - type: text
     name: content
-    label: content
+    label: Content
+    config:
+      required: true
   - type: text
     name: link
-    label: link
+    label: Link
+  label: Portfolio
