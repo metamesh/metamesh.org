@@ -10,16 +10,11 @@
         {{ end }}
 			</a>
 
-			<button class="navbar-toggler rounded-0" type="button" data-toggle="collapse" data-target="#navigation">
-				<span class="navbar-toggler-icon"></span>
-			</button>
-
 			<div class="collapse navbar-collapse" id="navigation">
 				<ul class="navbar-nav ml-auto">
           {{ if .IsHome }}
-					  <li class="nav-item"><a class="nav-link" href="#body">{{ site.Params.home }}</a></li>
             {{ range site.Menus.main }}
-              <li class="nav-item"><a class="nav-link" href="/{{ .URL }}">{{ .Name }}</a></li>
+              <li class="nav-item"><a class="nav-link" href="#{{ .URL }}">{{ .Name }}</a></li>
             {{ end }}
 					{{ else }}
             {{ range site.Menus.main }}
