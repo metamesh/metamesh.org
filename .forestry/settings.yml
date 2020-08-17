@@ -14,6 +14,10 @@ sections:
   path: data/en/about.yml
   label: About Us
   new_doc_ext: yml
+- type: document
+  path: data/en/works.yml
+  label: Our Works
+  match: "**/*"
 - type: heading
   label: Standalone Pages
 - type: document
