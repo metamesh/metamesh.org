@@ -18,6 +18,12 @@ fields:
     label: Name
     config:
       required: true
+  - type: include
+    name: icon
+    config:
+      required: true
+    template: fontawesome-icon
+    label: Icon
   - type: file
     name: image
     label: Image

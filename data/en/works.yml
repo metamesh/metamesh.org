@@ -1,20 +1,23 @@
 ---
 enable: true
 title: Our Works
-portfolio_item:
+items:
 - name: Tag Design A
+  icon: search
   image: images/portfolio/portfolio-1.jpg
   categories:
   - design
   content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-  link: https://themefisher.com
+  link: "#"
 - name: Sound system
+  icon: search
   image: images/portfolio/portfolio-2.jpg
   categories:
   - development
   content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-  link: ''
+  link: "#"
 - name: Clock Product
+  icon: search
   image: images/portfolio/portfolio-3.jpg
   categories:
   - design
@@ -22,6 +25,7 @@ portfolio_item:
   content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
   link: "#"
 - name: Bottol Label
+  icon: search
   image: images/portfolio/portfolio-4.jpg
   categories:
   - photography
@@ -29,24 +33,28 @@ portfolio_item:
   content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
   link: "#"
 - name: Shopping Bag
+  icon: search
   image: images/portfolio/portfolio-5.jpg
   categories:
   - design
   content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
   link: "#"
 - name: Tag Design B
+  icon: search
   image: images/portfolio/portfolio-6.jpg
   categories:
   - photography
   content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
   link: "#"
 - name: Business Card
+  icon: search
   image: images/portfolio/portfolio-7.jpg
   categories:
   - development
   content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
   link: "#"
 - name: Stationary Design
+  icon: search
   image: images/portfolio/portfolio-8.jpg
   categories:
   - design
@@ -54,6 +62,7 @@ portfolio_item:
   content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
   link: "#"
 - name: Tag Design C
+  icon: search
   image: images/portfolio/portfolio-2.jpg
   categories:
   - design
@@ -64,4 +73,3 @@ button:
   enable: true
   label: Take a Look
   link: "/works"
-items: []
