@@ -4,23 +4,34 @@ hide_body: true
 fields:
 - type: boolean
   name: enable
-  label: enable
+  label: Enable
 - type: text
   name: title
-  label: title
+  label: Title
+  config:
+    required: true
 - type: field_group_list
-  name: service_item
-  label: service_item
+  name: items
   fields:
   - type: text
     name: name
-    label: name
+    label: Name
+    config:
+      required: true
   - type: text
     name: title
-    label: title
+    label: Title
+    config:
+      required: true
   - type: text
     name: icon
-    label: icon
+    label: Icon
+    config:
+      required: true
   - type: textarea
     name: content
-    label: content
+    label: Content
+  label: Services
+  config:
+    labelField: title
+    min: 1
