@@ -1,39 +1,26 @@
 ---
 enable: true
 title: Offer Help
-service_item :
-  # service item loop
+items:
   - name: Hugo Theme
-    title: Service A
-    icon: fa-globe
+    icon: globe
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-
-  # service item loop
   - name: Responsive Design
-    title: Service B
-    icon: fa-expand-alt
+    icon: expand-alt
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-
-  # service item loop
   - name: Media &amp; Advertisement
-    title: Service C
-    icon: fa-ad
+    icon: ad
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-
-  # service item loop
   - name: Graphic Design
-    title: Service D
-    icon: fa-palette
+    icon: palette
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-
-  # service item loop
   - name: Apps Development
-    title: Service E
-    icon: fa-box-open
+    icon: box-open
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-
-  # service item loop
   - name: Networking
-    title: Service F
-    icon: fa-handshake
+    icon: handshake
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+button:
+  enable: true
+  label: Lend a Hand
+  link: "/help"

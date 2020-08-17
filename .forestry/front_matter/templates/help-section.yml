@@ -18,13 +18,11 @@ fields:
     label: Name
     config:
       required: true
-  - type: text
-    name: title
-    label: Title
+  - type: include
+    name: icon
     config:
       required: true
-  - type: text
-    name: icon
+    template: fontawesome-icon
     label: Icon
     config:
       required: true
