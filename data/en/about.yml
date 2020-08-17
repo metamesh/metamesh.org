@@ -4,14 +4,17 @@ enable: true
 items:
 - title: Our Mission
   icon_name: award
-  body: Wireless, everywhere. We want to bridge the digital divide between every person in a meaningful and permanent way.
+  body: Wireless, everywhere. We want to bridge the digital divide between every person
+    in a meaningful and permanent way.
 - title: Our Values
   icon_name: balance-scale
-  body: Community, Integrity, and Transparency. We're only as good as our word, and we intend to live up to it.
+  body: Community, Integrity, and Transparency. We're only as good as our word, and
+    we intend to live up to it.
 - title: Our Vision
   icon_name: globe-americas
-  body: The largest community-owned public WiFi network in the United States, allowing all to be connected for free.
+  body: The largest community-owned public WiFi network in the United States, allowing
+    all to be connected for free.
 button:
   enable: true
-  label: "Learn More"
+  label: Check Us Out
   link: "/about"
