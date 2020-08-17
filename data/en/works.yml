@@ -34,7 +34,7 @@ portfolio_item:
   - design
   content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
   link: "#"
-- name: Tag Design
+- name: Tag Design B
   image: images/portfolio/portfolio-6.jpg
   categories:
   - photography
@@ -53,7 +53,7 @@ portfolio_item:
   - development
   content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
   link: "#"
-- name: Tag Design
+- name: Tag Design C
   image: images/portfolio/portfolio-2.jpg
   categories:
   - design
