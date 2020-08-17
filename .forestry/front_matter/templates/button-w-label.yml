@@ -1,4 +1,18 @@
 ---
 label: Button w/ Label
 hide_body: true
-fields: []
+fields:
+- name: enable
+  type: boolean
+  label: Enable
+- name: label
+  type: text
+  config:
+    required: true
+  label: Label
+- name: link
+  type: text
+  config:
+    required: true
+  label: Link
+  default: "#"
