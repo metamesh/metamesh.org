@@ -14,7 +14,7 @@ portfolio_item:
   - development
   content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
   link: ''
-- name: Clock Product
+- name: Clock Product A
   image: images/portfolio/portfolio-3.jpg
   categories:
   - design
