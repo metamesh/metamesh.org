@@ -1,0 +1,19 @@
+{{ $info := index site.Data site.Language.Lang "contact" }}
+
+{{ warnf "DEBUG" }}
+
+{{ $s := newScratch }}
+
+<div class="contact-info">
+  <div class="card my-4 shadow shortcode banner-image">
+    <div class="col-xs-auto">
+      <table class="table table-striped table-dark table-hover">
+        <tbody>
+          {{ range $info.info_list }}
+            <tr><th scope="col">{{ .title }}</th><td><a href='{{ .link }}'>{{ .value }}</a></td></tr>
+          {{ end }}
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>

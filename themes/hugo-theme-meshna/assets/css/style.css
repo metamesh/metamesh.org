@@ -405,6 +405,18 @@ a:hover {
 .navbar-dark .navbar-nav .nav-link.show,
 .navbar-dark .navbar-nav .show>.nav-link {
   color: #cdbc17;
+  text-decoration: underline dotted #cdbc17;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: rgba(255, 255, 255, .5);
+  text-decoration: underline dotted rgba(255, 255, 255, .5);
+  text-underline-offset: 0.25em; /* https://caniuse.com/#search=text-underline-offset */
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+  color: rgba(255, 255, 255, .75);
+  text-decoration: underline dotted rgba(255, 255, 255, .75);
 }
 
 .navbar-toggler:focus {
@@ -1175,7 +1187,35 @@ a:hover {
 ==================================================================*/
 .banner-image {
   background-color: #302e22;
-  margin-bottom: 1em;
+}
+
+/*=================================================================
+  Contact Info
+==================================================================*/
+
+.contact-info card {
+  border: 1px solid rgba(0,0,0,0);
+}
+
+.contact-info table {
+  margin-bottom: 0;
+}
+
+.contact-info table tbody {
+  background-color: #302e22;
+}
+
+.contact-info .table-dark.table-striped tbody tr:nth-of-type(2n+1) {
+  background-color: rgba(0, 0, 0, 0.15);
+}
+
+.contact-info .table-dark.table-striped tbody tr:hover {
+  background-color: rgba(255, 255, 255, .1);
+  border-color: rgba(255, 255, 255, .1);
+}
+
+.contact-info th, .contact-info td {
+  border: 0px;
 }
 
 /*=================================================================

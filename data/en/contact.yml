@@ -5,15 +5,19 @@ subtitle: Contact Details
 content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident,
   eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo
   officiis ratione vel fugiat dicta laboriosam labore adipisci.
-contact_list:
-- icon: fa-map-marker
-  info: 744 East Warrington Ave, Pittsburgh PA, 15210
-- icon: fa-phone
-  info: 'Phone: +1 (412) 223-4253'
-- icon: fa-fax
-  info: 'Fax: +1 (412) 229-0322'
-- icon: fa-envelope
-  info: 'Email: info@metamesh.org'
+info_list:
+  - title: 'Office Address'
+    value: 'Meta Mesh Wireless Communities, 744 East Warrington Ave Pittsburgh PA, 15210'
+    link: 'https://www.google.com/maps/place/Meta+Mesh'
+  - title: 'Contact Email'
+    value: 'info@metamesh.org'
+    link: 'mailto:info@metamesh.org'
+  - title: 'Phone Number'
+    value: '+1 (412) 223-4253'
+    link: 'tel:14122234253'
+  - title: 'Fax Number'
+    value: '+1 (412) 229-0322'
+    link: 'tel:14122290322'
 contact_form:
   enable: true
   form_action: "#"
