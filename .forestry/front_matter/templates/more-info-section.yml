@@ -19,11 +19,12 @@ fields:
     label: Title
     config:
       required: true
-  - type: text
-    name: icon_name
-    label: Icon
+  - type: include
+    name: icon
     config:
       required: true
+    template: fontawesome-icon
+    label: Icon
   - type: text
     name: body
     label: Body

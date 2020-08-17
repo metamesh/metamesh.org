@@ -3,16 +3,16 @@ title: Learn More
 enable: true
 items:
 - title: Item One
-  icon_name: glass
+  icon: glass
   body: Sit in incididunt Lorem commodo ex consectetur laboris Lorem consectetur cupidatat.
 - title: Item Two
-  icon_name: phone
+  icon: phone
   body: Sit in incididunt Lorem commodo ex consectetur laboris Lorem consectetur cupidatat.
 - title: Item Three
-  icon_name: star
+  icon: star
   body: Sit in incididunt Lorem commodo ex consectetur laboris Lorem consectetur cupidatat.
 - title: Item Four
-  icon_name: car
+  icon: car
   body: Sit in incididunt Lorem commodo ex consectetur laboris Lorem consectetur cupidatat.
 button:
   enable: true
