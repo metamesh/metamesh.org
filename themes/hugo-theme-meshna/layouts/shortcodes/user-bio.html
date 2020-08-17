@@ -60,11 +60,6 @@
 {{ $about := $s.Get "about" | default "No biography available" }}
 {{ $imageURI := $s.Get "imageURI" | default "https://via.placeholder.com/500/666/999" }}
 
-
-
-
-
-
 {{ printf "### **%s** -- %s" $title $role | markdownify }}
 <div class="card border-0 rounded-0 mb-3 shadow shortcode user-bio team-member">
   <div class="row no-gutters">

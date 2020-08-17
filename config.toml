@@ -54,22 +54,22 @@ link = "https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/js/bootst
 
 ############################# Navigation ##################################
 [[menu.main]]
-name = "[Who We Are]"
+name = "Who We Are"
 URL = "about"
 weight = 1
 
 [[menu.main]]
-name = "[What We Do]"
+name = "What We Do"
 URL = "works"
 weight = 2
 
 [[menu.main]]
-name = "[How To Help]"
+name = "How To Help"
 URL = "help"
 weight = 3
 
 [[menu.main]]
-name = "[Learn More]"
+name = "Learn More"
 URL = "more"
 weight = 3
 
