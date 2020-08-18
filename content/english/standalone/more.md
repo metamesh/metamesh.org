@@ -77,7 +77,7 @@ We created this glossary to ensure that anyone, regardless of their previous kno
 
 ###### Why would I choose a mesh/WISP structure rather than telecom provided internet?
 
-Check out this flyer for more information!
+Check out [this flyer](https://drive.google.com/file/d/18bi9M0zQGHv3DZgx3uXPMUD--TEUzGsr/view?usp=sharing "Mesh vs Telecom") for more information!
 
 ###### How do the speeds of different kinds of networks compare?
 
