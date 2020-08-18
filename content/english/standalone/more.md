@@ -15,7 +15,7 @@ Please contact us if you have any questions or recommendations for improving the
 
 We created this glossary to ensure that anyone, regardless of their previous knowledge of WiFi technology, can use it to get an understanding of WiFi lingo. Terms are defined and put into the context of Meta Mesh’s operations. This list is by no means exhaustive — we are continually updating this resource to make “tech talk” more clear. If there is a term in our materials that you wish was defined more clearly, please contact us and let us know!
 
-| **Term** | **Definition** |
+| Term | Definition |
 | --- | --- |
 | Access Points (APs) |  |
 | Bandwidth | Bandwidth refers to the maximum amount of data that can be transferred via internet connection within a certain timeframe. This is calculated as megabits per second (Mbps). |
@@ -77,7 +77,7 @@ We created this glossary to ensure that anyone, regardless of their previous kno
 
 ###### Why would I choose a mesh/WISP structure rather than telecom provided internet?
 
-[https://docs.google.com/document/d/1JxwpCmX36DSvNr13uigGJx9OBUqecOneyT_EDGyUsrA/edit](https://docs.google.com/document/d/1JxwpCmX36DSvNr13uigGJx9OBUqecOneyT_EDGyUsrA/edit "https://docs.google.com/document/d/1JxwpCmX36DSvNr13uigGJx9OBUqecOneyT_EDGyUsrA/edit")
+Check out [this flyer](https://drive.google.com/file/d/18bi9M0zQGHv3DZgx3uXPMUD--TEUzGsr/view?usp=sharing "Mesh vs Telecom") for more information!
 
 ###### How do the speeds of different kinds of networks compare?
 
