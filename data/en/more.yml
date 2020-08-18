@@ -2,7 +2,7 @@
 title: Learn More
 enable: true
 items:
-- title: Item One
+- title: Glossary of Terms
   icon: ad
   body: Sit in incididunt Lorem commodo ex consectetur laboris Lorem consectetur cupidatat.
 - title: Item Two
@@ -10,9 +10,6 @@ items:
   body: Sit in incididunt Lorem commodo ex consectetur laboris Lorem consectetur cupidatat.
 - title: Item Three
   icon: star
-  body: Sit in incididunt Lorem commodo ex consectetur laboris Lorem consectetur cupidatat.
-- title: Item Four
-  icon: car
   body: Sit in incididunt Lorem commodo ex consectetur laboris Lorem consectetur cupidatat.
 button:
   enable: true
