@@ -10,9 +10,10 @@ items:
   icon: book-open
   body: We created a glossary of terms to translate “tech talk” into concepts that
     everyone can understand.
-- title: Item Two
-  icon: phone
-  body: Sit in incididunt Lorem commodo ex consectetur laboris Lorem consectetur cupidatat.
+- title: FAQs
+  icon: question
+  body: Have a question? We may have answered it here! If not, please contact us for
+    more information.
 - title: Item Three
   icon: star
   body: Sit in incididunt Lorem commodo ex consectetur laboris Lorem consectetur cupidatat.
