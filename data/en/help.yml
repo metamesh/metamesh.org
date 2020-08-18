@@ -6,10 +6,10 @@ items:
   icon: people-carry
   content: We depend on the enthusiasm of our volunteers, who help us with installation
     of our equipment, system programming, and general administrative work.
-- name: Responsive Design
-  icon: expand-alt
-  content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-    facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+- name: Donate
+  icon: hand-holding-heart
+  content: We utilize donations to fund operational costs. If you would like to contribute
+    directly to our efforts, please consider making a donation!
 - name: Targeted Advertisement
   icon: ad
   content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
