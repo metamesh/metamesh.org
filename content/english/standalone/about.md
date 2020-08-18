@@ -5,7 +5,6 @@ date: '2020-08-13T19:24:50.000+00:00'
 url: "/about"
 
 ---
-
 ## Table of Contents
 
 1. [Our Mission](#our-mission)
@@ -14,8 +13,8 @@ url: "/about"
 4. [Our Team](#our-team)
 5. [Our Board of Directors](#our-board-of-directors)
 6. [Research](#research)
-    1. [COVID-19 Notice](#covid-19-notice)
-    2. [Heinz Endowment Grant](#heinz-endowment-grant)
+   1. [COVID-19 Notice](#covid-19-notice)
+   2. [Heinz Endowment Grant](#heinz-endowment-grant)
 7. [Partnerships](#partnerships)
 
 ## Our Mission
@@ -92,8 +91,6 @@ The full report titled _Home Internet Access and A Sustainable Approach to Publi
 
 Through this partnership, Meta Mesh and SEEN have secured an invaluable opportunity: to mount four HD PtMP sector antennas on the top of the University of Pittsburgh’s Cathedral of Learning. This high point location will allow us to broadcast The Meta Mesh Network across farther distances, reaching Pittsburgh areas that we could have reached not before. The Cathedral is our gateway to the internet provided by [KINBER](https://kinber.org/), and will act as our “hub,” beaming direct connection to and from each of our towers.
 
-{{< banner-image src="/images/mmwc-cathy-supernode.png" alt="Image of the Super Node at the Cathedral of Learning" >}}
+Thanks to this integral development, we are currently working to get Internet access to the areas of New Kensington-Arnold School District, Cornell School District, and Homewood. More information on the procedures and equipment used for these projects is available on the tech resources page.
 
-Thanks to this integral development, we are currently working to get Internet access to the areas of New Kensington-Arnold School District, Cornell School District, and Homewood School District. We are also in the process of planning the construction of a communication tower to enhance the connection between these areas and the Cathedral. More information on the procedures and equipment used for these projects is available on the tech resources page.
-
-We are honored that other interested parties have contacted us about setting up their own projects with Meta Mesh. Please contact us if you are interested in what we do and want to explore options for connecting your area. New partnerships will be announced on this page.
+We are honored by the number of interested parties who contacted us about setting up their own projects with Meta Mesh. Please reach out if you are interested in what we do and want to explore options for connecting your area. New partnerships will be announced on this page.
