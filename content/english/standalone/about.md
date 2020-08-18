@@ -89,7 +89,7 @@ We had two general objectives for these three areas:
    3. Price is merely one element shaping the delicate balance of including home broadband into the monthly budget. ISP (Internet Service Provider) pricing issues go beyond the obvious challenge of steep monthly fees. Upfront hardware costs, billing transparency, the inability to assess the quality of service, and general service availability are major issues for low-income communities.
    4. Public organizations that offer free public WiFi such as libraries, community centers, and parks often fill the gap between low home adoption and high community demand. Libraries and community centers also provide a number of other critical services, such as training and support. These support organizations are under social and government pressure to meet community connectivity needs, and yet their public funding levels are at an all-time low. This is why the efforts of Meta Mesh are so important: libraries and community centers have hours of operation and long waits for a turn at a public computer. Public WiFi can be accessed at all hours of the day.
 
-The full report titled _Home Internet Access and A Sustainable Approach to Public WiFi in Three Underserved Pittsburgh Communities_ is available for your consideration.
+The full report titled [_Home Internet Access and A Sustainable Approach to Public WiFi in Three Underserved Pittsburgh_](https://drive.google.com/drive/u/0/folders/1CND5wHxGHUdjLV9AAuyaHphxJRNHpeg- "Report 2018") _Communities_ is available for your consideration.
 
 ## Partnerships
 
