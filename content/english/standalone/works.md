@@ -5,10 +5,9 @@ date: '2020-08-14T05:29:25-07:00'
 url: "/works"
 
 ---
-
 The Meta Mesh Network uses different strategies to address different neighborhood or event needs--basically, we wear many hats. Our approach is tailored to each project so that as many people as possible can have reliable access to the Internet (as often as they need it) without breaking the bank.
 
-We are a Wireless Internet Service Provider (WISP) that provides Internet access for the City of Pittsburgh and surrounding areas. As a WISP, we provide in-home, password protected WiFi, as well as Public-Space WiFi for outside areas, such as streets and parks.
+We are the first non-profit Wireless Internet Service Provider (WISP) in the country, and only the fourth in the world to deploy this model on a city-wide scale. Currently, we are working to provide Internet access for the City of Pittsburgh and surrounding areas. As a WISP, we provide in-home, password protected WiFi, as well as Public-Space WiFi for outside areas, such as streets and parks. We also have mobile wi
 
 When you get down to it, The Meta Mesh Network functions not too differently from the big brand-name Wireless Internet Service Providers that you are probably using right now.
 
@@ -27,11 +26,10 @@ What sets us apart from other WISPs: we are not-for-profit, which means we donâ€
 Our organization is grant and donor funded, so the initial build out is fully covered for each project. That includes the installation of equipment as well as the provision of in-home routers. The only fee that our network users see is approximately $10/month per household.
 
 <!--
-    Forestry doesn't support tables yet, and this table is strutured in such a way that it
-    would be very tedious to write out. Instead, we'll just publish a screenshot.
- -->
+Forestry doesn't support tables yet, and this table is strutured in such a way that it
+would be very tedious to write out. Instead, we'll just publish a screenshot.
+\-->
 {{< banner-image src="/images/isp-comparison.png" alt="Picture of a table comparing Meta Mesh services against Verizon and Comcast" >}}
-
 
 That being said, our mission is to reduce the $10/month per household maintenance fee even further--the whole point of this venture is to provide Internet while reducing financial strain on underserved areas. Meta Mesh helps our community partners find ways to cover the monthly cost communally. This page contains a more detailed list of ways we help communities cover monthly maintenance fees.
 
