@@ -10,10 +10,11 @@ items:
   icon: hand-holding-heart
   content: We utilize donations to fund operational costs. If you would like to contribute
     directly to our efforts, please consider making a donation!
-- name: Targeted Advertisement
-  icon: ad
-  content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-    facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+- name: Spread the Word
+  icon: handshake
+  content: Another important way to help is to simply spread the word--be that by
+    telling your network of friends/families/colleagues about our work, or sharing
+    a link to our site to your social media.
 button:
   enable: true
   label: Lend a Hand
