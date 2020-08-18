@@ -2,10 +2,10 @@
 enable: true
 title: How to Help
 items:
-- name: Hugo Theme
-  icon: globe
-  content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-    facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+- name: Volunteer
+  icon: people-carry
+  content: We depend on the enthusiasm of our volunteers, who help us with installation
+    of our equipment, system programming, and general administrative work.
 - name: Responsive Design
   icon: expand-alt
   content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
