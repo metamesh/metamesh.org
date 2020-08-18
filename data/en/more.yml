@@ -14,9 +14,10 @@ items:
   icon: question
   body: Have a question? We may have answered it here! If not, please contact us for
     more information.
-- title: Item Three
-  icon: star
-  body: Sit in incididunt Lorem commodo ex consectetur laboris Lorem consectetur cupidatat.
+- title: Technical Resources
+  icon: tools
+  body: We share our knowledge through educational and administrative resources that
+    can be used freely by anyone to build their own WiFi network.
 button:
   enable: true
   label: Further Reading
