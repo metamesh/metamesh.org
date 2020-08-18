@@ -14,18 +14,6 @@ items:
   icon: ad
   content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
     facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-- name: Graphic Design
-  icon: palette
-  content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-    facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-- name: Apps Development
-  icon: box-open
-  content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-    facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-- name: Networking
-  icon: handshake
-  content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-    facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
 button:
   enable: true
   label: Lend a Hand
