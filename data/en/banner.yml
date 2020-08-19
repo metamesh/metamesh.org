@@ -2,8 +2,8 @@
 enable: true
 title: Banner
 bg_image: images/backgrounds/bg-hero.png
-heading: Experience Mesh Wireless
-subheading: We bridge the Digital Divide by building Community Wireless Networks.
+heading: Meta Mesh Wireless Communities
+subheading: We bridge the Digital Divide by building Community Wireless Networks
 button:
   enable: true
   label: Explore Us
