@@ -2,28 +2,6 @@
 enable: true
 title: Our Programs
 items:
-- name: Tag Design A
-  icon: search
-  image: images/portfolio/portfolio-1.jpg
-  categories:
-  - design
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-  link: "#"
-- name: Sound system
-  icon: search
-  image: images/portfolio/portfolio-2.jpg
-  categories:
-  - development
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-  link: "#"
-- name: Clock Product
-  icon: search
-  image: images/portfolio/portfolio-3.jpg
-  categories:
-  - design
-  - development
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-  link: "#"
 - name: In-Home WiFi
   icon: search
   image: "/images/img_20200813_090447_3.jpg"
