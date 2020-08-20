@@ -41,7 +41,7 @@ A Pittsburgh where everyone has affordable and reliable access to the Internet.
 * **Transparency** -- We ensure the public can view our progress and see metrics of our success on our [live map](https://pittmesh.com/).
 * **Stewardship** -- We organize existing neighborhood resources to maintain and monitor good connectivity for the public benefit.
 * **Equity** -- We embody equal opportunity through a not-for-profit model that requires low up-front investment from communities and low monthly fees for individual households. The income from these costs goes directly back into the operations of our organization to maintain and expand the network.
-* **Sustainability** -- We develop and install a complete Internet connectivity solution for our neighbors’ needs, from supplying the high speed bandwidth to the distribution throughout a neighborhood or event.
+* **Sustainability** -- We develop and install a complete Internet connectivity solution for our neighbors’ needs. We gather grant funds for the initial build-out, and then we assist neighborhoods in creating [sustainable community oriented methods for covering any maintenance costs](https://drive.google.com/file/d/1cP9_ZUdOomZx-FlmuC0weh0V2gCRi9S3/view?usp=sharing) that arise after installation. 
 * **Empowerment** -- We share our knowledge by creating high-quality educational and administrative resources that can be used freely by anyone, anywhere in order to build their own WiFi network.
 
 ## Our Team
