@@ -7,7 +7,7 @@ url: "/works"
 ---
 The Meta Mesh Network uses different strategies to address different neighborhood or event needs--basically, we wear many hats. Our approach is tailored to each project so that as many people as possible can have reliable access to the Internet (as often as they need it) without breaking the bank.
 
-We are the first non-profit Wireless Internet Service Provider (WISP) in the country, and only the fourth in the world to deploy this model on a city-wide scale. Currently, we are working to provide Internet access for the City of Pittsburgh and surrounding areas. As a WISP, we provide in-home, password protected WiFi, as well as Public-Space WiFi for outside areas, such as streets and parks. We also offer Mobile WiFi that can be driven to any place in need of hotspot access. 
+We are the first [non-profit Wireless Internet Service Provider (WISP) ](https://drive.google.com/file/d/1MqlShg2MBLqEZrshW4abtwngmZdELNq9/view?usp=sharing)in the country, and only the fourth in the world to deploy this model on a city-wide scale. Currently, we are working to provide Internet access for the City of Pittsburgh and surrounding areas. As a WISP, we provide in-home, password protected WiFi, as well as Public-Space WiFi for outside areas, such as streets and parks. We also offer Mobile WiFi that can be driven to any place in need of hotspot access.
 
 When you get down to it, The Meta Mesh Network functions not too differently from the big brand-name Wireless Internet Service Providers that you are probably using right now. The key difference is that we are NOT driven by profit. All our programs rely on a sustainable model, which is a combination of community cost-sharing, fundraising, and strategic local partnerships. We have developed an Internet solution tailor-made to Pittsburgh that requires low up-front investment, no monthly fees (rather, a suggested donation), and organizes existing people and neighborhood resources to maintain good connectivity for the public benefit.
 
@@ -21,9 +21,9 @@ Like telecom giants, we will have towers across the Pittsburgh area. Because our
 
 ## Home Wi-Fi
 
-What sets us apart from other WISPs: we are not-for-profit, which means we don’t charge inflated fees for equipment, installation, maintenance, system administration, and so on. 
+What sets us apart from other WISPs: we are not-for-profit, which means we don’t charge inflated fees for equipment, installation, maintenance, system administration, and so on.
 
-Our organization is grant and donor funded, so the initial build out is fully covered for each project. That includes the installation of equipment as well as the provision of in-home routers. Rather than demanding a fee for service, we ask users for a suggested donation of $10/month per household to help us keep our network strong and healthy. That being said, we will NEVER withhold services from any user if they do not donate. 
+Our organization is grant and donor funded, so the initial build out is fully covered for each project. That includes the installation of equipment as well as the provision of in-home routers. Rather than demanding a fee for service, we ask users for a suggested donation of $10/month per household to help us keep our network strong and healthy. That being said, we will NEVER withhold services from any user if they do not donate.
 
 <!--
 Forestry doesn't support tables yet, and this table is strutured in such a way that it
