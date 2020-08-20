@@ -29,6 +29,8 @@ To bridge the Digital Divide we need to achieve three main goals:
 2. **Build the United States' _best_ community-owned WiFi network.** What good is a huge network if it doesn't work well or if it doesn’t benefit the local community? We strive to build a fast, reliable, and expansive network to get Internet access to as many people as possible. In addition to Internet access, a local “intranet” can host websites and services that enable communication even if the greater Internet goes down. The Meta Mesh Network can support community message boards, local chat programs, ebook libraries, and emergency notification systems. Meta Mesh is developing open-source resources to improve these mesh-specific benefits.
 3. **Be an example and a resource to others.** This means sharing our knowledge and engaging those who need to build their own WiFi network. Meta Mesh is dedicated to creating high-quality educational and administrative resources that can be used freely by anyone, anywhere in order to build networks like ours. You can also view some of our classes at [www.youtube.com/metameshwc](https://www.youtube.com/metameshwc).
 
+For more on Meta Mesh Wireless Communities, check out our [2020 Organizational Fact-sheet](https://drive.google.com/file/d/1cu6Jc8GLfZ_EXWdIFakwAk1OTrphuNqo/view?usp=sharing).
+
 ## Our Vision
 
 A Pittsburgh where everyone has affordable and reliable access to the Internet.
