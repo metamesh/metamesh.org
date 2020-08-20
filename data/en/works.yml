@@ -39,27 +39,12 @@ items:
   - design
   content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
   link: "#"
-- name: Tag Design B
+- name: Public-Space WiFi
   icon: search
-  image: images/portfolio/portfolio-6.jpg
+  image: "/images/d29986_8fccf0f7a66b4dbe9bd4f4f3ae0e6442-1.webp"
   categories:
   - photography
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-  link: "#"
-- name: Business Card
-  icon: search
-  image: images/portfolio/portfolio-7.jpg
-  categories:
-  - development
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-  link: "#"
-- name: Stationary Design
-  icon: search
-  image: images/portfolio/portfolio-8.jpg
-  categories:
-  - design
-  - development
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+  content: Mesh Networking tech connects public spaces throughout the city
   link: "#"
 - name: Mobile WiFi
   icon: search
