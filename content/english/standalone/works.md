@@ -37,6 +37,8 @@ The whole point of this venture is to provide Internet while reducing financial 
 
 Our Home WiFi is encrypted and password-protected, so it is just as secure as commercial in-home WiFi options.
 
+![](/images/infrastructure.png)
+
 ## Public Wi-Fi
 
 [Public-Space WiFi](https://drive.google.com/file/d/1GQ-a4Q_cPsBG5D0HnYGyKAUbukcZA3Ls/view?usp=sharing) is another way we keep community members connected to the Internet, specifically when they are outside of their homes. Similar to the concept of public WiFi (which is the type of access you would have at a coffee shop or library), our Public-Space WiFi allows users in connected areas to access the Internet from places like the sidewalk or a park.
