@@ -24,20 +24,12 @@ items:
   - development
   content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
   link: "#"
-- name: Bottol Label
+- name: In-Home WiFi
   icon: search
-  image: images/portfolio/portfolio-4.jpg
+  image: "/images/img_20200813_090447_3.jpg"
   categories:
   - photography
-  - development
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-  link: "#"
-- name: Shopping Bag
-  icon: search
-  image: images/portfolio/portfolio-5.jpg
-  categories:
-  - design
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+  content: Our In-Home WiFi is fast, reliable, and affordable
   link: "#"
 - name: Public-Space WiFi
   icon: search
