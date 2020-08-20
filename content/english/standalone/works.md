@@ -39,14 +39,14 @@ Our Home WiFi is encrypted and password-protected, so it is just as secure as co
 
 ## Public Wi-Fi
 
-Public-Space WiFi is another way we keep community members connected to the Internet, specifically when they are outside of their homes. Similar to the concept of public WiFi (which is the type of access you would have at a coffee shop or library), our Public-Space WiFi allows users in connected areas to access the Internet from places like the sidewalk or a park.
+[Public-Space WiFi](https://drive.google.com/file/d/1GQ-a4Q_cPsBG5D0HnYGyKAUbukcZA3Ls/view?usp=sharing) is another way we keep community members connected to the Internet, specifically when they are outside of their homes. Similar to the concept of public WiFi (which is the type of access you would have at a coffee shop or library), our Public-Space WiFi allows users in connected areas to access the Internet from places like the sidewalk or a park.
 
 We use mesh technology to create connection points within a certain geographical area. Mesh Technology is essentially a point-to-point (PtP) WiFi emitting device that is mounted to the exterior of a home or structure. The PtP device projects the network in a “bubble” that connects to other nearby PtP devices, creating a mesh of routes that all lead back to the Internet.
 
-The mesh model is great for connecting local public spaces. For example, this Braddock neighborhood is on-mesh, meaning that users can get online as long as their device is within range of one of our PtP devices.
+The mesh model is great for connecting local public spaces. For example, this Allentown neighborhood is on-mesh, meaning that users can get online as long as their device is within range of one of our PtP devices.
 
 ## Mobile Wi-Fi
 
-Meta Mesh also provides Mobile WiFi with our very own WiFi Wagon kits! With a specialty cell-tower-based WiFi hotspot in a vehicle, we can literally drive connectivity to areas that need the Internet or lend it out for an event and just drop it off!
+Meta Mesh also provides [Mobile WiFi](https://drive.google.com/file/d/1tzZRpKhaaa1hfgowOzk9ITBj2myOaGu5/view?usp=sharing) with our very own WiFi Wagon kits! With a specialty cell-tower-based WiFi hotspot in a vehicle, we can literally drive connectivity to areas that need the Internet or lend it out for an event and just drop it off!
 
 Contact us if you want to learn more about our Mobile WiFi projects.
