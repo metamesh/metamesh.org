@@ -61,9 +61,9 @@ items:
   - development
   content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
   link: "#"
-- name: Tag Design C
+- name: Mobile WiFi
   icon: search
-  image: images/portfolio/portfolio-2.jpg
+  image: "/images/mobile-wifi-van.jpg"
   categories:
   - design
   - photography
