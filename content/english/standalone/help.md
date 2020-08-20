@@ -26,6 +26,8 @@ We are humbled by your interest in our mission, and we are grateful for support 
 Always appreciated
 \-->
 
+![](/images/img_20160914_135517.jpg)
+
 ## Donations
 
 <!-- PayPal Donation Button goes here -->
