@@ -43,7 +43,7 @@ items:
   image: "/images/mobile-wifi-van.jpg"
   categories:
   - photography
-  content: Our WiFi Wagon drives a WiFi hotspot anywhere
+  content: Our Mobile WiFi Wagon can drive a WiFi hotspot anywhere
   link: "#"
 button:
   enable: true
