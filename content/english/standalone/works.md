@@ -31,7 +31,7 @@ would be very tedious to write out. Instead, we'll just publish a screenshot.
 \-->
 {{< banner-image src="/images/isp-comparison.png" alt="Picture of a table comparing Meta Mesh services against Verizon and Comcast" >}}
 
-The whole point of this venture is to provide Internet while reducing financial strain on underserved areas. Meta Mesh helps our community partners find ways to cover the monthly cost communally. This page contains a more detailed list of ways we help communities cover monthly maintenance fees.
+The whole point of this venture is to provide Internet while reducing financial strain on underserved areas. Meta Mesh helps our community partners find ways to cover the monthly cost communally. [This page](https://drive.google.com/file/d/1cP9_ZUdOomZx-FlmuC0weh0V2gCRi9S3/view?usp=sharing) contains a more detailed list of ways we help communities cover monthly maintenance fees.
 
 Our Home WiFi is encrypted and password-protected, so it is just as secure as commercial in-home WiFi options.
 
