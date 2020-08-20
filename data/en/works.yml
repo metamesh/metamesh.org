@@ -65,9 +65,8 @@ items:
   icon: search
   image: "/images/mobile-wifi-van.jpg"
   categories:
-  - design
   - photography
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+  content: Our WiFi Wagon drives a WiFi hotspot anywhere
   link: "#"
 button:
   enable: true
