@@ -11,6 +11,8 @@ We are the first [non-profit Wireless Internet Service Provider (WISP) ](https:/
 
 When you get down to it, The Meta Mesh Network functions not too differently from the big brand-name Wireless Internet Service Providers that you are probably using right now. The key difference is that we are NOT driven by profit. All our programs rely on a sustainable model, which is a combination of community cost-sharing, fundraising, and strategic local partnerships. We have developed an Internet solution tailor-made to Pittsburgh that requires low up-front investment, no monthly fees (rather, a suggested donation), and organizes existing people and neighborhood resources to maintain good connectivity for the public benefit.
 
+![](/images/internet.png)
+
 Like telecom giants, we will have towers across the Pittsburgh area. Because our network is local, we don’t need to construct huge cell towers to connect people to the Internet -- we just use radio towers that are shorter and cheaper to construct (OR we place our antennas on top of existing structures). These towers are strategically placed so that they have a clear line-of-sight to each other and to our main hub: the Cathedral of Learning. This model is the same type of hierarchical networking that big WISPs use.
 
 ## Table of Contents
