@@ -3,7 +3,7 @@
 		<nav class="navbar navbar-expand-lg navbar-dark">
 			<a class="navbar-brand p-0" href="{{ site.Home.Permalink }}">
         {{ with resources.Get (site.Params.logo) }}
-          <img src="{{ .Permalink }}" alt="{{ site.Title }}" height="42">
+          <img src="{{ .Permalink }}" alt="{{ site.Title }}" height="64">
         {{ else }}
           {{ warnf "unable to find site logo at '%s' => %s" site.Params.logo .Position }}
           {{ site.Title }}
