@@ -40,7 +40,7 @@ Meta Mesh Wireless Communities is a [501(c)3 non-profit organization](https://si
 <a href="#">Join the Meta Mesh Mailing List!</a>
 \-->
 
-{{< contact-info >}}\`
+{{< contact-info >}}
 
 ### Equal Opportunity Notice
 
