@@ -140,7 +140,7 @@ copyright = "copyright &copy; 2020 Meta Mesh Wireless Communities, tous droits r
   defaultMarkdownHandler = "goldmark"
   [markup.goldmark]
     [markup.goldmark.extensions]
-      definitionList = false
+      definitionList = true
       footnote = false
       linkify = true
       strikethrough = false
