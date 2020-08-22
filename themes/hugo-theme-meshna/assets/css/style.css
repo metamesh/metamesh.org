@@ -1037,8 +1037,12 @@ i.fa {
   border-left: 1px solid rgba(241, 241, 241, 0.07);
   border-top: 1px solid rgba(241, 241, 241, 0.07);
   margin-bottom: 40px;
+<<<<<<< HEAD
   background-color: rgba(0, 0, 0, 0.25);
   box-shadow: 2px 2px 5px rgba(44, 44, 44, 0.3), 13px 13px 0 rgba(255, 255, 255, 0.3);
+=======
+  box-shadow: 2px 2px 5px rgba(44, 44, 44, 0.3), 13px 13px 0 rgba(255, 255, 255, 0.7);
+>>>>>>> 92d79a5... replace army-green with steel-grey
 }
 
 .service-block .service-icon {
@@ -1198,6 +1202,16 @@ i.fa {
 }
 
 /*=================================================================
+<<<<<<< HEAD
+=======
+  Our Team + Board
+==================================================================*/
+.banner-image {
+  /* background-color: #303030; */
+}
+
+/*=================================================================
+>>>>>>> 92d79a5... replace army-green with steel-grey
   Contact Info
 ==================================================================*/
 
