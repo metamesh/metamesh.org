@@ -20,10 +20,10 @@
     <div class="col-xs-auto">
       <img class='card-img'
         {{ with .Get "id" -}} id="{{ . }}" {{- end }}
-        {{ with .Get "alt" -}} alt="{{ . }}" {{- else }} {{ warnf "a11y: missing 'alt' attribute in img tag" }}{{ end }}
         {{ with .Get "width" -}} width="{{ . }}" {{- end }}
         {{ with .Get "height" -}} height="{{ . }}" {{- end }}
         src='
+          {{ .Scratch.Set "src" (.Get "src") }}
           {{- with $url := .Get "src" -}}
             {{- $fullURL := $url | absURL -}}
             {{- if hasPrefix $fullURL site.BaseURL -}}
@@ -41,6 +41,7 @@
             {{- $defaultURL -}}
           {{- end -}}
         '
+        {{ with .Get "alt" -}} alt="{{ . }}" {{- else }}{{ warnf "a11y: missing 'alt' attribute in banner-image shortcode for %s" (.Scratch.Get "src") }}{{ end }}
       />
     </div>
   </div>
