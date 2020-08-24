@@ -173,16 +173,14 @@ WPA2 Enterprise
 
 ## Frequently Asked Questions
 
-1. [Glossary](#glossary)
-2. [Frequently Asked Questions](#frequently-asked-questions)
-    1. [Why would I choose a mesh/WISP structure rather than telecom provided internet?](#why-would-i-choose-a-meshwisp-structure-rather-than-telecom-provided-internet)
-    2. [How do the speeds of different kinds of networks compare?](#how-do-the-speeds-of-different-kinds-of-networks-compare)
+1. [Why would I choose a mesh/WISP structure rather than telecom provided internet?](#why-would-i-choose-a-meshwisp-structure-rather-than-telecom-provided-internet)
+2. [How do the speeds of different kinds of networks compare?](#how-do-the-speeds-of-different-kinds-of-networks-compare)
 
-###### Why would I choose a mesh/WISP structure rather than telecom provided internet?
+#### Why would I choose a mesh/WISP structure rather than telecom provided internet?
 
 Check out [this flyer](https://drive.google.com/file/d/18bi9M0zQGHv3DZgx3uXPMUD--TEUzGsr/view?usp=sharing "Mesh vs Telecom") for more information!
 
-###### How do the speeds of different kinds of networks compare?
+#### How do the speeds of different kinds of networks compare?
 
 > _"The Federal Communications Commissions defines 25 megabits per second as broadband access. Slower speeds can mean extended time downloading information or images from the internet, making research difficult for students and reducing the quality of Netflix movies."_
 >
