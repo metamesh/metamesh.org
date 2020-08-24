@@ -27,10 +27,8 @@ What sets us apart from other WISPs: we are not-for-profit, which means we donâ€
 
 Our organization is grant and donor funded, so the initial build out is fully covered for each project. That includes the installation of equipment as well as the provision of in-home routers. Rather than demanding a fee for service, we ask users for a suggested donation of $10/month per household to help us keep our network strong and healthy. That being said, we will NEVER withhold services from any user if they do not donate.
 
-<!--
-Forestry doesn't support tables yet, and this table is strutured in such a way that it
-would be very tedious to write out. Instead, we'll just publish a screenshot.
-\-->
+<!-- Forestry doesn't support tables yet, and this table is strutured in such a way that it would be very tedious to write out. Instead, we'll just publish a screenshot. -->
+
 {{< banner-image src="/images/isp-comparison.png" alt="Picture of a table comparing Meta Mesh services against Verizon and Comcast" >}}
 
 The whole point of this venture is to provide Internet while reducing financial strain on underserved areas. Meta Mesh helps our community partners find ways to cover the monthly cost communally. [This page](https://drive.google.com/file/d/1cP9_ZUdOomZx-FlmuC0weh0V2gCRi9S3/view?usp=sharing) contains a more detailed list of ways we help communities cover monthly maintenance fees.

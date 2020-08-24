@@ -13,35 +13,30 @@
 
 */}}
 
-{{- $defaultURL := "https://via.placeholder.com/1024x256/666/999" -}}
+{{ $defaultURL := "https://via.placeholder.com/1024x256/666/999" }}
 
 <div class="card border-0 my-4 shadow shortcode banner-image">
   <div class="row no-gutters">
     <div class="col-xs-auto">
       <img class='card-img'
-        {{ with .Get "id" -}} id="{{ . }}" {{- end }}
-        {{ with .Get "width" -}} width="{{ . }}" {{- end }}
-        {{ with .Get "height" -}} height="{{ . }}" {{- end }}
-        src='
-          {{ .Scratch.Set "src" (.Get "src") }}
-          {{- with $url := .Get "src" -}}
-            {{- $fullURL := $url | absURL -}}
-            {{- if hasPrefix $fullURL site.BaseURL -}}
-              {{- with $img := resources.Get $url -}}
-                {{- .Permalink -}}
-              {{- else -}}
-                {{- warnf "warn: could not find image at '%s', using default" $fullURL -}}
-                {{- $defaultURL -}}
-              {{- end -}}
-            {{- else -}}
-              {{- $fullURL | safeHTMLAttr -}}"
-            {{- end -}}
+        {{- with .Get "src" }}
+          {{ $url := urls.Parse . }}
+          {{ if or (eq $url.Host site.BaseURL) (eq $url.Host "") }}
+            {{/* Local resource */}}
+            {{ $img := resources.Get (printf "%s" $url) }}
+            {{ printf "src=%q" $img.Permalink | safeHTMLAttr }}
           {{- else -}}
-            {{- warnf "warn: missing 'src' attr, using default" -}}
-            {{- $defaultURL -}}
-          {{- end -}}
-        '
-        {{ with .Get "alt" -}} alt="{{ . }}" {{- else }}{{ warnf "a11y: missing 'alt' attribute in banner-image shortcode for %s" (.Scratch.Get "src") }}{{ end }}
+            {{/* Remote resource */}}
+            {{ printf "src=%q" (urls.Parse .) | safeHTMLAttr }}
+          {{ end }}
+        {{- else -}}
+          {{/* No resource */}}
+          {{ printf "src=%q" $defaultURL | safeHTMLAttr }}
+        {{ end -}}
+        {{- with .Get "id" }}{{ printf "id=%q" . | safeHTMLAttr }}{{ end -}}
+        {{- with .Get "width" }}{{ printf "width=%q" . | safeHTMLAttr }}{{ end -}}
+        {{- with .Get "height" }}{{ printf "height=%q" . | safeHTMLAttr }}{{ end -}}
+        {{- with .Get "alt" }}{{ printf "alt=%q" . | safeHTMLAttr }}{{ end -}}
       />
     </div>
   </div>

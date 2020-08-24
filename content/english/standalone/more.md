@@ -173,11 +173,10 @@ WPA2 Enterprise
 
 ## Frequently Asked Questions
 
-1. [Additional Reading](#additional-reading)
-    1. [Glossary](#glossary)
-    2. [Frequently Asked Questions](#frequently-asked-questions)
-                    1. [Why would I choose a mesh/WISP structure rather than telecom provided internet?](#why-would-i-choose-a-meshwisp-structure-rather-than-telecom-provided-internet)
-                    2. [How do the speeds of different kinds of networks compare?](#how-do-the-speeds-of-different-kinds-of-networks-compare)
+1. [Glossary](#glossary)
+2. [Frequently Asked Questions](#frequently-asked-questions)
+    1. [Why would I choose a mesh/WISP structure rather than telecom provided internet?](#why-would-i-choose-a-meshwisp-structure-rather-than-telecom-provided-internet)
+    2. [How do the speeds of different kinds of networks compare?](#how-do-the-speeds-of-different-kinds-of-networks-compare)
 
 ###### Why would I choose a mesh/WISP structure rather than telecom provided internet?
 
