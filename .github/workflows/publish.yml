@@ -28,21 +28,34 @@ jobs:
           hugo env
           hugo config
 
+      # Requires secret in order to properly deploy across multiple repos
       - name: Build site
         run: hugo --debug --i18n-warnings --enableGitInfo --ignoreCache --minify --baseURL "${{ env.BASE_URL }}"
         env:
           BASE_URL: ${{ secrets.BASE_URL }}
 
-      # Required in order to have the same site across multiple repos for GitHub Pages
+      # Requires secret in order to properly deploy across multiple repos
       - name: "Modify site: patch in Forestry Site ID"
         run: "sed -i 's/siteId: \":^xxxXxxx^:\",/siteId: \"${{ env.FORESTRY_SITE_ID }}\",/' public/admin/index.html"
         env:
           FORESTRY_SITE_ID: ${{ secrets.FORESTRY_SITE_ID }}
+
+      # Requires secret in order to properly deploy across multiple repos
+      - name: "Create CNAME file for canonical domain (if on Prod repo)"
+        run: >
+          echo ::set-env name=CANONICAL_NAME::$(echo '${{ env.BASE_URL }}' | sed 's~http[s]*://~~g' | sed 's:/*$::');
+          echo '${{ env.CANONICAL_NAME }}' > public/CNAME;
+        env:
+          BASE_URL: ${{ secrets.BASE_URL }}
+        if: github.repository == 'metamesh/metamesh.org'
+
+      - name: "Get timestamp (for publishing commit message)"
+        run: "echo ::set-env name=TIMESTAMP::$(date --date=\"@$(date +%s)\")"
 
       - name: Deploy built site to gh-pages branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
-          commit_message: "Last Published: ${{ github.event.created_at }}"
+          commit_message: "Last Published: ${{ env.TIMESTAMP }} from "
           force_orphan: true
