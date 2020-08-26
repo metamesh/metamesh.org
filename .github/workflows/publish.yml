@@ -24,9 +24,9 @@ jobs:
           extended: true
 
       - name: Announce env debug info
-        run: |
-          hugo env
-          hugo config
+        run: >
+          hugo env;
+          hugo config;
 
       # Requires secret in order to properly deploy across multiple repos
       - name: Build site
@@ -36,15 +36,13 @@ jobs:
 
       # Requires secret in order to properly deploy across multiple repos
       - name: "Modify site: patch in Forestry Site ID"
-        run: "sed -i 's/siteId: \":^xxxXxxx^:\",/siteId: \"${{ env.FORESTRY_SITE_ID }}\",/' public/admin/index.html"
+        run: "sed -i 's/DoNotModifyThisSiteIDString/${{ env.FORESTRY_SITE_ID }}/' public/admin/index.html"
         env:
           FORESTRY_SITE_ID: ${{ secrets.FORESTRY_SITE_ID }}
 
       # Requires secret in order to properly deploy across multiple repos
-      - name: "Create CNAME file for canonical domain (if on Prod repo)"
-        run: >
-          echo ::set-env name=CANONICAL_NAME::$(echo '${{ env.BASE_URL }}' | sed 's~http[s]*://~~g' | sed 's:/*$::');
-          echo '${{ env.CANONICAL_NAME }}' > public/CNAME;
+      - name: "Create CNAME file for canonical domain"
+        run: "echo \"$(echo \"${{ env.BASE_URL }}\" | sed -e \"s|^[^/]*//||\" -e \"s|/.*$||\")\" > public/CNAME"
         env:
           BASE_URL: ${{ secrets.BASE_URL }}
         if: github.repository == 'metamesh/metamesh.org'

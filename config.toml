@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://metamesh.org"
+baseURL = "https://www.metamesh.org"
 title = "Meta Mesh Wireless Communities"
 theme = "hugo-theme-meshna"
 # post pagination
