@@ -6,7 +6,7 @@ items:
   icon: archive
   body: Home Internet Access and A Sustainable Approach to Public WiFi in Three Underserved
     Pittsburgh Communities
-- title: Glossary of Terms
+- title: Glossary
   icon: book-open
   body: We created a glossary of terms to translate “tech talk” into concepts that
     everyone can understand.
@@ -14,7 +14,7 @@ items:
   icon: question
   body: Have a question? We may have answered it here! If not, please contact us for
     more information.
-- title: Technical Resources
+- title: Tech Resources
   icon: tools
   body: We share our knowledge through educational and administrative resources that
     can be used freely by anyone to build their own WiFi network.
