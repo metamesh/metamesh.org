@@ -2,9 +2,6 @@
 title: Learn More
 enable: true
 items:
-- title: Contact Us
-  icon: arrow-circle-right
-  body: info@metamesh.org (412) 223-4253 744 E Warrington Ave Pittsburgh, PA 15210
 - title: Research
   icon: archive
   body: Home Internet Access and A Sustainable Approach to Public WiFi in Three Underserved
@@ -21,6 +18,9 @@ items:
   icon: tools
   body: We share our knowledge through educational and administrative resources that
     can be used freely by anyone to build their own WiFi network.
+- title: Contact Us
+  icon: arrow-circle-right
+  body: info@metamesh.org (412) 223-4253 744 E Warrington Ave Pittsburgh, PA 15210
 button:
   enable: true
   label: Further Reading
