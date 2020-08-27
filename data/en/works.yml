@@ -7,14 +7,14 @@ items:
   image: "/images/img_20200813_090447_3.jpg"
   categories:
   - photography
-  content: In-Home WiFi is reliable and affordable
+  content: Reliable and affordable
   link: "#"
 - name: Public-Space WiFi
   icon: search
   image: "/images/d29986_8fccf0f7a66b4dbe9bd4f4f3ae0e6442-1.webp"
   categories:
   - photography
-  content: Mesh Networking connects Public Spaces
+  content: Mesh Networking in Public Spaces
   link: "#"
 - name: Mobile WiFi
   icon: search
