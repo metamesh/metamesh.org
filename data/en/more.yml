@@ -2,6 +2,9 @@
 title: Learn More
 enable: true
 items:
+- title: Contact Us
+  icon: arrow-circle-right
+  body: 'info@metamesh.org '
 - title: Research
   icon: archive
   body: Home Internet Access and A Sustainable Approach to Public WiFi in Three Underserved
