@@ -1,5 +1,9 @@
 {{ define "main" }}
 
+{{ if site.Params.DebugMode }}
+  {{ partial "debugging.html" . }}
+{{ end }}
+
 {{ partial "banner.html" . }}
 
 {{ partial "navigation.html" . }}
@@ -11,6 +15,8 @@
 {{ partial "works.html" . }}
 
 {{ partial "help.html" . }}
+
+{{ partial "contact.html" . }}
 
 {{ partial "more.html" . }}
 

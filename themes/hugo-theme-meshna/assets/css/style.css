@@ -822,7 +822,17 @@ i.fa {
   height: 400px;
 }
 
-.contact-info p {
+#contact a {
+  color: #cdbc17;
+  text-decoration: underline dotted #cdbc17;
+}
+
+#contact a:hover {
+  color: #cdbc17;
+  text-decoration: none !important;
+}
+
+/* .contact-info p {
   margin-bottom: 25px;
 }
 
@@ -833,7 +843,7 @@ i.fa {
 .con-info i,
 .con-info span {
   padding-right: 5px;
-}
+} */
 
 .error {
   display: none;

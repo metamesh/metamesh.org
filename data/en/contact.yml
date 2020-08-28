@@ -1,25 +1,27 @@
 ---
-enable: false
+enable: true
 title: Contact Us
 subtitle: Contact Details
-content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident,
-  eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo
-  officiis ratione vel fugiat dicta laboriosam labore adipisci.
+content: Give us a call, send us a fax, or drop us a line. We look forward to hearing from you.
 info_list:
   - title: 'Office Address'
     value: 'Meta Mesh Wireless Communities, 744 East Warrington Ave Pittsburgh PA, 15210'
     link: 'https://www.google.com/maps/place/Meta+Mesh'
+    icon: 'map'
   - title: 'Contact Email'
     value: 'info@metamesh.org'
     link: 'mailto:info@metamesh.org'
+    icon: 'envelope'
   - title: 'Phone Number'
     value: '+1 (412) 223-4253'
     link: 'tel:14122234253'
+    icon: 'phone'
   - title: 'Fax Number'
     value: '+1 (412) 229-0322'
     link: 'tel:14122290322'
+    icon: 'fax'
 contact_form:
-  enable: true
+  enable: false
   form_action: "#"
   name: Your Name
   email: Your Email
