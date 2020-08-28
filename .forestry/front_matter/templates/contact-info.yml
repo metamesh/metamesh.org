@@ -57,3 +57,5 @@ fields:
   - type: text
     name: submit
     label: Submit
+pages:
+- data/en/contact.yml
