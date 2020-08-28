@@ -1,0 +1,57 @@
+---
+label: contact-info
+hide_body: true
+fields:
+- type: boolean
+  name: enable
+  label: enable
+- type: text
+  name: title
+  label: title
+- type: text
+  name: subtitle
+  label: subtitle
+- type: text
+  name: content
+  label: content
+- type: field_group_list
+  name: info_list
+  label: info_list
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: value
+    label: value
+  - type: text
+    name: link
+    label: link
+  - type: text
+    name: icon
+    label: icon
+- type: field_group
+  name: contact_form
+  label: contact_form
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: form_action
+    label: form_action
+  - type: text
+    name: name
+    label: name
+  - type: text
+    name: email
+    label: email
+  - type: text
+    name: subject
+    label: subject
+  - type: text
+    name: message
+    label: message
+  - type: text
+    name: submit
+    label: submit

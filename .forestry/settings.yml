@@ -61,7 +61,6 @@ sections:
 - type: document
   path: data/en/contact.yml
   label: Contact Info
-  match: "**/*"
 upload_dir: assets/images
 public_path: "/images"
 front_matter_path: ''
