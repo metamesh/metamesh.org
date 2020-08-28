@@ -20,8 +20,14 @@ fields:
   - type: text
     name: title
     label: Title
-  - type: text
-    name: value
+  - name: value
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
     label: Value
   - type: text
     name: link
