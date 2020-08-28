@@ -1,5 +1,5 @@
 ---
-label: contact-info
+label: Contact Info
 hide_body: true
 fields:
 - type: boolean
