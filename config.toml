@@ -15,7 +15,6 @@ disableLanguages = ['fr']
 
 canonifyURLs = true
 
-
 ############################# Plugins ##########################
 # Fonts -- Inconsolata, Quattrocento Sans => https://fonts.google.com/specimen/Inconsolata?selection.family=Inconsolata:wght@400;700|Quattrocento+Sans:wght@400;700
 [[params.plugins.css]]
@@ -86,6 +85,8 @@ google_analytics_id = "UA-35167230-1"
 fontawesome_kit_id = "c4fa996494"
 # post share
 post_share = true
+# load debug content
+debugMode = false
 
 
 # # Optional: Google Maps widget (currently disabled)
