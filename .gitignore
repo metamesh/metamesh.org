@@ -9,7 +9,7 @@
 
 # NPM stuff
 # gulpfile.js
-package.json
+# package.json
 package-lock.json
 node_modules/
 

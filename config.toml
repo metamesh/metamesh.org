@@ -63,14 +63,19 @@ URL = "works"
 weight = 2
 
 [[menu.main]]
+name = "Projects"
+URL = "projects"
+weight = 3
+
+[[menu.main]]
 name = "How To Help"
 URL = "help"
-weight = 3
+weight = 4
 
 [[menu.main]]
 name = "Learn More"
 URL = "more"
-weight = 3
+weight = 4
 
 
 ############################# Default Parameters ##########################
