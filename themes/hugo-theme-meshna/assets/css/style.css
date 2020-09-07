@@ -842,16 +842,16 @@ i.fa {
 }
 
 #contact-submit {
-  border: 1px solid #f1f1f112;
-  background: #cdbc17;
+  border: 1px solid #777;
+  background-color: #777;
   padding: 12px 0;
   width: 100%;
   margin: 0;
 }
 
 #contact-submit:hover {
-  border-color: #2c9091;
-  background-color: #2c9091;
+  background: #cdbc17;
+  border-color: #cdbc17;
 }
 
 .form-meshna ::-webkit-input-placeholder {

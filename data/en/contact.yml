@@ -22,7 +22,7 @@ info_list:
   link: tel:14122290322
   icon: fax
 contact_form:
-  enable: false
+  enable: true
   form_action: "#"
   name: Your Name
   email: Your Email

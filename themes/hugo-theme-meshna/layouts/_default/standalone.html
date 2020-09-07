@@ -93,4 +93,8 @@ dl dd a:hover {
   </div>
 </section>
 
+{{ if eq .Title "Projects" }}
+  {{ partial "contact.html" }}
+{{ end }}
+
 {{ end }}
