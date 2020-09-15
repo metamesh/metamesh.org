@@ -2527,3 +2527,9 @@ figcaption {
     margin-top: 10px;
   }
 }
+
+@media (max-width: 350px) {
+  .hero-area .block h1 {
+    font-size: 55px;
+  }
+}
