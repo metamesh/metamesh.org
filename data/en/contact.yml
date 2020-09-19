@@ -23,7 +23,7 @@ info_list:
   icon: fax
 contact_form:
   enable: true
-  form_action: "#"
+  form_action: "https://formspree.io/myybgrqq"
   name: Your Name
   email: Your Email
   subject: Subject

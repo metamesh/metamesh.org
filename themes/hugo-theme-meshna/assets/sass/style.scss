@@ -2461,3 +2461,23 @@ figcaption {
     font-size: 55px;
   }
 }
+
+@media (max-width: 990px) {
+  .contact-info {
+    margin-bottom: 40px;
+  }
+}
+@media (min-width: 990px) {
+  #contact p {
+    width: 320px;
+    max-width: 100%;
+    margin-bottom: 30px;
+  }
+
+  #contact a {
+    display: block;
+    width: 250px;
+    max-width: 100%;
+    margin-bottom: 20px;  
+  }
+}
