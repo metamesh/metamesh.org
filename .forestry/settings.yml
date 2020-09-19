@@ -42,8 +42,7 @@ sections:
   label: Learn More
 - type: document
   path: " content/english/standalone/projects.md"
-  label: Projects
-  match: "**/*"
+  label: Projects Page
 - type: heading
   label: Manage Data
 - type: directory
