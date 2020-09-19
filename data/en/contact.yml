@@ -22,7 +22,7 @@ info_list:
   link: tel:14122290322
   icon: fax
 contact_form:
-  enable: false
+  enable: true
   contact_subtitle: This is a form!
   form_action: "https://formspree.io/myybgrqq"
   name: Your Name

@@ -310,6 +310,35 @@ jQuery(function ($) {
     counter();
   });
 
+
+
+  $('#child').click(function(){
+    if (this.checked) {
+      $('.iffy-child').addClass('active');
+    } else {
+      $('.iffy-child').removeClass('active');
+    }
+  });
+  $('#internet').click(function(){
+    if (this.checked) {
+      $('.intern').addClass('active');
+    } else {
+      $('.intern').removeClass('active');
+    }
+  });
+
+  $('#switch').change(function(){
+    console.log($(this).children("option:selected").val())
+    if ($(this).children("option:selected").val() == 'Other') {
+      $('.intern-other').addClass('active');
+    } else {
+      $('.intern-other').removeClass('active');
+    }
+  });
+  // $(window).load(function(){
+  //   $("#child").prop("checked", false);
+  // })
+
 });
 
 

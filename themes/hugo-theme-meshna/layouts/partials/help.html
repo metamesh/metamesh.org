@@ -26,6 +26,11 @@
               </div>
               <h3>{{ .name | markdownify }}</h3>
               <p>{{ .content | markdownify }}</p>
+              {{ if .donate_button }}
+                {{ with .donate_button }}
+                  <a href='{{ .url }}' target="{{ .target }}" class='btn btn-transparent'>{{ .title }}</a>
+                {{ end }}
+              {{ end }}
             </div>
           </article>
           {{ end }}
