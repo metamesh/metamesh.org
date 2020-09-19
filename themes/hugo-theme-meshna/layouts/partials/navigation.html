@@ -24,7 +24,7 @@
             {{ end }}
 					{{ end }}
 
-				</ul>
+        </ul>
 				{{- if site.IsMultiLingual }}
           {{/* Language List */}}
           <select id="select-language" onchange="location = this.value;">
@@ -49,7 +49,10 @@
             {{ end }}
           </select>
 				{{ end }}
-			</div>
+      </div>
+      <button class="navbar-toggler rounded-0" type="button" data-toggle="collapse" data-target="#navigation">
+				<span class="navbar-toggler-icon"></span>
+			</button>
 		</nav>
 	</div>
 </section>

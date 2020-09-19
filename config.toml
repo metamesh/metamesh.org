@@ -85,6 +85,9 @@ google_analytics_id = "UA-35167230-1"
 fontawesome_kit_id = "c4fa996494"
 # post share
 post_share = true
+# contact form
+contact_form = true
+contactform = true
 # load debug content
 debugMode = false
 

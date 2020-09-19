@@ -3,7 +3,10 @@
 {{ partial "navigation.html" . }}
 
 <style>
-table, caption, tbody, tfoot, thead, tr, th, td {
+  h1 {
+    margin-bottom: 35px;
+  }
+/* table, caption, tbody, tfoot, thead, tr, th, td {
   margin: 0;
   padding: 0;
   border: 0;
@@ -66,7 +69,7 @@ dl dd a {
 
 dl dd a:hover {
   color: #cdbc17;
-}
+} */
 </style>
 
 <section class="section">
@@ -74,9 +77,9 @@ dl dd a:hover {
     <div class="row">
       <div class="col-lg-8 offset-lg-2 text-center">
         <h1>{{ .Title }}</h1>
-        <ul class="list-inline mb-50">
+        <!-- <ul class="list-inline mb-50">
           <li class="list-inline-item">{{ dateFormat "Monday, Jan 2, 2006" .Date }}</li>
-        </ul>
+        </ul> -->
       </div>
       <div class="col-lg-8 offset-lg-2">
         <div class="post-single-content">
@@ -89,5 +92,9 @@ dl dd a:hover {
     </div>
   </div>
 </section>
+
+{{ if eq .Title "Projects" }}
+  {{ partial "contact.html" }}
+{{ end }}
 
 {{ end }}

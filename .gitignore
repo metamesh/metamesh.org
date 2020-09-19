@@ -7,6 +7,12 @@
 # Caching that we don't need in Git
 /resources
 
+# NPM stuff
+# gulpfile.js
+# package.json
+package-lock.json
+node_modules/
+
 ## OS Files
 # Windows
 Thumbs.db
