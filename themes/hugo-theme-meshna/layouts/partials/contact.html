@@ -14,32 +14,32 @@
               <div class="border-meshna"></div>
             </div>
           </div>
-        </div>
-        {{/* /section title  */}}
+          {{/* /section title  */}}
 
-        {{/* Contact Details  */}}
-        <div class="row contact-info wow fadeInUp" data-wow-duration="500ms">
-          <div class="block col-12">
-            <h3>{{ .subtitle | markdownify }}</h3>
+          {{/* Contact Details  */}}
+          <div class="contact-info col-lg-6 wow fadeInUp" data-wow-duration="500ms">
+            <!-- <div class="block col-12"> -->
+              <h3>{{ .subtitle | markdownify }}</h3>
+            <!-- </div> -->
+            <!-- <div class="block col-12"> -->
+              <p>{{ .content | markdownify }}</p>
+            <!-- </div> -->
+
+            {{ range .info_list }}
+              <div class="con-info clearfix">
+                <i class='fa fa-{{ .icon | default "question" }}'></i>
+                &nbsp;
+                <span>{{ .title }}</span>
+                <br>
+                <a {{ printf "href=%q" .link | safeHTMLAttr }}>{{ .value }}</a>
+              </div>
+              <!-- <div class="col-sm-11 col-md-8 col-lg-9 col-xl-10 offset-sm-1 offset-md-0 mb-4">
+              </div> -->
+            {{ end }}
           </div>
-          <div class="block col-12">
-            <p>{{ .content | markdownify }}</p>
-          </div>
 
-          {{ range .info_list }}
-            <div class="col-sm-12 col-md-4 col-lg-3 col-xl-2 con-info">
-              <i class='fa fa-{{ .icon | default "question" }}'></i>
-              &nbsp;
-              <span>{{ .title }}</span>
-            </div>
-            <div class="col-sm-11 col-md-8 col-lg-9 col-xl-10 offset-sm-1 offset-md-0 mb-4">
-              <a {{ printf "href=%q" .link | safeHTMLAttr }}>{{ .value }}</a>
-            </div>
-          {{ end }}
-        </div>
-
-        {{/* Contact Form  */}}
-        <div class="row">
+          {{/* Contact Form  */}}
+          <!-- <div class="row"> -->
           {{ if .contact_form.enable }}
           {{ with .contact_form }}
           <div class="col-lg-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
@@ -70,7 +70,7 @@
               <span>{{ .info }}</span>
             </div>
             {{ end }}
-          </div>
+          <!-- </div> -->
           {{ end }}
         </div>
       </div>

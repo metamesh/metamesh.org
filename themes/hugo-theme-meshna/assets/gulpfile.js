@@ -16,7 +16,7 @@ const dist = "dist";
 
 function css() {
   return src(scssSrc)
-    .pipe(sass({outputStyle: 'expanded'}).on("error", sass.logError)) // Using sass
+    .pipe(sass({outputStyle: 'compressed'}).on("error", sass.logError)) // Using sass
     .pipe(dest(cssDist));
 }
 
