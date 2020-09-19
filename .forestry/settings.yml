@@ -40,6 +40,10 @@ sections:
 - type: document
   path: content/english/standalone/more.md
   label: Learn More
+- type: document
+  path: " content/english/standalone/projects.md"
+  label: Projects
+  match: "**/*"
 - type: heading
   label: Manage Data
 - type: directory
