@@ -43,6 +43,7 @@
           {{ if .contact_form.enable }}
           {{ with .contact_form }}
           <div class="col-lg-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
+            <h3>{{ .contact_subtitle | markdownify }}</h3>
             <form id="contact-form" class="form-meshna" action="https://formspree.io/myybgrqq"
             method="POST" role="form">
               <div class="form-group">
