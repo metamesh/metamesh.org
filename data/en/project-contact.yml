@@ -1,0 +1,35 @@
+title: Contact Us
+subtitle: Contact Details
+content: Give us a call, send us a fax, or drop us a line. We look forward to hearing
+  from you.
+volunteer_form:
+  contact_subtitle: Be a Part
+  form_action: "https://formspree.io/myybgrqq"
+  firstname: First Name
+  lastname: Last Name
+  phone: Phone
+  email: Email
+  help: I'm interested in helping by...
+  expertise: I've got experience with...
+  submit: Submit
+project_form:
+  contact_subtitle: Participate
+  intro: Meta Mesh is deploying a pilot project to offer our In-Home WiFi services to K-12 students to keep them connected for online learning throughout the COVID-19 Crisis. If your household resides in Homewood, Coraopolis, or New Kensington-Arnold, please fill out the form below to see if you are eligible to receive services through this pilot program.
+  firstname: First Name
+  lastname: Last Name
+  phone: Phone
+  email: Email (Optional)
+  child: Does a school-aged child live in your household?
+  online: Does your child have to do school work online?
+  online_extra: (This includes online zoom classes, turning in homework online, etc.)
+  school: What school do they attend?
+  internet: Do you currently have In-Home Internet Access?
+  plan: My internet plan is...
+  switch: I want to switch to MetaMesh because...
+  switch_options:
+    - option: I can no longer afford my current plan
+    - option: My connection is unreliable
+    - option: I can't make more than one video call at once
+    - option: Other
+  switch_options_other: Tell us more...
+  submit: Submit
