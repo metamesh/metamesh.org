@@ -26,6 +26,10 @@ sections:
 - type: document
   path: data/en/more.yml
   label: Learn More
+- type: document
+  path: data/en/contact.yml
+  label: Contact Info
+  match: "**/*"
 - type: heading
   label: Standalone Pages
 - type: document
