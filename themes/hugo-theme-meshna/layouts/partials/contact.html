@@ -14,51 +14,54 @@
               <div class="border-meshna"></div>
             </div>
           </div>
-        </div>
-        {{/* /section title  */}}
+          {{/* /section title  */}}
 
-        {{/* Contact Details  */}}
-        <div class="row contact-info wow fadeInUp" data-wow-duration="500ms">
-          <div class="block col-12">
-            <h3>{{ .subtitle | markdownify }}</h3>
+          {{/* Contact Details  */}}
+          <div class="contact-info col-lg-6 wow fadeInUp" data-wow-duration="500ms">
+            <!-- <div class="block col-12"> -->
+              <h3>{{ .subtitle | markdownify }}</h3>
+            <!-- </div> -->
+            <!-- <div class="block col-12"> -->
+              <p>{{ .content | markdownify }}</p>
+            <!-- </div> -->
+
+            {{ range .info_list }}
+              <div class="con-info clearfix">
+                <i class='fa fa-{{ .icon | default "question" }}'></i>
+                &nbsp;
+                <span>{{ .title }}</span>
+                <br>
+                <a {{ printf "href=%q" .link | safeHTMLAttr }}>{{ .value }}</a>
+              </div>
+              <!-- <div class="col-sm-11 col-md-8 col-lg-9 col-xl-10 offset-sm-1 offset-md-0 mb-4">
+              </div> -->
+            {{ end }}
           </div>
-          <div class="block col-12">
-            <p>{{ .content | markdownify }}</p>
-          </div>
 
-          {{ range .info_list }}
-            <div class="col-sm-12 col-md-4 col-lg-3 col-xl-2 con-info">
-              <i class='fa fa-{{ .icon | default "question" }}'></i>
-              &nbsp;
-              <span>{{ .title }}</span>
-            </div>
-            <div class="col-sm-11 col-md-8 col-lg-9 col-xl-10 offset-sm-1 offset-md-0 mb-4">
-              <a {{ printf "href=%q" .link | safeHTMLAttr }}>{{ .value }}</a>
-            </div>
-          {{ end }}
-        </div>
-
-        {{/* Contact Form  */}}
-        <div class="row">
+          {{/* Contact Form  */}}
+          <!-- <div class="row"> -->
           {{ if .contact_form.enable }}
           {{ with .contact_form }}
           <div class="col-lg-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
-            <form id="contact-form" class="form-meshna" method="post" action="{{ .form_action }}" role="form">
+            <h3>{{ .contact_subtitle | markdownify }}</h3>
+            <form id="contact-form" class="form-meshna" action="https://formspree.io/myybgrqq"
+            method="POST" role="form">
               <div class="form-group">
-                <input type="text" placeholder="{{ .name }}" class="form-control" name="name" id="name">
+                <input type="text" placeholder="{{ .name }}" class="form-control" name="name" id="name" required>
               </div>
               <div class="form-group">
-                <input type="email" placeholder="{{ .email }}" class="form-control" name="email" id="email">
+                <input type="email" placeholder="{{ .email }}" class="form-control" name="email" id="email" required>
               </div>
+              <!-- <div class="form-group">
+                <input type="text" placeholder="{{ .subject }}" class="form-control" name="subject" id="subject" required>
+              </div> -->
               <div class="form-group">
-                <input type="text" placeholder="{{ .subject }}" class="form-control" name="subject" id="subject">
-              </div>
-              <div class="form-group">
-                <textarea rows="6" placeholder="{{ .message }}" class="form-control" name="message" id="message"></textarea>
+                <textarea rows="6" placeholder="{{ .message }}" class="form-control" name="message" id="message" required></textarea>
               </div>
               <div id="cf-submit">
                 <button type="submit" id="contact-submit" class="btn btn-transparent btn-block" value="{{ .submit }}">{{ .submit }}</button>
               </div>
+              <p id='form-status'></p>
             </form>
           </div>
           {{ end }}
@@ -70,7 +73,7 @@
               <span>{{ .info }}</span>
             </div>
             {{ end }}
-          </div>
+          <!-- </div> -->
           {{ end }}
         </div>
       </div>
