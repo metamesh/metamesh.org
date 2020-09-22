@@ -49,7 +49,6 @@ sections:
 - type: document
   path: content/english/standalone/privacy.md
   label: Privacy Policy
-  match: "**/*"
 - type: heading
   label: Manage Data
 - type: directory
