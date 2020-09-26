@@ -48,8 +48,7 @@ sections:
   label: Projects Page
 - type: document
   path: data/en/project-contact.yml
-  label: Projects Page Contact Fields
-  match: "**/*"
+  label: Projects Page Contact
 - type: document
   path: content/english/standalone/privacy.md
   label: Privacy Policy
