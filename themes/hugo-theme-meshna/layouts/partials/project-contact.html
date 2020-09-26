@@ -20,19 +20,19 @@
           {{ with .project_form }}
           <div class="col-lg-12 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
             <h3>{{ .contact_subtitle | markdownify }}</h3>
-            <form id="project-form" class="form-meshna" action="https://formspree.io/myybgrqq"
+            <form id="project-form" class="form-meshna" action="https://formspree.io/xnqonazg"
             method="POST" role="form">
               <div class="form-group">
-                <input type="text" placeholder="{{ .firstname }}" class="form-control" name="firstname" id="firstname" required>
+                <input type="text" autocomplete="given-name" placeholder="{{ .firstname }}" class="form-control" name="firstname" id="firstname" required>
               </div>
               <div class="form-group">
-                <input type="text" placeholder="{{ .lastname }}" class="form-control" name="lastname" id="lastname" required>
+                <input type="text" autocomplete="family-name" placeholder="{{ .lastname }}" class="form-control" name="lastname" id="lastname" required>
               </div>
               <div class="form-group">
-                <input type="text" placeholder="{{ .phone }}" class="form-control" name="phone" id="phone" required>
+                <input type="text" autocomplete="tel" placeholder="{{ .phone }}" class="form-control" name="phone" id="phone" required>
               </div>
               <div class="form-group">
-                <input type="email" placeholder="{{ .email }}" class="form-control" name="email" id="email">
+                <input type="email" autocomplete="email" placeholder="{{ .email }}" class="form-control" name="email" id="email">
               </div>
               <div class="form-group wide">
                 <input type="checkbox" class="" name="child" id="child"></input>
@@ -63,7 +63,7 @@
                 </select>
               </div>
               <div class="form-group intern-other">
-                <textarea rows="6" placeholder="{{ .switch_options_other }}" class="form-control" name="switch_options_other" id="switch_options_other" required></textarea>
+                <textarea rows="6" placeholder="{{ .switch_options_other }}" class="form-control" name="switch_options_other" id="switch_options_other"></textarea>
               </div>
 
               <!-- for volunteer
@@ -74,7 +74,7 @@
                 <textarea rows="6" placeholder="{{ .expertise }}" class="form-control" name="expertise" id="expertise" required></textarea>
               </div> -->
               <div id="cf-submit">
-                <button type="submit" id="contact-submit" class="btn btn-transparent btn-block" value="{{ .submit }}">{{ .submit }}</button>
+                <button type="submit" id="project-submit" class="btn btn-transparent btn-block" value="{{ .submit }}">{{ .submit }}</button>
               </div>
               <p id='form-status'></p>
             </form>
