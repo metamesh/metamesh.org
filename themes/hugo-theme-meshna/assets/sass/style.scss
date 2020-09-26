@@ -77,6 +77,7 @@ iframe {
 a,
 a:focus,
 a:hover {
+  line-height: 1.2;
   text-decoration: none;
   outline: 0;
 }
@@ -207,12 +208,6 @@ iframe {
   border: 0;
 }
 
-a,
-a:focus,
-a:hover {
-  text-decoration: none;
-  outline: 0;
-}
 
 a:focus,
 a:hover {
@@ -414,13 +409,13 @@ i.fa {
 
 .nav-link {
   color: #ffffff80;
-  text-decoration: underline dotted #ffffff80;
+  text-decoration: underline dashed #ffffff80;
   text-underline-offset: 0.25em; /* https://caniuse.com/#search=text-underline-offset */
 }
 
 .navbar-dark .navbar-nav .nav-link:hover {
   color: #ffffffbf;
-  text-decoration: underline dotted #ffffffbf;
+  text-decoration: underline dashed #ffffffbf;
 }
 
 .navbar-dark .navbar-nav .nav-link.active {
@@ -828,7 +823,7 @@ i.fa {
 
 #contact a {
   color: #cdbc17;
-  text-decoration: underline dotted #cdbc17;
+  text-decoration: underline dashed #cdbc17;
 }
 
 #contact a:hover {
@@ -2437,6 +2432,21 @@ figcaption {
   position: absolute;
   right: 0;
   top: 20px;
+}
+
+// .privacy {
+//   border-bottom: dashed 1px #cdbc17;
+// }
+.post-single-content {
+  a, a:link, a:visited {
+    border-bottom: dashed 1px #fff;
+  }
+  a:active {
+    border-bottom: dashed 1px #cdbc17;
+  }
+  a:hover {
+    border-bottom: unset;
+  }
 }
 
 #project-form {
