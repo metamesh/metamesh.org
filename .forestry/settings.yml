@@ -26,6 +26,9 @@ sections:
 - type: document
   path: data/en/more.yml
   label: Learn More
+- type: document
+  path: data/en/contact.yml
+  label: Contact Info
 - type: heading
   label: Standalone Pages
 - type: document
@@ -40,6 +43,12 @@ sections:
 - type: document
   path: content/english/standalone/more.md
   label: Learn More
+- type: document
+  path: content/english/standalone/projects.md
+  label: Projects Page
+- type: document
+  path: content/english/standalone/privacy.md
+  label: Privacy Policy
 - type: heading
   label: Manage Data
 - type: directory
@@ -58,9 +67,6 @@ sections:
   new_doc_ext: yml
   templates:
   - member
-- type: document
-  path: data/en/contact.yml
-  label: Contact Info
 upload_dir: assets/images
 public_path: "/images"
 front_matter_path: ''
