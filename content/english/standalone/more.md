@@ -114,7 +114,6 @@ Open-Source Software
 PoE Outdoor Ethernet
 : No definition available
 
-
 PenREN Fiber
 : PennREN is the name of KINBER’s file optic network spanning across Pennsylvania. Meta Mesh connects to PennREN through a cable that is inside the Cathedral of Learning. Meta Mesh then projects that connection to other areas of Pittsburgh through High Definition Sector Antennas.
 
@@ -168,20 +167,65 @@ WISP
 WPA2 Enterprise
 : No definition available
 
-802.11
+802\.11
 : No definition available
 
 ## Frequently Asked Questions
 
-1. [Why would I choose a mesh/WISP structure rather than telecom provided internet?](#why-would-i-choose-a-meshwisp-structure-rather-than-telecom-provided-internet)
-2. [How do the speeds of different kinds of networks compare?](#how-do-the-speeds-of-different-kinds-of-networks-compare)
+1. **What is a WISP?![](https://lh6.googleusercontent.com/rz4h_kzg7cyuvUinvvNu5fE0cV2NSbnsRMkGXfL4V2BJrUaRU7rqqLus2YahPjFzHHPFG4foXjXLMhFmDMMb-MnJmoD_UyQPJoog-Lq-veBPlRHbYUeZeVmnHGcOAmbrmlPhQmT2 =577x803)**
 
-#### Why would I choose a mesh/WISP structure rather than telecom provided internet?
+   **Why would I choose a mesh/WISP structure rather than telecom-provided internet?**
 
-Check out [this flyer](https://drive.google.com/file/d/18bi9M0zQGHv3DZgx3uXPMUD--TEUzGsr/view?usp=sharing "Mesh vs Telecom") for more information!
+   ![](https://lh5.googleusercontent.com/4QrwE9fPcNPoFidixCcXhZY3_171iVNSVb32nrDeubUPZz7R_BW4OBXISjurv2eL6bTQiqMlLhjJoblMxhToBvjISjmf9sz3Rp7CGDHXdmrwBL4-q93gi4jkWDzmD0N45cjzkElL =612x792)
 
-#### How do the speeds of different kinds of networks compare?
+   **How do the speeds of different kinds of networks compare?**
 
-> _"The Federal Communications Commissions defines 25 megabits per second as broadband access. Slower speeds can mean extended time downloading information or images from the internet, making research difficult for students and reducing the quality of Netflix movies."_
->
-> — [Pittsburgh Post-Gazette, 03 May 2020](https://www.post-gazette.com/business/tech-news/2020/05/03/Zippy-internet-access-due-soon-in-Greene-Washington-counties/stories/202005010126 "Pittsburgh Post-Gazette, 03 May 2020")
+   The Federal Communications Commissions defines 25 megabits per second as broadband access. You can see speed comparisons between different Providers in the table above. For a more in-depth breakdown of what functions are supported at different speeds, take a look at this resource: [https://broadbandnow.com/speedtest](https://broadbandnow.com/speedtest "https://broadbandnow.com/speedtest")
+
+   **Do you have a map of what your network covers/everywhere you are?**
+
+   Yes, we do! Here’s the link to our live map. This feature is under construction on our website
+
+   ​
+
+   **Does Meta Mesh use new networking technologies (like 5G or TV White Space)?**
+
+   Our solution is a low-cost and scalable way to distribute Internet access and build a standalone network at moderate speeds. That means, we are not the fastest WISP out there. We focus on bridging the Digital Divide by providing dependable networking services (In-Home and Public-Space WiFi) to communities that could not otherwise afford it. Bleeding-edge technology is not our priority.
+
+   **How does a Community Wireless Network provide “free” WiFi?**
+
+   We are the first non-profit WISP in the country to deploy networking services on a city-wide scale. As a non-profit organization, we rely on three key resources to sustain our efforts: 1) grant funding 2) individual donations 3) earned income from contracted work. So, the work we do is not “free,” we just look to sources other than the individual resident or household for revenue. Rather, we ask our users for a $10/month per household suggested donation to help cover maintenance costs. That being said, we NEVER shut off services to households who don’t contribute donations, and we assist communities in finding sustainable ways to cover any incurred costs.
+
+   ![](https://lh6.googleusercontent.com/662-pEd4-U0GWvWHyONcY-Dntx93NXWyyVaAagzcHQ4mpK8Ei06lJnC0a_Mau3rkpwcCe_X5zPrBH48lqjf_BYtk59gxR92gwChB6VN4P-eiqDyXu_p9JDI-iIM5e3Rj6V2Mz25r =628x873)
+
+   ​
+
+   **Is The Meta Mesh Network secure?**
+
+   MMWC uses the same 802.11 security measures that other big name ISPs use. While the WPA2 Enterprise is the global standard for WiFi, it is not “unbreakable.” However, it is extremely unlikely for a breach to occur. For more on the technological capabilities/limitations of WPA2, we recommend watching [Jon Zeolla's Talk on the subject](https://www.youtube.com/watch?v=K0FWXLLHDTo). Jon works with Steel City Information Security and is very well-versed in how bad guys break WiFi security.
+
+   In-Home WiFi: Those who receive our In-Home WiFi services will be provided with a pre-configured router that ensures the device is connected to our network and functioning at its highest capacity. Just like the residential WiFi you may get from Comcast or Verizon, your In-Home network will have a personalized name and password. Please be cautious about who you provided this information to in order to maintain the general security of your In-Home WiFi network.
+
+   Public-Space WiFi: Like other Public WiFi networks, our Public-Space WiFi is an open network, and therefore any traffic you send is not encrypted by the WiFi router itself. This means that it is easily readable by anyone nearby. An open network is advantageous for outdoor public areas, because a password is not required, which allows anyone who needs WiFi to hop online at will. With that said, we recommend you only use HTTPS websites and encrypted services when on Public-Space WiFi. Increasingly, websites use end-to-end encryption and more operating systems allow for automatic VPN services, which encrypt all traffic to an exit point on the Internet, more or less solving this problem. Please use [WiFi Assistant](https://support.google.com/nexus/answer/6327199?hl=en) on an Android device and use a VPN service if you are able when using any open/public networks.
+
+   We are currently updating our Privacy Policy, Terms & Conditions, and Wireless Agreement. Once completed, these documents will be available publicly and will outline in detail our data security commitments.
+
+   ​
+
+   **Can someone use nearby Public-Space WiFi to access my In-Home WiFi?**
+
+   We have in place firewall rules that prevent anyone "on the mesh" from accessing private IP ranges. So if someone tries to access devices on your home network, they won't be able to because our routers simply drop the requests when they realize they are destined for a forbidden IP address.
+
+   **Where is your open source software?**
+
+   You can view our code at [www.github.com/metamesh](http://www.github.com/metamesh)
+
+   ​
+
+   **Is WiFi dangerous to my health?**
+
+   No, not at the power levels specified by the 802.11 protocol. R[ead this](http://www.howtogeek.com/234817/dont-worry-wi-fi-isnt-dangerous/) for more information.
+
+## Research
+
+[view?usp=sharing](https://drive.google.com/file/d/1yoHeapwWWiHk5_GbTDumsL5yFxURn-zN/view?usp=sharing "view?usp=sharing")
