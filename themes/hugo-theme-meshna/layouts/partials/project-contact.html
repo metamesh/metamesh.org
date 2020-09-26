@@ -1,0 +1,88 @@
+{{ $contact := index site.Data site.Language.Lang "project-contact" }}
+
+{{ with $contact }}
+  {{/* Start Contact Us  */}}
+    <section id="contact" class="contact-us section-bg">
+      <div class="container pb-5">
+        {{/* section title  */}}
+        <div class="row">
+          <div class="col-lg-12">
+            <div class="title text-center wow fadeIn" data-wow-duration="500ms">
+              <h2>{{ with .title }} {{ index (split . " ") 0 | safeHTML }} {{ end }}<span class="color">
+                {{ with .title }} {{ index (split . " ") 1 | safeHTML }} {{ end }}</span></h2>
+              <div class="border-meshna"></div>
+            </div>
+          </div>
+          {{/* /section title  */}}
+
+          {{/* Contact Form  */}}
+          <!-- <div class="row"> -->
+          {{ with .project_form }}
+          <div class="col-lg-12 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
+            <h3>{{ .contact_subtitle | markdownify }}</h3>
+            <form id="project-form" class="form-meshna" action="https://formspree.io/myybgrqq"
+            method="POST" role="form">
+              <div class="form-group">
+                <input type="text" placeholder="{{ .firstname }}" class="form-control" name="firstname" id="firstname" required>
+              </div>
+              <div class="form-group">
+                <input type="text" placeholder="{{ .lastname }}" class="form-control" name="lastname" id="lastname" required>
+              </div>
+              <div class="form-group">
+                <input type="text" placeholder="{{ .phone }}" class="form-control" name="phone" id="phone" required>
+              </div>
+              <div class="form-group">
+                <input type="email" placeholder="{{ .email }}" class="form-control" name="email" id="email">
+              </div>
+              <div class="form-group wide">
+                <input type="checkbox" class="" name="child" id="child"></input>
+                <label for='child'>
+                  {{ .child }}
+                </label>
+              </div>
+              <div class='iffy iffy-child'>
+                <div class="form-group">
+                  <input type="checkbox" class="" name="online" id="online">
+                  <label for='online'>{{ .online }}</label>
+                  <p>{{ .online_extra }}</p>
+                </div>
+                <div class="form-group">
+                  <input type="text" placeholder="{{ .school }}" class="form-control" name="school" id="school">
+                </div>
+              </div>
+              <div class="form-group wide">
+                <input type="checkbox" class="" name="internet" id="internet">
+                <label for='internet'>{{ .internet }}</label>
+              </div>
+              <div class="form-group intern">
+                <label for='switch'>{{ .switch }}</label>
+                <select class="switch" name="switch" id="switch">
+                  {{ range .switch_options }}
+                  <option value='{{ .option }}'>{{ .option }}</option>
+                  {{ end }}
+                </select>
+              </div>
+              <div class="form-group intern-other">
+                <textarea rows="6" placeholder="{{ .switch_options_other }}" class="form-control" name="switch_options_other" id="switch_options_other" required></textarea>
+              </div>
+
+              <!-- for volunteer
+              <div class="form-group">
+                <textarea rows="6" placeholder="{{ .help }}" class="form-control" name="help" id="help" required></textarea>
+              </div>
+              <div class="form-group">
+                <textarea rows="6" placeholder="{{ .expertise }}" class="form-control" name="expertise" id="expertise" required></textarea>
+              </div> -->
+              <div id="cf-submit">
+                <button type="submit" id="contact-submit" class="btn btn-transparent btn-block" value="{{ .submit }}">{{ .submit }}</button>
+              </div>
+              <p id='form-status'></p>
+            </form>
+          </div>
+          {{ end }}
+        </div>
+      </div>
+    </section>
+  {{/* /contact  */}}
+
+{{ end }}

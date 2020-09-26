@@ -2439,6 +2439,82 @@ figcaption {
   top: 20px;
 }
 
+#project-form {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: flex-start;
+  #cf-submit {
+    width: 100%;
+  }
+  .iffy {
+    max-height: 0;
+    opacity: 0;
+    overflow: hidden;
+    transition: ease all .5s;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    .form-group:last-of-type {
+      margin-bottom: 1rem;
+    }
+    &.active {
+      max-height: 500px;
+      opacity: 1;
+      transition-duration: .2s;
+    }
+  }
+  .intern, .intern-other {
+    max-height: 0;
+    overflow: hidden;
+    opacity: 0;
+    transition: ease all .5s;
+    &.active {
+      max-height: 200px;
+      opacity: 1;
+      transition-duration: .2s;
+    }
+  }
+  .form-group {
+    width: 48%;
+    margin-right: auto;
+    &.wide {
+      width: 100%;
+      margin-right: unset;
+    }
+    p {
+      margin-bottom: unset;
+      color: whitesmoke;
+    }
+  }
+  .switch {
+    color: white;
+    background: unset;
+    background-color: transparent;
+    border-radius: 0;
+    padding: 5px 10px;
+    color: #ddd;
+    border: 1px solid #f1f1f112;
+    outline-color: #cdbc17;
+    transition: ease all .4s;
+  }
+  .switch:hover {
+    border-color: #cdbc17;
+    transition-duration: .2s;
+  }
+
+}
+
+@media (max-width: 990px) {
+  #project-form {
+    .form-group { width: 100%; }
+  }
+  .contact-info {
+    margin-bottom: 40px;
+  }
+}
 @media (max-width: 410px) {
   .navbar-toggler {
     top: 7px;
@@ -2462,11 +2538,6 @@ figcaption {
   }
 }
 
-@media (max-width: 990px) {
-  .contact-info {
-    margin-bottom: 40px;
-  }
-}
 @media (min-width: 990px) {
   #contact p {
     width: 320px;

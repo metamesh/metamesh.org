@@ -10,6 +10,10 @@ items:
   icon: hand-holding-heart
   content: We utilize donations to fund operational costs. If you would like to contribute
     directly to our efforts, please consider making a donation!
+  donate_button: 
+    title: Donate
+    url: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FBF55JXH8Y5PQ&source=url
+    target: _blank
 - name: Spread the Word
   icon: handshake
   content: Another important way to help is to simply spread the word--be that by
