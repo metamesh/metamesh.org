@@ -349,16 +349,27 @@ jQuery(function ($) {
   window.addEventListener("DOMContentLoaded", function() {
 
     // get the form elements defined in your form HTML above
+    var status = document.getElementById("form-status");
     
     var form = document.getElementById("contact-form");
     var button = document.getElementById("contact-submit");
-    var status = document.getElementById("form-status");
+
+    var projForm = document.getElementById('project-form');
+    var projButton = document.getElementById("project-submit");
+    var child = document.getElementById('child');
+
+    // validate that child is selected
+    function validate(object) {
+      if (object.checked) {
+        return true;
+      }
+    }
 
     // Success and Error functions for after the form is submitted
-    
-    function success() {
-      form.reset();
-      button.style = "display: none ";
+    function success(formName) {
+      formName.reset();
+      button ? button.style = "display: none " : '';
+      projButton ? projButton.style = "display: none " : '';
       status.innerHTML = "Thanks! Your message was sent successfully.";
     }
 
@@ -371,20 +382,34 @@ jQuery(function ($) {
       form.addEventListener("submit", function(ev) {
         ev.preventDefault();
         var data = new FormData(form);
-        ajax(form.method, form.action, data, success, error);
+        ajax(form.method, form.action, data, success, error, form);
+      });
+    }
+
+    // handle the form submission event
+    if (projForm) {
+      projForm.addEventListener("submit", function(ev) {
+        ev.preventDefault();
+        if (validate(child)) {
+          var data = new FormData(projForm);
+          ajax(projForm.method, projForm.action, data, success, error, projForm);
+        } else {
+          status.innerHTML = "This project currently serves people with kids!"
+        }
       });
     }
   });
   
   // helper function for sending an AJAX request
-  function ajax(method, url, data, success, error) {
+  function ajax(method, url, data, success, error, formName) {
     var xhr = new XMLHttpRequest();
     xhr.open(method, url);
     xhr.setRequestHeader("Accept", "application/json");
     xhr.onreadystatechange = function() {
       if (xhr.readyState !== XMLHttpRequest.DONE) return;
       if (xhr.status === 200) {
-        success(xhr.response, xhr.responseType);
+        // success(xhr.response, xhr.responseType);
+        success(formName);
       } else {
         error(xhr.response);
         // console.log(xhr);

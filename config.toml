@@ -126,7 +126,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 home = "Home"
-copyright = "Copyright &copy; 2020 Meta Mesh Wireless Communities. Share our content freely."
+copyright = "Copyright &copy; 2020 Meta Mesh Wireless Communities."
 
 
 # ################################ France Language ########################
