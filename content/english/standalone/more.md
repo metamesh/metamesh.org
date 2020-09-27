@@ -224,7 +224,7 @@ WPA2 Enterprise
 
    **Is WiFi dangerous to my health?**
 
-   No, not at the power levels specified by the 802.11 protocol. R[ead this](http://www.howtogeek.com/234817/dont-worry-wi-fi-isnt-dangerous/) for more information.
+   No, not at the power levels specified by the 802.11 protocol. [Read this](http://www.howtogeek.com/234817/dont-worry-wi-fi-isnt-dangerous/) for more information.
 
 ## Research
 
