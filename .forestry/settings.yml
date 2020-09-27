@@ -46,7 +46,6 @@ sections:
 - type: document
   path: content/english/standalone/press.md
   label: Press
-  match: "**/*"
 - type: document
   path: content/english/standalone/projects.md
   label: Projects Page
