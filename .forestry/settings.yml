@@ -59,7 +59,7 @@ sections:
   label: Manage Data
 - type: document
   path: config.toml
-  label: Configuration
+  label: Site Config Details
 - type: directory
   path: data/en/team
   label: Team Members
