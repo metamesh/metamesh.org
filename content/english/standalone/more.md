@@ -176,7 +176,7 @@ WPA2 Enterprise
 
    **Why would I choose a mesh/WISP structure rather than telecom-provided internet?**
 
-   ![](https://lh5.googleusercontent.com/4QrwE9fPcNPoFidixCcXhZY3_171iVNSVb32nrDeubUPZz7R_BW4OBXISjurv2eL6bTQiqMlLhjJoblMxhToBvjISjmf9sz3Rp7CGDHXdmrwBL4-q93gi4jkWDzmD0N45cjzkElL =612x792)
+   ![](https://lh5.googleusercontent.com/4QrwE9fPcNPoFidixCcXhZY3_171iVNSVb32nrDeubUPZz7R_BW4OBXISjurv2eL6bTQiqMlLhjJoblMxhToBvjISjmf9sz3Rp7CGDHXdmrwBL4-q93gi4jkWDzmD0N45cjzkElL=612x792)
 
    **How do the speeds of different kinds of networks compare?**
 
@@ -196,7 +196,7 @@ WPA2 Enterprise
 
    We are the first non-profit WISP in the country to deploy networking services on a city-wide scale. As a non-profit organization, we rely on three key resources to sustain our efforts: 1) grant funding 2) individual donations 3) earned income from contracted work. So, the work we do is not “free,” we just look to sources other than the individual resident or household for revenue. Rather, we ask our users for a $10/month per household suggested donation to help cover maintenance costs. That being said, we NEVER shut off services to households who don’t contribute donations, and we assist communities in finding sustainable ways to cover any incurred costs.
 
-   ![](https://lh6.googleusercontent.com/662-pEd4-U0GWvWHyONcY-Dntx93NXWyyVaAagzcHQ4mpK8Ei06lJnC0a_Mau3rkpwcCe_X5zPrBH48lqjf_BYtk59gxR92gwChB6VN4P-eiqDyXu_p9JDI-iIM5e3Rj6V2Mz25r =628x873)
+   ![](https://lh6.googleusercontent.com/662-pEd4-U0GWvWHyONcY-Dntx93NXWyyVaAagzcHQ4mpK8Ei06lJnC0a_Mau3rkpwcCe_X5zPrBH48lqjf_BYtk59gxR92gwChB6VN4P-eiqDyXu_p9JDI-iIM5e3Rj6V2Mz25r=628x873)
 
    ​
 
