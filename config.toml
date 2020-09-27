@@ -1,161 +1,98 @@
-################################# Default configuration ###################
 baseURL = "https://www.metamesh.org"
-title = "Meta Mesh Wireless Communities"
-theme = "hugo-theme-meshna"
-# post pagination
-paginate = "6"
-# post excerpt
-summaryLength = "15"
-# # disqus short name
-# disqusShortname = "" # get your shortname form here: https://disqus.com
-# set metadata output format (used by Forestry CMS)
-metaDataFormat = "yaml"
-# disable language
-disableLanguages = ['fr']
-
 canonifyURLs = true
-
-############################# Plugins ##########################
-# Fonts -- Inconsolata, Quattrocento Sans => https://fonts.google.com/specimen/Inconsolata?selection.family=Inconsolata:wght@400;700|Quattrocento+Sans:wght@400;700
+disableLanguages = ["fr"]
+metaDataFormat = "yaml"
+paginate = "6"
+summaryLength = "15"
+theme = "hugo-theme-meshna"
+title = "Meta Mesh Wireless Communities"
+[Languages.en]
+contentDir = "content/english"
+copyright = "Copyright &copy; 2020 Meta Mesh Wireless Communities."
+home = "Home"
+languageCode = "en-us"
+languageName = "En"
+weight = 1
+[Languages.fr]
+contentDir = "content/french"
+copyright = "copyright &copy; 2020 Meta Mesh Wireless Communities, tous droits réservés"
+home = "Accueil"
+languageCode = "fr-fr"
+languageName = "Fr"
+weight = 2
+[markup]
+defaultMarkdownHandler = "goldmark"
+[markup.goldmark.extensions]
+definitionList = true
+footnote = false
+linkify = true
+strikethrough = false
+table = true
+taskList = false
+typographer = true
+[markup.goldmark.parser]
+attribute = true
+autoHeadingID = true
+autoHeadingIDType = "github"
+[markup.goldmark.renderer]
+hardWraps = false
+unsafe = true
+xhtml = false
+[[menu.main]]
+URL = "about"
+name = "Who We Are"
+weight = 1
+[[menu.main]]
+URL = "works"
+name = "Our Work"
+weight = 2
+[[menu.main]]
+URL = "help"
+name = "Volunteer"
+weight = 3
+[[menu.main]]
+URL = "more"
+name = "Learn More"
+weight = 3
+[params]
+author = "Meta Mesh Wireless Communities"
+contact_form = true
+contactform = true
+debugMode = false
+description = "Responsive Multipurpose Parallax HTML5 Template"
+fontawesome_kit_id = "c4fa996494"
+google_analytics_id = "UA-35167230-1"
+logo = "images/logo.png"
+post_share = true
 [[params.plugins.css]]
 link = "https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;700&family=Quattrocento+Sans:wght@400;700&display=swap"
-
-# jQuery 3.5.1 => https://jquery.com
-[[params.plugins.js]]
-link = "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"
-
-# Lozad -- lazy loader => https://apoorv.pro/lozad.js
-[[params.plugins.js]]
-link = "https://cdnjs.cloudflare.com/ajax/libs/lozad.js/1.15.0/lozad.min.js"
-
-# Magnific Popup 1.1.0 -- jQuery plugin => https://dimsemenov.com/plugins/magnific-popup
 [[params.plugins.css]]
 link = "https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.min.css"
-[[params.plugins.js]]
-link = "https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"
-
-# Shuffle -- sorting/filtering helper => https://github.com/Vestride/Shuffle
-[[params.plugins.js]]
-link = "https://cdnjs.cloudflare.com/ajax/libs/Shuffle/5.2.3/shuffle.min.js"
-
-# Slick 1.8.1 -- carousel => https://github.com/kenwheeler/slick.git
 [[params.plugins.css]]
 link = "https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css"
-[[params.plugins.js]]
-link = "https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"
-
-# Twitter Bootstrap 4.5.0 => https://getbootstrap.com/
 [[params.plugins.css]]
 link = "https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css"
 [[params.plugins.js]]
+link = "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"
+[[params.plugins.js]]
+link = "https://cdnjs.cloudflare.com/ajax/libs/lozad.js/1.15.0/lozad.min.js"
+[[params.plugins.js]]
+link = "https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"
+[[params.plugins.js]]
+link = "https://cdnjs.cloudflare.com/ajax/libs/Shuffle/5.2.3/shuffle.min.js"
+[[params.plugins.js]]
+link = "https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"
+[[params.plugins.js]]
 link = "https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/js/bootstrap.min.js"
-
-
-############################# Navigation ##################################
-[[menu.main]]
-name = "Who We Are"
-URL = "about"
-weight = 1
-
-[[menu.main]]
-name = "What We Do"
-URL = "works"
-weight = 2
-
-[[menu.main]]
-name = "How To Help"
-URL = "help"
-weight = 3
-
-[[menu.main]]
-name = "Learn More"
-URL = "more"
-weight = 3
-
-
-############################# Default Parameters ##########################
-[params]
-logo = "images/logo.png"
-# Meta data
-description = "Responsive Multipurpose Parallax HTML5 Template"
-author = "Meta Mesh Wireless Communities"
-# Google Analytics
-google_analytics_id = "UA-35167230-1"
-# FontAwesome
-fontawesome_kit_id = "c4fa996494"
-# post share
-post_share = true
-# contact form
-contact_form = true
-contactform = true
-# load debug content
-debugMode = false
-
-
-# # Optional: Google Maps widget (currently disabled)
-# [params.map]
-# enable = true
-# api_key = ""
-# map_latitude = "51.5223477"
-# map_longitude = "-0.1622023"
-# map_marker = "images/marker.png"
-
-
-############################# social icons ##########################
 [[params.social]]
 icon = "fa-facebook-f"
 link = "https://www.facebook.com/MetaMesh/"
-
 [[params.social]]
 icon = "fa-twitter"
 link = "http://www.twitter.com/metameshwc"
-
 [[params.social]]
 icon = "fa-youtube"
 link = "https://www.youtube.com/metameshwc"
-
 [[params.social]]
 icon = "fa-linkedin"
 link = "https://www.linkedin.com/company/meta-mesh-llc"
-
-
-################################ English Language ########################
-[Languages.en]
-languageName = "En"
-languageCode = "en-us"
-contentDir = "content/english"
-weight = 1
-home = "Home"
-copyright = "Copyright &copy; 2020 Meta Mesh Wireless Communities."
-
-
-# ################################ France Language ########################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
-weight = 2
-home = "Accueil"
-copyright = "copyright &copy; 2020 Meta Mesh Wireless Communities, tous droits réservés"
-
-
-# ################################ Markdown Parsing ########################
-[markup]
-  defaultMarkdownHandler = "goldmark"
-  [markup.goldmark]
-    [markup.goldmark.extensions]
-      definitionList = true
-      footnote = false
-      linkify = true
-      strikethrough = false
-      table = true
-      taskList = false
-      typographer = true
-    [markup.goldmark.parser]
-      attribute = true
-      autoHeadingID = true
-      autoHeadingIDType = "github"
-    [markup.goldmark.renderer]
-      hardWraps = false
-      unsafe = true
-      xhtml = false
