@@ -358,6 +358,9 @@ jQuery(function ($) {
     var projButton = document.getElementById("project-submit");
     var child = document.getElementById('child');
 
+    var volForm = document.getElementById('vol-form');
+    var volButton = document.getElementById("vol-submit");
+
     // validate that child is selected
     function validate(object) {
       if (object.checked) {
@@ -370,7 +373,8 @@ jQuery(function ($) {
       formName.reset();
       button ? button.style = "display: none " : '';
       projButton ? projButton.style = "display: none " : '';
-      status.innerHTML = "Thanks! Your message was sent successfully.";
+      volButton ? volButton.style = "display: none " : '';
+      status.innerHTML = "Thanks! Your submission was received.";
     }
 
     function error(response) {
@@ -386,7 +390,16 @@ jQuery(function ($) {
       });
     }
 
-    // handle the form submission event
+    // handle the volunteer submission event
+    if (volForm) {
+      volForm.addEventListener("submit", function(ev) {
+        ev.preventDefault();
+        var data = new FormData(volForm);
+        ajax(volForm.method, volForm.action, data, success, error, volForm);
+      });
+    }
+
+    // handle the project submission event
     if (projForm) {
       projForm.addEventListener("submit", function(ev) {
         ev.preventDefault();

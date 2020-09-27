@@ -12,18 +12,11 @@
 
 			<div class="collapse navbar-collapse" id="navigation">
 				<ul class="navbar-nav ml-auto">
-          {{ if .IsHome }}
-            {{ range site.Menus.main }}
-              <li class="nav-item"><a class="nav-link" href="#{{ .URL }}">{{ .Name }}</a></li>
-            {{ end }}
-					{{ else }}
-            {{ range site.Menus.main }}
-              <li class="nav-item">
-                <a class="nav-link" href="/{{ .URL }}">{{ .Name }}</a>
-              </li>
-            {{ end }}
-					{{ end }}
-
+          {{ range site.Menus.main }}
+            <li class="nav-item">
+              <a class="nav-link" href="/{{ .URL }}">{{ .Name }}</a>
+            </li>
+          {{ end }}
         </ul>
 				{{- if site.IsMultiLingual }}
           {{/* Language List */}}

@@ -2447,9 +2447,12 @@ figcaption {
   a:hover {
     border-bottom: unset;
   }
+  img {
+    max-width: 100%;
+  }
 }
 
-#project-form {
+#project-form, #vol-form {
   display: flex;
   flex-wrap: wrap;
   justify-content: flex-start;
@@ -2524,6 +2527,15 @@ figcaption {
   .contact-info {
     margin-bottom: 40px;
   }
+  .navbar-nav {
+    justify-content: space-between;
+    align-content: flex-start;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+  .nav-item {
+    width: 50%;
+  }
 }
 @media (max-width: 410px) {
   .navbar-toggler {
@@ -2560,5 +2572,16 @@ figcaption {
     width: 250px;
     max-width: 100%;
     margin-bottom: 20px;  
+  }
+  #contact .non-block-a {
+    padding-bottom: unset;
+    a {
+      display: inline;
+    }
+    div {
+      width: 700px;
+      max-width: 100%;
+      margin: 0 auto;
+    }
   }
 }
