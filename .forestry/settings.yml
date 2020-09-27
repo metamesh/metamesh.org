@@ -39,29 +39,8 @@ sections:
   templates:
   - standalone-page
 - type: document
-  path: content/english/standalone/about.md
-  label: Who We Are
-- type: document
-  path: content/english/standalone/works.md
-  label: What We Do
-- type: document
-  path: content/english/standalone/help.md
-  label: How to Help
-- type: document
-  path: content/english/standalone/more.md
-  label: Learn More
-- type: document
-  path: content/english/standalone/press.md
-  label: Press
-- type: document
-  path: content/english/standalone/projects.md
-  label: Projects Page
-- type: document
   path: data/en/project-contact.yml
   label: Projects Page Contact
-- type: document
-  path: content/english/standalone/privacy.md
-  label: Privacy Policy
 - type: heading
   label: Manage Data
 - type: document
