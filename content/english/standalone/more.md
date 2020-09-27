@@ -172,7 +172,7 @@ WPA2 Enterprise
 
 ## Frequently Asked Questions
 
-1. **What is a WISP? ![What's WISP?](https://lh6.googleusercontent.com/rz4h_kzg7cyuvUinvvNu5fE0cV2NSbnsRMkGXfL4V2BJrUaRU7rqqLus2YahPjFzHHPFG4foXjXLMhFmDMMb-MnJmoD_UyQPJoog-Lq-veBPlRHbYUeZeVmnHGcOAmbrmlPhQmT2 =577x803)**
+1. **What is a WISP? ![What's WISP?](https://lh6.googleusercontent.com/rz4h_kzg7cyuvUinvvNu5fE0cV2NSbnsRMkGXfL4V2BJrUaRU7rqqLus2YahPjFzHHPFG4foXjXLMhFmDMMb-MnJmoD_UyQPJoog-Lq-veBPlRHbYUeZeVmnHGcOAmbrmlPhQmT2=577x803)**
 
    **Why would I choose a mesh/WISP structure rather than telecom-provided internet?**
 
