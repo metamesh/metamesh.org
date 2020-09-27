@@ -40,7 +40,7 @@ sections:
   - standalone-page
 - type: document
   path: data/en/project-contact.yml
-  label: Projects Page Contact
+  label: Standalone Page Forms
 - type: heading
   label: Manage Data
 - type: document
