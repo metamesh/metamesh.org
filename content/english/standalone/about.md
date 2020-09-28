@@ -16,6 +16,7 @@ url: "/about"
    1. [COVID-19 Notice](#covid-19-notice)
    2. [Heinz Endowment Grant](#heinz-endowment-grant)
 7. [Partnerships](#partnerships)
+8. [Press](#press)
 
 ## Our Mission
 
@@ -41,7 +42,7 @@ A Pittsburgh where everyone has affordable and reliable access to the Internet.
 * **Transparency** -- We ensure the public can view our progress and see metrics of our success on our [live map](https://pittmesh.com/).
 * **Stewardship** -- We organize existing neighborhood resources to maintain and monitor good connectivity for the public benefit.
 * **Equity** -- We embody equal opportunity through a not-for-profit model that requires low up-front investment from communities and low monthly fees for individual households. The income from these costs goes directly back into the operations of our organization to maintain and expand the network.
-* **Sustainability** -- We develop and install a complete Internet connectivity solution for our neighbors’ needs. We gather grant funds for the initial build-out, and then we assist neighborhoods in creating [sustainable community oriented methods for covering any maintenance costs](https://drive.google.com/file/d/1cP9_ZUdOomZx-FlmuC0weh0V2gCRi9S3/view?usp=sharing) that arise after installation. 
+* **Sustainability** -- We develop and install a complete Internet connectivity solution for our neighbors’ needs. We gather grant funds for the initial build-out, and then we assist neighborhoods in creating [sustainable community oriented methods for covering any maintenance costs](https://drive.google.com/file/d/1cP9_ZUdOomZx-FlmuC0weh0V2gCRi9S3/view?usp=sharing) that arise after installation.
 * **Empowerment** -- We share our knowledge by creating high-quality educational and administrative resources that can be used freely by anyone, anywhere in order to build their own WiFi network.
 
 ## Our Team
@@ -102,3 +103,23 @@ Through this partnership, Meta Mesh and SEEN have secured an invaluable opportun
 Thanks to this integral development, we are currently working to get Internet access to the areas of New Kensington-Arnold School District, Cornell School District, and Homewood. More information on the procedures and equipment used for these projects is available on the tech resources page.
 
 We are honored by the number of interested parties who contacted us about setting up their own projects with Meta Mesh. Please reach out if you are interested in what we do and want to explore options for connecting your area. New partnerships will be announced on this page.
+
+## Press
+
+_An archive of articles written about Meta Mesh_
+
+## 2020
+
+* [School of Computer Science Launches Educational Equity Office with $3 Million Grant](https://www.cs.cmu.edu/news/school-computer-science-launches-educational-equity-office-3-million-grant) (August 2020)
+* [Carnegie Mellon Tackles the Digital Divide, Connects High-Need Students to Wi-Fi](https://www.cmu.edu/news/stories/archives/2020/may/meta-mesh.html) (May 2020)
+
+## 2015 and prior
+
+* [Allentown firm aims to rethink, rewire Internet access in Pittsburgh region - Pittsburgh Post-Gazette - 26 June, 2015](http://www.post-gazette.com/business/tech-news/2015/06/26/Allentown-firm-aims-to-rethink-rewire-Internet-access-in-region/stories/201506260151)
+* [Meta Mesh wants to get mesh network Wi-Fi to neighborhoods throughout Pittsburgh - NEXTPittsburgh - 22 June, 2015](http://www.nextpittsburgh.com/business-tech-news/meta-mesh-wants-to-get-mesh-network-wi-fi-to-neighborhoods-throughout-pittsburgh/)
+* [Pittsburgh's Allentown gets free wireless Internet- Pittsburgh Post-Gazette - 14 November, 2014](http://www.post-gazette.com/local/city/2014/11/14/Pittsburgh-s-Allentown-gets-free-wireless-Internet/stories/201411130171)
+* [Project Spotlight: Episode 1: Meta Mesh - Imagine Careers - 16 May, 2015](https://imaginecareers.wordpress.com/2015/05/16/project-spotlight-episode-1-meta-mesh/)
+* [Free wireless Internet is online on Warrington Ave. - Southern Pittsburgh Reporter - 2, December, 2014](http://www.sopghreporter.com/story/2014/12/02/front-page/free-wireless-internet-is-online-on-warrington-ave/15061.html)
+* [At least 1.1 million Pennsylvania homes lack Internet access - Public Source - 19 July](http://publicsource.org/investigations/least-11-million-pennsylvania-homes-lack-internet-access#.VawNqflVhBc)
+
+_Note: From 2012 to October 2015, Meta Mesh was a for-profit company._
