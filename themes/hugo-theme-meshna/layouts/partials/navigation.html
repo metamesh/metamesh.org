@@ -9,9 +9,13 @@
           {{ site.Title }}
         {{ end }}
 			</a>
-
-			<div class="collapse navbar-collapse" id="navigation">
-				<ul class="navbar-nav ml-auto">
+      <div class='hamburger'>
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+			<div class="menu" id="menu">
+				<ul class="navbar-nav-1 ml-auto">
           {{ range site.Menus.main }}
             <li class="nav-item">
               <a class="nav-link" href="/{{ .URL }}">{{ .Name }}</a>
@@ -43,9 +47,9 @@
           </select>
 				{{ end }}
       </div>
-      <button class="navbar-toggler rounded-0" type="button" data-toggle="collapse" data-target="#navigation">
+      <!-- <button class="navbar-toggler rounded-0" type="button" data-toggle="collapse" data-target="#navigation">
 				<span class="navbar-toggler-icon"></span>
-			</button>
+			</button> -->
 		</nav>
 	</div>
 </section>
