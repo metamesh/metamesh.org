@@ -2433,11 +2433,15 @@ body.locked {
   height: 100vh !important;
   overflow: hidden;
 }
+.navbar-brand img {
+  border-radius: 5px;
+}
 .hamburger {
   cursor: pointer;
   position: absolute;
   right: 0;
-  top: 30px;
+  top: 50%;
+  transform: translateY(-50%);
   width: 30px;
   height: 23px;
   z-index: 100;
@@ -2630,6 +2634,11 @@ body.locked {
   #navigation {
     margin-top: 10px;
   }
+  #menu {
+    .nav-item {
+      margin-left: 10%;
+    }
+  }
 }
 
 @media (max-width: 350px) {
@@ -2660,6 +2669,19 @@ body.locked {
       width: 700px;
       max-width: 100%;
       margin: 0 auto;
+    }
+  }
+}
+@media (max-height: 550px) {
+  #menu {
+    padding: 5% 10%;
+    .navbar-nav-1 {
+      flex-wrap: wrap;
+      justify-content: flex-start;
+    }
+    .nav-item {
+      width: 30%;
+      margin-left: 10%;
     }
   }
 }
