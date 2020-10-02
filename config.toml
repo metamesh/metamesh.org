@@ -38,42 +38,26 @@ autoHeadingIDType = "github"
 hardWraps = false
 unsafe = true
 xhtml = false
-
-
-############################# Navigation ##################################
 [[menu.main]]
-name = "About"
 URL = "about"
+name = "About"
 weight = 1
-
 [[menu.main]]
-name = "Our Work"
 URL = "works"
+name = "Our Work"
 weight = 2
-
 [[menu.main]]
-name = "Help Out"
 URL = "help"
+name = "Help Out"
 weight = 2
-
 [[menu.main]]
-name = "Projects"
-URL = "projects"
-weight = 2
-
-[[menu.main]]
-name = "Press"
 URL = "press"
+name = "Press"
 weight = 3
-
 [[menu.main]]
-name = "Learn More"
 URL = "more"
+name = "Learn More"
 weight = 4
-
-
-
-############################# Default Parameters ##########################
 [params]
 author = "Meta Mesh Wireless Communities"
 contact_form = true
