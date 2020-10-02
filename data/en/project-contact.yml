@@ -3,6 +3,7 @@ subtitle: Contact Details
 content: Give us a call, send us a fax, or drop us a line. We look forward to hearing
   from you.
 volunteer_form:
+  show_form: true
   contact_subtitle: Be a Part
   form_action: "https://formspree.io/myybgrqq"
   firstname: First Name
@@ -12,6 +13,8 @@ volunteer_form:
   help: I'm interested in helping by...
   expertise: I've got experience with...
   submit: Submit
+  eo_notice_title: Equal Opportunity Notice
+  eo_notice_text: Meta Mesh Wireless Communities is committed to a policy of Equal Employment Opportunity, and we take positive action to continually ensure equal opportunity to our employees, volunteers, and applicants in the conduct of all our activities. To apply for a volunteer or internship position with Meta Mesh Wireless Communities, please send a letter describing your skills and background and a resume to [info@metamesh.org](mailto:info@metamesh.org)
 project_form:
   contact_subtitle: Participate
   intro: Meta Mesh is deploying a pilot project to offer our In-Home WiFi services to K-12 students to keep them connected for online learning throughout the COVID-19 Crisis. If your household resides in Homewood, Coraopolis, or New Kensington-Arnold, please fill out the form below to see if you are eligible to receive services through this pilot program.

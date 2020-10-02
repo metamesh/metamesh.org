@@ -6,70 +6,7 @@
   h1 {
     margin-bottom: 35px;
   }
-/* table, caption, tbody, tfoot, thead, tr, th, td {
-  margin: 0;
-  padding: 0;
-  border: 0;
-  outline: 0;
-  font-size: 100%;
-  vertical-align: baseline;
-  background: transparent;
-  margin-bottom: 2em;
-}
-
-table thead {
-  display: none;
-}
-
-table img {
-  max-width: 200px;
-  margin-top: 0.5em;
-  margin-right: 1em;
-  vertical-align: top;
-}
-
-table, ol, li, dl {
-  font-family: "Quattrocento Sans", sans-serif;
-}
-
-p, li, td {
-  color: rgba(255, 255, 255, 0.8);
-}
-
-tr td:first-child {
-  color: white;
-  font-weight: bold;
-}
-
-p a, li a, th a, td a {
-  color: #cdbc17;
-  text-decoration: underline dotted #cdbc17;
-}
-
-img.banner {
-  margin-bottom: 1em;
-  width: 100%;
-}
-
-dl dt {
-  color: rgba(255, 255, 255, 1);
-  margin-top: 0.5em;
-}
-
-dl dd {
-  color: rgba(255, 255, 255, 0.8);
-  margin-left: 2em;
-  margin-bottom: 1em;
-}
-
-dl dd a {
-  color: #cdbc17;
-  text-decoration: underline dotted #cdbc17;
-}
-
-dl dd a:hover {
-  color: #cdbc17;
-} */
+  /* commented inline CSS removed */
 </style>
 
 <section class="section">
@@ -95,6 +32,10 @@ dl dd a:hover {
 
 {{ if eq .Title "Projects" }}
   {{ partial "project-contact.html" }}
+{{ end }}
+
+{{ if eq .Title "How to Help" }}
+  {{ partial "volunteer-contact.html" }}
 {{ end }}
 
 {{ end }}
