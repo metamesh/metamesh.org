@@ -31,26 +31,21 @@ sections:
   label: Contact Info
 - type: heading
   label: Standalone Pages
+- type: directory
+  path: content/english/standalone
+  label: Standalone Pages
+  create: documents
+  match: "**/*"
+  templates:
+  - standalone-page
 - type: document
-  path: content/english/standalone/about.md
-  label: Who We Are
-- type: document
-  path: content/english/standalone/works.md
-  label: What We Do
-- type: document
-  path: content/english/standalone/help.md
-  label: How to Help
-- type: document
-  path: content/english/standalone/more.md
-  label: Learn More
-- type: document
-  path: content/english/standalone/projects.md
-  label: Projects Page
-- type: document
-  path: content/english/standalone/privacy.md
-  label: Privacy Policy
+  path: data/en/project-contact.yml
+  label: Standalone Page Forms
 - type: heading
   label: Manage Data
+- type: document
+  path: config.toml
+  label: Site Config Details
 - type: directory
   path: data/en/team
   label: Team Members
