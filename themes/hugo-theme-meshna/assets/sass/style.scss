@@ -2619,6 +2619,14 @@ body.locked {
     margin-bottom: 40px;
   }
 }
+@media (max-width: 600px) {
+  #menu {
+    .nav-item {
+      margin-left: 5%;
+    }
+  }
+
+}
 @media (max-width: 410px) {
   .navbar-toggler {
     top: 7px;
@@ -2633,11 +2641,6 @@ body.locked {
   }
   #navigation {
     margin-top: 10px;
-  }
-  #menu {
-    .nav-item {
-      margin-left: 10%;
-    }
   }
 }
 
