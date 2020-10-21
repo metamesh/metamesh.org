@@ -23,15 +23,13 @@ Just like a typical Internet Service, Meta Mesh connects people's homes through 
 
 The receiver is mounted to the exterior of the home (like a Dish network satellite). The modem is inside, and connected to the receiver through an ethernet wire. Both devices are plugged into one of the home's electrical outlets.
 
-This equipment, along with our antennas, are sourced from a company called Ubiquiti, and are all top of the line WiFi products.  arget speeds per house: 50mbps down 25mbps up
-
-Multiple users per household can download/stream while on video calls
+![](/images/screenshot-12.png)This equipment, along with our antennas, are sourced from a company called Ubiquiti, and are all top of the line WiFi products. Each home network is encrypted and password-protected. Our target speeds per house are 50mbps download and 25mbps upload. These speeds allow for multiple users per household to download/stream while on video calls.
 
 Thanks to a massive collaborative and cross-sectional effort from Higher Education Institutions, Digital Inclusion Organizations, and Community Groups, we have been able to make this dream project a reality. With gratitude, we name the following groups as 
 
 **Carnegie Mellon University:** A team of collaborators from CMU’s School of Computer Science and the Simon Initiative have coordinated the project connections to CMU and Pitt, provided critical start-up funding for the project and liaise to key stakeholders and community groups. They offer ongoing project design, implementation, and fundraising support.
 
-· **University of Pittsburgh**: Pitt IT, the CIO Office, and Community & Governmental Relations are Key Stakeholders and Integral Collaborators contributing facility access and funding to enable use of the Cathedral of Learning as the “Super Node/hub.” They will support stakeholder and community involvement in additional neighborhoods following the pilot.
+**University of Pittsburgh**: Pitt IT, the CIO Office, and Community & Governmental Relations are Key Stakeholders and Integral Collaborators contributing facility access and funding to enable use of the Cathedral of Learning as the “Super Node/hub.” They will support stakeholder and community involvement in additional neighborhoods following the pilot.
 
 · **The Keystone Initiative for Network Based Education and Research (KINBER):** KINBER is a vendor partner to both CMU and Pitt and will provide “gateway” to the internet through PennREN Fiber, to be broadcasted from the Cathedral of Learning.
 
