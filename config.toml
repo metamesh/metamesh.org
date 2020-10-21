@@ -41,23 +41,19 @@ xhtml = false
 [[menu.main]]
 name = "Projects"
 url = "https://www.metamesh.org/projects/"
-weight = 6
+weight = 5
 [[menu.main]]
 URL = "more"
 name = "Learn More"
-weight = 5
+weight = 4
 [[menu.main]]
 URL = "press"
 name = "Press"
-weight = 4
-[[menu.main]]
-URL = "help"
-name = "Help Out"
-weight = 2
+weight = 3
 [[menu.main]]
 URL = "works"
 name = "Our Work"
-weight = 3
+weight = 2
 [[menu.main]]
 URL = "about"
 name = "About"
