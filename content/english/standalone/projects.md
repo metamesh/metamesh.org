@@ -17,15 +17,17 @@ This Pilot Project is the first iteration of a network design that will service 
 
 Meta Mesh Wireless Communities has been granted permission to mount our HD antennas on the top of the Cathedral of Learning on the University of Pittsburgh's campus. This high-point location allows to broadcast a network to areas across the Greater Pittsburgh Area. And, in addition to its height, the Cathedral is connected a fiber optic network, allowing it to be used as a "super-node" to receive and distribute network traffic at broadband speeds.
 
-![](https://lh3.googleusercontent.com/HbuMxIGZre0L62RZy7_ggUgs5x1-LLCdBiVtQ5faiv40yTV8bqPySiXWZ66kua_Nf5bxM-L8VRjrlJOGwKZm40-L90q_X17GHekaHt-QuoDGmXVYJn_3JdXru1UOW1pyEIFBINWAXEk =670px;x401px;)
+![](/images/screenshot-14.png)
 
 The Cathedral "super-node" communicates with our local towers in the service areas (New Kensington, Coraopolis, and Homewood). Rather than constructing towers from scratch, we have secured permission to mount our local tower equipment on existing structures. We have chosen structures that are in strategic locations, allowing us to broadcast our network and cover a significant portion of the targeted communities. This first phase of the project allows us to connect \~150 households in each of the three targeted communities. However, we expect to expand to increase this number as well as to service many more locations.
 
 Just like a typical Internet Service, Meta Mesh connects people's homes through a receiver (the white mushroom-shaped device) and a modem (the black cube device). ![](/images/aircube-feature-poe2.jpg)
 
-The receiver is mounted to the exterior of the home (like a Dish network satellite). The modem is inside, and connected to the receiver through an ethernet wire. Both devices are plugged into one of the home's electrical outlets.
+The receiver is mounted to the exterior of the home (like a Dish network satellite). The modem is inside, and connected to the receiver through an ethernet wire. Both devices are powered by one of the home's electrical outlets.
 
 ![](/images/screenshot-12.png)This equipment, along with our antennas, are sourced from a company called Ubiquiti, and are all top of the line WiFi products. Each home network is encrypted and password-protected. Our target speeds per house are 50mbps download and 25mbps upload. These speeds allow for multiple users in the same household to download/stream while on video calls.
+
+_We want your input--if you have any specific questions about this pilot project, or simply want to know more about Meta Mesh, our programs, and our partnerships, please contact us!_
 
 We have been able to make this dream project a reality through a collaborative and cross-sectional effort from Higher Education Institutions, Digital Inclusion Organizations, and Community Groups. With gratitude, we thank the following groups for the tremendous part they have played.
 
@@ -33,6 +35,6 @@ We have been able to make this dream project a reality through a collaborative a
 
 **University of Pittsburgh**: Pitt IT, the CIO Office, and Community & Governmental Relations are Key Stakeholders and Integral Collaborators contributing facility access and funding to enable use of the Cathedral of Learning as the “Super Node/hub.” They will support stakeholder and community involvement in additional neighborhoods following the pilot.
 
-·**The Keystone Initiative for Network Based Education and Research (KINBER):** KINBER is a vendor partner to both CMU and Pitt and will provide “gateway” to the internet through PennREN Fiber, to be broadcasted from the Cathedral of Learning.
+**The Keystone Initiative for Network Based Education and Research (KINBER):** KINBER is a vendor partner to both CMU and Pitt and will provide “gateway” to the internet through PennREN Fiber, to be broadcasted from the Cathedral of Learning.
 
 **Participating School Districts and Community Groups**: The **New Kensington-Arnold** **school district** and **Cornell (Coraopolis)** **school districts**, as well as the **Homewood Children's Village** are collaborators in this pilot project. They bring vital expertise to this project, leading the effort to build community buy-in, leveraging social capital to facilitate the creation of WISP infrastructure, and identifying households in need of internet connectivity. They also advise CMU, Pitt, and Meta Mesh partners on community need and intentional partnership practices.
