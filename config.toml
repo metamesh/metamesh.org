@@ -39,25 +39,25 @@ hardWraps = false
 unsafe = true
 xhtml = false
 [[menu.main]]
-URL = "about"
-name = "About"
-weight = 1
+URL = "more"
+name = "Learn More"
+weight = 5
 [[menu.main]]
-URL = "works"
-name = "Our Work"
-weight = 2
+URL = "press"
+name = "Press"
+weight = 4
 [[menu.main]]
 URL = "help"
 name = "Help Out"
 weight = 2
 [[menu.main]]
-URL = "press"
-name = "Press"
+URL = "works"
+name = "Our Work"
 weight = 3
 [[menu.main]]
-URL = "more"
-name = "Learn More"
-weight = 4
+URL = "about"
+name = "About"
+weight = 1
 [params]
 author = "Meta Mesh Wireless Communities"
 contact_form = true

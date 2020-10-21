@@ -1,8 +1,11 @@
 ---
 title: Projects
 layout: standalone
-date: 2020-08-14T05:29:25-07:00
+date: '2020-08-14T05:29:25.000-07:00'
 url: "/projects"
+menu:
+  main:
+    weight: 6
 
 ---
 This is no longer lorem ipsum! Update it at will.
