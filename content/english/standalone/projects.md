@@ -7,6 +7,8 @@ url: "/projects"
 ---
 Meta Mesh Wireless Communities is proud to announce our In-Home WiFi pilot project: _Internet Access for Distanced Learning in Three In-need Pittsburgh Communities: Homewood, Coraopolis, and New Kensington._
 
+**Please scroll to the bottom of this page for the participant form.**
+
 The purpose of this project is to start bridging Pittsburgh’s Digital Divide by deploying a community-based, non-profit Wireless Internet Service Provider (WISP). This WISP is a collaborative effort that taps on existing resources and strategic community partners to provide the _last mile solution_: getting internet into the homes of Pittsburghers who need it most.
 
 This Pilot Project is the first iteration of a network design that will service households in New Kensington, Coraopolis, and Homewood. The Pilot Project prioritizes households with students who require internet access for distance learning, and will provide 12 months of In-Home WiFi at no charge to participating households.
@@ -23,14 +25,14 @@ Just like a typical Internet Service, Meta Mesh connects people's homes through 
 
 The receiver is mounted to the exterior of the home (like a Dish network satellite). The modem is inside, and connected to the receiver through an ethernet wire. Both devices are plugged into one of the home's electrical outlets.
 
-![](/images/screenshot-12.png)This equipment, along with our antennas, are sourced from a company called Ubiquiti, and are all top of the line WiFi products. Each home network is encrypted and password-protected. Our target speeds per house are 50mbps download and 25mbps upload. These speeds allow for multiple users per household to download/stream while on video calls.
+![](/images/screenshot-12.png)This equipment, along with our antennas, are sourced from a company called Ubiquiti, and are all top of the line WiFi products. Each home network is encrypted and password-protected. Our target speeds per house are 50mbps download and 25mbps upload. These speeds allow for multiple users in the same household to download/stream while on video calls.
 
-Thanks to a massive collaborative and cross-sectional effort from Higher Education Institutions, Digital Inclusion Organizations, and Community Groups, we have been able to make this dream project a reality. With gratitude, we name the following groups as 
+We have been able to make this dream project a reality through a collaborative and cross-sectional effort from Higher Education Institutions, Digital Inclusion Organizations, and Community Groups. With gratitude, we thank the following groups for the tremendous part they have played.
 
 **Carnegie Mellon University:** A team of collaborators from CMU’s School of Computer Science and the Simon Initiative have coordinated the project connections to CMU and Pitt, provided critical start-up funding for the project and liaise to key stakeholders and community groups. They offer ongoing project design, implementation, and fundraising support.
 
 **University of Pittsburgh**: Pitt IT, the CIO Office, and Community & Governmental Relations are Key Stakeholders and Integral Collaborators contributing facility access and funding to enable use of the Cathedral of Learning as the “Super Node/hub.” They will support stakeholder and community involvement in additional neighborhoods following the pilot.
 
-· **The Keystone Initiative for Network Based Education and Research (KINBER):** KINBER is a vendor partner to both CMU and Pitt and will provide “gateway” to the internet through PennREN Fiber, to be broadcasted from the Cathedral of Learning.
+·**The Keystone Initiative for Network Based Education and Research (KINBER):** KINBER is a vendor partner to both CMU and Pitt and will provide “gateway” to the internet through PennREN Fiber, to be broadcasted from the Cathedral of Learning.
 
-· **Participating School Districts and Community Groups**: The **New Kensington-Arnold** **school district** and **Cornell (Coraopolis)** **school districts**, as well as the **Homewood Children's Village** are collaborators in this pilot project. They bring vital expertise to this project, leading the effort to build community buy-in, leveraging social capital to facilitate the creation of WISP infrastructure, and identifying households in need of internet connectivity. They also advise CMU, Pitt, and Meta Mesh partners on community need and intentional partnership practices.
+**Participating School Districts and Community Groups**: The **New Kensington-Arnold** **school district** and **Cornell (Coraopolis)** **school districts**, as well as the **Homewood Children's Village** are collaborators in this pilot project. They bring vital expertise to this project, leading the effort to build community buy-in, leveraging social capital to facilitate the creation of WISP infrastructure, and identifying households in need of internet connectivity. They also advise CMU, Pitt, and Meta Mesh partners on community need and intentional partnership practices.
