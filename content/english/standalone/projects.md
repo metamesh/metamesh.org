@@ -3,6 +3,10 @@ title: In-Home WiFi Pilot Project
 layout: standalone
 date: '2020-08-14T05:29:25.000-07:00'
 url: "/projects"
+menu:
+  main:
+    name: Projects
+    weight: 6
 
 ---
 Meta Mesh Wireless Communities is proud to announce our In-Home WiFi pilot project: _Internet Access for Distanced Learning in Three In-need Pittsburgh Communities: Homewood, Coraopolis, and New Kensington._

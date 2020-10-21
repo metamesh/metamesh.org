@@ -39,10 +39,6 @@ hardWraps = false
 unsafe = true
 xhtml = false
 [[menu.main]]
-name = "Projects"
-url = "https://www.metamesh.org/projects/"
-weight = 6
-[[menu.main]]
 URL = "more"
 name = "Learn More"
 weight = 5
