@@ -5,13 +5,29 @@ date: '2020-08-14T05:29:25.000-07:00'
 url: "/projects"
 
 ---
-Meta Mesh Wireless Communities is proud to announce our In-Home WiFi pilot project: _Internet Access for Distanced Learning in Three In-need Pittsburgh Communities: Homewood, Coraopolis, and New Kensington._ 
+Meta Mesh Wireless Communities is proud to announce our In-Home WiFi pilot project: _Internet Access for Distanced Learning in Three In-need Pittsburgh Communities: Homewood, Coraopolis, and New Kensington._
 
-The purpose of this project is to bridge Pittsburgh’s Digital Divide by deploying a community-based, non-profit Wireless Internet Service Provider (WISP). This WISP is a collaborative effort that taps on existing resources and strategic community partners to provide the _last mile solution_: getting internet into the homes of Pittsburghers who need it most. 
+The purpose of this project is to start bridging Pittsburgh’s Digital Divide by deploying a community-based, non-profit Wireless Internet Service Provider (WISP). This WISP is a collaborative effort that taps on existing resources and strategic community partners to provide the _last mile solution_: getting internet into the homes of Pittsburghers who need it most.
 
-This Pilot Project is the first iteration of a network design that will service households in New Kensington, Coraopolis, and Homewood. The Pilot Project prioritizes households with students who require internet access for distance learning, and will provide 12 months of In-Home WiFi at no charge to participating households.This Pilot Project is the first iteration of a network design that will service households in New Kensington, Coraopolis, and Homewood. The Pilot Project prioritizes households with students who require internet access for distance learning, and will provide 12 months of In-Home WiFi at no charge to participating households.This Pilot Project is the first iteration of a network design that will service households in New Kensington, Coraopolis, and Homewood. The Pilot Project prioritizes households with students who require internet access for distance learning, and will provide 12 months of In-Home WiFi at no charge to participating households.This Pilot Project is the first iteration of a network design that will service households in New Kensington, Coraopolis, and Homewood. The Pilot Project prioritizes households with students who require internet access for distance learning, and will provide 12 months of In-Home WiFi at no charge to participating households.This Pilot Project is the first iteration of a network design that will service households in New Kensington, Coraopolis, and Homewood. The Pilot Project prioritizes households with students who require internet access for distance learning, and will provide 12 months of In-Home WiFi at no charge to participating households.
+This Pilot Project is the first iteration of a network design that will service households in New Kensington, Coraopolis, and Homewood. The Pilot Project prioritizes households with students who require internet access for distance learning, and will provide 12 months of In-Home WiFi at no charge to participating households.
 
-Our network to get Internet access to the areas of New Kensington-Arnold School District, Cornell School District, and Homewood School District. 
+**How it works:**
+
+Meta Mesh Wireless Communities has been granted permission to mount our HD antennas on the top of the Cathedral of Learning on the University of Pittsburgh's campus. This high-point location allows to broadcast a network to areas across the Greater Pittsburgh Area. And, in addition to its height, the Cathedral is connected a fiber optic network, allowing it to be used as a "super-node" to receive and distribute network traffic at broadband speeds.
+
+![](https://lh3.googleusercontent.com/HbuMxIGZre0L62RZy7_ggUgs5x1-LLCdBiVtQ5faiv40yTV8bqPySiXWZ66kua_Nf5bxM-L8VRjrlJOGwKZm40-L90q_X17GHekaHt-QuoDGmXVYJn_3JdXru1UOW1pyEIFBINWAXEk =670px;x401px;)
+
+The Cathedral "super-node" communicates with our local towers in the service areas (New Kensington, Coraopolis, and Homewood). Rather than constructing towers from scratch, we have secured permission to mount our local tower equipment on existing structures. We have chosen structures that are in strategic locations, allowing us to broadcast our network and cover a significant portion of the targeted communities. This first phase of the project allows us to connect \~150 households in each of the three targeted communities. However, we expect to expand to increase this number as well as to service many more locations.
+
+Just like a typical Internet Service, Meta Mesh connects people's homes through a receiver (the white mushroom-shaped device) and a modem (the black cube device). ![](/images/aircube-feature-poe2.jpg)
+
+The receiver is mounted to the exterior of the home (like a Dish network satellite). The modem is inside, and connected to the receiver through an ethernet wire. Both devices are plugged into one of the home's electrical outlets.
+
+This equipment, along with our antennas, are sourced from a company called Ubiquiti, and are all top of the line WiFi products.  arget speeds per house: 50mbps down 25mbps up
+
+Multiple users per household can download/stream while on video calls
+
+Thanks to a massive collaborative and cross-sectional effort from Higher Education Institutions, Digital Inclusion Organizations, and Community Groups, we have been able to make this dream project a reality. With gratitude, we name the following groups as 
 
 **Carnegie Mellon University:** A team of collaborators from CMU’s School of Computer Science and the Simon Initiative have coordinated the project connections to CMU and Pitt, provided critical start-up funding for the project and liaise to key stakeholders and community groups. They offer ongoing project design, implementation, and fundraising support.
 
