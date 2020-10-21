@@ -17,7 +17,7 @@ This Pilot Project is the first iteration of a network design that will service 
 
 Meta Mesh Wireless Communities has been granted permission to mount our HD antennas on the top of the Cathedral of Learning on the University of Pittsburgh's campus. This high-point location allows to broadcast a network to areas across the Greater Pittsburgh Area. And, in addition to its height, the Cathedral is connected a fiber optic network, allowing it to be used as a "super-node" to receive and distribute network traffic at broadband speeds.
 
-![](/images/screenshot-14.png)
+![](/images/screenshot-14.png "Cathedral Super-Node")
 
 The Cathedral "super-node" communicates with our local towers in the service areas (New Kensington, Coraopolis, and Homewood). Rather than constructing towers from scratch, we have secured permission to mount our local tower equipment on existing structures. We have chosen structures that are in strategic locations, allowing us to broadcast our network and cover a significant portion of the targeted communities. This first phase of the project allows us to connect \~150 households in each of the three targeted communities. However, we expect to expand to increase this number as well as to service many more locations.
 
