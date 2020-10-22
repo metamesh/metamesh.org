@@ -21,7 +21,7 @@ Meta Mesh Wireless Communities has been granted permission to mount our HD anten
 
 The Cathedral "super-node" communicates with our local towers in the service areas (New Kensington, Coraopolis, and Homewood). Rather than constructing towers from scratch, we have secured permission to mount our local tower equipment on existing structures. We have chosen structures that are in strategic locations, allowing us to broadcast our network and cover a significant portion of the targeted communities. For example, one "tower" is actually a water tower that has our antenna on top of it. 
 
-This first phase of the project allows us to connect \~150 households in each of the three targeted communities. However, we expect to expand to increase this number as well as to service many more locations.
+This first phase of the project allows us to connect \~150 households in each of the three targeted communities. However, we expect to increase this number over time. We will also seek to expand our coverage area as well in order to service many more locations across Pittsburgh.
 
 ![](/images/aircube-feature-poe2.jpg)
 
@@ -29,11 +29,11 @@ Just like a typical Internet Service Provider, Meta Mesh connects people's homes
 
 ![](/images/screenshot-12.png)
 
-This equipment, along with our antennas, are sourced from a company called Ubiquiti, and are all top of the line WiFi products. Each home network is encrypted and password-protected. Our target speeds per house are 50mbps download and 25mbps upload. These speeds allow for multiple users in the same household to download/stream while on video calls.
+This equipment, along with our antennas, are sourced from a company called Ubiquiti, and are all top of the line WiFi products. Each home network is secure and password-protected. Our target speeds per house are 50mbps download and 25mbps upload. These speeds allow for multiple users in the same household to download/stream while on video calls.
 
 _We want your input--if you have any specific questions about this pilot project, or simply want to know more about Meta Mesh, our programs, and our partnerships, please contact us!_
 
-We have been able to make this dream project a reality through a collaborative and cross-sectional effort from Higher Education Institutions, Digital Inclusion Organizations, and Community Groups. With gratitude, we thank the following groups for the tremendous part they have played.
+We have been able to make this dream project a reality through a collaborative and cross-sectional effort from Higher Education Institutions, Digital Inclusion Organizations, and Community Groups. With gratitude, we thank the following groups for the tremendous part they have played in this project.
 
 **Carnegie Mellon University:** A team of collaborators from CMU’s School of Computer Science and the Simon Initiative have coordinated the project connections to CMU and Pitt, provided critical start-up funding for the project and liaise to key stakeholders and community groups. They offer ongoing project design, implementation, and fundraising support.
 
