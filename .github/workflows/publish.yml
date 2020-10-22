@@ -56,4 +56,5 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
           commit_message: "Last Published: ${{ env.TIMESTAMP }} from "
-          force_orphan: false
+          force_orphan: true
+          keep_files: true
