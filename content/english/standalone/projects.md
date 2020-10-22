@@ -3,6 +3,7 @@ title: In-Home WiFi Pilot Project
 layout: standalone
 date: '2020-08-14T05:29:25.000-07:00'
 url: "/projects"
+draft: true
 
 ---
 Meta Mesh Wireless Communities is proud to announce our In-Home WiFi pilot project: _Internet Access for Distanced Learning in Three In-need Pittsburgh Communities: Homewood, Coraopolis, and New Kensington._
@@ -15,11 +16,11 @@ This Pilot Project is the first iteration of a network design that will service 
 
 **How it works:**
 
-Meta Mesh Wireless Communities has been granted permission to mount our HD antennas on the top of the Cathedral of Learning on the University of Pittsburgh's campus. This high-point location allows to broadcast a network to areas across the Greater Pittsburgh Area. And, in addition to its height, the Cathedral is connected a fiber optic network that we can transform into a "super-node" to receive and distribute network traffic at broadband speeds. We think of the Cathedral as our main gateway to the internet.
+Meta Mesh Wireless Communities has been granted permission to mount our HD antennas on the top of the Cathedral of Learning on the University of Pittsburgh's campus. This high-point location allows us to broadcast our network to areas across the Greater Pittsburgh Area. And, in addition to its height, the Cathedral is connected a fiber optic network that we can transform into a "super-node" to receive and distribute network traffic at broadband speeds. We think of the Cathedral as our main gateway to the internet.
 
 ![](/images/screenshot-14.png "Cathedral Super-Node")
 
-The Cathedral "super-node" communicates with our local towers in the service areas (New Kensington, Coraopolis, and Homewood). Rather than constructing towers from scratch, we have secured permission to mount our local tower equipment on existing structures. We have chosen structures that are in strategic locations, allowing us to broadcast our network and cover a significant portion of the targeted communities. For example, one "tower" is actually a water tower that has our antenna on top of it. 
+The Cathedral "super-node" communicates with our local towers in the service areas (New Kensington, Coraopolis, and Homewood). Rather than constructing towers from scratch, we have secured permission to mount our local tower equipment on existing structures. We have chosen structures that are in strategic locations, allowing us to broadcast our network and cover a significant portion of the targeted communities. For example, one "tower" is actually a water tower that has our antenna on top of it.
 
 This first phase of the project allows us to connect \~150 households in each of the three targeted communities. However, we expect to increase this number over time. We will also seek to expand our coverage area as well in order to service many more locations across Pittsburgh.
 
