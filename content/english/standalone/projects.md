@@ -9,7 +9,7 @@ url: "/projects"
 
 Meta Mesh Wireless Communities is proud to announce our In-Home WiFi pilot project: _Internet Access for Distanced Learning in Three In-need Pittsburgh Communities: Homewood, Coraopolis, and New Kensington._
 
-**Please scroll to the bottom of this page for the participant form.**
+[**Please scroll to the bottom of this page for the participant form.**](#contact)
 
 The purpose of this project is to start bridging Pittsburgh’s Digital Divide by deploying a community-based, non-profit Wireless Internet Service Provider (WISP). This WISP is a collaborative effort that taps on existing resources and strategic community partners to provide the _last mile solution_: getting internet into the homes of Pittsburghers who need it most.
 
