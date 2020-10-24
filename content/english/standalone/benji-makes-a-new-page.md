@@ -1,6 +1,7 @@
 ---
 title: Benji Makes a New Page
 url: "/benji"
+form_builder: false
 
 ---
 Information
@@ -10,6 +11,8 @@ Information
 * Plugins:
 * **Content management systems (CMS):** [Joomla](https://generator.lorem-ipsum.info/#pluginsCmsJoomla), [Wordpress](https://generator.lorem-ipsum.info/#pluginsCmsWordpress), [Magento](https://generator.lorem-ipsum.info/#pluginsCmsMagento), [Google Docs](https://generator.lorem-ipsum.info/#pluginsCmsGoogleDocs), [Drupal](https://generator.lorem-ipsum.info/#pluginsCmsDrupal)
 * **Editors:** [Notepad++](https://generator.lorem-ipsum.info/#pluginsEditorsNotepadPlus), [Sublime Text](https://generator.lorem-ipsum.info/#pluginsEditorsSublime), [Office suites](https://generator.lorem-ipsum.info/#pluginsOfficeSuites)
+
+[Download File]( "Download File")![](/images/screenshot-14.png)
 
 ## Lorem Ipsum: usage
 
