@@ -29,13 +29,17 @@
     </div>
   </div>
 </section>
-
+<!-- 
 {{ if eq .Title "Projects" }}
   {{ partial "project-contact.html" }}
 {{ end }}
 
 {{ if eq .Title "How to Help" }}
   {{ partial "volunteer-contact.html" }}
+{{ end }} -->
+
+{{ if .Params.form_builder }}
+  {{ partial "contact-builder.html" }}
 {{ end }}
 
 {{ end }}

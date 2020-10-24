@@ -1,0 +1,46 @@
+title: Contact Us
+subtitle: Contact Details
+content: Give us a call, send us a fax, or drop us a line. We look forward to hearing
+  from you.
+form_builder:
+  contact_subtitle: Be a Part
+  form_action: 'formspree url here!'  
+  inputs:
+    - placeholder: First Name
+      name: First Name
+      type: text
+      autocomplete: given-name
+      width: half
+      required: true
+    - placeholder: Last Name
+      name: Last Name
+      type: text
+      autocomplete: family-name
+      width: half
+      required: true
+    - placeholder: Email
+      name: Email
+      type: email
+      autocomplete: email
+      width: half
+      required: true
+    - placeholder: Phone
+      name: Phone
+      type: tel
+      autocomplete: tel
+      width: half
+      required: true
+  selects:
+    - name: Area
+      placeholder: What can we do for you?
+      width: half
+      options:
+        - Custom
+        - Design
+        - Development
+        - Operations
+  textareas:
+    - placeholder: Tell us more about your project
+      name: Project_Details
+      width: full
+  submit: "Submit"
