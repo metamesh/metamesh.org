@@ -12,6 +12,9 @@ fields:
   label: URL
   config:
     required: true
+- name: form_builder
+  type: boolean
+  label: Form Builder
 pages:
 - content/english/standalone/about.md
 - content/english/standalone/benji-makes-a-new-page.md
