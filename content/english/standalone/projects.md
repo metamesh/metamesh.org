@@ -3,6 +3,7 @@ title: Projects
 layout: standalone
 date: 2020-08-14T05:29:25-07:00
 url: "/projects"
+form_builder: true
 
 ---
 This is no longer lorem ipsum! Update it at will.
