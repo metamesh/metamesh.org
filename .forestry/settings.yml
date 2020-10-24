@@ -39,7 +39,7 @@ sections:
   templates:
   - standalone-page
 - type: document
-  path: data/en/project-contact.yml
+  path: data/en/build-a-contact.yml
   label: Standalone Page Forms
 - type: heading
   label: Manage Data
