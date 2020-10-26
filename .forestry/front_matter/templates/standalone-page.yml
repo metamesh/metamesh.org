@@ -111,7 +111,7 @@ fields:
     type: text
     config:
       required: false
-      max: 20
+      max: 40
     label: Placeholder
   - name: width
     type: select
@@ -120,6 +120,7 @@ fields:
       required: true
       options:
       - half
+      - full
       source:
         type: simple
         section: 
