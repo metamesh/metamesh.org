@@ -50,11 +50,11 @@ selects:
   name: switch
 textareas:
 - name: plan
-  width: half
+  width: full
   placeholder: My internet plan is...
 - name: other
   placeholder: Tell us more...
-  width: half
+  width: full
 
 ---
 ## In-Home WiFi Pilot Project
