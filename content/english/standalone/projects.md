@@ -55,6 +55,7 @@ textareas:
 - name: other
   placeholder: Tell us more...
   width: full
+submit: Submit
 
 ---
 ## In-Home WiFi Pilot Project
