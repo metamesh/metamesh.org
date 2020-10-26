@@ -51,7 +51,7 @@ selects:
 textareas:
 - name: plan
   width: half
-  placeholder: ''
+  placeholder: My internet plan is...
 - name: other
   placeholder: Tell us more...
   width: half
