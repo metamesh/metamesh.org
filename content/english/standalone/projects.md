@@ -54,7 +54,7 @@ textareas:
   placeholder: My internet plan is...
 - name: other
   placeholder: Tell us more...
-  width: full
+  width: half
 submit: Submit
 form_title: Participate
 subtitle: Meta Mesh is deploying a pilot project to offer our In-Home WiFi services
