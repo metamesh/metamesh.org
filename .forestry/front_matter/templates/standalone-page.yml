@@ -24,9 +24,13 @@ fields:
     field: form_builder
     value: true
 - name: subtitle
-  type: text
+  type: textarea
+  default: ''
   config:
     required: false
+    wysiwyg: false
+    schema:
+      format: markdown
   label: Subtitle
   showOnly:
     field: form_builder
