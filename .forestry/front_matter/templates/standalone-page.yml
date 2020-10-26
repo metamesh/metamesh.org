@@ -23,6 +23,14 @@ fields:
   showOnly:
     field: form_builder
     value: true
+- name: subtitle
+  type: text
+  config:
+    required: false
+  label: Subtitle
+  showOnly:
+    field: form_builder
+    value: true
 - name: inputs
   type: field_group_list
   fields:
