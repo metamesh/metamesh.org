@@ -4,6 +4,57 @@ layout: standalone
 date: '2020-08-14T05:29:25.000-07:00'
 url: "/projects"
 form_builder: true
+inputs:
+- name: first_name
+  placeholder: First Name
+  autocomplete: given-name
+  width: half
+  required: true
+- name: last_name
+  placeholder: Last Name
+  autocomplete: family-name
+  width: half
+  required: true
+- name: phone
+  placeholder: Phone
+  width: half
+  required: true
+  autocomplete: tel
+- name: email
+  placeholder: Email
+  autocomplete: email
+  width: half
+  required: true
+selects:
+- name: child
+  placeholder: Does a school aged child live in your household?
+  options:
+  - option: 'Yes'
+  - option: 'No'
+- name: online
+  placeholder: Does your child have to do school work online?
+  options:
+  - option: 'Yes'
+  - option: 'No'
+- placeholder: Do you currently have In-Home Internet Access?
+  options:
+  - option: 'Yes'
+  - option: 'No'
+  name: internet
+- placeholder: I want to switch to MetaMesh because...
+  options:
+  - option: I can no longer afford my current plan
+  - option: My connection is unreliable
+  - option: I can't make more than one video call at once
+  - option: Other
+  name: switch
+textareas:
+- name: plan
+  width: half
+  placeholder: ''
+- name: other
+  placeholder: Tell us more...
+  width: half
 
 ---
 ## In-Home WiFi Pilot Project
