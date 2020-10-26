@@ -15,6 +15,125 @@ fields:
 - name: form_builder
   type: boolean
   label: Form Builder
+- name: inputs
+  type: field_group_list
+  fields:
+  - name: name
+    type: text
+    config:
+      required: false
+    label: Name
+    description: The unique name for this input field
+  - name: placeholder
+    type: text
+    config:
+      required: false
+      max: 20
+    label: Placeholder
+  - name: autocomplete
+    type: text
+    config:
+      required: false
+    label: Autocomplete Value
+    description: View this link for more details <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/autocomplete"
+      title="https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/autocomplete"
+      target="_blank">https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/autocomplete</a>
+  - name: width
+    type: select
+    default: half
+    config:
+      required: true
+      options:
+      - half
+      - full
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: Width
+  - name: required
+    type: boolean
+    label: Required
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Inputs
+  showOnly:
+    field: form_builder
+    value: true
+- name: selects
+  type: field_group_list
+  fields:
+  - name: name
+    type: text
+    config:
+      required: true
+      max: 20
+    label: Name
+  - name: placeholder
+    type: text
+    config:
+      required: false
+    label: Placeholder
+  - name: options
+    type: field_group_list
+    fields:
+    - name: option
+      type: text
+      config:
+        required: false
+      label: Option
+    config:
+      min: 
+      max: 
+      labelField: 
+    label: Options
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Selects
+  showOnly:
+    field: form_builder
+    value: true
+- name: textareas
+  type: field_group_list
+  fields:
+  - name: name
+    type: text
+    config:
+      required: true
+      max: 20
+    label: Name
+  - name: placeholder
+    type: text
+    config:
+      required: false
+      max: 20
+    label: Placeholder
+  - name: width
+    type: select
+    default: []
+    config:
+      required: true
+      options:
+      - half
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: Width
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Text Areas
+  showOnly:
+    field: form_builder
+    value: true
 pages:
 - content/english/standalone/about.md
 - content/english/standalone/benji-makes-a-new-page.md
