@@ -135,6 +135,16 @@ fields:
   showOnly:
     field: form_builder
     value: true
+- name: submit
+  type: text
+  config:
+    required: true
+    max: 10
+  label: Submit
+  default: Submit
+  showOnly:
+    field: form_builder
+    value: true
 pages:
 - content/english/standalone/about.md
 - content/english/standalone/benji-makes-a-new-page.md
