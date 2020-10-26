@@ -97,6 +97,20 @@ fields:
     config:
       required: false
     label: Placeholder
+  - name: width
+    type: select
+    default: half
+    config:
+      required: true
+      options:
+      - half
+      - full
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: Width
   - name: options
     type: field_group_list
     fields:
