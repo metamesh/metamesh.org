@@ -3,9 +3,10 @@ title: Who We Are
 layout: standalone
 date: '2020-08-13T19:24:50.000+00:00'
 url: "/about"
+form_builder: false
 
 ---
-Meta Mesh Wireless Communities is a non-profit Internet Service Provider. We attack the Digital Divide in the Greater Pittsburgh areas by helping those who cannot afford or depend on their existing Internet Services. 
+Meta Mesh Wireless Communities is a non-profit Internet Service Provider. We attack the Digital Divide in the Greater Pittsburgh areas by helping those who cannot afford or depend on their existing Internet Services.
 
 To do this, we raises grant funds and works with community groups, universities, and school districts to cover the cost of services.
 
@@ -64,31 +65,6 @@ A Pittsburgh where everyone has affordable and reliable access to the Internet.
 
 {{< user-bio "board/sascha-meinrath.yml" >}}
 
-## Research
-
-### COVID-19 Notice
-
-Given that our most recent report on the scope of Digital Divide was conducted in 2018, we know that these metrics do NOT reflect the growing number of individuals who need WiFi because of hardships caused by COVID-19. Due to reduced hours, layoffs, and whole industry shutdowns, we must assume that there are more people who cannot afford residential Internet access in Pittsburgh. We must also consider those who do have Internet access from telecom giants, but the bandwidth of discount packages often does not support multi-device functions. For example, a parent who has to work remotely cannot do so while their child is video-conferencing into online classes on some providers' lowest “broadband” tier of access.
-
-While an updated statistic of residents without WiFi has yet to be determined, we are currently working with an increasing number of community partners to serve remote workers, online students, and families in need.
-
-### Heinz Endowment Grant
-
-In May of 2018, The Heinz Endowments awarded Meta Mesh a $15,000 grant in order to survey and analyze “home Internet access and a sustainable approach to public WiFi in three under-served Pittsburgh communities.” We chose to execute our project in Hazelwood, Homewood and the Hill District not only because as low-income neighborhoods they demonstrated need, but also because they are “target neighborhoods” where Heinz also focuses its efforts.
-
-We had two general objectives for these three areas:
-
-1. Research: to gather our own survey data regarding Internet use and more specifically, broadband exclusion.
-2. Operational: to plan logistics, including the placement and location of access points, to provide a minimum viable WiFi network suitable for public use.
-3. We completed more than 900 surveys and several in-depth interviews, all of which were conducted door-to-door by Meta Mesh employees throughout eight months.
-4. Our cursory conclusions include:
-   1. A majority of residents in all low-income neighborhoods rely on smartphones to access the Internet. However, this method of accessing the Internet does not qualify as having home broadband and creates severe limitations to what can be accomplished and greatly increases the time it takes to accomplish tasks.
-   2. Broadband Internet access is increasingly a requirement of socio-economic inclusion, not a consequence of it; and the people in low-income communities know this. Whether or not families work with public or private Internet support systems, they still suffer from skill gaps, and “taxes” on their time and privacy.
-   3. Price is merely one element shaping the delicate balance of including home broadband into the monthly budget. ISP (Internet Service Provider) pricing issues go beyond the obvious challenge of steep monthly fees. Upfront hardware costs, billing transparency, the inability to assess the quality of service, and general service availability are major issues for low-income communities.
-   4. Public organizations that offer free public WiFi such as libraries, community centers, and parks often fill the gap between low home adoption and high community demand. Libraries and community centers also provide a number of other critical services, such as training and support. These support organizations are under social and government pressure to meet community connectivity needs, and yet their public funding levels are at an all-time low. This is why the efforts of Meta Mesh are so important: libraries and community centers have hours of operation and long waits for a turn at a public computer. Public WiFi can be accessed at all hours of the day.
-
-The full report titled [_Home Internet Access and A Sustainable Approach to Public WiFi in Three Underserved Pittsburgh Communities_](https://drive.google.com/file/d/1yoHeapwWWiHk5_GbTDumsL5yFxURn-zN/view?usp=sharing) is available for your consideration.
-
 ## Partnerships
 
 [In May of 2020](https://www.cmu.edu/news/stories/archives/2020/may/meta-mesh.html), Meta Mesh partnered with Carnegie Mellon University’s Sustaining Equitable Education Network [(SEEN)](https://www.cmu.edu/seen/). SEEN is “_focused on first helping high-need K-12 schools make a successful transition to remote learning through emergency relief, and then continuing partnerships with those schools and communities to invest in equitable new educational systems post-COVID-19_”.
@@ -98,23 +74,3 @@ Through this partnership, Meta Mesh and SEEN have secured an invaluable opportun
 Thanks to this integral development, we are currently working to get Internet access to the areas of New Kensington-Arnold School District, Cornell School District, and Homewood. More information on the procedures and equipment used for these projects is available on the tech resources page.
 
 We are honored by the number of interested parties who contacted us about setting up their own projects with Meta Mesh. Please reach out if you are interested in what we do and want to explore options for connecting your area. New partnerships will be announced on this page.
-
-## Press
-
-_An archive of articles written about Meta Mesh_
-
-## 2020
-
-* [School of Computer Science Launches Educational Equity Office with $3 Million Grant](https://www.cs.cmu.edu/news/school-computer-science-launches-educational-equity-office-3-million-grant) (August 2020)
-* [Carnegie Mellon Tackles the Digital Divide, Connects High-Need Students to Wi-Fi](https://www.cmu.edu/news/stories/archives/2020/may/meta-mesh.html) (May 2020)
-
-## 2015 and prior
-
-* [Allentown firm aims to rethink, rewire Internet access in Pittsburgh region - Pittsburgh Post-Gazette - 26 June, 2015](http://www.post-gazette.com/business/tech-news/2015/06/26/Allentown-firm-aims-to-rethink-rewire-Internet-access-in-region/stories/201506260151)
-* [Meta Mesh wants to get mesh network Wi-Fi to neighborhoods throughout Pittsburgh - NEXTPittsburgh - 22 June, 2015](http://www.nextpittsburgh.com/business-tech-news/meta-mesh-wants-to-get-mesh-network-wi-fi-to-neighborhoods-throughout-pittsburgh/)
-* [Pittsburgh's Allentown gets free wireless Internet- Pittsburgh Post-Gazette - 14 November, 2014](http://www.post-gazette.com/local/city/2014/11/14/Pittsburgh-s-Allentown-gets-free-wireless-Internet/stories/201411130171)
-* [Project Spotlight: Episode 1: Meta Mesh - Imagine Careers - 16 May, 2015](https://imaginecareers.wordpress.com/2015/05/16/project-spotlight-episode-1-meta-mesh/)
-* [Free wireless Internet is online on Warrington Ave. - Southern Pittsburgh Reporter - 2, December, 2014](http://www.sopghreporter.com/story/2014/12/02/front-page/free-wireless-internet-is-online-on-warrington-ave/15061.html)
-* [At least 1.1 million Pennsylvania homes lack Internet access - Public Source - 19 July](http://publicsource.org/investigations/least-11-million-pennsylvania-homes-lack-internet-access#.VawNqflVhBc)
-
-_Note: From 2012 to October 2015, Meta Mesh was a for-profit company._
