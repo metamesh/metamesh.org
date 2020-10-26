@@ -50,7 +50,7 @@ selects:
   name: switch
 textareas:
 - name: plan
-  width: full
+  width: half
   placeholder: My internet plan is...
 - name: other
   placeholder: Tell us more...
