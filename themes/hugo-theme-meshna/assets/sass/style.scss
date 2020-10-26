@@ -2540,7 +2540,17 @@ body.locked {
   }
   img {
     max-width: 100%;
+    width: 100%;
+    height: auto;
+    margin-top: 10px;
+    margin-bottom: 20px;
   }
+}
+
+
+.contact-us h6 {
+  margin-bottom: 35px;
+  margin-top: -20px;
 }
 
 #project-form, #vol-form, #form_builder {
@@ -2582,6 +2592,8 @@ body.locked {
     }
   }
   .form-group {
+    width: 48%;
+    margin-right: auto;
     &.half {
       width: 48%;
       margin-right: auto;
