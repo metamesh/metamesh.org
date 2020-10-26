@@ -1,7 +1,15 @@
 ---
 title: Benji Makes a New Page
 url: "/benji"
-form_builder: false
+form_builder: true
+inputs:
+- name: Form Input 1
+  placeholder: Hiii
+  width: half
+  required: true
+  autocomplete: full name
+selects: []
+textareas: []
 
 ---
 Information
