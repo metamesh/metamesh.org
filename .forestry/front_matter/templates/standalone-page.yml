@@ -15,6 +15,14 @@ fields:
 - name: form_builder
   type: boolean
   label: Form Builder
+- name: form_title
+  type: text
+  config:
+    required: false
+  label: Form Title
+  showOnly:
+    field: form_builder
+    value: true
 - name: inputs
   type: field_group_list
   fields:
