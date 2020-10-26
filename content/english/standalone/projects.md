@@ -56,7 +56,12 @@ textareas:
   placeholder: Tell us more...
   width: full
 submit: Submit
-form_title: Be a Part!
+form_title: Participate
+subtitle: Meta Mesh is deploying a pilot project to offer our In-Home WiFi services
+  to K-12 students to keep them connected for online learning throughout the COVID-19
+  Crisis. If your household resides in Homewood, Coraopolis, or New Kensington-Arnold,
+  please fill out the form below to see if you are eligible to receive services through
+  this pilot program.
 
 ---
 ## In-Home WiFi Pilot Project
