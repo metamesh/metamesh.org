@@ -31,16 +31,19 @@ selects:
   options:
   - option: 'Yes'
   - option: 'No'
+  width: half
 - name: online
   placeholder: Does your child have to do school work online?
   options:
   - option: 'Yes'
   - option: 'No'
+  width: half
 - placeholder: Do you currently have In-Home Internet Access?
   options:
   - option: 'Yes'
   - option: 'No'
   name: internet
+  width: half
 - placeholder: I want to switch to MetaMesh because...
   options:
   - option: I can no longer afford my current plan
@@ -48,6 +51,7 @@ selects:
   - option: I can't make more than one video call at once
   - option: Other
   name: switch
+  width: full
 textareas:
 - name: plan
   width: half
@@ -62,6 +66,7 @@ subtitle: Meta Mesh is deploying a pilot project to offer our In-Home WiFi servi
   Crisis. If your household resides in Homewood, Coraopolis, or New Kensington-Arnold,
   please fill out the form below to see if you are eligible to receive services through
   this pilot program.
+form_action: https://formspree.io/f/xnqonazg
 
 ---
 ## In-Home WiFi Pilot Project
