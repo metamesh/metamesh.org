@@ -23,6 +23,16 @@ fields:
   showOnly:
     field: form_builder
     value: true
+- name: form_action
+  type: text
+  config:
+    required: true
+  label: Form Action
+  description: This is the url you'll get from Formspree to connect to the specific
+    form on that end.
+  showOnly:
+    field: form_builder
+    value: true
 - name: subtitle
   type: textarea
   default: ''
