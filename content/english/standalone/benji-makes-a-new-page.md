@@ -9,7 +9,13 @@ inputs:
   required: true
   autocomplete: full name
 selects: []
-textareas: []
+textareas:
+- name: Something
+  placeholder: lksdfalsdk
+  width: full
+form_title: Hi
+subtitle: Sam
+submit: Submitttt
 
 ---
 Information
