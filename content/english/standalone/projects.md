@@ -51,7 +51,7 @@ selects:
   - option: I can't make more than one video call at once
   - option: Other
   name: switch
-  width: full
+  width: half
 textareas:
 - name: plan
   width: half
