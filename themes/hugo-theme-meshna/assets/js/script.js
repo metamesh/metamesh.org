@@ -374,8 +374,8 @@ jQuery(function ($) {
     var projButton = document.getElementById("project-submit");
     var child = document.getElementById('child');
 
-    var volForm = document.getElementById('vol-form');
-    var volButton = document.getElementById("vol-submit");
+    var volForm = document.getElementById('form_builder');
+    var volButton = document.getElementById("builder_submit");
 
     // validate that child is selected
     function validate(object) {
