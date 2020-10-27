@@ -189,6 +189,14 @@ fields:
   showOnly:
     field: form_builder
     value: true
+- name: layout
+  type: text
+  config:
+    required: true
+  label: Layout
+  description: This should always be 'standalone' for now!
+  hidden: true
+  default: standalone
 pages:
 - content/english/standalone/about.md
 - content/english/standalone/benji-makes-a-new-page.md
