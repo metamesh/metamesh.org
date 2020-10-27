@@ -16,6 +16,7 @@ textareas:
 form_title: Hi
 subtitle: Sam
 submit: Submitttt
+form_action: https://formspree.io/f/xnqonazg
 
 ---
 Information
