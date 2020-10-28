@@ -5,6 +5,11 @@ date: '2020-08-14T05:29:25.000-07:00'
 url: "/projects"
 form_builder: true
 inputs:
+- name: Address
+  placeholder: Address
+  autocomplete: ''
+  width: half
+  required: true
 - name: first_name
   placeholder: First Name
   autocomplete: given-name
