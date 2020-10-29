@@ -69,19 +69,25 @@ form_action: https://formspree.io/f/xnqonazg
 ---
 ## Every1online
 
-Meta Mesh Wireless Communities is proud to announce our In-Home WiFi pilot project Every1Online. _Internet Access for Distanced Learning in Three In-need Pittsburgh Communities: Homewood, Coraopolis, and New Kensington._
+Meta Mesh Wireless Communities is proud to announce our In-Home WiFi pilot project Every1online: _Internet Access for three in-need Pittsburgh Communities: Homewood, Coraopolis, and New Kensington-Arnold._
 
-[**Please click this link for the participant form.**](#contact)
+[**SIGN UP HERE!**](#contact)
 
-The purpose of this project is to start bridging Pittsburgh’s Digital Divide by deploying a community-based, non-profit Wireless Internet Service Provider (WISP). This WISP is a collaborative effort that taps on existing resources and strategic community partners to provide the _last mile solution_: getting internet into the homes of Pittsburghers who need it most.
+We need to bridge Pittsburgh’s Digital Divide. By creating a community-based, non-profit Wireless Internet Service Provider (WISP) Meta Mesh will provide Internet to the homes of Pittsburghers who need it most.
 
-This Pilot Project is the first iteration of a network design that will service households in New Kensington, Coraopolis, and Homewood. The Pilot Project prioritizes households with students who require internet access for distance learning, and will provide 12 months of In-Home WiFi at no charge to participating households.
+Every1online will be built out in phases to provide residential Internet access starting with New Kensington-Arnold, Coraopolis, and Homewood. This first phase prioritizes households with K-12 students and provides 12 months of FREE in-home Internet access.
 
 **How it works:**
 
-Meta Mesh Wireless Communities has been granted permission to mount our HD antennas on the top of the Cathedral of Learning on the University of Pittsburgh's campus. This high-point location allows us to broadcast our network to areas across the Greater Pittsburgh Area. And, in addition to its height, the Cathedral is connected a fiber optic network that we can transform into a "super-node" to receive and distribute network traffic at broadband speeds. We think of the Cathedral as our main gateway to the internet.
+Meta Mesh Wireless Communities' bandwidth is transmitted from atop the Cathedral of Learning in Oakland via high-powered radios. 
 
 ![](/images/screenshot-14.png "Cathedral Super-Node")
+
+These radios connect to "repeater towers" in each of our target neighborhoods. 
+
+Each participants home has a small receiver installed on the outside of their residence pointed at the local tower. 
+
+Finally, this receiver connects to a WiFi router in the home where a fast, secure, and private WiFi network is created for a family's use.  where This high-point location allows us to broadcast our network to areas across the Greater Pittsburgh Area. And, in addition to its height, the Cathedral is connected to a fiber optic network that we can transform into a "super-node" to receive and distribute network traffic at broadband speeds. We think of the Cathedral as our main gateway to the internet.
 
 The Cathedral "super-node" communicates with our local towers in the service areas (New Kensington, Coraopolis, and Homewood). Rather than constructing towers from scratch, we have secured permission to mount our local tower equipment on existing structures. We have chosen structures that are in strategic locations, allowing us to broadcast our network and cover a significant portion of the targeted communities. For example, one "tower" is actually a water tower that has our antenna on top of it.
 
