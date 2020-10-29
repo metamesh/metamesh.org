@@ -27,7 +27,7 @@ form_title: Hi
 subtitle: Sam
 submit: Submitttt
 form_action: https://formspree.io/f/xnqonazg
-layout: ''
+layout: standalone
 
 ---
 Information
