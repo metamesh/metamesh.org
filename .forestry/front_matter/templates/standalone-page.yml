@@ -2,6 +2,14 @@
 label: Standalone Page
 hide_body: false
 fields:
+- name: layout
+  type: text
+  config:
+    required: true
+  label: Layout
+  description: This should always be 'standalone' for now!
+  hidden: false
+  default: standalone
 - type: text
   name: title
   label: Title
@@ -189,14 +197,6 @@ fields:
   showOnly:
     field: form_builder
     value: true
-- name: layout
-  type: text
-  config:
-    required: true
-  label: Layout
-  description: This should always be 'standalone' for now!
-  hidden: false
-  default: standalone
 pages:
 - content/english/standalone/about.md
 - content/english/standalone/benji-makes-a-new-page.md
