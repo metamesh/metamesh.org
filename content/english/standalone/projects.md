@@ -67,7 +67,7 @@ subtitle: 'Meta Mesh is deploying a pilot project to offer our In-Home WiFi serv
 form_action: https://formspree.io/f/xnqonazg
 
 ---
-## Every1Online
+## Every1online
 
 Meta Mesh Wireless Communities is proud to announce our In-Home WiFi pilot project Every1Online. _Internet Access for Distanced Learning in Three In-need Pittsburgh Communities: Homewood, Coraopolis, and New Kensington._
 
