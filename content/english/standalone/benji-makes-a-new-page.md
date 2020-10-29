@@ -8,6 +8,16 @@ inputs:
   width: half
   required: true
   autocomplete: full name
+- name: form input 2
+  placeholder: second place
+  autocomplete: ''
+  width: half
+  required: true
+- name: Form input 3
+  placeholder: forms
+  autocomplete: ''
+  width: half
+  required: true
 selects: []
 textareas:
 - name: Something
