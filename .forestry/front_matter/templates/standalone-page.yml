@@ -195,7 +195,7 @@ fields:
     required: true
   label: Layout
   description: This should always be 'standalone' for now!
-  hidden: true
+  hidden: false
   default: standalone
 pages:
 - content/english/standalone/about.md
