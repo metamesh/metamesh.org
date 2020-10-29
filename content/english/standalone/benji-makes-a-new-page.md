@@ -3,6 +3,11 @@ title: Benji Makes a New Page
 url: "/benji"
 form_builder: true
 inputs:
+- name: Form input 3
+  placeholder: forms
+  autocomplete: ''
+  width: half
+  required: true
 - name: Form Input 1
   placeholder: Hiii
   width: half
@@ -10,11 +15,6 @@ inputs:
   autocomplete: full name
 - name: form input 2
   placeholder: second place
-  autocomplete: ''
-  width: half
-  required: true
-- name: Form input 3
-  placeholder: forms
   autocomplete: ''
   width: half
   required: true
