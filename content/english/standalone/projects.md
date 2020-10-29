@@ -6,10 +6,15 @@ url: "/projects"
 form_builder: true
 inputs:
 - name: Address
-  placeholder: Address
+  placeholder: Street Address
   autocomplete: ''
   width: half
   required: true
+- name: zip_code
+  placeholder: Zip Code
+  width: half
+  required: true
+  autocomplete: ''
 - name: first_name
   placeholder: First Name
   autocomplete: given-name
@@ -29,16 +34,10 @@ inputs:
   placeholder: Email
   autocomplete: email
   width: half
-  required: true
+  required: false
 selects:
 - name: child
   placeholder: Does a school aged child live in your household?
-  options:
-  - option: 'Yes'
-  - option: 'No'
-  width: half
-- name: online
-  placeholder: Does your child have to do school work online?
   options:
   - option: 'Yes'
   - option: 'No'
@@ -49,28 +48,22 @@ selects:
   - option: 'No'
   name: internet
   width: half
-- placeholder: I want to switch to MetaMesh because...
+- placeholder: I am interested in Meta Mesh's Internet access because...
   options:
-  - option: I can no longer afford my current plan
-  - option: My connection is unreliable
-  - option: I can't make more than one video call at once
+  - option: My current Internet plan's cost is burdensome
+  - option: My Internet is unstable or slow
+  - option: Internet access is not offered where I live
   - option: Other
   name: switch
   width: half
-textareas:
-- name: plan
-  width: half
-  placeholder: My internet plan is...
-- name: other
-  placeholder: Tell us more...
-  width: half
+textareas: []
 submit: Submit
-form_title: Participate
-subtitle: Meta Mesh is deploying a pilot project to offer our In-Home WiFi services
+form_title: Sign Up!
+subtitle: 'Meta Mesh is deploying a pilot project to offer our In-Home WiFi services
   to K-12 students to keep them connected for online learning throughout the COVID-19
   Crisis. If your household resides in Homewood, Coraopolis, or New Kensington-Arnold,
   please fill out the form below to see if you are eligible to receive services through
-  this pilot program.
+  this pilot program. '
 form_action: https://formspree.io/f/xnqonazg
 
 ---
