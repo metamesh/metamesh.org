@@ -104,3 +104,11 @@ After installation, Meta Mesh will provide you with an e-mail address and phone 
 _We want your input--if you have any specific questions about this pilot project, or simply want to know more about Meta Mesh, our programs, and our partnerships, please contact us!_
 
 We have been able to make this dream project a reality through a collaborative and cross-sectional effort from Higher Education Institutions, Digital Inclusion Organizations, and Community Groups. With gratitude, we thank the following groups for the tremendous part they have played in this project.
+
+**Carnegie Mellon University:** A team of collaborators from CMU’s School of Computer Science and the Simon Initiative have coordinated the project connections to CMU and Pitt, provided critical start-up funding for the project and liaise to key stakeholders and community groups. They offer ongoing project design, implementation, and fundraising support.
+
+**University of Pittsburgh**: Pitt IT, the CIO Office, and Community & Governmental Relations are Key Stakeholders and Integral Collaborators contributing facility access and funding to enable use of the Cathedral of Learning as the “Super Node/hub.” They will support stakeholder and community involvement in additional neighborhoods following the pilot.
+
+**The Keystone Initiative for Network Based Education and Research (KINBER):** KINBER is a vendor partner to both CMU and Pitt and will provide “gateway” to the internet through PennREN Fiber, to be broadcasted from the Cathedral of Learning.
+
+**Participating School Districts and Community Groups**: The **New Kensington-Arnold** **school district** and **Cornell (Coraopolis)** **school districts**, as well as the **Homewood Children's Village** are collaborators in this pilot project. They bring vital expertise to this project, leading the effort to build community buy-in, leveraging social capital to facilitate the creation of WISP infrastructure, and identifying households in need of internet connectivity. They also advise CMU, Pitt, and Meta Mesh partners on community need and intentional partnership practices.
