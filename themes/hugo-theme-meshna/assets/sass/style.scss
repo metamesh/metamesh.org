@@ -2551,10 +2551,13 @@ body.locked {
 
 .contact-us h6 {
   color: white;
-  width: 750px;
+  // width: 750px;
   max-width: 100%;
-  margin: 30px auto 0px;
+  margin: 35px auto -10px;
   text-align: left;
+  line-height: 1.4;
+  letter-spacing: 0.8px;
+  font-weight: bold;
 }
 
 #project-form, #vol-form, #form_builder {
@@ -2648,11 +2651,13 @@ body.locked {
       background-position: calc(100% - 23px) calc(1em - 3px), calc(100% - 16px) calc(1em - 3px);
       background-size: 8px 8px, 8px 8px;
       background-repeat: no-repeat;
+      border-color: #cdbc17;
+      transition-duration: .2s;
     }
-  }
-  .switch:hover {
-    border-color: #cdbc17;
-    transition-duration: .2s;
+    option {
+      background-color: #303030;
+      &:disabled { color: #f1f1f188; }
+    }
   }
 
 }
