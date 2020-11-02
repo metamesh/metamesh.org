@@ -1,5 +1,6 @@
 ---
 title: Benji Makes a New Page
+layout: standalone
 url: "/benji"
 form_builder: true
 inputs:

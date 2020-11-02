@@ -788,7 +788,8 @@ i.fa {
   border-radius: 0;
   padding: 5px 10px;
   color: #ddd;
-  border: 1px solid #f1f1f112;
+  border: unset;
+  border-bottom: 1px solid #f1f1f112;
 }
 
 .form-meshna .form-control:focus {
@@ -2549,8 +2550,11 @@ body.locked {
 
 
 .contact-us h6 {
-  margin-bottom: 35px;
-  margin-top: -20px;
+  color: white;
+  width: 750px;
+  max-width: 100%;
+  margin: 30px auto 0px;
+  text-align: left;
 }
 
 #project-form, #vol-form, #form_builder {
@@ -2560,6 +2564,13 @@ body.locked {
   align-items: flex-start;
   #cf-submit {
     width: 100%;
+    // display: flex;
+    // flex-wrap: wrap;
+    // justify-content: center;
+    // align-items: flex-start;
+    button {
+      width: 240px;
+    }
   }
   .iffy {
     max-height: 0;
@@ -2608,17 +2619,35 @@ body.locked {
     }
   }
   .switch {
+    cursor: pointer;
     width: 100%;
     background: unset;
     background-color: transparent;
     border-radius: 0;
-    padding: 5px 10px;
+    padding: 7px 10px;
     color: #fff;
-    border: 1px solid #f1f1f112;
     outline-color: #cdbc17;
     transition: ease all .4s;
+    appearance: none;
+    -moz-appearance: none;
+    border: unset;
+    border-bottom: 1px solid #f1f1f112;
+    background:
+      linear-gradient(45deg, rgba(255, 255, 255, 0) 40%, #f1f1f112 40%, #f1f1f112 50%, rgba(255, 255, 255, 0) 51%),  
+      linear-gradient(135deg, rgba(255, 255, 255, 0) 40%, #f1f1f112 40%, #f1f1f112 50%, rgba(255, 255, 255, 0) 51%);
+    background-position: calc(100% - 23px) calc(1em - 3px), calc(100% - 16px) calc(1em - 3px);
+    background-size: 8px 8px, 8px 8px;
+    background-repeat: no-repeat;
     &:focus {
       outline-color: #cdbc17;
+    }
+    &:hover {
+      background:
+        linear-gradient(45deg, rgba(255, 255, 255, 0) 40%, #cdbc17 40%, #cdbc17 50%, rgba(255, 255, 255, 0) 51%),  
+        linear-gradient(135deg, rgba(255, 255, 255, 0) 40%, #cdbc17 40%, #cdbc17 50%, rgba(255, 255, 255, 0) 51%);
+      background-position: calc(100% - 23px) calc(1em - 3px), calc(100% - 16px) calc(1em - 3px);
+      background-size: 8px 8px, 8px 8px;
+      background-repeat: no-repeat;
     }
   }
   .switch:hover {

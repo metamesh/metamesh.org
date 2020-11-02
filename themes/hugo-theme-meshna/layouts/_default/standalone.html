@@ -48,6 +48,7 @@
         <div class="title text-center wow fadeIn" data-wow-duration="500ms">
           <h2><span class="color">{{ .Params.form_title }}</span></h2>
           <div class="border-meshna"></div>
+          <h6 class="col-lg-8 offset-lg-2">{{ .Params.subtitle | markdownify }}</h6>
         </div>
       </div>
       {{/* /section title  */}}
@@ -55,7 +56,6 @@
       {{/* Contact Form  */}}
       <!-- <div class="row"> -->
         <div class="col-lg-12 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
-          <h6>{{ .Params.subtitle | markdownify }}</h6>
           <form id="form_builder" class="form-meshna" action="{{ .Params.form_action }}"
           method="POST" role="form">
             {{ range .Params.inputs }}
