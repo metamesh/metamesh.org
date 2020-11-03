@@ -111,3 +111,15 @@ We have been able to make this dream project a reality through a collaborative a
 **The Keystone Initiative for Network Based Education and Research (KINBER):** KINBER is a vendor partner to both CMU and Pitt and will provide “gateway” to the internet through PennREN Fiber, to be broadcasted from the Cathedral of Learning.
 
 **Participating School Districts and Community Groups**: The **New Kensington-Arnold** **school district** and **Cornell (Coraopolis)** **school districts**, as well as the **Homewood Children's Village** are collaborators in this pilot project. They bring vital expertise to this project, leading the effort to build community buy-in, leveraging social capital to facilitate the creation of WISP infrastructure, and identifying households in need of internet connectivity. They also advise CMU, Pitt, and Meta Mesh partners on community need and intentional partnership practices.
+
+**Homewood Coverage Map:**
+
+![](/images/homewood-coverage-map-2.png)
+
+**Coraopolis Coverage Map:**
+
+![](/images/coraopolis-heat-map-1-1.png)
+
+**New Kensington Coverage Map:**
+
+![](/images/new-ken-heat-map-1-small.png)
