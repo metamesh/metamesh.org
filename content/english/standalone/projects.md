@@ -37,7 +37,7 @@ inputs:
   required: false
 selects:
 - name: child
-  placeholder: Does a school aged child live in your household?
+  placeholder: Does a school aged child live in your household? (Optional)
   options:
   - option: 'Yes'
   - option: 'No'
@@ -60,10 +60,9 @@ textareas: []
 submit: Submit
 form_title: Sign Up!
 subtitle: 'Meta Mesh is deploying a pilot project to offer our In-Home WiFi services
-  to K-12 students to keep them connected for online learning throughout the COVID-19
-  Crisis. If your household resides in Homewood, Coraopolis, or New Kensington-Arnold,
-  please fill out the form below to see if you are eligible to receive services through
-  this pilot program. '
+  to households within the pilot program service area. If your household resides in
+  Homewood, Coraopolis, or New Kensington-Arnold, please fill out the form below to
+  see if you are eligible to receive services through this pilot program. '
 form_action: https://formspree.io/f/xnqonazg
 
 ---
