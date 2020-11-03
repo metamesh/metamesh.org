@@ -120,6 +120,4 @@ We have been able to make this dream project a reality through a collaborative a
 
 ![](/images/coraopolis-heat-map-1-1.png)
 
-**New Kensington Coverage Map:**
-
-![](/images/new-ken-heat-map-1-small.png)
+**New Kensington Coverage Map:**![](/images/new-ken-heat-map-1-small.png)
