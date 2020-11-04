@@ -33,7 +33,7 @@ fields:
     wysiwyg: true
     schema:
       format: html-blocks
-    max: 1000
+    max: 1500
   label: Page Blurb
 - name: images_repeater
   type: field_group_list
