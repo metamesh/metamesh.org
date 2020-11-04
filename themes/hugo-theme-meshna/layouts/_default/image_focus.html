@@ -15,10 +15,10 @@
 
 <section class='image-blocks'>
     {{ range $index, $element := .Params.images_repeater }}      
-      <div class='image-page-container{{if not (modBool $index 2)}} even{{end}}' data-count='{{ $index }}'>
+      <a href='{{ .image }}' target='_blank' class='image-page-container{{if not (modBool $index 2)}} even{{end}}' data-count='{{ $index }}'>
         <div class='image-title'>{{ .title }}</div>
         <img src='{{ .image }}' alt='{{ .title }}' class='big-ol-image'>
-      </div>
+      </a>
     {{ end }}
   </div>
 </section>

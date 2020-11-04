@@ -2433,6 +2433,7 @@ figcaption {
 $yellow: #cdbc17;
 $white: #fff;
 
+.navbar { padding: .5rem 0 !important;}
 .image-focus {
   margin: 100px 0;
   .page-title {
@@ -2467,6 +2468,9 @@ $white: #fff;
     justify-content: flex-end;
     align-items: flex-start;
     margin-bottom: 80px;
+    &:last-of-type {
+      margin-bottom: 120px;
+    }
     &.even {
       flex-direction: row-reverse;
       margin-left: unset;
@@ -2478,7 +2482,7 @@ $white: #fff;
   }
   .big-ol-image {
     width: 95%;
-    height: auto;
+    img { width: 100%; height: auto; }
   }
   .image-title {
     writing-mode: vertical-lr;
@@ -2736,7 +2740,18 @@ body.locked {
       margin-left: 5%;
     }
   }
-
+  .image-focus {
+    margin-top: 60px;
+    margin-bottom: 60px;
+  }
+  .image-blocks {
+    .big-ol-image {
+      width: 85%;
+    }
+    .image-title {
+      font-size: 32px;
+    }
+  }
 }
 @media (max-width: 410px) {
   .navbar-toggler {
