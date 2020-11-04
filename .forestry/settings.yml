@@ -38,6 +38,11 @@ sections:
   match: "**/*"
   templates:
   - standalone-page
+- type: directory
+  path: content/english/image_focus
+  label: Image Focus Pages
+  create: all
+  match: "**/*"
 - type: heading
   label: Manage Data
 - type: document
