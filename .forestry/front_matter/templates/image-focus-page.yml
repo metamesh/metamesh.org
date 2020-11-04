@@ -2,6 +2,24 @@
 label: Image Focus Page
 hide_body: true
 fields:
+- name: layout
+  type: text
+  config:
+    required: true
+  label: Layout
+  default: image_focus
+- name: title
+  type: text
+  config:
+    required: true
+  label: Title
+  description: This is the title for menus
+  default: ''
+- name: url
+  type: text
+  config:
+    required: true
+  label: URL
 - name: page_title
   type: text
   config:
