@@ -1,0 +1,26 @@
+{{ define "main" }}
+
+{{ partial "navigation.html" . }}
+
+<section class="image-focus">
+  <div class="container">
+    <div class="row col-lg-12">
+      <h1 class='page-title'>{{ .Params.page_title }}</h1>
+      <div class='content'>
+        {{ .Params.page_blurb | safeHTML }}
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class='image-blocks'>
+    {{ range $index, $element := .Params.images_repeater }}      
+      <div class='image-page-container{{if not (modBool $index 2)}} even{{end}}' data-count='{{ $index }}'>
+        <div class='image-title'>{{ .title }}</div>
+        <img src='{{ .image }}' alt='{{ .title }}' class='big-ol-image'>
+      </div>
+    {{ end }}
+  </div>
+</section>
+
+{{ end }}
