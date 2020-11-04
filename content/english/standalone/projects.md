@@ -112,12 +112,12 @@ We have been able to make this dream project a reality through a collaborative a
 
 **Participating School Districts and Community Groups**: The **New Kensington-Arnold** **school district** and **Cornell (Coraopolis)** **school districts**, as well as the **Homewood Children's Village** are collaborators in this pilot project. They bring vital expertise to this project, leading the effort to build community buy-in, leveraging social capital to facilitate the creation of WISP infrastructure, and identifying households in need of internet connectivity. They also advise CMU, Pitt, and Meta Mesh partners on community need and intentional partnership practices.
 
-Below are the coverage maps that Meta Mesh uses to determine if a house can receive signal from one of our towers.  
+Below are the coverage maps that Meta Mesh uses to determine if a house can receive signal from one of our towers.
 
 * Green: High probability of coverage
 * Yellow: Possibility of coverage (needs resident participation to confirm). Yellow areas require more information to find out if they can get service. Images taken _from the house_ (pointed toward the tower location) will be needed to see if the signal can reach the location. Images will be taken from the exterior of the house. We are exploring the most efficient ways to help people in the yellow areas assess their homes' connectivity potential quickly and easily. We will share updates on this process, and we invite those who are in a yellow (or even green!) area to reach out to us to learn more.
-* Red: Confirmed no coverage area. If your home is within the Red coverage area, it is unlikely that service will reach your home in this first phase of the project. But, if you sign-up, we may be able to reach your home in a later phase of the program. 
-* Boundary: Limit of WiFi service area ends at the edge of the map image. If your home is near or on the boundary, please submit your information to determine if service reaches the location. 
+* Red: Confirmed no coverage area. If your home is within the Red coverage area, it is unlikely that service will reach your home in this first phase of the project. But, if you sign-up, we may be able to reach your home in a later phase of the program.
+* Boundary: Limit of WiFi service area ends at the edge of the map image. If your home is near or on the boundary, please submit your information to determine if service reaches the location.
 
 **Homewood Coverage Map:**
 
