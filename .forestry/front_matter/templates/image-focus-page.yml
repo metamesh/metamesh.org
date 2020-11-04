@@ -1,4 +1,37 @@
 ---
 label: Image Focus Page
 hide_body: true
-fields: []
+fields:
+- name: page_title
+  type: text
+  config:
+    required: true
+  label: Page Title
+- name: page_blurb
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: html
+    max: 1000
+  label: Page Blurb
+- name: images_repeater
+  type: field_group_list
+  fields:
+  - name: title
+    type: text
+    config:
+      required: true
+    label: Title
+  - name: image
+    type: file
+    config:
+      maxSize: 64
+    label: Image
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Images Repeater
