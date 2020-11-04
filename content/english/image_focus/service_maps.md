@@ -19,6 +19,9 @@ images_repeater:
   image: "/images/coraopolis-heat-map-1-1.png"
 - title: New Kensington Coverage Map
   image: "/images/new-ken-heat-map-1-small.png"
+layout: image_focus
+title: Service Maps
+url: "/service-maps"
 draft: true
 
 ---
