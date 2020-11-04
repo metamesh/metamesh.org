@@ -1,7 +1,7 @@
 ---
 page_title: Every1online Service Coverage Maps
-page_blurb: "<h3>Below are the coverage maps that Meta Mesh uses to determine if a
-  house can receive signal from one of our towers. </h3><p><strong>Green</strong>:
+page_blurb: "<p><strong>Below are the coverage maps that Meta Mesh uses to determine
+  if a house can receive signal from one of our towers. </strong></p><p><strong>Green</strong>:
   High probability of coverage</p><p><strong>Yellow</strong>: Possibility of coverage
   (needs resident participation to confirm). Yellow areas require more information
   to find out if they can get service. Images taken from the house (pointed toward
