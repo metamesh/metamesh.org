@@ -26,6 +26,5 @@ images_repeater:
 layout: image_focus
 title: Service Maps
 url: "/service-maps"
-draft: true
 
 ---
