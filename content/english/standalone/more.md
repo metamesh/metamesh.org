@@ -4,6 +4,13 @@ layout: standalone
 date: '2020-08-14T05:28:48-07:00'
 url: "/more"
 form_builder: false
+form_title: ''
+form_action: ''
+subtitle: ''
+inputs: []
+selects: []
+textareas: []
+submit: ''
 
 ---
 # Additional Reading
@@ -39,106 +46,84 @@ The full report titled [_Home Internet Access and A Sustainable Approach to Publ
 
 ## Glossary
 
-We created this glossary to ensure that anyone, regardless of their previous knowledge of WiFi technology, can use it to get an understanding of WiFi lingo. Terms are defined and put into the context of Meta Mesh’s operations. This list is by no means exhaustive — we are continually updating this resource to make “tech talk” more clear. If there is a term in our materials that you wish was defined more clearly, please contact us and let us know!
+We created this glossary to ensure that anyone, regardless of their previous knowledge of WiFi technology, can use it to get an understanding of WiFi lingo. Terms are defined and put into the context of Meta Mesh’s operations. This list is by no means exhaustive — we will continue to update this resource to make our “tech talk” more clear. If there is a term in our materials that you wish was defined more clearly, please contact us and let us know!
 
-Access Points (APs)
-: No definition available
+Access Points (APs)  
+: An Access Point is a piece of networking equipment that creates a WiFi network, allowing nearby devices to connect wirelessly. In a typical home network, access points are combined with a router or modem. This allows one device to give you a connection to the Internet, and a WiFi network to connect your devices to.
 
-Bandwidth
-: Bandwidth refers to the maximum amount of data that can be transferred via internet connection within a certain timeframe. This is calculated as megabits per second (Mbps).
+Bandwidth  
+: Bandwidth is to the maximum amount of data that can be transferred via an Internet connection within a certain time. The higher your bandwidth, the more data can be transferred. The most common unit of measurement is Megabits per second (Mbps).
 
-Broadband
-: Broadband is used to describe faster internet that is always on (as compared to Dial-up access, which is slower). Meta Mesh uses Wireless Broadband Connections, which you can read more about [here](https://www.fcc.gov/general/types-broadband-connections#wireless).
+Broadband  
+: Broadband is a general term, typically used to describe high-speed Internet connections which are always available. In 2020, most Internet connections are considered broadband. The alternative to broadband would be dial-up connections, which are slower and not always available. Meta Mesh provides wireless broadband connections.
 
-Cell-Tower-Based-WiFi Hotspot
-: Our WiFi Wagon Kits are equipped with Cell-Tower-Based-WiFi Hotspot technology that can connect any area (no matter how far) to the Internet. These kits are conveniently mobile and can be driven to wherever they are needed.
+Community Wireless Network  
+: The Meta Mesh Network is a Community Wireless Network. Our network is meant to serve the local community, and operates using radio waves rather than landline cables. The community we serve is the City of Pittsburgh and surrounding areas in Allegheny County.
 
-Community Wireless Networks
-: The Meta Mesh Network is a Community Wireless Network because it operates through radio waves (rather than landlines), and we serve a specific community (City of Pittsburgh/Allegheny County).
+Customer-Premises Equipment (CPE)  
+: Although we don’t consider our network users “customers” because we are a non-profit organization, you may see this term used on the Meta Mesh Technical Resources page. For our purposes, it refers to the networking equipment that is placed inside or outside of residents’ homes.
 
-Customer-Premises Equipment (CPEs)
-: Although we don’t consider our network users “customers” because we are a non-profit organization, you may see this term used on the Meta Mesh Technical Resources page. For our purposes, it simply refers to the access points and in-home WiFi equipment (such as routers) that are placed inside or outside of residents’ homes.
+Digital Divide : The Digital Divide is a concept used to describe the gap in telecommunications access between different socio-economic groups. We have identified neighborhoods in the Pittsburgh area that have lower than average connectivity rates per household. We focus our projects on these underserved areas. Given the wide-spread effects of the COVID-19 Crisis, there is an increase in the number of Pittsburghers who need reliable access to the internet. Read more about this evolving issue [here](https://pittsburghquarterly.com/articles/pandemic-widens-pittsburghs-digital-divide/).
 
-Digital Divide
-: The Digital Divide is a concept used to describe the gap in telecommunications access between different socio-economic groups. We have identified neighborhoods in the Pittsburgh area that have lower than average connectivity rates per household. We focus our projects on these underserved areas. Given the wide-spread effects of the COVID-19 Crisis, there is an increase in the number of Pittsburghers who need reliable access to the internet. Read more about this evolving issue [here](https://pittsburghquarterly.com/articles/pandemic-widens-pittsburghs-digital-divide/).
+Encryption  
+: Encryption is the process of encoding and decoding information. When data is encrypted, only the sender and receiver can understand it. Encryption is used on the Internet to protect your personal information. When encryption is not used, information can be sent in plain text, allowing for eavesdropping, man-in-the-middle attacks, and other security and privacy issues. 
 
-Electrical UPS Networking Box
-: No definition available
+End-to-End Encryption  
+: End-to-End Encryption refers to any system that uses encryption for the entire path of communications. End-to-end encryption is important for preventing bad actors from being able to see what you are doing online.
 
-Encryption Services
-: No definition available
+Grounding Cable  
+: Grounding cables are used to prevent equipment from damage due to spikes in electricity, or lightning strikes.
 
-End-to-End Encryption
-: No definition available
+High Point Location  
+: When we construct radio towers, or request to put equipment on top of existing structures, we look for locations that are high up (i.e. on top of a hill) to get a clear line of sight to other towers. Meta Mesh has to strategically select High Point Locations to avoid connection interruptions because we use radio waves instead of Ethernet or fiber optic cables.
 
-Gravity Mount
-: No definition available
+Line of Sight  
+: We use the term “Line of Sight” to describe an open path between towers or radios. If you can directly see one tower from another, that means there are no physical disruptions between the two sites. Our radios work best when they have direct Line of Sight to another radio.
 
-Grounding Cable
-: No definition available
-
-High Point Location
-: When we construct radio towers, or request to put equipment on top of existing structures, we look for locations that are high up (i.e. on top of a hill) to get a clear line of sight to other towers. Meta Mesh has to strategically select High Point Locations to avoid connection interruptions because we use radio waves instead of ethernet cables.
-
-Line of Sight
-: We use the term “Line of Sight” to describe the strength of the connection between towers and routers. If you can “see” one tower from the top of another, that means there are no physical disruptions between the two sites.
-
-High Foliage
+High Foliage  
 : High Foliage refers to areas that have physical barriers that can interrupt the connection between towers and routers. These barriers may include treetops, buildings, or other intruding objects.
 
-HTTP
-: No definition available
+HTTP  
+: HTTP is the Hypertext Transfer Protocol, which allows for the creation of websites and the Internet. The biggest downside of HTTP is that it doesn't mandate encryption. For any website which deals with personal information, the more secure HTTPS should be used. 
 
-HTTPS
-: No definition available
+HTTPS  
+: HTTPS is the Hypertext Transfer Protocol Secure protocol, which does the same thing as HTTP, but in a more secure way. HTTPS mandates encryption, and should be used on any website which deals with personal information. When you navigate to an HTTPS page, the data that is sent and received is encrypted, which helps keep your data safe. 
 
-Indoor Networking
-: In the Cathedral of Learning Supernode design, the four HD PtMP Sector Antennas will be connected to the PennREN network through wiring inside the building (Indoor Networking). The Indoor Networking materials in this case include a Switch, Router, UPS, and the PennRen fiber cable.
+Indoor Networking  
+: Indoor Networking refers to any network equipment that is placed indoors, such as routers, switches, or wireless access points. In the Cathedral of Learning, Meta Mesh is using indoor networking equipment to connect the PennREN network to the radios and antennas on the Cathedral of Learning's roof.
 
-IP
-: IP stands for the “Internet Protocol” used to communicate over a network. It refers to the hierarchy of stages that delivers packets of data from one host to another.
+IP  
+: IP stands for Internet Protocol, and it is used to allow computers to communicate over a network. IP defines the methods that computers and networking equipment use to deliver data from one host to another. The most common version of IP in use today is IPv4 and IPv6. 
 
-IP Address
-: The IP Address is a specific numeric name for every Internet using device. Every computer has a different IP Address.
+IP Address  
+: An IP Address is a number which is used to identify a computer on a network. Every device on a network must have an IP address to communicate. An example of an IP address would be 192.168.0.1, which is used as the default IP address of a lot of home networking equipment. 
 
-ISP
-: ISP stands for “Internet Service Provider.”
+ISP  
+: ISP stands for Internet Service Provider.
 
 KINBER
 : [KINBER (Keystone Initiative for Network Based Education)](https://kinber.org) provides network-based connectivity and services across Pennsylvania. They provide Meta Mesh with a connection to the Internet, and we distribute that access locally in Pittsburgh.
 
-LTU Equipment
-: LTU Equipment is the name of a line of PtMP networking devices that Meta Mesh buys from Ubiquity.
+LTU Equipment  
+: LTU Equipment is a line of Ubiquiti networking devices that Meta Mesh uses to send an Internet signal through the air. 
 
-Maker Space
-: No definition available
+Mast  
+: A Mast is a pole used for mounting networking equipment. In the Cathedral of Learning Supernode design, antennas are secured to a mast that allows Meta Mesh to adjust the height and direction of the antennas.
 
-Mast
-: In the Cathedral of Learning Supernode design, the four HD PtMP Sector Antennas are each secured to a mast that allows Meta Mesh to adjust the height and directionality of the antennas.
+Mbps   
+: Mbps stands for Megabits per second, and is the most common way to measure the speed of an Internet connection. The higher the number, the higher the speed. 
 
-Mpbs
-: Mpbs stands for Megabits per second used to the rate (or “speed”) at which data can be transferred across a network.
+Mesh Networking   
+: Mesh Networking generally refers to a style of network where devices connect to each other, rather than all connecting to a central hub. At Meta Mesh, we use mesh networking together with wired networks and wireless point-to-point links to enable communication for all of our users.
 
-Mesh Networking Technologies
-: No definition available
+Node  
+: A node is used to refer to a typical single device on a network. A typical node would be a home or business with equipment to receive a Meta Mesh wireless signal. 
 
-On-mesh
-: No definition available
+Open-Source Software  
+: Open-Source Software is software that which has publicly available source code. Open-source software is developed freely by a community of developers, and is usually free to use. Meta Mesh uses several pieces of Open-Source Software to accomplish it's goals. 
 
-Node
-: No definition available
-
-Hidden Node Problem
-: No definition available
-
-Super Node
-: No definition available
-
-Open-Source Software
-: No definition available
-
-PoE Outdoor Ethernet
-: No definition available
+PoE  
+: PoE stands for Power over Ethernet. PoE is used to supply power to devices like security cameras and wireless access points through a normal Ethernet cable. Using PoE prevents the need for dedicated power adapters and additional cables.
 
 PenREN Fiber
 : PennREN is the name of KINBER’s file optic network spanning across Pennsylvania. Meta Mesh connects to PennREN through a cable that is inside the Cathedral of Learning. Meta Mesh then projects that connection to other areas of Pittsburgh through High Definition Sector Antennas.
@@ -146,55 +131,56 @@ PenREN Fiber
 PittMesh
 : PittMesh was the original name of The Meta Mesh Wireless Network.
 
-PMtP
-: No definition available
+PtP  
+: PtP stands for Point-to-Point, and can be thought of as a "one-to-one" connection. Point-to-point connections have only one device on either side. Meta Mesh uses wireless PtP links to connect major parts of our network, usually to link one super node to another. 
 
-PtP
-: No definition available
+PtMP  
+: PMtP stands for Point-to-Multi-Point, and can be thought of as a "one-to-many" connection. PMtP radios are a single radio which can connect to multiple radios. Meta Mesh is using PtMP radios on the roof of the Cathedral of Learning, allowing for multiple radios to connect. 
 
-Public-Space WiFi
-: No definition available
+Public-Space WiFi  
+: Public-Space WiFi refers to wireless networks that are available for anyone to join in a public area. Meta Mesh operates multiple public WiFi networks. 
 
-Radio Tower
-: No definition available
+Radio Tower  
+: A Radio Tower is a tall structure which is used to mount radios and antennas. Transmitting from a high place allows for better line of sight, and better connections to end devices. 
 
-Router
-: No definition available
+Router  
+: A router is a piece of networking equipment which is used to send data packets from one network to another. For home use, most consumer-grade routers are combined with a wireless Access Point (AP) which creates a WiFi network.
 
-Motem
-: No definition available
+Modem  
+: A modem is a device which is used to connect to your ISP's network. If you have home Internet service from a cable company, they will typically give you a modem to use or allow you to rent one. Commonly, the modem is integrated into the router/access point, allowing you to have only one device that performs all functions.
 
 SEEN
 : SEEN is Carnegie Mellon University’s [Sustaining Equity in Education Network](https://www.cmu.edu/seen). In 2020, SEEN partnered with Meta to develop specific projects in under resourced Pittsburgh neighborhoods.
-Sector Antennas
-: No definition available
 
-Steel City Information Security
-: No definition available
+Sector Antennas   
+: Sector Antennas are specialized antennas which concntrate a radio signal into a specific area. In the Cathedral of Learning Supernode, we are using multiple radios and sector antennas to provide an even spread of coverage in all directions.
 
-Switch
-: No definition available
+Super Node  
+: We use Super Node to refer to the large sites within our networks. The Cathedral of Learning radios and antennas would be considered a Super Node.
 
-UBNT
-: UBNT is an acronym for the company [Ubiquity Networks](https://www.ui.com), which is where Meta Mesh sources all the hardware needed to support the network (antennas, access points, etc.)
+Switch  
+: A switch is a piece of networking equipment which allows for multiple wired connections, typically Ethernet. Adding a switch to a network is the main way of expanding the number of wired connections it can handle.
 
-UPS
-: UPS stands for “Unlimited Power Supply.” In the Cathedral of Learning Supernode design, the Indoor Networking plans include a connection to the building’s Unlimited Power Supply of electricity to power the antennas.
+UBNT   
+: UBNT is an acronym for the company [Ubiquiti Networks](https://www.ui.com "Ubiquiti Networks"), which is where Meta Mesh sources most of the hardware needed to support the network (antennas, access points, switches, routers, etc.)
 
-VPN
-: No definition available
+UPS   
+: UPS stands for Uninterruptible Power Supply, which is a device that is used to power equipment and contains a battery. The internal battery keeps equipment powered on during a power outage.
 
-WiFi Assistant
-: No definition available
+VPN  
+: A VPN is a virtual private network, and is typically used to securely connect to another network. A lot of people working from home use a VPN to connect to their work network. A VPN can also be used to secure your traffic on an untrusted network.
+
+WiFi Hotspot  
+: WiFi hotspot is a general term, but we use it to refer to our WiFi Wagon Kits. Our WiFi Hotspots use cellular data to create a WiFi network. These kits are mobile, and can be driven to wherever they are needed.
 
 WISP
 : WISP stands for “Wireless Internet Service Provider.”
 
-WPA2 Enterprise
-: No definition available
+WPA2 and WPA3  
+: WPA2 and WPA3 are the most commonly used methods for protecting access to a WiFi network. WPA2-personal is what most people use in their homes, and allows for all devices to join with a single password, or Pre-Shared Key (PSK). WPA2-Enterprise is typically found in a business or school network, where a unique username and password is used instead of a shared password. WPA3 is part of the new WiFi 6 standard, and further improves the security of a wireless network.
 
-802\.11
-: No definition available
+802\.11  
+: 802.11 refers to the wireless standards that we know as WiFi, such as 802.11n or 802.11ac. A few years ago, the WiFi Alliance renamed the major wireless standards into the much more friendly WiFi 4, WiFi 5, and WiFi 6. WiFi 6 is the latest version of the 802.11 standard.
 
 ## Frequently Asked Questions
 
