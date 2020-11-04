@@ -174,7 +174,7 @@ VPN
 WiFi Hotspot  
 : WiFi hotspot is a general term, but we use it to refer to our WiFi Wagon Kits. Our WiFi Hotspots use cellular data to create a WiFi network. These kits are mobile, and can be driven to wherever they are needed.
 
-WISP   
+WISP  
 : WISP stands for Wireless Internet Service Provider.
 
 WPA2 and WPA3  
@@ -195,40 +195,37 @@ WPA2 and WPA3
 
    The Federal Communications Commissions defines 25 megabits per second as broadband access. You can see speed comparisons between different providers in the table above. For a more in-depth breakdown of what functions are supported at different speeds, take a look at this resource: [https://broadbandnow.com/speedtest](https://broadbandnow.com/speedtest "https://broadbandnow.com/speedtest")
 
-   **  
-   Do you have a map of what your network covers/everywhere you are?**
+   **Do you have a map of what your network covers/everywhere you are?**
 
-   Yes, we do! Here’s the link to our live map. This feature is under construction on our website
+   Yes, we do! Here’s the link to our live map. This feature is under construction on our website.
 
    ​
 
    **Does Meta Mesh use new networking technologies (like 5G or TV White Space)?**
 
-   Bleeding-edge technology is not our priority. Our solution is a low-cost and scalable way to distribute Internet access, and build a standalone network at moderate speeds. We focus on bridging the Digital Divide by providing dependable networking services (In-Home and Public-Space WiFi) to communities that could not otherwise afford it. 
+   Bleeding-edge technology is not our priority. Our solution is a low-cost and scalable way to distribute Internet access, and build a standalone network at moderate speeds. We focus on bridging the Digital Divide by providing dependable networking services (In-Home and Public-Space WiFi) to communities that could not otherwise afford it.
 
-   **  
-   How does a Community Wireless Network provide “free” WiFi?**
+     
+   **How does a Community Wireless Network provide “free” WiFi?**
 
    We are the first non-profit WISP in the country to deploy networking services on a city-wide scale. As a non-profit organization, we rely on three key resources to sustain our efforts:
    * Grant funding
    * Individual donations
-   * Income from contracted work. 
+   * Income from contracted work.
 
    So, the work we do is not “free,” we just use sources other than individual residents or households for revenue. We ask our users for a $10/month per household suggested donation to help cover maintenance costs. That being said, we NEVER shut off services to households who don’t contribute donations, and we assist communities in finding sustainable ways to cover any incurred costs.
 
-![](https://lh6.googleusercontent.com/662-pEd4-U0GWvWHyONcY-Dntx93NXWyyVaAagzcHQ4mpK8Ei06lJnC0a_Mau3rkpwcCe_X5zPrBH48lqjf_BYtk59gxR92gwChB6VN4P-eiqDyXu_p9JDI-iIM5e3Rj6V2Mz25r)​**Is The Meta Mesh Network secure?  
-**MMWC uses the same security measures other big name ISPs use. While no network security is unbreakable, it is extremely unlikely for a breach to occur. For more on the technological capabilities/limitations, we recommend watching [Jon Zeolla's Talk on the subject](https://www.youtube.com/watch?v=K0FWXLLHDTo). Jon works with Steel City Information Security and is very well-versed in how bad guys break WiFi security.
+![](https://lh6.googleusercontent.com/662-pEd4-U0GWvWHyONcY-Dntx93NXWyyVaAagzcHQ4mpK8Ei06lJnC0a_Mau3rkpwcCe_X5zPrBH48lqjf_BYtk59gxR92gwChB6VN4P-eiqDyXu_p9JDI-iIM5e3Rj6V2Mz25r)​**Is The Meta Mesh Network secure?**  
+MMWC uses the same security measures other big name ISPs use. While no network security is unbreakable, it is extremely unlikely for a breach to occur. For more on the technological capabilities/limitations, we recommend watching [Jon Zeolla's Talk on the subject](https://www.youtube.com/watch?v=K0FWXLLHDTo). Jon works with Steel City Information Security and is very well-versed in how bad guys break WiFi security.
 
 * **What about In-Home WiFi?**  
   Those who receive our In-Home WiFi services will be provided with a pre-configured router that ensures the device is connected to our network and functioning at its highest capacity. Just like the residential WiFi you may get from Comcast or Verizon, your In-Home network will have a personalized name and password. In order to secure access to your In-Home WiFi network, please be cautious about who you provide this information to.
-
-
 * **What about Public-Space WiFi?**  
-  Like other public WiFi networks, our Public-Space WiFi is an open network with no password required to join it. An open network is advantageous for outdoor public areas, since they are the best way to allow access to anyone who needs it. Our goal is expanding access, and open networks are the best way to accomplish that.  
-    
-  Open WiFi networks also have some downsides. With a password protected WiFi network, all communication is encrypted by the network itself, giving you an extra layer of security. With an open network, you don't get that extra layer. This means that unencrypted information can potentially be seen by someone else on the local network. This is why we recommend you only use HTTPS websites, and use encrypted services when on Public-Space WiFi.  
-    
-  Increasingly, websites use end-to-end encryption, reducing the risk of using an open network. Also, more operating systems allow for automatic VPN services which encrypt all traffic, more or less solving this problem. Please use [WiFi Assistant](https://support.google.com/nexus/answer/6327199?hl=en) on an Android device, or use a VPN service if you are able when using any open/public networks. 
+  Like other public WiFi networks, our Public-Space WiFi is an open network with no password required to join it. An open network is advantageous for outdoor public areas, since they are the best way to allow access to anyone who needs it. Our goal is expanding access, and open networks are the best way to accomplish that.
+
+  Open WiFi networks also have some downsides. With a password protected WiFi network, all communication is encrypted by the network itself, giving you an extra layer of security. With an open network, you don't get that extra layer. This means that unencrypted information can potentially be seen by someone else on the local network. This is why we recommend you only use HTTPS websites, and use encrypted services when on Public-Space WiFi.
+
+  Increasingly, websites use end-to-end encryption, reducing the risk of using an open network. Also, more operating systems allow for automatic VPN services which encrypt all traffic, more or less solving this problem. Please use [WiFi Assistant](https://support.google.com/nexus/answer/6327199?hl=en) on an Android device, or use a VPN service if you are able when using any open/public networks.
 
   We are currently updating our Privacy Policy, Terms & Conditions, and Wireless Agreement. Once completed, these documents will be available publicly, and will outline in detail our data security commitments.
 
