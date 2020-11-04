@@ -15,7 +15,7 @@ submit: ''
 ---
 # Additional Reading
 
-We strive to be transparent by ensuring that any member of the public, regardless of their base knowledge of WiFi technologies, can understand our mission. That’s why we created a glossary of terms, a FAQ section, and a list of technical resources available on this website.
+We strive to be transparent by ensuring that any member of the public, regardless of their base knowledge of WiFi technologies, can understand our mission. That’s why we created this glossary of terms, FAQ section, and list of technical resources.
 
 Please contact us if you have any questions or recommendations for improving the accessibility of our resources.
 
@@ -29,33 +29,33 @@ While an updated statistic of residents without WiFi has yet to be determined, w
 
 ### Heinz Endowment Grant
 
-In May of 2018, The Heinz Endowments awarded Meta Mesh a $15,000 grant in order to survey and analyze “home Internet access and a sustainable approach to public WiFi in three under-served Pittsburgh communities.” We chose to execute our project in Hazelwood, Homewood and the Hill District not only because as low-income neighborhoods they demonstrated need, but also because they are “target neighborhoods” where Heinz also focuses its efforts.
+In May of 2018, The Heinz Endowments awarded Meta Mesh a $15,000 grant in order to survey and analyze home Internet access and a sustainable approach to public WiFi in three under-served Pittsburgh communities. We chose to execute our project in Hazelwood, Homewood, and the Hill District not only because as low-income neighborhoods they demonstrated need, but also because they are areas where Heinz also focuses its efforts.
 
 We had two general objectives for these three areas:
 
 1. Research: to gather our own survey data regarding Internet use and more specifically, broadband exclusion.
 2. Operational: to plan logistics, including the placement and location of access points, to provide a minimum viable WiFi network suitable for public use.
-3. We completed more than 900 surveys and several in-depth interviews, all of which were conducted door-to-door by Meta Mesh employees throughout eight months.
+3. We completed more than 900 surveys and several in-depth interviews, all of which were conducted door-to-door by Meta Mesh employees over eight months.
 4. Our cursory conclusions include:
-   1. A majority of residents in all low-income neighborhoods rely on smartphones to access the Internet. However, this method of accessing the Internet does not qualify as having home broadband and creates severe limitations to what can be accomplished and greatly increases the time it takes to accomplish tasks.
+   1. A majority of residents in all low-income neighborhoods rely on smartphones to access the Internet. However, this method of accessing the Internet does not qualify as having home broadband, creates severe limitations to what can be accomplished, and greatly increases the time it takes to accomplish tasks.
    2. Broadband Internet access is increasingly a requirement of socio-economic inclusion, not a consequence of it; and the people in low-income communities know this. Whether or not families work with public or private Internet support systems, they still suffer from skill gaps, and “taxes” on their time and privacy.
-   3. Price is merely one element shaping the delicate balance of including home broadband into the monthly budget. ISP (Internet Service Provider) pricing issues go beyond the obvious challenge of steep monthly fees. Upfront hardware costs, billing transparency, the inability to assess the quality of service, and general service availability are major issues for low-income communities.
-   4. Public organizations that offer free public WiFi such as libraries, community centers, and parks often fill the gap between low home adoption and high community demand. Libraries and community centers also provide a number of other critical services, such as training and support. These support organizations are under social and government pressure to meet community connectivity needs, and yet their public funding levels are at an all-time low. This is why the efforts of Meta Mesh are so important: libraries and community centers have hours of operation and long waits for a turn at a public computer. Public WiFi can be accessed at all hours of the day.
+   3. Price is merely one element shaping the delicate balance of including home broadband into the monthly budget. ISP (Internet Service Provider) pricing issues go beyond the obvious challenge of steep monthly fees. Upfront hardware costs, billing transparency, inability to assess the quality of service, and general service availability are major issues for low-income communities.
+   4. Public organizations that offer free public WiFi such as libraries, community centers, and parks often fill the gap between low home adoption and high community demand. Libraries and community centers also provide a number of other critical services, such as training and support. These support organizations are under social and government pressure to meet community connectivity needs, while their public funding levels are at an all-time low. This is why the efforts of Meta Mesh are so important: libraries and community centers have hours of operation and long waits for a turn at a public computer. Public WiFi can be accessed at all hours of the day.
 
 The full report titled [_Home Internet Access and A Sustainable Approach to Public WiFi in Three Underserved Pittsburgh Communities_](https://drive.google.com/file/d/1yoHeapwWWiHk5_GbTDumsL5yFxURn-zN/view?usp=sharing) is available for your consideration.
 
 ## Glossary
 
-We created this glossary to ensure that anyone, regardless of their previous knowledge of WiFi technology, can use it to get an understanding of WiFi lingo. Terms are defined and put into the context of Meta Mesh’s operations. This list is by no means exhaustive — we will continue to update this resource to make our “tech talk” more clear. If there is a term in our materials that you wish was defined more clearly, please contact us and let us know!
+We created this glossary to ensure that anyone, regardless of their previous knowledge, can understand our mission. Terms are defined and put into the context of Meta Mesh’s operations. This list is by no means exhaustive — we will continue to update this resource to make our “tech talk” more clear. If there is a term in our materials that you wish was defined more clearly, please contact us and let us know!
 
 Access Points (APs)  
-: An Access Point is a piece of networking equipment that creates a WiFi network, allowing nearby devices to connect wirelessly. In a typical home network, access points are combined with a router or modem. This allows one device to give you a connection to the Internet, and a WiFi network to connect your devices to.
+: An Access Point is a piece of networking equipment that creates a WiFi network, allowing nearby devices to connect wirelessly. In a typical home network, access points are combined with a router or modem. This allows one device to give you a connection to the Internet, and a WiFi network to connect your wireless devices to.
 
 Bandwidth  
 : Bandwidth is to the maximum amount of data that can be transferred via an Internet connection within a certain time. The higher your bandwidth, the more data can be transferred. The most common unit of measurement is Megabits per second (Mbps).
 
 Broadband  
-: Broadband is a general term, typically used to describe high-speed Internet connections which are always available. In 2020, most Internet connections are considered broadband. The alternative to broadband would be dial-up connections, which are slower and not always available. Meta Mesh provides wireless broadband connections.
+: Broadband is used to describe high-speed Internet connections over 25 Mbps which are always available. In 2020, most Internet connections are considered broadband. The alternative to broadband would be dial-up connections, which are slower and not always available. Meta Mesh provides wireless broadband connections.
 
 Community Wireless Network  
 : The Meta Mesh Network is a Community Wireless Network. Our network is meant to serve the local community, and it operates using radio waves rather than landline cables. The community we serve is the City of Pittsburgh and surrounding areas in Allegheny County.
@@ -106,7 +106,7 @@ KINBER
 : [KINBER (Keystone Initiative for Network Based Education)](https://kinber.org) provides network-based connectivity and services across Pennsylvania. They provide Meta Mesh with a connection to the Internet, and we distribute that access locally in Pittsburgh.
 
 LTU Equipment  
-: LTU Equipment is a line of Ubiquiti networking devices that Meta Mesh uses to send an Internet signal through the air.
+: LTU Equipment is a line of Ubiquiti networking devices that Meta Mesh uses to send an wireless Internet signal over long distances.
 
 Mast  
 : A Mast is a pole used for mounting networking equipment. In the Cathedral of Learning Supernode design, antennas are secured to a mast that allows Meta Mesh to adjust the height and direction of the antennas.
@@ -136,7 +136,7 @@ PtP
 : PtP stands for Point-to-Point, and can be thought of as a "one-to-one" connection. Point-to-point connections have only one device on either side. Meta Mesh uses wireless PtP links to connect major parts of our network, usually to link one super node to another.
 
 PtMP  
-: PMtP stands for Point-to-Multi-Point, and can be thought of as a "one-to-many" connection. PMtP radios are a single radio which can connect to multiple radios. Meta Mesh is using PtMP radios on the roof of the Cathedral of Learning, allowing for multiple radios to connect.
+: PMtP stands for Point-to-Multi-Point, and can be thought of as a "one-to-many" connection. PMtP radios are a single radio which can connect to multiple radios. Meta Mesh is using PtMP radios on the roof of the Cathedral of Learning, allowing for multiple devices to connect to a single transmitter.
 
 Public-Space WiFi  
 : Public-Space WiFi refers to a wireless network that is available for anyone to join in a public area. Meta Mesh operates multiple public WiFi networks.
@@ -145,7 +145,7 @@ Radio Tower
 : A Radio Tower is a tall structure which is used to mount radios and antennas. Transmitting from a high place allows for better line of sight, and better connections to end devices.
 
 Router  
-: A router is a piece of networking equipment which is used to send data packets from one network to another. For home use, most consumer-grade routers are combined with a wireless Access Point (AP), which creates a WiFi network.
+: A router is a piece of networking equipment which is used to send data packets from one network to another. For home use, most consumer-grade routers are combined with an Access Point (AP), which creates a WiFi network.
 
 Modem  
 : A modem is a device which is used to connect to your ISP's network. If you have home Internet service from a cable or phone company, they will typically give you a modem to use, or allow you to rent one. Commonly, a modem is integrated into the router/access point, allowing you to have one device that performs all functions.
@@ -157,7 +157,7 @@ Sector Antennas
 : Sector Antennas are specialized antennas which concentrate a radio signal into a specific area. In the Cathedral of Learning super node, we are using multiple radios and sector antennas to provide an even spread of coverage in all directions.
 
 Super Node  
-: We use Super Node to refer to the large sites within our networks. The Cathedral of Learning radios and antennas would be considered a super node.
+: We use super node to refer to the large sites within our networks. The Cathedral of Learning radios and antennas would be considered a super node.
 
 Switch  
 : A switch is a piece of networking equipment which allows for multiple wired connections, typically Ethernet. Adding a switch to a network is the main way of expanding the number of wired connections it can handle.
@@ -181,7 +181,7 @@ WPA2 and WPA3
 : WPA2 and WPA3 are the most commonly used methods for protecting access to a WiFi network. WPA2-personal is what most people use in their homes, and allows for all devices to join with a single password, or Pre-Shared Key (PSK). WPA2-Enterprise is typically found in a business or school network, where a unique username and password is used instead of a shared password. WPA3 is part of the new WiFi 6 standard, and further improves the security of a wireless network.
 
 802\.11  
-: 802.11 refers to the wireless standards that we know as WiFi, such as 802.11n or 802.11ac. A few years ago, the WiFi Alliance renamed the major wireless standards into the much more friendly WiFi 4, WiFi 5, and WiFi 6. WiFi 6 is the latest version of the 802.11 standard.
+: 802.11 refers to the wireless standards that we know as WiFi, such as 802.11n or 802.11ac. A few years ago, the WiFi Alliance renamed the major wireless standards into the more friendly WiFi 4, WiFi 5, and WiFi 6. WiFi 6 is the latest version of the 802.11 standard.
 
 ## Frequently Asked Questions
 
@@ -193,9 +193,10 @@ WPA2 and WPA3
 
    **How do the speeds of different kinds of networks compare?**
 
-   The Federal Communications Commissions defines 25 megabits per second as broadband access. You can see speed comparisons between different Providers in the table above. For a more in-depth breakdown of what functions are supported at different speeds, take a look at this resource: [https://broadbandnow.com/speedtest](https://broadbandnow.com/speedtest "https://broadbandnow.com/speedtest")
+   The Federal Communications Commissions defines 25 megabits per second as broadband access. You can see speed comparisons between different providers in the table above. For a more in-depth breakdown of what functions are supported at different speeds, take a look at this resource: [https://broadbandnow.com/speedtest](https://broadbandnow.com/speedtest "https://broadbandnow.com/speedtest")
 
-   **Do you have a map of what your network covers/everywhere you are?**
+   **  
+   Do you have a map of what your network covers/everywhere you are?**
 
    Yes, we do! Here’s the link to our live map. This feature is under construction on our website
 
@@ -203,41 +204,45 @@ WPA2 and WPA3
 
    **Does Meta Mesh use new networking technologies (like 5G or TV White Space)?**
 
-   Our solution is a low-cost and scalable way to distribute Internet access and build a standalone network at moderate speeds. That means, we are not the fastest WISP out there. We focus on bridging the Digital Divide by providing dependable networking services (In-Home and Public-Space WiFi) to communities that could not otherwise afford it. Bleeding-edge technology is not our priority.
+   Bleeding-edge technology is not our priority. Our solution is a low-cost and scalable way to distribute Internet access, and build a standalone network at moderate speeds. We focus on bridging the Digital Divide by providing dependable networking services (In-Home and Public-Space WiFi) to communities that could not otherwise afford it. 
 
-   **How does a Community Wireless Network provide “free” WiFi?**
+   **  
+   How does a Community Wireless Network provide “free” WiFi?**
 
-   We are the first non-profit WISP in the country to deploy networking services on a city-wide scale. As a non-profit organization, we rely on three key resources to sustain our efforts: 1) grant funding 2) individual donations 3) earned income from contracted work. So, the work we do is not “free,” we just look to sources other than the individual resident or household for revenue. Rather, we ask our users for a $10/month per household suggested donation to help cover maintenance costs. That being said, we NEVER shut off services to households who don’t contribute donations, and we assist communities in finding sustainable ways to cover any incurred costs.
+   We are the first non-profit WISP in the country to deploy networking services on a city-wide scale. As a non-profit organization, we rely on three key resources to sustain our efforts:
+   * Grant funding
+   * Individual donations
+   * Income from contracted work. 
 
-   ![](https://lh6.googleusercontent.com/662-pEd4-U0GWvWHyONcY-Dntx93NXWyyVaAagzcHQ4mpK8Ei06lJnC0a_Mau3rkpwcCe_X5zPrBH48lqjf_BYtk59gxR92gwChB6VN4P-eiqDyXu_p9JDI-iIM5e3Rj6V2Mz25r)
+   So, the work we do is not “free,” we just use sources other than individual residents or households for revenue. We ask our users for a $10/month per household suggested donation to help cover maintenance costs. That being said, we NEVER shut off services to households who don’t contribute donations, and we assist communities in finding sustainable ways to cover any incurred costs.
 
-   ​
+![](https://lh6.googleusercontent.com/662-pEd4-U0GWvWHyONcY-Dntx93NXWyyVaAagzcHQ4mpK8Ei06lJnC0a_Mau3rkpwcCe_X5zPrBH48lqjf_BYtk59gxR92gwChB6VN4P-eiqDyXu_p9JDI-iIM5e3Rj6V2Mz25r)​**Is The Meta Mesh Network secure?  
+**MMWC uses the same security measures other big name ISPs use. While no network security is unbreakable, it is extremely unlikely for a breach to occur. For more on the technological capabilities/limitations, we recommend watching [Jon Zeolla's Talk on the subject](https://www.youtube.com/watch?v=K0FWXLLHDTo). Jon works with Steel City Information Security and is very well-versed in how bad guys break WiFi security.
 
-   **Is The Meta Mesh Network secure?**
+* **What about In-Home WiFi?**  
+  Those who receive our In-Home WiFi services will be provided with a pre-configured router that ensures the device is connected to our network and functioning at its highest capacity. Just like the residential WiFi you may get from Comcast or Verizon, your In-Home network will have a personalized name and password. In order to secure access to your In-Home WiFi network, please be cautious about who you provide this information to.
 
-   MMWC uses the same 802.11 security measures that other big name ISPs use. While the WPA2 Enterprise is the global standard for WiFi, it is not “unbreakable.” However, it is extremely unlikely for a breach to occur. For more on the technological capabilities/limitations of WPA2, we recommend watching [Jon Zeolla's Talk on the subject](https://www.youtube.com/watch?v=K0FWXLLHDTo). Jon works with Steel City Information Security and is very well-versed in how bad guys break WiFi security.
 
-   In-Home WiFi: Those who receive our In-Home WiFi services will be provided with a pre-configured router that ensures the device is connected to our network and functioning at its highest capacity. Just like the residential WiFi you may get from Comcast or Verizon, your In-Home network will have a personalized name and password. Please be cautious about who you provided this information to in order to maintain the general security of your In-Home WiFi network.
+* **What about Public-Space WiFi?**  
+  Like other public WiFi networks, our Public-Space WiFi is an open network with no password required to join it. An open network is advantageous for outdoor public areas, since they are the best way to allow access to anyone who needs it. Our goal is expanding access, and open networks are the best way to accomplish that.  
+    
+  Open WiFi networks also have some downsides. With a password protected WiFi network, all communication is encrypted by the network itself, giving you an extra layer of security. With an open network, you don't get that extra layer. This means that unencrypted information can potentially be seen by someone else on the local network. This is why we recommend you only use HTTPS websites, and use encrypted services when on Public-Space WiFi.  
+    
+  Increasingly, websites use end-to-end encryption, reducing the risk of using an open network. Also, more operating systems allow for automatic VPN services which encrypt all traffic, more or less solving this problem. Please use [WiFi Assistant](https://support.google.com/nexus/answer/6327199?hl=en) on an Android device, or use a VPN service if you are able when using any open/public networks. 
 
-   Public-Space WiFi: Like other Public WiFi networks, our Public-Space WiFi is an open network, and therefore any traffic you send is not encrypted by the WiFi router itself. This means that it is easily readable by anyone nearby. An open network is advantageous for outdoor public areas, because a password is not required, which allows anyone who needs WiFi to hop online at will. With that said, we recommend you only use HTTPS websites and encrypted services when on Public-Space WiFi. Increasingly, websites use end-to-end encryption and more operating systems allow for automatic VPN services, which encrypt all traffic to an exit point on the Internet, more or less solving this problem. Please use [WiFi Assistant](https://support.google.com/nexus/answer/6327199?hl=en) on an Android device and use a VPN service if you are able when using any open/public networks.
+  We are currently updating our Privacy Policy, Terms & Conditions, and Wireless Agreement. Once completed, these documents will be available publicly, and will outline in detail our data security commitments.
 
-   We are currently updating our Privacy Policy, Terms & Conditions, and Wireless Agreement. Once completed, these documents will be available publicly and will outline in detail our data security commitments.
+**Can someone use Public-Space WiFi to access my In-Home WiFi?**
 
-   ​
+Even if someone were to try to access your home network, they wouldn't be able to. We have security measures in place that prevent anyone on our public WiFi networks from accessing other Meta Mesh networks.
 
-   **Can someone use nearby Public-Space WiFi to access my In-Home WiFi?**
+**Where is your open source software?**
 
-   We have in place firewall rules that prevent anyone "on the mesh" from accessing private IP ranges. So if someone tries to access devices on your home network, they won't be able to because our routers simply drop the requests when they realize they are destined for a forbidden IP address.
+You can view our code at [www.github.com/metamesh](http://www.github.com/metamesh)
 
-   **Where is your open source software?**
+**Is WiFi dangerous to my health?**
 
-   You can view our code at [www.github.com/metamesh](http://www.github.com/metamesh)
-
-   ​
-
-   **Is WiFi dangerous to my health?**
-
-   No, not at the power levels specified by the 802.11 protocol. [Read this](http://www.howtogeek.com/234817/dont-worry-wi-fi-isnt-dangerous/) for more information.
+No, not at the power levels specified by the 802.11 protocol. [Read this](http://www.howtogeek.com/234817/dont-worry-wi-fi-isnt-dangerous/) for more information.
 
 ## Research
 
