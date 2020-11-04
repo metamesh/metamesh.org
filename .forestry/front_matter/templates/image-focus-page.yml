@@ -35,3 +35,5 @@ fields:
     max: 
     labelField: 
   label: Images Repeater
+pages:
+- content/english/image_focus/service_maps.md
