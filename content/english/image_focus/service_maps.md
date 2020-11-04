@@ -1,7 +1,7 @@
 ---
 page_title: Every1online Service Coverage Maps
-page_blurb: "<p><strong>Below are the coverage maps that Meta Mesh uses to determine
-  if a house can receive signal from one of our towers. </strong></p><p><strong>Green</strong>:
+page_blurb: "<h4>Below are the coverage maps that Meta Mesh uses to determine if a
+  house can receive signal from one of our towers. </h4><p><strong>Green</strong>:
   High probability of coverage</p><p><strong>Yellow</strong>: Possibility of coverage
   (needs resident participation to confirm). Yellow areas require more information
   to find out if they can get service. Images taken from the house (pointed toward
@@ -15,7 +15,7 @@ page_blurb: "<p><strong>Below are the coverage maps that Meta Mesh uses to deter
   if you sign-up, we may be able to reach your home in a later phase of the program.</p><p><strong>Boundary</strong>:
   Limit of WiFi service area ends at the edge of the map image. If your home is near
   or on the boundary, please submit your information to determine if service reaches
-  the location.</p>"
+  the location.</p><p>Click on a map to view it full-size.</p>"
 images_repeater:
 - title: Homewood
   image: "/images/homewood-coverage-map-2.png"
