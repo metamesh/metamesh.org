@@ -17,11 +17,11 @@ page_blurb: "<p><strong>Below are the coverage maps that Meta Mesh uses to deter
   or on the boundary, please submit your information to determine if service reaches
   the location.</p>"
 images_repeater:
-- title: Homewood Coverage Map
+- title: Homewood
   image: "/images/homewood-coverage-map-2.png"
-- title: Coraopolis Coverage Map
+- title: Coraopolis
   image: "/images/coraopolis-heat-map-1-1.png"
-- title: New Kensington Coverage Map
+- title: New Kensington
   image: "/images/new-ken-heat-map-1-small.png"
 layout: image_focus
 title: Service Maps
