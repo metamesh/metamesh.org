@@ -32,7 +32,7 @@ fields:
     required: false
     wysiwyg: true
     schema:
-      format: html
+      format: html-blocks
     max: 1000
   label: Page Blurb
 - name: images_repeater
