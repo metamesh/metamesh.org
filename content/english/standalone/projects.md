@@ -127,4 +127,6 @@ Below are the coverage maps that Meta Mesh uses to determine if a house can rece
 
 ![](/images/coraopolis-heat-map-1-1.png)
 
-**New Kensington Coverage Map:**![](/images/new-ken-heat-map-1-small.png)
+**New Kensington Coverage Map:**
+
+![](/images/new-ken-heat-map-1-small.png)
