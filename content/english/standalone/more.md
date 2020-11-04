@@ -63,7 +63,8 @@ Community Wireless Network
 Customer-Premises Equipment (CPE)  
 : Although we don’t consider our network users “customers” because we are a non-profit organization, you may see this term used on the Meta Mesh Technical Resources page. For our purposes, it refers to the networking equipment that is placed inside or outside of residents’ homes.
 
-Digital Divide : The Digital Divide is a concept used to describe the gap in telecommunications access between different socio-economic groups. We have identified neighborhoods in the Pittsburgh area that have lower than average connectivity rates per household. We focus our projects on these underserved areas. Given the wide-spread effects of the COVID-19 Crisis, there is an increase in the number of Pittsburghers who need reliable access to the internet. Read more about this evolving issue [here](https://pittsburghquarterly.com/articles/pandemic-widens-pittsburghs-digital-divide/).
+Digital Divide   
+: The Digital Divide is a concept used to describe the gap in telecommunications access between different socio-economic groups. We have identified neighborhoods in the Pittsburgh area that have lower than average connectivity rates per household. We focus our projects on these underserved areas. Given the wide-spread effects of the COVID-19 Crisis, there is an increase in the number of Pittsburghers who need reliable access to the internet. Read more about this evolving issue [here](https://pittsburghquarterly.com/articles/pandemic-widens-pittsburghs-digital-divide/).
 
 Encryption  
 : Encryption is the process of encoding and decoding information. When data is encrypted, only the sender and receiver can understand it. Encryption is used on the Internet to protect your personal information. When encryption is not used, information can be sent in plain text, allowing for eavesdropping, man-in-the-middle attacks, and other security and privacy issues. 
