@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: Every1online
 layout: standalone
 date: '2020-08-14T05:29:25.000-07:00'
 url: "/projects"
@@ -66,8 +66,6 @@ subtitle: 'Meta Mesh is deploying a pilot project to offer our In-Home WiFi serv
 form_action: https://formspree.io/f/xnqonazg
 
 ---
-## Every1online
-
 Meta Mesh Wireless Communities is proud to announce our In-Home WiFi pilot project Every1online: _Internet Access for three in-need Pittsburgh Communities: Homewood, Coraopolis, and New Kensington-Arnold._
 
 [**SIGN UP HERE!**](#contact)
