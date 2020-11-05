@@ -40,7 +40,7 @@ unsafe = true
 xhtml = false
 [[menu.main]]
 name = "Projects"
-url = "/projects/"
+url = "https://www.metamesh.org/projects/"
 weight = 5
 [[menu.main]]
 URL = "more"
