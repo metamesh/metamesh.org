@@ -39,6 +39,10 @@ hardWraps = false
 unsafe = true
 xhtml = false
 [[menu.main]]
+name = "Projects"
+url = "/projects/"
+weight = 5
+[[menu.main]]
 URL = "more"
 name = "Learn More"
 weight = 4
