@@ -23,7 +23,7 @@ Please contact us if you have any questions or recommendations for improving the
 
 ### COVID-19 Notice
 
-Given that our most recent report on the scope of Digital Divide was conducted in 2018, we know that these metrics do NOT reflect the growing number of individuals who need WiFi because of hardships caused by COVID-19. Due to reduced hours, layoffs, and whole industry shutdowns, we must assume that there are more people who cannot afford residential Internet access in Pittsburgh. We must also consider those who do have Internet access from telecom giants, but the bandwidth of discount packages often does not support multi-device functions. For example, a parent who has to work remotely cannot do so while their child is video-conferencing into online classes on some providers' lowest “broadband” tier of access.
+Given that our [most recent report](https://drive.google.com/file/d/1yoHeapwWWiHk5_GbTDumsL5yFxURn-zN/view?usp=sharing) on the scope of the Digital Divide was conducted in 2018, we know that these metrics do NOT reflect the growing number of individuals who need Internet access because of hardships caused by COVID-19. Due to reduced hours, layoffs, and whole industry shutdowns, we must assume that there are more people who cannot afford residential Internet access in Pittsburgh. We must also consider those who do have Internet access from telecom giants, but the bandwidth of discount packages often does not support multi-device functions. For example, a parent who has to work remotely cannot do so while their child is video-conferencing into online classes on some providers' lowest “broadband” tier of access.
 
 While an updated statistic of residents without WiFi has yet to be determined, we are currently working with an increasing number of community partners to serve remote workers, online students, and families in need.
 
@@ -205,7 +205,6 @@ WPA2 and WPA3
 
    Bleeding-edge technology is not our priority. Our solution is a low-cost and scalable way to distribute Internet access, and build a standalone network at moderate speeds. We focus on bridging the Digital Divide by providing dependable networking services (In-Home and Public-Space WiFi) to communities that could not otherwise afford it.
 
-     
    **How does a Community Wireless Network provide “free” WiFi?**
 
    We are the first non-profit WISP in the country to deploy networking services on a city-wide scale. As a non-profit organization, we rely on three key resources to sustain our efforts:
