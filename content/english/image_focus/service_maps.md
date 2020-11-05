@@ -22,7 +22,7 @@ images_repeater:
 - title: Coraopolis
   image: "/images/coraopolis-heat-map-1-1.png"
 - title: New Kensington
-  image: "/images/new-ken-heat-map-1-small.png"
+  image: "/images/new_ken_hq_heatmap.jpg"
 layout: image_focus
 title: Service Maps
 url: "/service-maps"
