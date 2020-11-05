@@ -64,6 +64,10 @@ subtitle: 'Meta Mesh is deploying a pilot project to offer our In-Home WiFi serv
   Homewood, Coraopolis, or New Kensington-Arnold, please fill out the form below to
   see if you are eligible to receive services through this pilot program. '
 form_action: https://formspree.io/f/xnqonazg
+menu:
+  main:
+    name: Projects
+    weight: 5
 
 ---
 Meta Mesh Wireless Communities is proud to announce our In-Home WiFi pilot project Every1online: _Internet Access for three in-need Pittsburgh Communities: Homewood, Coraopolis, and New Kensington-Arnold._
