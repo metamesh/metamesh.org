@@ -49,22 +49,22 @@ The full report titled [_Home Internet Access and A Sustainable Approach to Publ
 We created this glossary to ensure that anyone, regardless of their previous knowledge, can understand our mission. Terms are defined and put into the context of Meta Mesh’s operations. This list is by no means exhaustive — we will continue to update this resource to make our “tech talk” more clear. If there is a term in our materials that you wish was defined more clearly, please contact us and let us know!
 
 Access Points (APs)  
-: An Access Point is a piece of networking equipment that creates a WiFi network, allowing nearby devices to connect wirelessly. In a typical home network, access points are combined with a router or modem. This allows one device to give you a connection to the Internet, and a WiFi network to connect your wireless devices to.
+: An access point is a piece of networking equipment that creates a WiFi network, allowing nearby devices to connect wirelessly. In a typical home network, access points are combined with a router or modem to connect to the wider Internet.
 
 Bandwidth  
-: Bandwidth is to the maximum amount of data that can be transferred via an Internet connection within a certain time. The higher your bandwidth, the more data can be transferred. The most common unit of measurement is Megabits per second (Mbps).
+: Bandwidth is the maximum amount of data that can be transferred via an Internet connection within a certain time period. We use the amount of 1's and 0's (bits) that can be sent out each second as the unit of measurement. Typically, you will hear of millions of bits per second or "megabit" or billions of bits per second or "gigabit. The higher your bandwidth, the more data can be transferred. Megabit is often abbreviated to "Mbps" and Gigabit to "Gbps."
 
 Broadband  
-: Broadband is used to describe high-speed Internet connections over 25 Mbps which are always available. In 2020, most Internet connections are considered broadband. The alternative to broadband would be dial-up connections, which are slower and not always available. Meta Mesh provides wireless broadband connections.
+: Broadband is used to describe high-speed Internet connections over 25 Mbps. In 2020, most Internet connections are considered broadband. An older alternative to broadband would be dial-up connections, which are slower. Meta Mesh provides wireless broadband connections.
 
 Community Wireless Network  
 : The Meta Mesh Network is a Community Wireless Network. Our network is meant to serve the local community, and it operates using radio waves rather than landline cables. The community we serve is the City of Pittsburgh and surrounding areas in Allegheny County.
 
 Customer-Premises Equipment (CPE)  
-: Although we don’t consider our network users “customers” because we are a non-profit organization, you may see this term used on the Meta Mesh Technical Resources page. For our purposes, it refers to the networking equipment that is placed inside or outside of residents’ homes.
+:  CPE is the networking equipment that is placed inside and outside of residents’ homes.
 
 Digital Divide  
-: The Digital Divide is a concept used to describe the gap in telecommunications access between different socio-economic groups. We have identified neighborhoods in the Pittsburgh area that have lower than average connectivity rates per household. We focus our projects on these underserved areas. Given the wide-spread effects of the COVID-19 Crisis, there is an increase in the number of Pittsburghers who need reliable access to the internet. Read more about this evolving issue [here](https://pittsburghquarterly.com/articles/pandemic-widens-pittsburghs-digital-divide/).
+: The Digital Divide is a concept used to describe the gap in telecommunications access between different populations. We have identified neighborhoods in the Pittsburgh area that have lower than average connectivity rates per household. We focus our projects on these underserved areas. Given the wide-spread effects of the COVID-19 crisis, there is an increase in the number of Pittsburghers who need reliable access to the Internet. Read more about this evolving issue [here](https://pittsburghquarterly.com/articles/pandemic-widens-pittsburghs-digital-divide/).
 
 Encryption  
 : Encryption is the process of encoding and decoding information. When data is encrypted, only the sender and receiver can understand it. Encryption is used on the Internet to protect your personal information. When encryption is not used, information can be sent in plain text, allowing for eavesdropping, man-in-the-middle attacks, and other security and privacy issues.
@@ -126,7 +126,7 @@ Open-Source Software
 PoE  
 : PoE stands for Power over Ethernet. PoE is used to supply power to devices like security cameras and wireless access points through a normal Ethernet cable. Using PoE prevents the need for dedicated power adapters and additional cables.
 
-PenREN Fiber
+PennREN Fiber  
 : PennREN is the name of KINBER’s file optic network spanning across Pennsylvania. Meta Mesh connects to PennREN through a cable that is inside the Cathedral of Learning. Meta Mesh then projects that connection to other areas of Pittsburgh through High Definition Sector Antennas.
 
 PittMesh
