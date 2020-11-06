@@ -70,7 +70,7 @@ Meta Mesh Wireless Communities is proud to announce our In-Home WiFi pilot proje
 
 [**SIGN UP HERE!**](#contact)
 
-We need to bridge Pittsburgh’s Digital Divide. By creating a community-based, non-profit Wireless Internet Service Provider (WISP) Meta Mesh will provide Internet to the homes of Pittsburghers who need it most.
+We need to bridge Pittsburgh’s Digital Divide. By creating a community-based, non-profit Wireless Internet Service Provider (WISP), Meta Mesh will provide Internet to the homes of Pittsburghers who need it most.
 
 Every1online will be built out in phases to provide residential Internet access starting with New Kensington-Arnold, Coraopolis, and Homewood. This first phase prioritizes households with K-12 students and provides 12 months of FREE in-home Internet access.
 
@@ -80,9 +80,7 @@ Meta Mesh Wireless Communities' bandwidth is transmitted from atop the Cathedral
 
 ![](/images/screenshot-14.png "Cathedral Super-Node")
 
-These radios connect to "repeater towers" in each of our target neighborhoods.
-
-Each participants home has a small receiver installed on the outside of their residence pointed at the local tower.
+These radios connect to "repeater towers" in each of our target neighborhoods. Each participants home will have a small receiver installed on the outside of their residence pointed at the local tower.
 
 ![](/images/repeater-tower-and-household-receiver.png)
 
@@ -90,7 +88,7 @@ Finally, this receiver connects to a WiFi router in the home where a fast, secur
 
 ![](/images/multiple-house-layout.png)
 
-The equipment is small and light. The receiver is about the size of a coffee mug and mounts on a two foot pole outside the home. A single cable connects it to the indoor WiFi router which is a small black cube. The receiver gets power through the cable so only the WiFi router needs to be plugged into a power outlet. The router even has places for Ethernet cables to be plugged in for wired connections!
+The equipment is small and light. The receiver is about the size of a coffee mug and mounts on a two foot pole outside the home. A single cable connects it to the indoor WiFi router, which is a small black cube. The receiver gets power through the Ethernet cable, so only the WiFi router needs to be plugged into a power outlet. The router even has places for Ethernet cables to be plugged in for wired connections!
 
 ![](/images/aircube-feature-poe2.jpg)
 
@@ -119,7 +117,7 @@ Below are the coverage maps that Meta Mesh uses to determine if a house can rece
 
 **Homewood Coverage Map:**
 
-<a href='/images/homewood-coverage-map-2.png' target='_blank'>![](/images/homewood-coverage-map-2.png)]</a>
+<a href='/images/homewood-coverage-map-2.png' target='_blank'>![](/images/homewood-coverage-map-2.png)\]</a>
 
 **Coraopolis Coverage Map:**
 
