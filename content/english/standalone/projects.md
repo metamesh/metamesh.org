@@ -117,7 +117,7 @@ Below are the coverage maps that Meta Mesh uses to determine if a house can rece
 
 [**Homewood Coverage Map:**](/images/homewood-coverage-map-2.png "Homewood Coverage Map")
 
-[![Homewood Coverage Map](/images/homewood-coverage-map-2.png "Homewood Coverage Map")](https://www.metamesh.org/images/homewood-coverage-map-2.png "View Homewood Coverage Map")
+<a href="/images/homewood-coverage-map-2.png" target="_blank">![Homewood Coverage Map](/images/homewood-coverage-map-2.png "Homewood Coverage Map")</a>
 
 [**Coraopolis Coverage Map:**](/images/coraopolis-heat-map-1-1.png "Coraopolis Coverage Map")
 
