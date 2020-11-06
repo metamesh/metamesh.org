@@ -146,7 +146,7 @@ Radio Tower
 : A Radio Tower is a tall structure which is used to mount radios and antennas. Transmitting from a high place allows for better line of sight, and better connections to end devices.
 
 Router  
-: A router is a piece of networking equipment which is used to send data packets from one network to another. For home use, most consumer-grade routers are combined with an Access Point (AP), which creates a WiFi network.
+: A router is a piece of networking equipment that send data packets from one network to another. For home use, most consumer-grade routers are combined with an Access Point (AP), which creates a WiFi network.
 
 Modem  
 : A modem is a device which is used to connect to your ISP's network. If you have home Internet service from a cable or phone company, they will typically give you a modem to use, or allow you to rent one. Commonly, a modem is integrated into the router/access point, allowing you to have one device that performs all functions.
