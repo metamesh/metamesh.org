@@ -77,25 +77,25 @@ Grounding Cable
 : Grounding cables are used to prevent equipment from damage due to spikes in electricity, or lightning strikes.
 
 High Point Location  
-: When we construct radio towers or request to put equipment on top of existing structures, we look for locations that are high up (i.e. on top of a hill) to get a clear line of sight to other towers. Meta Mesh has to strategically select High Point Locations to avoid connection interruptions because we use radio waves instead of Ethernet or fiber optic cables.
+: When we construct radio towers or request to put equipment on top of existing structures, we look for locations that are high up (i.e. on top of a hill) to get a clear line of sight to other towers. Meta Mesh has to strategically select high point locations to avoid connection interruptions because we use radio waves instead of Ethernet or fiber optic cables.
 
 Line of Sight  
-: We use the term “Line of Sight” to describe an open path between towers or radios. If you can directly see one tower from another, that means there are no physical obstructions between the two sites. Our radios work best when they have direct Line of Sight to another radio.
+: We use the term “line of sight” to describe an open path between towers or radios. If you can directly see one tower from another, that means there are no physical obstructions between the two sites. Our radios work best when they have direct line of sight to another radio.
 
 High Foliage  
-: High Foliage refers to areas that have physical obstructions that can interrupt the connection between towers and routers. These obstructions may include treetops, buildings, or other intruding objects.
+: High foliage refers to areas that have physical obstructions that can interrupt the connection between towers and routers. These obstructions may include treetops, buildings, or other intruding objects.
 
 HTTP  
 : HTTP is the Hypertext Transfer Protocol, which allows for the creation of websites and the Internet. The biggest downside of HTTP is that it doesn't mandate encryption. For any website which deals with personal information, the more secure HTTPS should be used.
 
 HTTPS  
-: HTTPS is the Hypertext Transfer Protocol Secure protocol, which does the same thing as HTTP, but in a more secure way. HTTPS mandates encryption, and should be used on any website which deals with personal information. When you navigate to an HTTPS page, the data that is sent and received is encrypted, which helps keep your data safe.
+: HTTPS is the Hypertext Transfer Protocol Secure protocol, which does the same thing as HTTP, but in a more secure way. HTTPS mandates encryption, and should be used on any website which deals with personal information. When you navigate to an HTTPS page, the data that is sent and received is encrypted, which helps keep your data safe. Usually your web browser will show a lock icon when you are on an HTTPS page.
 
 Indoor Networking  
-: Indoor Networking refers to any network equipment that is placed indoors, such as routers, switches, or wireless access points. In the Cathedral of Learning, Meta Mesh is using indoor networking equipment to connect the PennREN network to the radios and antennas on the Cathedral of Learning's roof.
+: Indoor Networking refers to any network equipment that is placed indoors, such as routers, switches, or wireless access points. In the Cathedral of Learning, Meta Mesh is using this equipment to connect the PennREN network to the radios and antennas on the Cathedral of Learning's roof.
 
 IP  
-: IP stands for Internet Protocol, and it is used to allow computers to communicate over a network. IP defines the methods that computers and networking equipment use to deliver data from one host to another. The most common version of IP in use today is IPv4 and IPv6.
+: IP stands for Internet Protocol, and it is used to allow computers to communicate over a network. IP defines the methods that computers and networking equipment use to deliver data from one host to another. The most common versions of IP in use today are IPv4 and IPv6.
 
 IP Address  
 : An IP Address is a number which is used to identify a computer on a network. Every device on a network must have an IP address to communicate. An example of an IP address would be 192.168.0.1, which is used as the default IP address for a lot of home networking equipment.
@@ -103,8 +103,8 @@ IP Address
 ISP  
 : ISP stands for Internet Service Provider.
 
-KINBER
-: [KINBER (Keystone Initiative for Network Based Education)](https://kinber.org) provides network-based connectivity and services across Pennsylvania. They provide Meta Mesh with a connection to the Internet, and we distribute that access locally in Pittsburgh.
+KINBER   
+: KINBER ([Keystone Initiative for Network Based Education and Research](https://kinber.org/ "KINBER")) provides network-based connectivity and services across Pennsylvania. They provide Meta Mesh with it's Internet connection at the Cathedral of Learning, and we distribute that access locally in Pittsburgh.
 
 LTU Equipment  
 : LTU Equipment is a line of Ubiquiti networking devices that Meta Mesh uses to send an wireless Internet signal over long distances.
@@ -128,7 +128,7 @@ PoE
 : PoE stands for Power over Ethernet. PoE is used to supply power to devices like security cameras and wireless access points through a normal Ethernet cable. Using PoE prevents the need for dedicated power adapters and additional cables.
 
 PennREN Fiber  
-: PennREN is the name of KINBER’s file optic network spanning across Pennsylvania. Meta Mesh connects to PennREN through a cable that is inside the Cathedral of Learning. Meta Mesh then projects that connection to other areas of Pittsburgh through High Definition Sector Antennas.
+: PennREN is the name of KINBER’s file optic network spanning across Pennsylvania. Meta Mesh connects to PennREN inside the Cathedral of Learning. Meta Mesh then distributes that connection to other areas of Pittsburgh.
 
 PittMesh
 : PittMesh was the original name of The Meta Mesh Wireless Network.
