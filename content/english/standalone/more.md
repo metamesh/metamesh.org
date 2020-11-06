@@ -23,7 +23,7 @@ Please contact us if you have any questions or recommendations for improving the
 
 ### COVID-19 Notice
 
-Given that our [most recent report](https://drive.google.com/file/d/1yoHeapwWWiHk5_GbTDumsL5yFxURn-zN/view?usp=sharing) on the scope of the Digital Divide was conducted in 2018, we know that these metrics do NOT reflect the growing number of individuals who need Internet access because of hardships caused by COVID-19. Due to reduced hours, layoffs, and whole industry shutdowns, we must assume that there are more people who cannot afford residential Internet access in Pittsburgh. We must also consider those who do have Internet access from telecom giants, but the bandwidth of discount packages often does not support the new "work and learn from home" lifestyles.
+Given that our [most recent report](https://drive.google.com/file/d/1yoHeapwWWiHk5_GbTDumsL5yFxURn-zN/view?usp=sharing) on the scope of the Digital Divide was conducted in 2018, we know that these metrics do NOT reflect the growing number of individuals who need Internet access because of hardships caused by COVID-19. Due to reduced hours, layoffs, and industry shutdowns, we must assume that there are more people who cannot afford residential Internet access in Pittsburgh. We must also consider those who do have Internet access from telecom giants, but the bandwidth of discount packages often does not support our new work and learn from home lifestyles.
 
 While a more recent survey of residents without Internet access has yet to be done, we are currently working with an increasing number of community partners to serve remote workers, online students, and families in need.
 
@@ -31,18 +31,17 @@ While a more recent survey of residents without Internet access has yet to be do
 
 In May of 2018, The Heinz Endowments awarded Meta Mesh a $15,000 grant in order to survey and analyze home Internet access and a sustainable approach to public WiFi in three under-served Pittsburgh communities. We chose to execute our project in Hazelwood, Homewood, and the Hill District because they demonstrated need, and they are areas where Heinz already focuses its efforts.
 
-We had two general objectives for these three areas:
+We completed more than 900 surveys and several in-depth interviews, all of which were conducted door-to-door by Meta Mesh employees over three months. We had two general objectives:
 
 1. Research: to gather our own survey data regarding Internet use and more specifically, broadband exclusion.
 2. Operational: to plan logistics, including the placement and location of access points, to provide a minimum viable WiFi network suitable for public use.
 
-   We completed more than 900 surveys and several in-depth interviews, all of which were conducted door-to-door by Meta Mesh employees over three months.
+**Our cursory conclusions include:**
 
-   Our cursory conclusions include:
-   1. A majority of residents in low-income neighborhoods rely on smartphones to access the Internet. This method of accessing the Internet does not qualify as having home broadband, creates severe limitations to what can be accomplished, and greatly increases the time it takes to accomplish tasks.
-   2. Broadband Internet access is increasingly a requirement of socio-economic inclusion, not a consequence of it; and the people in low-income communities know this. Whether or not families have in-home broadband Internet access, they still suffer from skill gaps and lack educational resources.
-   3. The advertised price is only one part of the total cost of getting Internet access. On top of the monthly service cost there can be equipment rentals, installation charges, taxes, and other hidden fees. Also, the coverage areas and connection speeds that ISPs advertise are often inaccurate. Some residents are not able to get service, or get the full level of service they are paying for.
-   4. Public organizations that offer free public WiFi such as libraries, community centers, and parks, often fill the gap between low in-home access rates and high community demand. Libraries and community centers also provide a number of other critical services, such as training and support. These organizations are under increasing pressure to meet community connectivity needs, while their public funding levels are at an all-time low. This is why the efforts of Meta Mesh are so important: more than ever, people require in-home Internet access.
+1. A majority of residents in low-income neighborhoods rely on smartphones to access the Internet. This method of accessing the Internet does not qualify as having home broadband, creates severe limitations to what can be accomplished, and greatly increases the time it takes to accomplish tasks.
+2. Broadband Internet access is increasingly a requirement of socio-economic inclusion. Whether or not families have in-home broadband Internet access, they still suffer from skill gaps and a lack of educational resources.
+3. The advertised price is only one part of the total cost of Internet access. On top of the monthly service cost there can be equipment rentals, installation charges, taxes, and other hidden fees. Also, the coverage areas and connection speeds that ISPs advertise are often inaccurate. Some residents are not able to get service, or get the full level of service they are paying for.
+4. Public organizations that offer free public WiFi such as libraries, community centers, and parks, often fill the gap between low in-home access rates and high community demand. Libraries and community centers also provide a number of other critical services, such as training and support. These organizations are under increasing pressure to meet community connectivity needs, while their public funding levels are at an all-time low. This is why the efforts of Meta Mesh are so important: more than ever, people require in-home Internet access.
 
 The full report titled [_Home Internet Access and A Sustainable Approach to Public WiFi in Three Underserved Pittsburgh Communities_](https://drive.google.com/file/d/1yoHeapwWWiHk5_GbTDumsL5yFxURn-zN/view?usp=sharing) is available for your consideration.
 
@@ -51,13 +50,13 @@ The full report titled [_Home Internet Access and A Sustainable Approach to Publ
 We created this glossary to ensure that anyone, regardless of their previous knowledge, can understand our mission. Terms are defined and put into the context of Meta Mesh’s operations. This list is by no means exhaustive — we will continue to update this resource to make our “tech talk” more clear. If there is a term in our materials that you wish was defined more clearly, please contact us and let us know!
 
 Access Points (APs)  
-: An access point is a piece of networking equipment that creates a WiFi network, allowing nearby devices to connect wirelessly. In a typical home network, access points are combined with a router or modem to connect to the wider Internet.
+: An access point is a piece of networking equipment that creates a WiFi network, allowing nearby devices to connect to the Internet. In a typical home network, access points are combined with a router or modem.
 
 Bandwidth  
-: Bandwidth is the maximum amount of data that can be transferred via an Internet connection within a certain time period. We use the amount of 1's and 0's (bits) that can be sent out each second as the unit of measurement. Typically, you will hear of millions of bits per second or "megabit" or billions of bits per second or "gigabit. The higher your bandwidth, the more data can be transferred. Megabit is often abbreviated to "Mbps" and Gigabit to "Gbps."
+: Bandwidth is the maximum amount of data that can be transferred through a network connection within a certain time period. The higher your bandwidth, the more data can be transferred simultaneously. Internet speeds are usually advertised in Mbps, which stands for Megabits per second.
 
 Broadband  
-: Broadband is used to describe high-speed Internet connections over 25 Mbps. In 2020, most Internet connections are considered broadband. An older alternative to broadband would be dial-up connections, which are slower. Meta Mesh provides wireless broadband connections.
+: Broadband is used to describe high-speed Internet connections over 25 Mbps. In 2020, most home Internet connections are considered broadband. An older alternative to broadband would be dial-up connections, which are slower. Meta Mesh provides wireless broadband connections.
 
 Community Wireless Network  
 : The Meta Mesh Network is a Community Wireless Network. Our network is meant to serve the local community, and it operates using radio waves rather than landline cables. The community we serve is the City of Pittsburgh and surrounding areas in Allegheny County.
