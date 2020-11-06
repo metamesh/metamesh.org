@@ -56,6 +56,8 @@ A Pittsburgh where everyone has affordable and reliable access to the Internet.
 
 {{< user-bio "team/rania-abdulnour.yml" >}}
 
+{{< user-bio "team/evan-mccann.yml" >}}
+
 {{< user-bio "team/jacob-driggs.yml" >}}
 
 {{< user-bio "team/justin-goetz.yml" >}}
