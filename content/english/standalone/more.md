@@ -15,7 +15,7 @@ submit: ''
 ---
 # Additional Reading
 
-We strive to be transparent by ensuring that any member of the public, regardless of their base knowledge of WiFi technologies, can understand our mission. That’s why we created this glossary of terms, FAQ section, and list of technical resources.
+We strive to be transparent by ensuring that any member of the public, regardless of their base knowledge of WiFi, can understand our mission. That’s why we created this glossary of terms, FAQ section, and list of technical resources.
 
 Please contact us if you have any questions or recommendations for improving the accessibility of our resources.
 
@@ -29,7 +29,7 @@ While a more recent survey of residents without Internet access has yet to be do
 
 ### Heinz Endowment Grant
 
-In May of 2018, The Heinz Endowments awarded Meta Mesh a $15,000 grant in order to survey and analyze home Internet access and a sustainable approach to public WiFi in three under-served Pittsburgh communities. We chose to execute our project in Hazelwood, Homewood, and the Hill District not only because as low-income neighborhoods they demonstrated need, but also because they are areas where Heinz focuses its efforts.
+In May of 2018, The Heinz Endowments awarded Meta Mesh a $15,000 grant in order to survey and analyze home Internet access and a sustainable approach to public WiFi in three under-served Pittsburgh communities. We chose to execute our project in Hazelwood, Homewood, and the Hill District because they demonstrated need, and they are areas where Heinz already focuses its efforts.
 
 We had two general objectives for these three areas:
 
