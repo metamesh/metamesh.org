@@ -35,8 +35,10 @@ We had two general objectives for these three areas:
 
 1. Research: to gather our own survey data regarding Internet use and more specifically, broadband exclusion.
 2. Operational: to plan logistics, including the placement and location of access points, to provide a minimum viable WiFi network suitable for public use.
-3. We completed more than 900 surveys and several in-depth interviews, all of which were conducted door-to-door by Meta Mesh employees over three months.
-4. Our cursory conclusions include:
+
+   We completed more than 900 surveys and several in-depth interviews, all of which were conducted door-to-door by Meta Mesh employees over three months.
+
+   Our cursory conclusions include:
    1. A majority of residents in low-income neighborhoods rely on smartphones to access the Internet. However, this method of accessing the Internet does not qualify as having home broadband, creates severe limitations to what can be accomplished, and greatly increases the time it takes to accomplish tasks.
    2. Broadband Internet access is increasingly a requirement of socio-economic inclusion, not a consequence of it; and the people in low-income communities know this. Whether or not families have in-home broadband Internet access, they still suffer from skill gaps.
    3. The advertised price is only one part of the total actual cost of getting Internet access. On top of the monthly service fee there can be equipment rentals, installation charges, taxes, and other hidden costs on the bill. In addition to all these, the maps showing expected connection speeds that ISPs use in advertisements are often wildly inaccurate; sometimes showing areas that should be able to receive service that are actually not connected at all in the ISP's network.
