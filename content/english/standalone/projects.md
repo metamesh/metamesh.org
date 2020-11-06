@@ -80,11 +80,11 @@ Meta Mesh Wireless Communities' bandwidth is transmitted from atop the Cathedral
 
 ![](/images/screenshot-14.png "Cathedral Super-Node")
 
-These radios connect to "repeater towers" in each of our target neighborhoods. Each participants home will have a small receiver installed on the outside of their residence pointed at the local tower.
+These radios connect to "repeater towers" in each of our target neighborhoods. Each participants home will have a small receiver installed on the outside of their residence, pointed at the local repeater tower.
 
 ![](/images/repeater-tower-and-household-receiver.png)
 
-Finally, this receiver connects to a WiFi router in the home where a fast, secure, and private WiFi network is created for a family's use. We can even set up multiple networks on a single building using just one receiver on the outside like in the diagram below.
+Finally, this receiver connects to a WiFi router in the home where a fast, secure, and private WiFi network is created for a family's use. We can even set up multiple networks in a single building using just one receiver on the outside like in the diagram below.
 
 ![](/images/multiple-house-layout.png)
 
@@ -92,19 +92,19 @@ The equipment is small and light. The receiver is about the size of a coffee mug
 
 ![](/images/aircube-feature-poe2.jpg)
 
-We are aiming for each household to have 50mbps of download capacity and 25mbps of upload capacity. That means everyone in the house can be in online video meetings at the same time without dropouts. While speeds will vary due to a variety of factors, Meta Mesh will try to make sure your connection is as fast and stable as possible.
+We are aiming for each household to have 50mbps of download capacity and 25mbps of upload capacity. That means everyone in the house can be in online video meetings at the same time without dropouts. While speeds will vary due to a variety of factors, Meta Mesh will try to make sure your connection as as fast and stable as possible.
 
 After installation, Meta Mesh will provide you with an e-mail address and phone number to get in touch with us if you have questions or problems. We will also provide you with a general tech support number for questions that do not involve our equipment.
 
 _We want your input--if you have any specific questions about this pilot project, or simply want to know more about Meta Mesh, our programs, and our partnerships, please contact us!_
 
-We have been able to make this dream project a reality through a collaborative and cross-sectional effort from Higher Education Institutions, Digital Inclusion Organizations, and Community Groups. With gratitude, we thank the following groups for the tremendous part they have played in this project.
+We have been able to make this dream project a reality through a collaborative and cross-sectional effort from Higher Education Institutions, Digital Inclusion Organizations, and Community Groups. With gratitude, we thank the following groups for the tremendous part they have played in this project:
 
 **Carnegie Mellon University:** A team of collaborators from CMU’s School of Computer Science and the Simon Initiative have coordinated the project connections to CMU and Pitt, provided critical start-up funding for the project and liaise to key stakeholders and community groups. They offer ongoing project design, implementation, and fundraising support.
 
 **University of Pittsburgh**: Pitt IT, the CIO Office, and Community & Governmental Relations are Key Stakeholders and Integral Collaborators contributing facility access and funding to enable use of the Cathedral of Learning as the “Super Node/hub.” They will support stakeholder and community involvement in additional neighborhoods following the pilot.
 
-**The Keystone Initiative for Network Based Education and Research (KINBER):** KINBER is a vendor partner to both CMU and Pitt and will provide “gateway” to the internet through PennREN Fiber, to be broadcasted from the Cathedral of Learning.
+**The Keystone Initiative for Network Based Education and Research (KINBER):** KINBER is a vendor partner to both CMU and Pitt, and will provide our gateway to the internet through PennREN Fiber, which will be broadcasted from the Cathedral of Learning.
 
 **Participating School Districts and Community Groups**: The **New Kensington-Arnold** **school district** and **Cornell (Coraopolis)** **school districts**, as well as the **Homewood Children's Village** are collaborators in this pilot project. They bring vital expertise to this project, leading the effort to build community buy-in, leveraging social capital to facilitate the creation of WISP infrastructure, and identifying households in need of internet connectivity. They also advise CMU, Pitt, and Meta Mesh partners on community need and intentional partnership practices.
 
@@ -117,12 +117,12 @@ Below are the coverage maps that Meta Mesh uses to determine if a house can rece
 
 **Homewood Coverage Map:**
 
-<a href='/images/homewood-coverage-map-2.png' target='_blank'>![](/images/homewood-coverage-map-2.png)\]</a>
+![Homewood Coverage Map](/images/homewood-coverage-map-2.png "Homewood Coverage Map")
 
 **Coraopolis Coverage Map:**
 
-![](/images/coraopolis-heat-map-1-1.png)
+![Coraopolis Coverage Map](/images/coraopolis-heat-map-1-1.png "Coraopolis Coverage Map")
 
 **New Kensington Coverage Map:**
 
-![](/images/new-ken-heat-map-1-small.png)
+![New Kensington Coverage Map](/images/new-ken-heat-map-1-small.png "New Kensington Coverage Map")
