@@ -49,37 +49,37 @@ The full report titled [_Home Internet Access and A Sustainable Approach to Publ
 
 We created this glossary to ensure that anyone, regardless of their previous knowledge, can understand our mission. Terms are defined and put into the context of Meta Mesh’s operations. This list is by no means exhaustive — we will continue to update this resource to make our “tech talk” more clear. If there is a term in our materials that you wish was defined more clearly, please contact us and let us know!
 
-Access Points (APs)  
+**Access Points (APs)**  
 : An access point is a piece of networking equipment that creates a WiFi network, allowing nearby devices to connect to the Internet. In a typical home network, access points are combined with a router or modem.
 
-Bandwidth  
+**Bandwidth**  
 : Bandwidth is the maximum amount of data that can be transferred through a network connection within a certain time period. The higher your bandwidth, the more data can be transferred simultaneously. Internet speeds are usually advertised in Mbps, which stands for Megabits per second.
 
-Broadband  
+**Broadband**  
 : Broadband is used to describe high-speed Internet connections over 25 Mbps. In 2020, most home Internet connections are considered broadband. An older alternative to broadband would be dial-up connections, which are slower. Meta Mesh provides wireless broadband connections.
 
-Community Wireless Network  
+**Community Wireless Network**  
 : The Meta Mesh Network is a Community Wireless Network. Our network is meant to serve the local community, and it operates using radio waves rather than landline cables. The community we serve is the City of Pittsburgh and surrounding areas in Allegheny County.
 
-Customer-Premises Equipment (CPE)  
+**Customer-Premises Equipment (CPE)**  
 :  CPE is the networking equipment that is placed inside and outside of residents’ homes.
 
-Digital Divide  
+**Digital Divide**  
 : The Digital Divide is a concept used to describe the gap in telecommunications access between different populations. We have identified neighborhoods in the Pittsburgh area that have lower than average connectivity rates per household. We focus our projects on these underserved areas. Given the wide-spread effects of the COVID-19 crisis, there is an increase in the number of Pittsburghers who need reliable access to the Internet. Read more about this evolving issue [here](https://pittsburghquarterly.com/articles/pandemic-widens-pittsburghs-digital-divide/).
 
-Encryption  
+**Encryption**  
 : Encryption is the process of encoding and decoding information. When data is encrypted, only the sender and receiver can understand it. Encryption is used on the Internet to protect your personal information. When encryption is not used, information can be sent in plain text, allowing for eavesdropping, man-in-the-middle attacks, and other security and privacy issues.
 
-End-to-End Encryption  
+**End-to-End Encryption**  
 : End-to-End Encryption refers to a system that uses encryption for the entire path of communications. End-to-end encryption is important for preventing bad actors from being able to see what you are doing online.
 
-Grounding Cable  
+**Grounding Cable**  
 : Grounding cables are used to prevent equipment from damage due to spikes in electricity, or lightning strikes.
 
-High Point Location  
+**High Point Location**  
 : When we construct radio towers or request to put equipment on top of existing structures, we look for locations that are high up (i.e. on top of a hill) to get a clear line of sight to other towers. Meta Mesh has to strategically select high point locations to avoid connection interruptions because we use radio waves instead of Ethernet or fiber optic cables.
 
-Line of Sight  
+**Line of Sight**  
 : We use the term “line of sight” to describe an open path between towers or radios. If you can directly see one tower from another, that means there are no physical obstructions between the two sites. Our radios work best when they have direct line of sight to another radio.
 
 High Foliage  
@@ -179,7 +179,7 @@ WISP
 : WISP stands for Wireless Internet Service Provider.
 
 WPA2  
-: WPA2 is the most commonly used methods for protecting access to a WiFi network. WPA2-personal is what most people use in their homes, and allows for all devices to join with a single password, or Pre-Shared Key (PSK). 
+: WPA2 is the most commonly used methods for protecting access to a WiFi network. WPA2-personal is what most people use in their homes, and allows for all devices to join with a single password, or Pre-Shared Key (PSK).
 
 802\.11  
 : 802.11 refers to the wireless standards that we know as WiFi, such as 802.11n or 802.11ac. A few years ago, the WiFi Alliance renamed the major wireless standards into the more friendly WiFi 4, WiFi 5, and WiFi 6. WiFi 6 is the latest version of the 802.11 standard.
@@ -196,17 +196,17 @@ WPA2
 
    The Federal Communications Commissions defines 25 megabits per second as broadband access. You can see speed comparisons between different providers in the table above. For a more in-depth breakdown of what functions are supported at different speeds, take a look at this resource: [https://broadbandnow.com/speedtest](https://broadbandnow.com/speedtest "https://broadbandnow.com/speedtest")
 
-   **  
+   \**  
    Do you have a map of what your network covers/everywhere you are?**
 
    Yes, we do! Here’s the link to our live map. This feature is under construction on our website.​
 
-   **  
+   \**  
    Does Meta Mesh use new networking technologies (like 5G or TV White Space)?**
 
    Bleeding-edge technology is not our priority. Our solution is a low-cost and scalable way to distribute Internet access, and build a standalone network at moderate speeds. We focus on bridging the Digital Divide by providing dependable networking services (In-Home and Public-Space WiFi) to communities that could not otherwise afford it.
 
-   **  
+   \**  
    How does a Community Wireless Network provide “free” WiFi?**
 
    We are the first non-profit WISP in the country to deploy networking services on a city-wide scale. As a non-profit organization, we rely on three key resources to sustain our efforts:
@@ -224,12 +224,10 @@ MMWC uses the same security measures other big name ISPs use. While no network s
 * **What about Public-Space WiFi?**  
   Like other public WiFi networks, our Public-Space WiFi is an open network with no password required to join it. An open network is advantageous for public areas, since they are the best way to allow access to anyone who needs it. Our goal is expanding access, and open networks are the best way to accomplish that.
 
-    
-  Open WiFi networks also have some downsides. With a password protected WiFi network, all communication is encrypted by the network itself, giving you an extra layer of security. With an open network, you don't get that extra layer. This means that unencrypted information can potentially be seen by someone else on the local network.   
-    
+  Open WiFi networks also have some downsides. With a password protected WiFi network, all communication is encrypted by the network itself, giving you an extra layer of security. With an open network, you don't get that extra layer. This means that unencrypted information can potentially be seen by someone else on the local network.
+
   We do what we can to counteract this, by isolating all clients on our public networks. Increasingly, websites use end-to-end encryption, reducing the risk of using an open network. Also, more operating systems allow for automatic VPN services which encrypt all traffic, more or less solving this problem. We recommend you only use HTTPS websites and other encrypted services when on Public-Space WiFi.
 
-    
   We are currently updating our Privacy Policy, Terms & Conditions, and Wireless Agreement. Once completed, these documents will be available publicly, and will outline in detail our data security commitments.
 
 **Can someone use Public-Space WiFi to access my In-Home WiFi?**
