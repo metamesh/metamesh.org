@@ -115,14 +115,20 @@ Below are the coverage maps that Meta Mesh uses to determine if a house can rece
 * Red: Confirmed no coverage area. If your home is within the Red coverage area, it is unlikely that service will reach your home in this first phase of the project. But, if you sign-up, we may be able to reach your home in a later phase of the program.
 * Boundary: Limit of WiFi service area ends at the edge of the map image. If your home is near or on the boundary, please submit your information to determine if service reaches the location.
 
+![](/images/coraopolis-heat-map-1-1.png)
+
 [**Homewood Coverage Map:**](/images/homewood-coverage-map-2.png "Homewood Coverage Map")
 
 <a href="/images/homewood-coverage-map-2.png" target="_blank">![Homewood Coverage Map](/images/homewood-coverage-map-2.png "Homewood Coverage Map")</a>
 
 [**Coraopolis Coverage Map:**](/images/coraopolis-heat-map-1-1.png "Coraopolis Coverage Map")
 
-[![Coraopolis Coverage Map](/images/coraopolis-heat-map-1-1.png "Coraopolis Coverage Map")](/images/coraopolis-heat-map-1-1.png "View Coraopolis Coverage Map")
+<a href="/images/coraopolis-heat-map.jpg" target="_blank">
+
+![Coraopolis Coverage Map](/images/coraopolis-heat-map.jpg "Coraopolis Coverage Map")</a>
 
 [**New Kensington Coverage Map:**](/images/new_ken_hq_heatmap.jpg "New Kensington Coverage Map")
 
-[![New Kensington Coverage Map](/images/new-ken-heat-map-1-small.png "New Kensington Coverage Map")](/images/new_ken_hq_heatmap.jpg "View New Kensington Coverage Map")
+<a href="/images/new-ken-heat-map.jpg" target="_blank">
+
+![New Kensington Coverage Map](/images/new-ken-heat-map.jpg "New Kensington Coverage Map")</a>
