@@ -1,5 +1,5 @@
 ---
-title: More
+title: Learn More
 layout: standalone
 date: '2020-08-14T05:28:48-07:00'
 url: "/more"
@@ -103,7 +103,7 @@ IP Address
 ISP  
 : ISP stands for Internet Service Provider.
 
-KINBER   
+KINBER  
 : KINBER ([Keystone Initiative for Network Based Education and Research](https://kinber.org/ "KINBER")) provides network-based connectivity and services across Pennsylvania. They provide Meta Mesh with it's Internet connection at the Cathedral of Learning, and we distribute that access locally in Pittsburgh.
 
 LTU Equipment  
@@ -146,7 +146,7 @@ Radio Tower
 : A Radio Tower is a tall structure which is used to mount radios and antennas. Transmitting from a high place allows for better line of sight, and better connections to end devices.
 
 Router  
-: A router is a piece of networking equipment that send data packets from one network to another. For home use, most consumer-grade routers are combined with an Access Point (AP), which creates a WiFi network.
+: A router is a piece of networking equipment that sends data packets from one network to another. For home use, most consumer-grade routers are combined with an Access Point (AP), which creates a WiFi network.
 
 Modem  
 : A modem is a device which is used to connect to your ISP's network. If you have home Internet service from a cable or phone company, they will typically give you a modem to use, or allow you to rent one. Commonly, a modem is integrated into the router/access point, allowing you to have one device that performs all functions.
@@ -158,7 +158,7 @@ Sector Antennas
 : Sector Antennas are specialized antennas which concentrate a radio signal into a specific area. In the Cathedral of Learning super node, we are using multiple radios and sector antennas to provide an even spread of coverage in all directions.
 
 Super Node  
-: We use super node to refer to the large sites within our networks. The Cathedral of Learning radios and antennas would be considered a super node.
+: We use super node to refer to the large sites within our networks. The Cathedral of Learning radios and antennas is considered a super node.
 
 Switch  
 : A switch is a piece of networking equipment which allows for multiple wired connections, typically Ethernet. Adding a switch to a network is the main way of expanding the number of wired connections it can handle.
@@ -178,8 +178,8 @@ WiFi Hotspot
 WISP  
 : WISP stands for Wireless Internet Service Provider.
 
-WPA2 and WPA3  
-: WPA2 and WPA3 are the most commonly used methods for protecting access to a WiFi network. WPA2-personal is what most people use in their homes, and allows for all devices to join with a single password, or Pre-Shared Key (PSK). WPA2-Enterprise is typically found in a business or school network, where a unique username and password is used instead of a shared password. WPA3 is part of the new WiFi 6 standard, and further improves the security of a wireless network.
+WPA2  
+: WPA2 is the most commonly used methods for protecting access to a WiFi network. WPA2-personal is what most people use in their homes, and allows for all devices to join with a single password, or Pre-Shared Key (PSK). 
 
 802\.11  
 : 802.11 refers to the wireless standards that we know as WiFi, such as 802.11n or 802.11ac. A few years ago, the WiFi Alliance renamed the major wireless standards into the more friendly WiFi 4, WiFi 5, and WiFi 6. WiFi 6 is the latest version of the 802.11 standard.
@@ -196,17 +196,18 @@ WPA2 and WPA3
 
    The Federal Communications Commissions defines 25 megabits per second as broadband access. You can see speed comparisons between different providers in the table above. For a more in-depth breakdown of what functions are supported at different speeds, take a look at this resource: [https://broadbandnow.com/speedtest](https://broadbandnow.com/speedtest "https://broadbandnow.com/speedtest")
 
-   **Do you have a map of what your network covers/everywhere you are?**
+   **  
+   Do you have a map of what your network covers/everywhere you are?**
 
-   Yes, we do! Here’s the link to our live map. This feature is under construction on our website.
+   Yes, we do! Here’s the link to our live map. This feature is under construction on our website.​
 
-   ​
-
-   **Does Meta Mesh use new networking technologies (like 5G or TV White Space)?**
+   **  
+   Does Meta Mesh use new networking technologies (like 5G or TV White Space)?**
 
    Bleeding-edge technology is not our priority. Our solution is a low-cost and scalable way to distribute Internet access, and build a standalone network at moderate speeds. We focus on bridging the Digital Divide by providing dependable networking services (In-Home and Public-Space WiFi) to communities that could not otherwise afford it.
 
-   **How does a Community Wireless Network provide “free” WiFi?**
+   **  
+   How does a Community Wireless Network provide “free” WiFi?**
 
    We are the first non-profit WISP in the country to deploy networking services on a city-wide scale. As a non-profit organization, we rely on three key resources to sustain our efforts:
    * Grant funding
@@ -221,12 +222,14 @@ MMWC uses the same security measures other big name ISPs use. While no network s
 * **What about In-Home WiFi?**  
   Those who receive our In-Home WiFi services will be provided with a pre-configured router that ensures the device is connected to our network and functioning at its highest capacity. Just like the residential WiFi you may get from Comcast or Verizon, your In-Home network will have a personalized name and password. In order to secure access to your In-Home WiFi network, please be cautious about who you provide this information to.
 * **What about Public-Space WiFi?**  
-  Like other public WiFi networks, our Public-Space WiFi is an open network with no password required to join it. An open network is advantageous for outdoor public areas, since they are the best way to allow access to anyone who needs it. Our goal is expanding access, and open networks are the best way to accomplish that.
+  Like other public WiFi networks, our Public-Space WiFi is an open network with no password required to join it. An open network is advantageous for public areas, since they are the best way to allow access to anyone who needs it. Our goal is expanding access, and open networks are the best way to accomplish that.
 
-  Open WiFi networks also have some downsides. With a password protected WiFi network, all communication is encrypted by the network itself, giving you an extra layer of security. With an open network, you don't get that extra layer. This means that unencrypted information can potentially be seen by someone else on the local network. This is why we recommend you only use HTTPS websites, and use encrypted services when on Public-Space WiFi.
+    
+  Open WiFi networks also have some downsides. With a password protected WiFi network, all communication is encrypted by the network itself, giving you an extra layer of security. With an open network, you don't get that extra layer. This means that unencrypted information can potentially be seen by someone else on the local network.   
+    
+  We do what we can to counteract this, by isolating all clients on our public networks. Increasingly, websites use end-to-end encryption, reducing the risk of using an open network. Also, more operating systems allow for automatic VPN services which encrypt all traffic, more or less solving this problem. We recommend you only use HTTPS websites and other encrypted services when on Public-Space WiFi.
 
-  Increasingly, websites use end-to-end encryption, reducing the risk of using an open network. Also, more operating systems allow for automatic VPN services which encrypt all traffic, more or less solving this problem. Please use [WiFi Assistant](https://support.google.com/nexus/answer/6327199?hl=en) on an Android device, or use a VPN service if you are able when using any open/public networks.
-
+    
   We are currently updating our Privacy Policy, Terms & Conditions, and Wireless Agreement. Once completed, these documents will be available publicly, and will outline in detail our data security commitments.
 
 **Can someone use Public-Space WiFi to access my In-Home WiFi?**
