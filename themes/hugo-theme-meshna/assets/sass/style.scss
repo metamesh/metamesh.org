@@ -2801,10 +2801,11 @@ body.locked {
 }
 @media (max-width: 410px) {
 
-  .project-splash {
-    padding-top: 10vh;
-    .project-logo { width: 95% }
+  .hero-area {
+    height: calc(100vh - 82px);
+    padding-bottom: 25px;
   }
+  .project-logo { width: 95% }
   .navbar-toggler {
     top: 7px;
   }
