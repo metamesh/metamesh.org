@@ -4,11 +4,6 @@ auto_deploy: false
 admin_path: static/admin
 webhook_url: 
 sections:
-- type: directory
-  path: assets/images
-  label: Old Images
-  create: none
-  match: "**/*"
 - type: heading
   label: Front Page
 - type: document
@@ -69,6 +64,11 @@ sections:
   new_doc_ext: yml
   templates:
   - member
+- type: directory
+  path: assets/images
+  label: Old Images
+  create: none
+  match: "**/*"
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
