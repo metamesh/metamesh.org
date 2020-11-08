@@ -77,7 +77,7 @@ iframe {
 a,
 a:focus,
 a:hover {
-  line-height: 1.2;
+  line-height: 1.5 !important;
   text-decoration: none;
   outline: 0;
 }
@@ -448,17 +448,24 @@ i.fa {
 }
 
 .hero-area {
+  position: relative;
+  z-index: 0;
   background-size: cover;
   height: 100vh;
   position: relative;
   display: flex;
   justify-content: center;
   align-items: center;
+  background: center / cover no-repeat;
 }
 
 .hero-area:before {
   content: '';
-  background: #7f7f7f40;
+  z-index: 1;
+  display: block;
+  height: 100%;
+  width: 100%;
+  background: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 20%, #000 70%, #000 100%),center/cover no-repeat;
   position: absolute;
   top: 0;
   right: 0;

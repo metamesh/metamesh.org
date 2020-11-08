@@ -4,8 +4,7 @@
   {{ if .enable }}
     {{/* Welcome Slider */}}
     {{ $resource := resources.Get .bg_image }}
-    {{ $image := $resource.Resize "x1024" | images.Filter (images.GaussianBlur 2) }}
-    <section class="hero-area lozad" data-background-image='{{ $image.Permalink }}'>
+    <section class="hero-area lozad" data-background-image='{{ $resource.Permalink }}'>
       <div class="block">
         {{ if .icon }}
           <div class="video-button">
