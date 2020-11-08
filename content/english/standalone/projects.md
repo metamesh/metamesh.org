@@ -98,6 +98,8 @@ After installation, Meta Mesh will provide you with an e-mail address and phone 
 
 _We want your input--if you have any specific questions about this pilot project, or simply want to know more about Meta Mesh, our programs, and our partnerships, please contact us!_
 
+![](/images/6.png)
+
 We have been able to make this dream project a reality through a collaborative and cross-sectional effort from Higher Education Institutions, Digital Inclusion Organizations, and Community Groups. With gratitude, we thank the following groups for the tremendous part they have played in this project:
 
 **Carnegie Mellon University:** A team of collaborators from CMU’s School of Computer Science and the Simon Initiative have coordinated the project connections to CMU and Pitt, provided critical start-up funding for the project and liaise to key stakeholders and community groups. They offer ongoing project design, implementation, and fundraising support.
