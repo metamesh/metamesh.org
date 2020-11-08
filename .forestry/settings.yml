@@ -4,6 +4,11 @@ auto_deploy: false
 admin_path: static/admin
 webhook_url: 
 sections:
+- type: directory
+  path: assets/images/team
+  label: Team Images
+  create: none
+  match: "**/*"
 - type: heading
   label: Front Page
 - type: document
