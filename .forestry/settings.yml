@@ -5,8 +5,8 @@ admin_path: static/admin
 webhook_url: 
 sections:
 - type: directory
-  path: assets/images/team
-  label: Team Images
+  path: assets/images
+  label: Old Images
   create: none
   match: "**/*"
 - type: heading
