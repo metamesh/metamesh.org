@@ -3,17 +3,23 @@ title: Works
 layout: standalone
 date: '2020-08-14T05:29:25-07:00'
 url: "/works"
+form_builder: false
+form_title: ''
+form_action: ''
+subtitle: ''
+inputs: []
+selects: []
+textareas: []
+submit: ''
 
 ---
-The Meta Mesh Network uses different strategies to address different neighborhood or event needs--basically, we wear many hats. Our approach is tailored to each project so that as many people as possible can have reliable access to the Internet (as often as they need it) without breaking the bank.
+The Meta Mesh Network uses different strategies to address different neighborhood or event needs--basically, we wear many hats. Our approach is tailored to each project so that as many people as possible can have reliable access to the Internet.
 
-We are the first [non-profit Wireless Internet Service Provider (WISP) ](https://drive.google.com/file/d/1MqlShg2MBLqEZrshW4abtwngmZdELNq9/view?usp=sharing)in the country, and only the fourth in the world to deploy this model on a city-wide scale. Currently, we are working to provide Internet access for the City of Pittsburgh and surrounding areas. As a WISP, we provide in-home, password protected WiFi, as well as Public-Space WiFi for outside areas, such as streets and parks. We also offer Mobile WiFi that can be driven to any place in need of hotspot access.
+We are one of the first [non-profit Wireless Internet Service Providers (WISPs) ](https://drive.google.com/file/d/1MqlShg2MBLqEZrshW4abtwngmZdELNq9/view?usp=sharing)in the country, and only about the fourth in the world to deploy this model on a city-wide scale. Currently, we are working to provide Internet access for the City of Pittsburgh and surrounding areas. As a WISP, we provide in-home, password protected WiFi, as well as Public-Space WiFi for outside areas, such as streets and parks. We also offer Mobile WiFi that can be driven to any place in need of hotspot access.
 
-When you get down to it, The Meta Mesh Network functions not too differently from the big brand-name Wireless Internet Service Providers that you are probably using right now. The key difference is that we are NOT driven by profit. All our programs rely on a sustainable model, which is a combination of community cost-sharing, fundraising, and strategic local partnerships. We have developed an Internet solution tailor-made to Pittsburgh that requires low up-front investment, no monthly fees (rather, a suggested donation), and organizes existing people and neighborhood resources to maintain good connectivity for the public benefit.
+When you get down to it, The Meta Mesh Network functions not too differently from the big name Internet Service Providers that you may be using right now. The key difference is that we are NOT driven by profit. All our programs rely on a sustainable model, which is a combination of community cost-sharing, fundraising, and strategic local partnerships. We have developed an Internet solution tailor-made to Pittsburgh that requires low up-front investment, no monthly fees from consumers, and organizes existing people and neighborhood resources to maintain good connectivity for the public's benefit.
 
 {{< banner-image src="/images/internet.png" >}}
-
-Like telecom giants, we will have towers across the Pittsburgh area. Because our network is local, we don’t need to construct huge cell towers to connect people to the Internet -- we just use radio towers that are shorter and cheaper to construct (OR we place our antennas on top of existing structures). These towers are strategically placed so that they have a clear line-of-sight to each other and to our main hub: the Cathedral of Learning. This model is the same type of hierarchical networking that big WISPs use.
 
 ## Table of Contents
 
