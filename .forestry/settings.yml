@@ -64,11 +64,6 @@ sections:
   new_doc_ext: yml
   templates:
   - member
-- type: directory
-  path: assets/images
-  label: Old Images
-  create: none
-  match: "**/*"
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
