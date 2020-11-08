@@ -24,7 +24,7 @@ When you get down to it, The Meta Mesh Network functions not too differently fro
 ## Table of Contents
 
 1. [Home Wi-Fi](#home-wi-fi)
-2. [Public Wi-Fi](#public-wi-fi)
+2. [Public Space Wi-Fi](#public-wi-fi)
 3. [Mobile Wi-Fi](#mobile-wi-fi)
 
 ## Home Wi-Fi
