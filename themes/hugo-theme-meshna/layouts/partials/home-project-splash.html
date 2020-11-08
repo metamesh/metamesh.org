@@ -1,0 +1,20 @@
+{{ $splash := index site.Data site.Language.Lang "project-splash" }}
+
+{{ with $splash }}
+  {{ if .enable }}
+    {{/* Welcome Slider */}}
+    <section class="project-splash lozad">
+      <img class='project-logo' src='{{ .logo }}'>
+      <div class="blurb">
+        <h2>{{ .heading | markdownify }}</h2>
+        <p>{{ .paragraph | markdownify }}</p>
+        {{ with .button }}
+          {{ if .enable }}
+            <a href="{{ .link }}" class="btn btn-transparent page-scroll">{{ .label }}</a>
+          {{ end }}
+        {{ end }}
+      </div>
+    </section>
+    {{/* /Welcome Slider */}}
+  {{end}}
+{{end}}

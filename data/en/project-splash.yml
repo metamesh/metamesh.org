@@ -1,0 +1,10 @@
+---
+enable: false
+logo: /images/Every1online_black.png
+title: Banner
+heading: Every1online is live!
+paragraph: To learn about and sign up for our groundbreaking, free wireless Internet service for the Pittsburgh neighborhoods of **Coraopolis**, **Homewood**, and **New Kensington**, go to our Projects page!
+button:
+  enable: true
+  label: Sign Up Here
+  link: "/projects#contact"

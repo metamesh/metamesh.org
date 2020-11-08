@@ -14,7 +14,7 @@
         <h1>{{ .heading | markdownify }}</h1>
         <p>{{ .subheading | markdownify }}</p>
         {{ with .button }}
-          {{ if .button.enable }}
+          {{ if .enable }}
             <a href="{{ .link }}" class="btn btn-transparent page-scroll">{{ .label }}</a>
           {{ end }}
         {{ end }}

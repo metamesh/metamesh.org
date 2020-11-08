@@ -28,7 +28,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-weight: 400;
   font-family: "Quattrocento Sans", sans-serif;
-  color: #cdbc17;
+  color: #d1b331;
 }
 
 p {
@@ -40,7 +40,7 @@ p {
 }
 
 pre {
-  color: #cdbc17;
+  color: #d1b331;
 }
 
 /*=================================================================
@@ -49,12 +49,12 @@ pre {
 ::-moz-selection {
   /* Code for Firefox */
   color: #fff;
-  background: #cdbc1780;
+  background: #d1b33180;
 }
 
 ::selection {
   color: #fff;
-  background: #cdbc1780;
+  background: #d1b33180;
 }
 
 hr {
@@ -117,7 +117,7 @@ a:hover {
 
 .btn-transparent:hover,
 .btn-transparent:focus {
-  background-color: #cdbc17;
+  background-color: #d1b331;
   border: 1px solid transparent;
   color: #fff;
 }
@@ -139,11 +139,11 @@ a:hover {
   position: absolute;
   top: -4px;
   width: 50px;
-  background-color: #cdbc17;
+  background-color: #d1b331;
 }
 
 .color {
-  color: #cdbc17;
+  color: #d1b331;
 }
 
 .sub-title {
@@ -211,11 +211,11 @@ iframe {
 
 a:focus,
 a:hover {
-  color: #cdbc17;
+  color: #d1b331;
 }
 
 .btn-main {
-  background: #cdbc17;
+  background: #d1b331;
   color: #fff;
   display: inline-block;
   font-size: 14px;
@@ -290,7 +290,7 @@ a:hover {
 }
 
 .title h2 span {
-  color: #cdbc17;
+  color: #d1b331;
 }
 
 .title p {
@@ -335,7 +335,7 @@ a:hover {
 }
 
 .header-bradcrumb a:hover {
-  color: #cdbc17;
+  color: #d1b331;
 }
 
 .slick-slide {
@@ -404,7 +404,7 @@ i.fa {
 .navbar-dark .navbar-nav .nav-link.active,
 .navbar-dark .navbar-nav .nav-link.show,
 .navbar-dark .navbar-nav .show>.nav-link {
-  color: #cdbc17;
+  color: #d1b331;
 }
 
 .nav-link {
@@ -415,13 +415,13 @@ i.fa {
 
 .navbar-dark .navbar-nav .nav-link:hover {
   // color: #ffffffbf;
-  color: #cdbc17;
+  color: #d1b331;
   // text-decoration: underline dashed #ffffffbf;
 }
 
 .navbar-dark .navbar-nav .nav-link.active {
-  color: #cdbc17;
-  text-decoration: underline double #cdbc17;
+  color: #d1b331;
+  text-decoration: underline double #d1b331;
 }
 
 .navbar-toggler:focus {
@@ -451,11 +451,11 @@ i.fa {
   position: relative;
   z-index: 0;
   background-size: cover;
-  height: 100vh;
+  height: calc(100vh - 96px);
   position: relative;
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: flex-end;
   background: center / cover no-repeat;
 }
 
@@ -465,7 +465,7 @@ i.fa {
   display: block;
   height: 100%;
   width: 100%;
-  background: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 20%, #000 70%, #000 100%),center/cover no-repeat;
+  background: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 20%, #000 100%),center/cover no-repeat;
   position: absolute;
   top: 0;
   right: 0;
@@ -476,11 +476,12 @@ i.fa {
 .hero-area .block {
   text-align: center;
   z-index: 99;
+  margin-bottom: 5vw;
 }
 
 .hero-area .block .video-button {
   background: #fff;
-  color: #cdbc17;
+  color: #d1b331;
   display: inline-block;
   height: 60px;
   width: 60px;
@@ -582,7 +583,7 @@ i.fa {
 }
 
 #about .block:hover {
-  border-bottom: 2px solid #cdbc17;
+  border-bottom: 2px solid #d1b331;
 }
 
 #about .block:hover .icon-box {
@@ -634,7 +635,7 @@ i.fa {
 }
 
 #about .block .icon-box h3 {
-  color: #cdbc17;
+  color: #d1b331;
 }
 
 /*=================================================================
@@ -653,7 +654,7 @@ i.fa {
 }
 
 #more .block:hover {
-  border-bottom: 2px solid #cdbc17;
+  border-bottom: 2px solid #d1b331;
 }
 
 #more .block:hover .icon-box {
@@ -705,7 +706,7 @@ i.fa {
 }
 
 #more .block .icon-box h3 {
-  color: #cdbc17;
+  color: #d1b331;
 }
 
 /*=================================================================
@@ -725,7 +726,7 @@ i.fa {
 
 .about-2 .content-block .media i {
   font-size: 30px;
-  color: #cdbc17;
+  color: #d1b331;
 }
 
 .about-2 .content-block .media h4 {
@@ -806,7 +807,7 @@ i.fa {
 
 .form-meshna input:hover,
 .form-meshna textarea:hover {
-  border-color: #cdbc17;
+  border-color: #d1b331;
 }
 
 #contact-submit {
@@ -818,8 +819,8 @@ i.fa {
 }
 
 #contact-submit:hover {
-  background: #cdbc17;
-  border-color: #cdbc17;
+  background: #d1b331;
+  border-color: #d1b331;
 }
 
 .form-meshna ::placeholder {
@@ -831,12 +832,12 @@ i.fa {
 }
 
 #contact a {
-  color: #cdbc17;
-  text-decoration: underline dashed #cdbc17;
+  color: #d1b331;
+  text-decoration: underline dashed #d1b331;
 }
 
 #contact a:hover {
-  color: #cdbc17;
+  color: #d1b331;
   text-decoration: none !important;
 }
 
@@ -893,7 +894,7 @@ i.fa {
 
 .counters-item span {
   display: block;
-  color: #cdbc17;
+  color: #d1b331;
   font-size: 35px;
   line-height: 50px;
 }
@@ -919,7 +920,7 @@ i.fa {
 }
 
 .price-title h3 {
-  color: #cdbc17;
+  color: #d1b331;
   margin: 0 0 10px;
   text-transform: uppercase;
 }
@@ -930,7 +931,7 @@ i.fa {
 }
 
 .price-title .value {
-  color: #cdbc17;
+  color: #d1b331;
   font-size: 30px;
 }
 
@@ -979,7 +980,7 @@ i.fa {
 }
 
 .portfolio-filter .btn.active {
-  border-color: #cdbc17;
+  border-color: #d1b331;
 }
 
 .portfolio-block {
@@ -1044,7 +1045,7 @@ i.fa {
 }
 
 .portfolio-block .caption .search-icon {
-  background: #cdbc17;
+  background: #d1b331;
   width: 50px;
   height: 50px;
   color: #fff;
@@ -1097,13 +1098,13 @@ i.fa {
 
 .service-2 .service-item:hover i {
   background: #fff;
-  color: #cdbc17;
+  color: #d1b331;
 }
 
 .service-2 .service-item i {
   font-size: 30px;
   display: inline-block;
-  background: #cdbc17 none repeat scroll 0 0;
+  background: #d1b331 none repeat scroll 0 0;
   border-radius: 30px;
   box-shadow: 0 5px 6px 0 #0000001a;
   color: #fff;
@@ -1136,7 +1137,7 @@ i.fa {
 }
 
 .skill-bar .progress .progress-bar {
-  background: #cdbc17;
+  background: #d1b331;
 }
 
 /*=================================================================
@@ -1215,7 +1216,7 @@ i.fa {
 
 .member-photo .mask ul li a:hover {
   background-color: #fff;
-  color: #cdbc17;
+  color: #d1b331;
   border: 1px solid transparent;
 }
 
@@ -1280,7 +1281,7 @@ i.fa {
 }
 
 .client-comment p {
-  color: #cdbc17;
+  color: #d1b331;
   font-size: 18px;
 }
 
@@ -1326,7 +1327,7 @@ i.fa {
 
 .owl-controls .owl-page.active span,
 .owl-controls .owl-page:hover span {
-  background-color: #cdbc17;
+  background-color: #d1b331;
   border: 2px solid transparent;
 }
 
@@ -1420,7 +1421,7 @@ i.fa {
 }
 
 .post-meta a {
-  color: #cdbc17;
+  color: #d1b331;
 }
 
 .post-meta>span {
@@ -1481,7 +1482,7 @@ i.fa {
 }
 
 .next-prev a:hover {
-  color: #cdbc17;
+  color: #d1b331;
 }
 
 .next-prev .prev-post i {
@@ -1504,7 +1505,7 @@ i.fa {
 }
 
 .social-profile ul li a i:hover {
-  color: #cdbc17;
+  color: #d1b331;
 }
 
 .comments-section {
@@ -1552,7 +1553,7 @@ i.fa {
 }
 
 .comment-wrap .media .media-heading a {
-  color: #cdbc17;
+  color: #d1b331;
   font-size: 13px;
 }
 
@@ -1579,7 +1580,7 @@ i.fa {
 .comment-reply-form input:focus,
 .comment-reply-form textarea:focus {
   box-shadow: none;
-  border: 1px solid #cdbc17;
+  border: 1px solid #d1b331;
 }
 
 .comment-reply-form textarea,
@@ -1642,7 +1643,7 @@ i.fa {
 }
 
 .post-comment-name {
-  color: #cdbc17;
+  color: #d1b331;
   font-weight: 500;
   font-size: 18px;
 }
@@ -1682,7 +1683,7 @@ input#e-mail,
 }
 
 .social-icon ul li a:hover {
-  background: #cdbc17;
+  background: #d1b331;
 }
 
 .social-icon ul li a:hover i {
@@ -1725,8 +1726,8 @@ input#e-mail,
 }
 
 #scrollUp:hover {
-  background-color: #cdbc17;
-  border: 1px solid #cdbc17;
+  background-color: #d1b331;
+  border: 1px solid #d1b331;
 }
 
 /*=================================================================
@@ -2152,7 +2153,7 @@ blockquote {
 }
 
 .form-control-meshna .form-control:focus {
-  border-color: #cdbc17;
+  border-color: #d1b331;
   box-shadow: 0 0 0 0.2rem #00aeff6e;
 }
 
@@ -2406,8 +2407,8 @@ figcaption {
 }
 
 .pagination .page-item .page-link:hover {
-  background: #cdbc17;
-  border-color: #cdbc17;
+  background: #d1b331;
+  border-color: #d1b331;
   color: #fff
 }
 
@@ -2417,9 +2418,9 @@ figcaption {
 }
 
 .pagination .page-item.active .page-link {
-  background: #cdbc17;
+  background: #d1b331;
   color: #fff;
-  border-color: #cdbc17;
+  border-color: #d1b331;
 }
 
 #select-language {
@@ -2437,8 +2438,45 @@ figcaption {
 
 
 // Benji Starts Here
-$yellow: #cdbc17;
+$yellow: #d1b331;
+// $yellow: #cdbc17;
 $white: #fff;
+
+.project-splash {
+  background-color: black;
+  .project-logo {
+    width: 80%;
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 30px;
+  }
+  .blurb {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  h2 {
+    text-align: center;
+    font-weight: bold;
+    line-height: 1.2;
+    letter-spacing: .2px;
+    margin-bottom: 15px;
+  }
+  p {
+    width: 90%;
+    max-width: 720px;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 1.3;
+    letter-spacing: .3px;
+    margin-bottom: 25px;
+  }
+  .btn {
+    margin-bottom: 70px;
+  }
+}
 
 .navbar { padding: .5rem 0 !important;}
 .image-focus {
@@ -2522,7 +2560,7 @@ body.locked {
   span {
     width: 100%;
     height: 3px;
-    background-color: #cdbc17;
+    background-color: #d1b331;
     position: absolute;
     left: 0;
     transition: ease all .2s;
@@ -2599,14 +2637,14 @@ body.locked {
 }
 
 // .privacy {
-//   border-bottom: dashed 1px #cdbc17;
+//   border-bottom: dashed 1px #d1b331;
 // }
 .post-single-content {
   a, a:link, a:visited {
     border-bottom: dashed 1px #fff;
   }
   a:active {
-    border-bottom: dashed 1px #cdbc17;
+    border-bottom: dashed 1px #d1b331;
   }
   a:hover {
     border-bottom: unset;
@@ -2701,7 +2739,7 @@ body.locked {
     border-radius: 0;
     padding: 7px 10px;
     color: #fff;
-    outline-color: #cdbc17;
+    outline-color: #d1b331;
     transition: ease all .4s;
     appearance: none;
     -moz-appearance: none;
@@ -2714,16 +2752,16 @@ body.locked {
     background-size: 8px 8px, 8px 8px;
     background-repeat: no-repeat;
     &:focus {
-      outline-color: #cdbc17;
+      outline-color: #d1b331;
     }
     &:hover {
       background:
-        linear-gradient(45deg, rgba(255, 255, 255, 0) 40%, #cdbc17 40%, #cdbc17 50%, rgba(255, 255, 255, 0) 51%),  
-        linear-gradient(135deg, rgba(255, 255, 255, 0) 40%, #cdbc17 40%, #cdbc17 50%, rgba(255, 255, 255, 0) 51%);
+        linear-gradient(45deg, rgba(255, 255, 255, 0) 40%, #d1b331 40%, #d1b331 50%, rgba(255, 255, 255, 0) 51%),  
+        linear-gradient(135deg, rgba(255, 255, 255, 0) 40%, #d1b331 40%, #d1b331 50%, rgba(255, 255, 255, 0) 51%);
       background-position: calc(100% - 23px) calc(1em - 3px), calc(100% - 16px) calc(1em - 3px);
       background-size: 8px 8px, 8px 8px;
       background-repeat: no-repeat;
-      border-color: #cdbc17;
+      border-color: #d1b331;
       transition-duration: .2s;
     }
     option {
@@ -2762,6 +2800,11 @@ body.locked {
   }
 }
 @media (max-width: 410px) {
+
+  .project-splash {
+    padding-top: 10vh;
+    .project-logo { width: 95% }
+  }
   .navbar-toggler {
     top: 7px;
   }
