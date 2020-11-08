@@ -29,11 +29,11 @@ When you get down to it, The Meta Mesh Network functions not too differently fro
 
 ## Home Wi-Fi
 
-What sets us apart from other WISPs: we are not-for-profit, which means we don’t charge inflated fees for equipment, installation, maintenance, system administration, and so on.
+What sets us apart from other Internet Service Providers? we are not-for-profit, which means we don’t charge inflated fees for equipment, installation, maintenance, system administration, and so on.
 
-Our organization is grant and donor funded, so the initial build out is fully covered for each project. That includes the installation of equipment as well as the provision of in-home routers. Rather than demanding a fee for service, we ask users for a suggested donation of $10/month per household to help us keep our network strong and healthy. That being said, we will NEVER withhold services from any user if they do not donate.
+Our organization is grant and donor funded, so the initial build out is fully covered for each project. That includes the installation of equipment as well as the provision of in-home routers. Rather than demanding a fee for service, we recommend users donate $10/month per household if they are able to help us keep our network strong and healthy. That being said, we will NEVER withhold services from any user if they do not donate.
 
-<!-- Forestry doesn't support tables yet, and this table is strutured in such a way that it would be very tedious to write out. Instead, we'll just publish a screenshot. -->
+<!-- Forestry doesn't support tables yet, and this table is structured in such a way that it would be very tedious to write out. Instead, we'll just publish a screenshot. -->
 
 {{< banner-image src="/images/isp-comparison.png" alt="Picture of a table comparing Meta Mesh services against Verizon and Comcast" >}}
 
