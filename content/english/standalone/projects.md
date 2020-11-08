@@ -66,6 +66,8 @@ subtitle: 'Meta Mesh is deploying a pilot project to offer our In-Home WiFi serv
 form_action: https://formspree.io/f/xnqonazg
 
 ---
+![](/images/Every1online_black.png)
+
 Meta Mesh Wireless Communities is proud to announce our In-Home WiFi pilot project Every1online: _Internet Access for three in-need Pittsburgh Communities: Homewood, Coraopolis, and New Kensington-Arnold._
 
 [**SIGN UP HERE!**](#contact)
@@ -80,7 +82,7 @@ Meta Mesh Wireless Communities' bandwidth is transmitted from atop the Cathedral
 
 ![](/images/screenshot-14.png "Cathedral Super-Node")
 
-These radios connect to "repeater towers" in each of our target neighborhoods. Each participants home will have a small receiver installed on the outside of their residence, pointed at the local repeater tower.
+These radios connect to "repeater towers" in each of our target neighborhoods. Each participant's home or apartment will have a small receiver installed on the outside of their residence, pointed at the local repeater tower.
 
 ![](/images/repeater-tower-and-household-receiver.png)
 
@@ -88,7 +90,7 @@ Finally, this receiver connects to a WiFi router in the home where a fast, secur
 
 ![](/images/multiple-house-layout.png)
 
-The equipment is small and light. The receiver is about the size of a coffee mug and mounts on a two foot pole outside the home. A single cable connects it to the indoor WiFi router, which is a small black cube. The receiver gets power through the Ethernet cable, so only the WiFi router needs to be plugged into a power outlet. The router even has places for Ethernet cables to be plugged in for wired connections!
+The equipment is small and light. The receiver is about the size of a coffee mug and mounts on a two foot pole outside the home. A single cable connects it to the indoor WiFi router, which is a small black cube. The receiver gets power through the Ethernet cable, so only the WiFi router needs to be plugged into a power outlet. The router even has ports for Ethernet cables to be plugged in for wired connections!
 
 ![](/images/aircube-feature-poe2.jpg)
 
@@ -106,18 +108,20 @@ We have been able to make this dream project a reality through a collaborative a
 
 **University of Pittsburgh**: Pitt IT, the CIO Office, and Community & Governmental Relations are Key Stakeholders and Integral Collaborators contributing facility access and funding to enable use of the Cathedral of Learning as the “Super Node/hub.” They will support stakeholder and community involvement in additional neighborhoods following the pilot.
 
-**The Keystone Initiative for Network Based Education and Research (KINBER):** KINBER is a vendor partner to both CMU and Pitt, and will provide our gateway to the internet through PennREN Fiber, which will be broadcasted from the Cathedral of Learning.
+**The Keystone Initiative for Network Based Education and Research (KINBER):** KINBER is a vendor partner to both CMU and Pitt, and will provide our gateway to the Internet through PennREN Fiber, which will be broadcast from the Cathedral of Learning.
 
-**Participating School Districts and Community Groups**: The **New Kensington-Arnold** **school district** and **Cornell (Coraopolis)** **school districts**, as well as the **Homewood Children's Village** are collaborators in this pilot project. They bring vital expertise to this project, leading the effort to build community buy-in, leveraging social capital to facilitate the creation of WISP infrastructure, and identifying households in need of internet connectivity. They also advise CMU, Pitt, and Meta Mesh partners on community need and intentional partnership practices.
+**Participating School Districts and Community Groups**: The **New Kensington-Arnold** **school district** and **Cornell (Coraopolis)** **school district**, as well as the **Homewood Children's Village** are collaborators in this pilot project. They bring vital expertise, leading the effort to build community buy-in, leveraging social capital to facilitate the creation of WISP infrastructure, and identifying households in need of Internet connectivity. They also advise CMU, Pitt, and Meta Mesh on community need and intentional partnership practices.
 
 **Coverage Maps:**
 
-Below are the coverage maps that Meta Mesh uses to determine if a house can receive signal from one of our towers.
+Because wireless radios require line-of-sight between transmitter and receiver, not every home may be able to connect. Below are the estimated coverage maps that Meta Mesh uses to determine if a house can receive signal from one of our towers.
 
 * Green: High probability of coverage
 * Yellow: Possibility of coverage (needs resident participation to confirm). Yellow areas require more information to find out if they can get service. Images taken _from the house_ (pointed toward the tower location) will be needed to see if the signal can reach the location. Images will be taken from the exterior of the house. We are exploring the most efficient ways to help people in the yellow areas assess their homes' connectivity potential quickly and easily. We will share updates on this process, and we invite those who are in a yellow (or even green!) area to reach out to us to learn more.
-* Red: Confirmed no coverage area. If your home is within the Red coverage area, it is unlikely that service will reach your home in this first phase of the project. But, if you sign-up, we may be able to reach your home in a later phase of the program.
+* Red: Confirmed no coverage area. If your home is within the Red coverage area, it is unlikely that service will reach your home in this first phase of the project. But, if you sign up, we may be able to reach your home in a later phase of the program.
 * Boundary: Limit of WiFi service area ends at the edge of the map image. If your home is near or on the boundary, please submit your information to determine if service reaches the location.
+
+Click the images below to view a high-resolution version of the map.
 
 [**Homewood Coverage Map:**](/images/homewood-coverage-map-2.png "Homewood Coverage Map")
 
