@@ -1146,6 +1146,16 @@ i.fa {
 .team-member {
   background-color: #313131;
   margin-bottom: 10px;
+  .pad {
+    padding: 1rem;
+  }
+  .card-img-box {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding-right: 1rem;
+  }
 }
 
 .team-member:hover .mask {
@@ -1164,6 +1174,9 @@ i.fa {
 @media (max-width: 768px) {
   .member-photo {
     text-align: center;
+  }
+  .card-img-box {
+    padding-right: unset !important;
   }
 }
 
