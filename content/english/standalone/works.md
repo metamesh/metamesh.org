@@ -21,6 +21,10 @@ When you get down to it, The Meta Mesh Network functions not too differently fro
 
 {{< banner-image src="/images/internet.png" >}}
 
+Below is an early image we made illustrating what the Meta Mesh Network may end up looking like: point-to-point connections, in home access, and neighborhoods with public space WiFi all over Pittsburgh!
+
+{{< banner-image src="/images/infrastructure.png" >}}
+
 ## Table of Contents
 
 1. [Home Wi-Fi](#home-wi-fi)
@@ -40,10 +44,6 @@ Our organization is grant and donor funded, so the initial build out is fully co
 The whole point of this venture is to provide Internet while reducing financial strain on underserved areas. Meta Mesh helps our community partners find ways to cover the monthly cost communally. [This page](https://drive.google.com/file/d/1cP9_ZUdOomZx-FlmuC0weh0V2gCRi9S3/view?usp=sharing) contains a more detailed list of ways we help communities cover monthly maintenance fees.
 
 Our Home WiFi is encrypted and password-protected, so it is just as secure as commercial in-home WiFi options.
-
-Below is an early image we made illustrating what the Meta Mesh Network may end up looking like: point-to-point connections, in home access and neighborhoods with public space WiFi.
-
-{{< banner-image src="/images/infrastructure.png" >}}
 
 ## Public Wi-Fi
 
