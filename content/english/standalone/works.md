@@ -41,6 +41,8 @@ The whole point of this venture is to provide Internet while reducing financial 
 
 Our Home WiFi is encrypted and password-protected, so it is just as secure as commercial in-home WiFi options.
 
+Below is an early image we made illustrating what the Meta Mesh Network may end up looking like: point-to-point connections, in home access and neighborhoods with public space WiFi.
+
 {{< banner-image src="/images/infrastructure.png" >}}
 
 ## Public Wi-Fi
