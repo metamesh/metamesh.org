@@ -30,6 +30,11 @@ fields:
     label: Body
     config:
       required: true
+  - name: link
+    type: text
+    config:
+      required: true
+    label: Link
   config:
     min: 1
 - name: button
