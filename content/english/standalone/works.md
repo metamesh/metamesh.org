@@ -21,14 +21,14 @@ When you get down to it, The Meta Mesh Network functions not too differently fro
 
 {{< banner-image src="/images/internet.png" >}}
 
-Below is an early image we made illustrating what the Meta Mesh Network may end up looking like: point-to-point connections, in home access, and neighborhoods with public space WiFi all over Pittsburgh!
+Below is an early image we made illustrating what the Meta Mesh Network may end up looking like: point-to-point connections, in home access, and neighborhoods with Public-Space WiFi all over Pittsburgh!
 
 {{< banner-image src="/images/infrastructure.png" >}}
 
 ## Table of Contents
 
 1. [Home Wi-Fi](#home-wi-fi)
-2. [Public Space Wi-Fi](#public-wi-fi)
+2. [Public-Space Wi-Fi](#public-wi-fi)
 3. [Mobile Wi-Fi](#mobile-wi-fi)
 
 ## Home Wi-Fi
@@ -45,13 +45,11 @@ The whole point of this venture is to provide Internet while reducing financial 
 
 Our Home WiFi is encrypted and password-protected, so it is just as secure as commercial in-home WiFi options.
 
-## Public Wi-Fi
+## Public-Space Wi-Fi
 
 [Public-Space WiFi](https://drive.google.com/file/d/1GQ-a4Q_cPsBG5D0HnYGyKAUbukcZA3Ls/view?usp=sharing) is another way we keep community members connected to the Internet, specifically when they are outside of their homes. Similar to the concept of public WiFi (which is the type of access you would have at a coffee shop or library), our Public-Space WiFi allows users in connected areas to access the Internet from places like the sidewalk or a park.
 
-We use mesh technology to create connection points within a certain geographical area. Mesh Technology is essentially a point-to-point (PtP) WiFi emitting device that is mounted to the exterior of a home or structure. The PtP device projects the network in a “bubble” that connects to other nearby PtP devices, creating a mesh of routes that all lead back to the Internet.
-
-The mesh model is great for connecting local public spaces. For example, this Allentown neighborhood is on-mesh, meaning that users can get online as long as their device is within range of one of our PtP devices.
+We use mesh networking technology to create coverage areas within a small geographical area. Mesh technology is essentially a wireless repeater mounted to the exterior of a home or other structure. These repeaters can be wirelessly daisy-chained together to cover large areas using only one wired Internet connection!
 
 ## Mobile Wi-Fi
 
