@@ -198,7 +198,7 @@ We created this glossary to ensure that anyone, regardless of their previous kno
 
    **Do you have a map of what your network covers/everywhere you are?**
 
-   Yes, we do! Here’s the link to our live map. This feature is under construction on our website.​
+   Yes, we do! Here’s the link to our [live map](https://pittmesh.net/ "Pitt Mesh"). We are working on a new interactive map which will cover our Every1online project.
 
    **Does Meta Mesh use new networking technologies (like 5G or TV White Space)?**
 
