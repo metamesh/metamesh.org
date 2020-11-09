@@ -24,7 +24,7 @@
       <div class="row justify-content-center xyzzy">
         {{ range .items }}
         {{/* About item  */}}
-        <div class="col-lg-3 text-center wow fadeInUp my-4" data-wow-duration="500ms">
+        <a href='{{ .link }}' class="col-lg-3 text-center wow fadeInUp my-4" data-wow-duration="500ms">
           <div class="card block h-100">
             <div class="icon-box">
               <i class="fa fa-{{ .icon }}"></i>
@@ -35,7 +35,7 @@
               <p>{{ .body | markdownify }}</p>
             </div>
           </div>
-        </div>
+        </a>
         {{ end }}
 
       {{ with $more.button }}

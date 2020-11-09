@@ -2443,6 +2443,7 @@ $yellow: #d1b331;
 $white: #fff;
 
 .project-splash {
+  padding-top: 50px;
   background-color: black;
   .project-logo {
     width: 80%;
@@ -2655,6 +2656,9 @@ body.locked {
     height: auto;
     margin-top: 10px;
     margin-bottom: 20px;
+  }
+  h2 {
+    padding-top: 100px;
   }
 }
 
