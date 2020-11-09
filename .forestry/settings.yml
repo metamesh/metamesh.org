@@ -4,10 +4,6 @@ auto_deploy: false
 admin_path: static/admin
 webhook_url: 
 sections:
-- type: document
-  path: data/en/project-splash.yml
-  label: Project Splash Section
-  match: "**/*"
 - type: directory
   path: data/en
   label: Data Directory
@@ -19,6 +15,9 @@ sections:
   path: data/en/banner.yml
   label: Hero / Banner
   new_doc_ext: yml
+- type: document
+  path: data/en/project-splash.yml
+  label: Project Splash Section
 - type: document
   path: data/en/about.yml
   label: About Us
