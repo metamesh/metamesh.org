@@ -4,6 +4,15 @@ auto_deploy: false
 admin_path: static/admin
 webhook_url: 
 sections:
+- type: document
+  path: data/en/project-splash.yml
+  label: Project Splash Section
+  match: "**/*"
+- type: directory
+  path: data/en
+  label: Data Directory
+  create: none
+  match: "**/*"
 - type: heading
   label: Front Page
 - type: document
