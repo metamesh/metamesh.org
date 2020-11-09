@@ -15,7 +15,7 @@ submit: ''
 ---
 # Additional Reading
 
-We strive to be transparent by ensuring that any member of the public, regardless of their base knowledge of WiFi, can understand our mission. That’s why we created this glossary of terms, FAQ section, and list of technical resources.
+We strive to be transparent by the public, regardless of their base knowledge of WiFi or networking, can understand our mission. That’s why we created this glossary of terms, FAQ section, and list of technical resources.
 
 Please contact us if you have any questions or recommendations for improving the accessibility of our resources.
 
@@ -23,7 +23,7 @@ Please contact us if you have any questions or recommendations for improving the
 
 ### COVID-19 Notice
 
-Given that our [most recent report](https://drive.google.com/file/d/1yoHeapwWWiHk5_GbTDumsL5yFxURn-zN/view?usp=sharing) on the scope of the Digital Divide was conducted in 2018, we know that these metrics do NOT reflect the growing number of individuals who need Internet access because of hardships caused by COVID-19. Due to reduced hours, layoffs, and industry shutdowns, we must assume that there are more people who cannot afford residential Internet access in Pittsburgh. We must also consider those who do have Internet access from telecom giants, but the bandwidth of discount packages often does not support our new work and learn from home lifestyles.
+Given that our [most recent report](https://drive.google.com/file/d/1yoHeapwWWiHk5_GbTDumsL5yFxURn-zN/view?usp=sharing) on the scope of the Digital Divide was conducted in 2018, we know that these metrics do NOT reflect the growing number of individuals who need Internet access because of hardships caused by COVID-19. Due to reduced hours, layoffs, and industry shutdowns, we must assume that there are more people who cannot afford residential Internet access in Pittsburgh. We must also consider those who do have Internet access, but the bandwidth of discount packages often does not support 2020's new work and learn-from-home lifestyles.
 
 While a more recent survey of residents without Internet access has yet to be done, we are currently working with an increasing number of community partners to serve remote workers, online students, and families in need.
 
