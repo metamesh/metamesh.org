@@ -233,7 +233,7 @@ Even if someone were to try to access your home network, they wouldn't be able t
 
 **Where is your open source software?**
 
-You can view our code at [www.github.com/metamesh](http://www.github.com/metamesh)
+You can [view our code on Github](www.github.com/metamesh "Meta Mesh Gitbug").
 
 **Is WiFi dangerous to my health?**
 
