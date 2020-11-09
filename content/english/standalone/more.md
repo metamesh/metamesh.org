@@ -196,18 +196,15 @@ We created this glossary to ensure that anyone, regardless of their previous kno
 
    The Federal Communications Commissions defines 25 megabits per second as broadband access. You can see speed comparisons between different providers in the table above. For a more in-depth breakdown of what functions are supported at different speeds, take a look at this resource: [https://broadbandnow.com/speedtest](https://broadbandnow.com/speedtest "https://broadbandnow.com/speedtest")
 
-   \**  
-   Do you have a map of what your network covers/everywhere you are?**
+   **Do you have a map of what your network covers/everywhere you are?**
 
    Yes, we do! Here’s the link to our live map. This feature is under construction on our website.​
 
-   \**  
-   Does Meta Mesh use new networking technologies (like 5G or TV White Space)?**
+   **Does Meta Mesh use new networking technologies (like 5G or TV White Space)?**
 
    Bleeding-edge technology is not our priority. Our solution is a low-cost and scalable way to distribute Internet access, and build a standalone network at moderate speeds. We focus on bridging the Digital Divide by providing dependable networking services (In-Home and Public-Space WiFi) to communities that could not otherwise afford it.
 
-   \**  
-   How does a Community Wireless Network provide “free” WiFi?**
+   **How does a Community Wireless Network provide “free” WiFi?**
 
    We are the first non-profit WISP in the country to deploy networking services on a city-wide scale. As a non-profit organization, we rely on three key resources to sustain our efforts:
    * Grant funding
