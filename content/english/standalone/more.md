@@ -15,7 +15,7 @@ submit: ''
 ---
 # Additional Reading
 
-We strive to be transparent by ensuring that any member of the public, regardless of their base knowledge of WiFi, can understand our mission. That’s why we created this glossary of terms, FAQ section, and list of technical resources.
+We strive to be transparent by the public, regardless of their base knowledge of WiFi or networking, can understand our mission. That’s why we created this glossary of terms, FAQ section, and list of technical resources.
 
 Please contact us if you have any questions or recommendations for improving the accessibility of our resources.
 
@@ -23,7 +23,7 @@ Please contact us if you have any questions or recommendations for improving the
 
 ### COVID-19 Notice
 
-Given that our [most recent report](https://drive.google.com/file/d/1yoHeapwWWiHk5_GbTDumsL5yFxURn-zN/view?usp=sharing) on the scope of the Digital Divide was conducted in 2018, we know that these metrics do NOT reflect the growing number of individuals who need Internet access because of hardships caused by COVID-19. Due to reduced hours, layoffs, and industry shutdowns, we must assume that there are more people who cannot afford residential Internet access in Pittsburgh. We must also consider those who do have Internet access from telecom giants, but the bandwidth of discount packages often does not support our new work and learn from home lifestyles.
+Given that our [most recent report](https://drive.google.com/file/d/1yoHeapwWWiHk5_GbTDumsL5yFxURn-zN/view?usp=sharing) on the scope of the Digital Divide was conducted in 2018, we know that these metrics do NOT reflect the growing number of individuals who need Internet access because of hardships caused by COVID-19. Due to reduced hours, layoffs, and industry shutdowns, we must assume that there are more people who cannot afford residential Internet access in Pittsburgh. We must also consider those who do have Internet access, but the bandwidth of discount packages often does not support 2020's new work and learn-from-home lifestyles.
 
 While a more recent survey of residents without Internet access has yet to be done, we are currently working with an increasing number of community partners to serve remote workers, online students, and families in need.
 
@@ -217,7 +217,7 @@ We created this glossary to ensure that anyone, regardless of their previous kno
    So, the work we do is not “free,” we just use sources other than individual residents or households for revenue. We ask our users for a $10/month per household suggested donation to help cover maintenance costs. That being said, we NEVER shut off services to households who don’t contribute donations, and we assist communities in finding sustainable ways to cover any incurred costs.
 
 ![](https://lh6.googleusercontent.com/662-pEd4-U0GWvWHyONcY-Dntx93NXWyyVaAagzcHQ4mpK8Ei06lJnC0a_Mau3rkpwcCe_X5zPrBH48lqjf_BYtk59gxR92gwChB6VN4P-eiqDyXu_p9JDI-iIM5e3Rj6V2Mz25r)​**Is The Meta Mesh Network secure?**  
-MMWC uses the same security measures other big name ISPs use. While no network security is unbreakable, it is extremely unlikely for a breach to occur. For more on the technological capabilities/limitations, we recommend watching [Jon Zeolla's Talk on the subject](https://www.youtube.com/watch?v=K0FWXLLHDTo). Jon works with Steel City Information Security and is very well-versed in how bad guys break WiFi security.
+MMWC uses the same security measures other big name ISPs use. While no WiFi network security is without vulnerabilities, it is extremely unlikely for a breach to occur. For more on the technological capabilities/limitations, we recommend watching [Jon Zeolla's Talk on the subject](https://www.youtube.com/watch?v=K0FWXLLHDTo). Jon works with Steel City Information Security and is very well-versed in how bad guys break WiFi security.
 
 * **What about In-Home WiFi?**  
   Those who receive our In-Home WiFi services will be provided with a pre-configured router that ensures the device is connected to our network and functioning at its highest capacity. Just like the residential WiFi you may get from Comcast or Verizon, your In-Home network will have a personalized name and password. In order to secure access to your In-Home WiFi network, please be cautious about who you provide this information to.
