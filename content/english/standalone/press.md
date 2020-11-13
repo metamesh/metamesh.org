@@ -4,9 +4,13 @@ layout: standalone
 url: "/press"
 
 ---
+
+## Important News
+<small><i>(archive follows)</i></small>
+
 Joint Announcement –Nov. 9, 2020 @ 10:00 a.m.
 
-**Meta Mesh, KINBER, CMU and Pitt Collaborate on _Every1online_ to Provide Free WiFi to In-Need Communities**
+### Meta Mesh, KINBER, CMU and Pitt Collaborate on _Every1online_ to Provide Free WiFi to In-Need Communities
 
 _NON-PROFIT PARTNERSHIP WILL BEAM INTERNET SIGNALS FROM ATOP <PITT’S CATHEDRAL OF LEARNING/TALLEST EDUCATIONAL BUILDING IN WESTERN HEMISPHERE>_
 
@@ -94,14 +98,15 @@ _Penn State New Kensington_
 
 Penn State New Kensington is one of twenty-four campuses that comprise The Pennsylvania State University. Located just seventeen miles from the city of Pittsburgh, the campus is nestled on 72 wooded acres of Upper Burrell, Pennsylvania, and is easily accessible from almost anywhere in Allegheny, Armstrong, Butler, Indiana and Westmoreland Counties. Penn State New Kensington offers ten baccalaureate and five associate degrees, as well as the first two years of almost all of Penn State’s 275+ majors through the University’s 2+2 plan. The campus continues to fulfill the University’s land grant mission through its ongoing efforts in the city of New Kensington to drive economic development, revitalization and to prepare the Rust Belt region for the next industrial revolution. [newkensington.psu.edu](http://newkensington.psu.edu/)
 
-_An archive of articles written about Meta Mesh_
+## Archives
 
-## 2020
+### 2020
 
+* [Pitt, CMU partner with nonprofits, school districts to provide free internet access to city households](https://www.post-gazette.com/business/tech-news/2020/11/12/Wifi-internet-access-digital-divide-remote-learning-COVID-19-Pitt-Cathedral-Learning/stories/202011120161)
 * [School of Computer Science Launches Educational Equity Office with $3 Million Grant](https://www.cs.cmu.edu/news/school-computer-science-launches-educational-equity-office-3-million-grant) (August 2020)
 * [Carnegie Mellon Tackles the Digital Divide, Connects High-Need Students to Wi-Fi](https://www.cmu.edu/news/stories/archives/2020/may/meta-mesh.html) (May 2020)
 
-## 2015 and prior
+### 2015 and prior
 
 * [Allentown firm aims to rethink, rewire Internet access in Pittsburgh region - Pittsburgh Post-Gazette - 26 June, 2015](http://www.post-gazette.com/business/tech-news/2015/06/26/Allentown-firm-aims-to-rethink-rewire-Internet-access-in-region/stories/201506260151)
 * [Meta Mesh wants to get mesh network Wi-Fi to neighborhoods throughout Pittsburgh - NEXTPittsburgh - 22 June, 2015](http://www.nextpittsburgh.com/business-tech-news/meta-mesh-wants-to-get-mesh-network-wi-fi-to-neighborhoods-throughout-pittsburgh/)
