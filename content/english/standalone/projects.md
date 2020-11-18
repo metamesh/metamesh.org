@@ -68,11 +68,13 @@ form_action: https://formspree.io/f/xnqonazg
 ---
 ![](/images/Every1online_black.png)
 
-Meta Mesh Wireless Communities is proud to announce our In-Home WiFi pilot project Every1online: _Internet Access for three in-need Pittsburgh Communities: Homewood, Coraopolis, and New Kensington-Arnold._ 
+Meta Mesh Wireless Communities is proud to announce our In-Home WiFi pilot project Every1online: _Internet Access for three in-need Pittsburgh Communities: Homewood, Coraopolis, and New Kensington-Arnold._
 
 Go to [https://www.metamesh.org/press/](https://www.metamesh.org/press/ "https://www.metamesh.org/press/") to see a joint Press Release on Every1online.
 
 [**SIGN UP HERE!**](#contact)
+
+Questions? Of course you do! We want to hear from you! Call Meta Mesh at 412-223-4253. 
 
 We need to bridge Pittsburgh’s Digital Divide. By creating a community-based, non-profit Wireless Internet Service Provider (WISP), Meta Mesh will provide Internet to the homes of Pittsburghers who need it most.
 
