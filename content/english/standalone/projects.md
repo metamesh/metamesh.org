@@ -74,7 +74,7 @@ Go to [https://www.metamesh.org/press/](https://www.metamesh.org/press/ "https:/
 
 [**SIGN UP HERE!**](#contact)
 
-Questions? Of course you do! We want to hear from you! Call Meta Mesh at 412-223-4253. 
+Questions? Of course you do! We want to hear from you! Call Meta Mesh at 412-223-4253x104 to speak to a member of our team. 
 
 We need to bridge Pittsburgh’s Digital Divide. By creating a community-based, non-profit Wireless Internet Service Provider (WISP), Meta Mesh will provide Internet to the homes of Pittsburghers who need it most.
 
