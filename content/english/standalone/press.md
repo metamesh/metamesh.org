@@ -4,8 +4,8 @@ layout: standalone
 url: "/press"
 
 ---
-
 ## Important News
+
 <small><i>(archive follows)</i></small>
 
 Joint Announcement –Nov. 9, 2020 @ 10:00 a.m.
@@ -48,7 +48,7 @@ With generous support from the Hopper Dean Foundation, the RK Mellon Foundation,
 
 \-Jon Banko, Acting Superintendent of New Kensington-Arnold School District
 
-**“**The Pandemic has really highlighted that Internet is really not a luxury, it is a basic necessity. Every1online will change so much in our community… it’s a chance for greater equity. It takes collaboration for these things to come together, none of us can do it all on our own. Knowing that there’s different partners coming together gives a greater sense of stability and security—it helps to anchor these initiatives and ensure that partners bring their core strengths to the table.”
+\**“**The Pandemic has really highlighted that Internet is really not a luxury, it is a basic necessity. Every1online will change so much in our community… it’s a chance for greater equity. It takes collaboration for these things to come together, none of us can do it all on our own. Knowing that there’s different partners coming together gives a greater sense of stability and security—it helps to anchor these initiatives and ensure that partners bring their core strengths to the table.”
 
 –Walter Lewis, President & CEO of Homewood Children’s Village.
 
@@ -102,7 +102,13 @@ Penn State New Kensington is one of twenty-four campuses that comprise The Penns
 
 ### 2020
 
+* [A Pilot Project in Pittsburgh Solves the Problem of Low-Income Internet Access Programs](https://muninetworks.org/content/pilot-project-pittsburgh-solves-problem-low-income-internet-access-programs)
+* [Community partners to broadcast free Wi-Fi for schoolchildren from top of Cathedral of Learning](https://triblive.com/local/regional/community-partners-to-broadcast-free-wi-fi-for-schoolchildren-from-top-of-cathedral-of-learning/)
+* [Pitt Partners with Coalition to Connect Young Learners to the Internet](https://www.pittwire.pitt.edu/news/pitt-partners-coalition-connect-young-learners-internet)
+* [Local universities, non-profits collaborate to provide free wifi to communities in need](https://www.wtae.com/article/local-universities-non-profits-collaborate-to-provide-free-wifi-to-communities-in-need/34621152#)
+* [Local Universities, Nonprofit Provide Free Internet To K-12 Students](https://www.wesa.fm/post/local-universities-nonprofit-provide-free-internet-k-12-students#stream/0)
 * [Pitt, CMU partner with nonprofits, school districts to provide free internet access to city households](https://www.post-gazette.com/business/tech-news/2020/11/12/Wifi-internet-access-digital-divide-remote-learning-COVID-19-Pitt-Cathedral-Learning/stories/202011120161)
+* [CMU Helps Provide Free Wi-Fi to Area Students](https://indiaeducationdiary.in/cmu-helps-provide-free-wi-fi-to-area-students/)
 * [School of Computer Science Launches Educational Equity Office with $3 Million Grant](https://www.cs.cmu.edu/news/school-computer-science-launches-educational-equity-office-3-million-grant) (August 2020)
 * [Carnegie Mellon Tackles the Digital Divide, Connects High-Need Students to Wi-Fi](https://www.cmu.edu/news/stories/archives/2020/may/meta-mesh.html) (May 2020)
 
