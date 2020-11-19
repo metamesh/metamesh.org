@@ -48,7 +48,7 @@ jobs:
         if: github.repository == 'metamesh/metamesh.org'
 
       - name: "Get timestamp (for publishing commit message)"
-        run: "echo ::set-env name=TIMESTAMP::$(date --date=\"@$(date +%s)\")"
+        run: "echo TIMESTAMP=$(date --date=\"@$(date +%s)\") >> $GITHUB_ENV"
 
       - name: Deploy built site to gh-pages branch
         uses: peaceiris/actions-gh-pages@v3
