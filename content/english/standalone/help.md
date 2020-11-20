@@ -39,9 +39,9 @@ Always appreciated
 ## Donations
 
 donate_button: 
-    title: Donate
-    url: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FBF55JXH8Y5PQ&source=url
-    target: _blank
+title: Donate
+url: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FBF55JXH8Y5PQ&source=url
+target: _blank
 
 Meta Mesh Wireless Communities is a [501(c)3 non-profit organization](https://simple.wikipedia.org/wiki/Non-profit_organization). We rely on funding from those who want to bridge the Digital Divide in Southwestern PA and around the world.
 
