@@ -211,7 +211,7 @@ We created this glossary to ensure that anyone, regardless of their previous kno
    * Individual donations
    * Income from contracted work.
 
-   So, the work we do is not “free,” we just use sources other than individual residents or households for revenue. We ask our users for a $10/month per household suggested donation to help cover maintenance costs. That being said, we NEVER shut off services to households who don’t contribute donations, and we assist communities in finding sustainable ways to cover any incurred costs.
+   So, the work we do is not “free,” we just use sources other than individual residents or households for revenue. We will not shut off services to households unless they request it, and we assist communities in finding sustainable ways to cover any incurred costs.
 
 ![](https://lh6.googleusercontent.com/662-pEd4-U0GWvWHyONcY-Dntx93NXWyyVaAagzcHQ4mpK8Ei06lJnC0a_Mau3rkpwcCe_X5zPrBH48lqjf_BYtk59gxR92gwChB6VN4P-eiqDyXu_p9JDI-iIM5e3Rj6V2Mz25r)​**Is The Meta Mesh Network secure?**  
 MMWC uses the same security measures other big name ISPs use. While no WiFi network security is without vulnerabilities, it is extremely unlikely for a breach to occur. For more on the technological capabilities/limitations, we recommend watching [Jon Zeolla's Talk on the subject](https://www.youtube.com/watch?v=K0FWXLLHDTo). Jon works with Steel City Information Security and is very well-versed in how bad guys break WiFi security.

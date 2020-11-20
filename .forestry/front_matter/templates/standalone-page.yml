@@ -199,7 +199,6 @@ fields:
     value: true
 pages:
 - content/english/standalone/about.md
-- content/english/standalone/benji-makes-a-new-page.md
 - content/english/standalone/help.md
 - content/english/standalone/more.md
 - content/english/standalone/projects.md
