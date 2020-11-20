@@ -3,6 +3,14 @@ title: How to Help
 layout: standalone
 date: '2020-08-14T05:29:22-07:00'
 url: "/help"
+form_builder: false
+form_title: ''
+form_action: ''
+subtitle: ''
+inputs: []
+selects: []
+textareas: []
+submit: ''
 
 ---
 <!--
@@ -26,14 +34,13 @@ We are humbled by your interest in our mission, and we are grateful for support 
 Always appreciated
 \-->
 
-
 {{< banner-image src="/images/img_20160914_135517.jpg" >}}
 
 ## Donations
 
 <!-- PayPal Donation Button goes here -->
 
-Meta Mesh Wireless Communities is a [501(c)3 non-profit organization](https://simple.wikipedia.org/wiki/Non-profit_organization). We rely on funding from those who want to bridge the Digitial Divide in Southwestern PA and around the world.
+Meta Mesh Wireless Communities is a [501(c)3 non-profit organization](https://simple.wikipedia.org/wiki/Non-profit_organization). We rely on funding from those who want to bridge the Digital Divide in Southwestern PA and around the world.
 
 ## Contact Us
 
