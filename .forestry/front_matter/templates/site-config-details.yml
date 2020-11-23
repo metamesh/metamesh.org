@@ -1,0 +1,214 @@
+---
+label: Site Config Details
+hide_body: true
+fields:
+- type: text
+  name: baseURL
+  label: baseURL
+- type: boolean
+  name: canonifyURLs
+  label: canonifyURLs
+- type: list
+  name: disableLanguages
+  label: disableLanguages
+- type: text
+  name: metaDataFormat
+  label: metaDataFormat
+- type: text
+  name: paginate
+  label: paginate
+- type: text
+  name: summaryLength
+  label: summaryLength
+- type: text
+  name: theme
+  label: theme
+- type: text
+  name: title
+  label: title
+- type: field_group
+  name: Languages
+  label: Languages
+  fields:
+  - type: field_group
+    name: en
+    label: en
+    fields:
+    - type: text
+      name: contentDir
+      label: contentDir
+    - type: text
+      name: copyright
+      label: copyright
+    - type: text
+      name: home
+      label: home
+    - type: text
+      name: languageCode
+      label: languageCode
+    - type: text
+      name: languageName
+      label: languageName
+    - type: number
+      name: weight
+      label: weight
+  - type: field_group
+    name: fr
+    label: fr
+    fields:
+    - type: text
+      name: contentDir
+      label: contentDir
+    - type: text
+      name: copyright
+      label: copyright
+    - type: text
+      name: home
+      label: home
+    - type: text
+      name: languageCode
+      label: languageCode
+    - type: text
+      name: languageName
+      label: languageName
+    - type: number
+      name: weight
+      label: weight
+- type: field_group
+  name: markup
+  label: markup
+  fields:
+  - type: text
+    name: defaultMarkdownHandler
+    label: defaultMarkdownHandler
+  - type: field_group
+    name: goldmark
+    label: goldmark
+    fields:
+    - type: field_group
+      name: extensions
+      label: extensions
+      fields:
+      - type: boolean
+        name: definitionList
+        label: definitionList
+      - type: boolean
+        name: footnote
+        label: footnote
+      - type: boolean
+        name: linkify
+        label: linkify
+      - type: boolean
+        name: strikethrough
+        label: strikethrough
+      - type: boolean
+        name: table
+        label: table
+      - type: boolean
+        name: taskList
+        label: taskList
+      - type: boolean
+        name: typographer
+        label: typographer
+    - type: field_group
+      name: parser
+      label: parser
+      fields:
+      - type: boolean
+        name: attribute
+        label: attribute
+      - type: boolean
+        name: autoHeadingID
+        label: autoHeadingID
+      - type: text
+        name: autoHeadingIDType
+        label: autoHeadingIDType
+    - type: field_group
+      name: renderer
+      label: renderer
+      fields:
+      - type: boolean
+        name: hardWraps
+        label: hardWraps
+      - type: boolean
+        name: unsafe
+        label: unsafe
+      - type: boolean
+        name: xhtml
+        label: xhtml
+- type: field_group
+  name: menu
+  label: menu
+  fields:
+  - type: field_group_list
+    name: main
+    label: main
+    fields:
+    - type: text
+      name: URL
+      label: URL
+    - type: text
+      name: name
+      label: name
+    - type: number
+      name: weight
+      label: weight
+- type: field_group
+  name: params
+  label: params
+  fields:
+  - type: text
+    name: author
+    label: author
+  - type: boolean
+    name: contact_form
+    label: contact_form
+  - type: boolean
+    name: contactform
+    label: contactform
+  - type: boolean
+    name: debugMode
+    label: debugMode
+  - type: text
+    name: description
+    label: description
+  - type: text
+    name: fontawesome_kit_id
+    label: fontawesome_kit_id
+  - type: text
+    name: google_analytics_id
+    label: google_analytics_id
+  - type: file
+    name: logo
+    label: logo
+  - type: boolean
+    name: post_share
+    label: post_share
+  - type: field_group
+    name: plugins
+    label: plugins
+    fields:
+    - type: field_group_list
+      name: css
+      label: css
+      fields:
+      - type: textarea
+        name: link
+        label: link
+    - type: field_group_list
+      name: js
+      label: js
+      fields:
+      - type: text
+        name: link
+        label: link
+  - type: field_group_list
+    name: social
+    label: social
+    fields:
+    - type: text
+      name: icon
+      label: icon
+    - type: text
+      name: link
+      label: link
