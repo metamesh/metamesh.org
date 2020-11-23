@@ -16,6 +16,7 @@ fields:
     - type: text
       name: URL
       label: URL
+      description: Internal links start with '/', external links start with 'http'(etc)
     - type: number
       name: weight
       label: weight
