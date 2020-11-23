@@ -20,6 +20,8 @@ fields:
     - type: number
       name: weight
       label: weight
+    config:
+      labelField: name
 - type: text
   name: baseURL
   label: baseURL
