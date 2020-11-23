@@ -39,6 +39,10 @@ hardWraps = false
 unsafe = true
 xhtml = false
 [[menu.main]]
+name = "Donate"
+url = "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FBF55JXH8Y5PQ&source=url"
+weight = 6
+[[menu.main]]
 URL = "projects"
 name = "Projects"
 weight = 5
