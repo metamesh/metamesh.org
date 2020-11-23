@@ -14,7 +14,7 @@ submit: ''
 button:
   title: Donate now
   target: _blank
-  url: https://www.monjibram.com
+  url: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FBF55JXH8Y5PQ&source=url
 
 ---
 <!--
