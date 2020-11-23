@@ -11,6 +11,10 @@ inputs: []
 selects: []
 textareas: []
 submit: ''
+button:
+  title: Donate now
+  target: _blank
+  url: www.monjibram.com
 
 ---
 <!--
@@ -18,6 +22,8 @@ submit: ''
 NOTE: Anything between these left and right arrows are hidden on the built website
 
 \-->
+
+{{< button >}}
 
 As a nonprofit, there are three main ways that we can continue to provide deeply needed Internet services to underserved communities for a low cost:
 
