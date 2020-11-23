@@ -1,5 +1,7 @@
-{{ if .button }}
-  {{ with .button }}
-    <a href='{{ .url }}' target="{{ .target }}" class='btn btn-transparent'>{{ .title }}</a>
+{{ if $.Page.Params.button }}
+{{ with $.Page.Params.button }}
+  <div class='button-holder'>
+    <a href='{{ .url }}' target="{{ .target }}" class='link-button btn btn-transparent'>{{ .title }}</a>
+  </div>
   {{ end }}
 {{ end }}

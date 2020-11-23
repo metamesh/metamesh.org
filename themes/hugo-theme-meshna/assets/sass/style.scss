@@ -2673,6 +2673,19 @@ body.locked {
   h2 {
     padding-top: 100px;
   }
+  .button-holder {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 30px;
+    .link-button {
+      display: inline-block;
+      border: 1px solid #616161;
+      margin: 0 auto;
+    }
+  }
 }
 
 
