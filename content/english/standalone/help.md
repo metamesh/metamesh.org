@@ -14,7 +14,7 @@ submit: ''
 button:
   title: Donate now
   target: _blank
-  url: www.monjibram.com
+  url: https://www.monjibram.com
 
 ---
 <!--
