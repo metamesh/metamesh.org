@@ -39,23 +39,23 @@ hardWraps = false
 unsafe = true
 xhtml = false
 [[menu.main]]
-URL = "projects"
+URL = "/projects"
 name = "Projects"
 weight = 5
 [[menu.main]]
-URL = "more"
+URL = "/more"
 name = "Learn More"
 weight = 4
 [[menu.main]]
-URL = "press"
+URL = "/press"
 name = "Press"
 weight = 3
 [[menu.main]]
-URL = "works"
+URL = "/works"
 name = "Our Work"
 weight = 2
 [[menu.main]]
-URL = "about"
+URL = "/about"
 name = "About"
 weight = 1
 [[menu.main]]

@@ -18,7 +18,7 @@
 				<ul class="navbar-nav-1">
           {{ range site.Menus.main }}
             <li class="nav-item">
-              <a class="nav-link" href="/{{ .URL }}">{{ .Name }}</a>
+              <a class="nav-link" href="{{ .URL }}">{{ .Name }}</a>
             </li>
           {{ end }}
         </ul>
