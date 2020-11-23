@@ -2,6 +2,23 @@
 label: Site Config Details
 hide_body: true
 fields:
+- type: field_group
+  name: menu
+  label: menu
+  fields:
+  - type: field_group_list
+    name: main
+    label: main
+    fields:
+    - type: text
+      name: name
+      label: name
+    - type: text
+      name: URL
+      label: URL
+    - type: number
+      name: weight
+      label: weight
 - type: text
   name: baseURL
   label: baseURL
@@ -136,23 +153,6 @@ fields:
       - type: boolean
         name: xhtml
         label: xhtml
-- type: field_group
-  name: menu
-  label: menu
-  fields:
-  - type: field_group_list
-    name: main
-    label: main
-    fields:
-    - type: text
-      name: URL
-      label: URL
-    - type: text
-      name: name
-      label: name
-    - type: number
-      name: weight
-      label: weight
 - type: field_group
   name: params
   label: params
