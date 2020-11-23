@@ -1,0 +1,5 @@
+{{ if .button }}
+  {{ with .button }}
+    <a href='{{ .url }}' target="{{ .target }}" class='btn btn-transparent'>{{ .title }}</a>
+  {{ end }}
+{{ end }}
