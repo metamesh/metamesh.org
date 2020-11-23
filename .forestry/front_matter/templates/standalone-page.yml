@@ -197,6 +197,31 @@ fields:
   showOnly:
     field: form_builder
     value: true
+- name: button
+  type: field_group
+  config: {}
+  fields:
+  - name: title
+    type: text
+    config:
+      required: true
+    label: Title
+    description: The text on the button
+  - name: target
+    type: text
+    config:
+      required: false
+    label: Target
+    description: Set this to "_blank" if you're linking to outside content. Else leave
+      it blank!
+    default: _blank
+  - name: url
+    type: text
+    config:
+      required: true
+    label: URL
+    default: "#"
+  label: Button
 pages:
 - content/english/standalone/about.md
 - content/english/standalone/help.md
