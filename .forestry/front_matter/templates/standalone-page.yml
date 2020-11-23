@@ -222,6 +222,7 @@ fields:
     label: URL
     default: "#"
   label: Button
+  description: Actually add this button to your page with {{&lt; button &gt;}}
 pages:
 - content/english/standalone/about.md
 - content/english/standalone/help.md
