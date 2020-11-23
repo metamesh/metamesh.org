@@ -51,5 +51,3 @@ Meta Mesh Wireless Communities is a [501(c)3 non-profit organization](https://si
 ### Equal Opportunity Notice
 
 Meta Mesh Wireless Communities is committed to a policy of Equal Employment Opportunity, and we take positive action to continually ensure equal opportunity to our employees, volunteers, and applicants in the conduct of all our activities. To apply for a volunteer or internship position with Meta Mesh Wireless Communities, please send a letter describing your skills and background and a resume to [info@metamesh.org](mailto:info@metamesh.org)
-
-{{ partial "help.html" . }}
