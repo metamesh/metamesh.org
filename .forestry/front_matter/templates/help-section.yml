@@ -27,6 +27,30 @@ fields:
   - type: textarea
     name: content
     label: Content
+  - name: donate_button
+    type: field_group
+    config: {}
+    fields:
+    - name: title
+      type: text
+      config:
+        required: false
+      label: Title
+      description: Words on the button
+    - name: url
+      type: text
+      config:
+        required: false
+      label: URL
+      description: Add https:// to this if it's an external link, or Hugo might make
+        it an internal one!
+    - name: target
+      type: text
+      config:
+        required: false
+      label: Target
+      description: If this is an external link, use '_blank' here. Else leave it blank!
+    label: Donate Button
   label: Services
   config:
     labelField: name
