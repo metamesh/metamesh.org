@@ -39,6 +39,10 @@ hardWraps = false
 unsafe = true
 xhtml = false
 [[menu.main]]
+URL = "/blog"
+name = "Meta Mesh Blog"
+weight = 6
+[[menu.main]]
 URL = "/projects"
 name = "Projects"
 weight = 5
