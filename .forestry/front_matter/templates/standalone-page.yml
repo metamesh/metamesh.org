@@ -226,6 +226,7 @@ fields:
 pages:
 - content/english/standalone/about.md
 - content/english/standalone/help.md
+- content/english/standalone/meta-mesh-blog.md
 - content/english/standalone/more.md
 - content/english/standalone/projects.md
 - content/english/standalone/works.md
