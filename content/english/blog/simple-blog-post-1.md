@@ -10,19 +10,19 @@ By now, you’ve likely heard the exciting news: Meta Mesh Wireless Communities 
 
 How is Meta Mesh different from other internet service providers?
 
-First and foremost, we provide the same service -- wireless internet -- as any other of the big internet service providers you may have given money to before. The one, critically important difference is that Meta Mesh is a nonprofit organization. We believe that high-speed wireless internet in the 21st century is a fundamental right, especially in a pandemic during which school-age children receive the bulk of their educational instruction at home. More to the point: we aren’t in this to make a profit off of you. We are here to help end the inequality of the Digital Divide.
+First and foremost, we provide the same service -- wireless internet -- as any other of the big internet service providers you may have given money to before. The one, critically important difference is that Meta Mesh is a nonprofit organization. We believe that [high-speed wireless internet in the 21st century is a fundamental right](https://www.brookings.edu/blog/techtank/2016/11/07/the-internet-as-a-human-right/), especially in a pandemic during which school-age children receive the bulk of their educational instruction at home. More to the point: we aren’t in this to make a profit off of you. We are here to help end the inequality of the [Digital Divide](https://www.pewresearch.org/topics/digital-divide/).
 
 How are you able to do this for free?
 
-In November 2020, Meta Mesh Wireless Communities partnered with Carnegie Mellon, the University of Pittsburgh, and KINBER to provide free wireless internet to households in the communities of Coraopolis, Homewood, and New Kensington-Arnold through a new program, every1online. Thanks to this unprecedented collaboration, we now have the ability to set up the new physical infrastructure necessary to beam free wi-fi throughout these communities, including the centerpiece of it all: our new relay station atop of Pitt’s Cathedral of Learning!
+In November 2020, Meta Mesh Wireless Communities partnered with [Carnegie Mellon University](https://www.cmu.edu/simon/), the [University of Pittsburgh](https://www.technology.pitt.edu/), and [KINBER](https://kinber.org/press-release/meta-mesh-kinber-cmu-and-pitt-collaborate-on-every1online-to-provide-free-wifi-to-in-need-communities/) to provide free wireless internet to households in the communities of Coraopolis, Homewood, and New Kensington-Arnold through a new program, [Every1online](https://www.metamesh.org/projects/). Thanks to this unprecedented collaboration, we now have the ability to set up the new physical infrastructure necessary to beam free wi-fi throughout these communities, including the centerpiece of it all: our new relay station atop of Pitt’s Cathedral of Learning!
 
 How fast is the wi-fi?
 
-Our target speeds are 50 mbps down; 25 mbps up, which is faster than some of the other local “broadband” providers, if we’re being honest. And as we upgrade our equipment, those numbers will improve. (You can compare our service directly with other low-cost internet providers here.) If you have a household with one or more children attending online instruction, as well as a parent or guardian working from home, we are confident that our speeds are fast enough to accommodate simultaneous video streams and downloads, within reason.
+Our target speeds are 50 mbps down; 25 mbps up, which is faster than some of the other local “broadband” providers, if we’re being honest. And as we upgrade our equipment, those numbers will improve. (You can compare our service directly with other low-cost internet providers [here](https://lh5.googleusercontent.com/4QrwE9fPcNPoFidixCcXhZY3_171iVNSVb32nrDeubUPZz7R_BW4OBXISjurv2eL6bTQiqMlLhjJoblMxhToBvjISjmf9sz3Rp7CGDHXdmrwBL4-q93gi4jkWDzmD0N45cjzkElL).) If you have a household with one or more children attending online instruction, as well as a parent or guardian working from home, we are confident that our speeds are fast enough to accommodate simultaneous video streams and downloads, within reason.
 
 How long does it take to get set up?
 
-As of mid-November 2020, we are installing equipment atop the Cathedral of Learning and in the communities of Coraopolis, Homewood, and New Kensington. Home installations, which involve a wi-fi router and a dish that catches the signal outside your home, will take place throughout December and January, and perhaps into February, depending on demand. The last day to sign up is January 31, 2021, so don’t delay!
+As of mid-November 2020, we are installing equipment atop the Cathedral of Learning and in the communities of Coraopolis, Homewood, and New Kensington. Home installations, which involve a wi-fi router and a dish that catches the signal outside your home, will take place throughout December and January, and perhaps into February, depending on demand. The last day to [sign up](https://www.metamesh.org/projects#contact) is January 31, 2021, so don’t delay!
 
 So there are really no fees?
 
@@ -36,10 +36,10 @@ Our funding comes from foundation grants, and we also partner with local communi
 
 Who qualifies?
 
-Because we want to reach as many people as we can, our sign-up form is not that all long. Coverage largely depends on where you live. For example, if there are obstructions (like big trees or a hillside) between our relay nodes and your home, you might not be able to received service at this time. This can change in the coming months as we build up the physical infrastructure in the communities we serve. (Here are our coverage maps for Homewood, New Kensington-Arnold, and Coraopolis, respectively.)
+Because we want to reach as many people as we can, our [sign-up form](https://www.metamesh.org/projects#contact) is not that all long. Coverage largely depends on where you live. For example, if there are obstructions (like big trees or a hillside) between our relay nodes and your home, you might not be able to received service at this time. This can change in the coming months as we build up the physical infrastructure in the communities we serve. (Here are our coverage maps for [Homewood](https://www.metamesh.org/images/homewood-coverage-map-2.png), [New Kensington-Arnold](https://www.metamesh.org/images/new-ken-heat-map.jpg), and [Coraopolis](https://www.metamesh.org/images/coraopolis-heat-map.jpg), respectively.)
 
 After you sign up, we cross-check the address you provide with our coverage area by going to the location and taking pictures. These pictures are taken from the exterior of the home by a small drone, which will confirm or deny line-of-sight from the house to our relay point. If we can't "see" the relay point from the angle of your house, it is unlikely you can receive our service at this phase of the program.
 
 How can I sign-up?
 
-Sign-up for every1online here.
+[Sign-up for every1online here.](https://www.metamesh.org/projects#contact)
