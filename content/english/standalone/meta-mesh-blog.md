@@ -56,7 +56,7 @@ Our funding comes from foundation grants, and we also partner with local communi
 
 Because we want to reach as many people as we can, [our sign-up form](https://www.metamesh.org/projects#contact) is not that all long. Coverage largely depends on where you live. For example, if there are obstructions (like big trees or a hillside) between our relay nodes and your home, you might not be able to received service at this time. This can change in the coming months as we build up the physical infrastructure in the communities we serve. (Here are our coverage maps for [Homewood](https://www.metamesh.org/images/homewood-coverage-map-2.png), [New Kensington-Arnold](https://www.metamesh.org/images/new-ken-heat-map.jpg), and [Coraopolis](https://www.metamesh.org/images/coraopolis-heat-map.jpg), respectively.)
 
-After you sign up, we cross-check the address you provide with our coverage area by going to the location and taking pictures. These pictures are taken from the exterior of the home by a small drone, which will confirm or deny line-of-sight from the house to our relay point. If we can't "see" the relay point from the angle of your house, it is unlikely you can receive our service at this phase of the program. 
+After you sign up, we cross-check the address you provide with our coverage area by going to the location and taking pictures. These pictures are taken from the exterior of the home by a small drone, which will confirm or deny line-of-sight from the house to our relay point. If we can't "see" the relay point from the angle of your house, it is unlikely you can receive our service at this phase of the program.
 
 **How can I sign-up?**
 
