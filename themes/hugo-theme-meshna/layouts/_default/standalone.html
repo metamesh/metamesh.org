@@ -60,7 +60,7 @@
           method="POST" role="form">
             {{ range .Params.inputs }}
               <div class="form-group {{.width}}">
-                <input type="{{ .type }}" autocomplete="{{ .autocomplete }}" placeholder="{{ .placeholder }}" class="form-control" name="{{ .name }}" id="{{ .name }}" required>
+                <input type="{{ .type }}" autocomplete="{{ .autocomplete }}" placeholder="{{ .placeholder }}" class="form-control" name="{{ .name }}" id="{{ .name }}" {{ cond (.required) "required" "" }}>
               </div>
             {{ end }}
             {{ range .Params.selects }}
