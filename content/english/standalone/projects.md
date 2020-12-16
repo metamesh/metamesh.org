@@ -34,7 +34,7 @@ inputs:
   placeholder: Email
   autocomplete: email
   width: half
-  required: false
+  required: true
 selects:
 - name: child
   placeholder: Does a school aged child live in your household? (Optional)
