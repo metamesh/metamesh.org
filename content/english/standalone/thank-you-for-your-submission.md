@@ -14,7 +14,6 @@ subtitle: ''
 inputs: []
 selects: []
 textareas: []
-draft: true
 
 ---
 Hello!  
