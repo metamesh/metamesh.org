@@ -57,7 +57,7 @@ sections:
   path: config.toml
   label: Site Config Details
 - type: directory
-  path: l18n
+  path: i18n
   label: Additional Site Config Details (Translations)
   create: all
   match: "**/*"
