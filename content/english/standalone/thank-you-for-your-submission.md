@@ -6,7 +6,7 @@ button:
   url: "#"
   title: ''
 title: Thank You for your Submission
-url: https://www.metamesh.org/projects/#contact/thankyou
+url: "/projects/thankyou"
 form_builder: false
 form_title: ''
 form_action: ''
