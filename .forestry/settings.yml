@@ -4,6 +4,11 @@ auto_deploy: false
 admin_path: static/admin
 webhook_url: 
 sections:
+- type: directory
+  path: content/english/blog
+  label: Blog
+  create: documents
+  match: "**/*"
 - type: heading
   label: Front Page
 - type: document
@@ -51,6 +56,11 @@ sections:
 - type: document
   path: config.toml
   label: Site Config Details
+- type: directory
+  path: i18n
+  label: Additional Site Config Details (Translations)
+  create: all
+  match: "**/*"
 - type: directory
   path: data/en/team
   label: Team Members
