@@ -223,6 +223,15 @@ fields:
     default: "#"
   label: Button
   description: Actually add this button to your page with {{&lt; button &gt;}}
+- name: redirect
+  type: text
+  config:
+    required: false
+  label: Redirect
+  description: If form, redirect to this URL
+  showOnly:
+    field: form_builder
+    value: true
 pages:
 - content/english/standalone/about.md
 - content/english/standalone/help.md
