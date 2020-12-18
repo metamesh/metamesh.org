@@ -3,8 +3,8 @@ layout: standalone
 submit: Submit
 button:
   target: _blank
-  url: "#"
-  title: ''
+  url: "/blog/simple-blog-post-1/"
+  title: See how Every1online is making a difference
 title: Thank You for your Submission
 url: "/projects/thankyou"
 form_builder: false
@@ -21,3 +21,5 @@ We have received your sign-up information for Every1online, a residential WiFi p
 We appreciate your patience and thank you for your interest in Every1online!  
 Best,  
 The Meta Mesh Team
+
+{{< button >}}
