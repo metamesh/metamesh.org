@@ -68,6 +68,7 @@ button:
   title: ''
   target: ''
   url: ''
+redirect: "/projects/thankyou"
 
 ---
 ![](/images/Every1online_black.png)
