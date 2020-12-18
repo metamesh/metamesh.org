@@ -56,8 +56,16 @@
       {{/* Contact Form  */}}
       <!-- <div class="row"> -->
         <div class="col-lg-12 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
-          <form id="form_builder" class="form-meshna" action="{{ .Params.form_action }}"
-          method="POST" role="form">
+          <form 
+            id="form_builder"
+            class="form-meshna"
+            action="{{ .Params.form_action }}"
+            method="POST"
+            role="form"
+            {{ if .Params.redirect }}
+              data-redirect="{{.Params.redirect}}" 
+            {{ end }}
+          >
             {{ range .Params.inputs }}
               <div class="form-group {{.width}}">
                 <input type="{{ .type }}" autocomplete="{{ .autocomplete }}" placeholder="{{ .placeholder }}" class="form-control" name="{{ .name }}" id="{{ .name }}" {{ cond (.required) "required" "" }}>

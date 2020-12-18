@@ -377,6 +377,8 @@ jQuery(function ($) {
     var volForm = document.getElementById('form_builder');
     var volButton = document.getElementById("builder_submit");
 
+    var redir = volForm.getAttribute('data-redirect');
+
     // validate that child is selected
     function validate(object) {
       if (object.checked) {
@@ -386,6 +388,9 @@ jQuery(function ($) {
 
     // Success and Error functions for after the form is submitted
     function success(formName) {
+      if (redir) {
+        window.location.href = redir;
+      }
       formName.reset();
       button ? button.style = "display: none " : '';
       projButton ? projButton.style = "display: none " : '';
