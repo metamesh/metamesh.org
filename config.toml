@@ -40,7 +40,7 @@ unsafe = true
 xhtml = false
 [[menu.main]]
 URL = "/blog"
-name = "Meta Mesh Blog"
+name = "Blog"
 weight = 6
 [[menu.main]]
 URL = "/projects"
