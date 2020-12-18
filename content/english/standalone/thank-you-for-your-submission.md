@@ -2,7 +2,7 @@
 layout: standalone
 submit: Submit
 button:
-  target: _blank
+  target: ''
   url: "/blog/simple-blog-post-1/"
   title: See how Every1online is making a difference
 title: Thank You for your Submission
