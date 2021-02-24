@@ -4,6 +4,20 @@ layout: standalone
 url: "/press"
 
 ---
+## Executive Director Transition
+
+Feb. 23, 2021
+
+Meta Mesh Wireless Communities (MMWC) has grown to become Pittsburgh’s premier community network builder since its founding in 2013. This past year, MMWC launched its Every1online initiative in partnership with Carnegie Mellon University. As the organization has scaled up its programs, it has transitioned to become a sustainable social enterprise. As a part of this organizational evolution, the MMWC Board of Directors is pleased to announce Samantha Garfinkel as MMWC’s Interim Executive Director. Ms. Garfinkel’s role will be to guide the organization through this important expansion year.
+
+**“The COVID-19 Pandemic has made the stakes for bridging the Digital Divide higher than they ever have been. This growing problem demands a comprehensive and compassionate solution. Meta Mesh Wireless Communities is poised to become Pittsburgh’s _last-mile solution_ for those in need, providing Internet connectivity that is tailor-made to each community. Meta Mesh will always work to make sure our neighbor has equitable access to the Internet,” said Garfinkel.**
+
+MMWC was founded with a mission to bridge the Digital Divide in the Greater Pittsburgh Area by founder and long-time executive director, Adam Longwill. Longwill will continue to advise the organization and will be expanding his advocacy for bridging the Digital Divide nationwide into 2021 and beyond.
+
+**“Sam has impressed me since the first day, proving herself to be goal-oriented, meticulous, and detail-driven at a time when Meta Mesh is growing exponentially. She quickly assesses unfamiliar situations and understands every facet of them. That is exactly the kind of person needed to lead the organization right now,” said Longwill.**
+
+Starting in Spring 2021, MMWC will be rapidly expanding its offerings of free and low-cost Internet service throughout the **Coraopolis & Neville Island, New Kensington-Arnold, and Homewood** areas. Interested community members can find out more about the Every1online project, and sign up for the waitlist to receive Internet access at [**https://www.metamesh.org/projects/.**](https://www.metamesh.org/projects/. "https://www.metamesh.org/projects/.")
+
 ## Important News
 
 <small><i>(archive follows)</i></small>
