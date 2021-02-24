@@ -18,7 +18,7 @@ button:
 redirect: ''
 
 ---
-Meta Mesh Wireless Communities is a non-profit Internet Service Provider. We bridge the Digital Divide in the Greater Pittsburgh area by helping those who are unable to have Internet access where they live. To do this, we raise funds and work with community groups, universities, and school districts to cover the cost of our services.
+Meta Mesh Wireless Communities is a 501(c)(3) nonprofit Wireless Internet Service Provider. Since 2015, we've worked to bridge the Digital Divide in the Greater Pittsburgh area by helping those who are unable to get Internet access due to monetary or geographical barriers. To do this, we raise funds and work with community groups, universities, and school districts to cover the cost of our services.
 
 Our goal is to get broadband Internet to Pittsburghers who need it, without burdening them with a monthly bill.
 
