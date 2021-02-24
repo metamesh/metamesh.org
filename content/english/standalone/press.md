@@ -18,7 +18,7 @@ MMWC was founded with a mission to bridge the Digital Divide in the Greater Pitt
 
 Starting in Spring 2021, MMWC will be rapidly expanding its offerings of free and low-cost Internet service throughout the **Coraopolis & Neville Island, New Kensington-Arnold, and Homewood** areas. Interested community members can find out more about the Every1online project, and sign up for the waitlist to receive Internet access at [**https://www.metamesh.org/projects/.**](https://www.metamesh.org/projects/. "https://www.metamesh.org/projects/.")
 
-_Meta Mesh Wireless Communities is a 501(c)(3) nonprofit Wireless Internet Service Provider. Since 2015, we've worked to bridge the Digital Divide in the Greater Pittsburgh area by helping those who are unable to get Internet access due to monetary or geographical barriers. To do this, we raise funds and work with community groups, universities, and school districts to cover the cost of our services so that there is little or no cost to the end user. We believe that equitable access to the Internet is **not** a luxury, it is a human right._
+_Meta Mesh Wireless Communities is a 501(c)(3) nonprofit Wireless Internet Service Provider. Since 2015, we've worked to bridge the Digital Divide in the Greater Pittsburgh area by helping those who are unable to get Internet access due to monetary or geographical barriers. To do this, we raise funds and work with community groups, universities, and school districts to cover the cost of our services so that there is little or no cost to the end user. **We believe that equitable access to the Internet is not a luxury, it is a human right**._
 
 ## Important News
 
