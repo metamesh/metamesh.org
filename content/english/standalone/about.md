@@ -11,6 +11,11 @@ inputs: []
 selects: []
 textareas: []
 submit: ''
+button:
+  title: ''
+  target: ''
+  url: ''
+redirect: ''
 
 ---
 Meta Mesh Wireless Communities is a non-profit Internet Service Provider. We bridge the Digital Divide in the Greater Pittsburgh area by helping those who are unable to have Internet access where they live. To do this, we raise funds and work with community groups, universities, and school districts to cover the cost of our services.
@@ -48,10 +53,6 @@ A Pittsburgh where everyone has fast, reliable, and private access to the Intern
 
 ## Our Team
 
-{{< user-bio "team/adam-longwill.yml" >}}
-
-{{< user-bio "team/becky-zajdel.yml" >}}
-
 {{< user-bio "team/sam-garfinkel.yml" >}}
 
 {{< user-bio "team/rania-abdulnour.yml" >}}
@@ -80,4 +81,4 @@ Through this partnership, Meta Mesh and SEEN have secured an invaluable opportun
 
 Thanks to this new opportunity, we are currently working to get Internet access to the areas of New Kensington-Arnold School District, Cornell School District, and Homewood. More information on the procedures and equipment used for these projects is available on the tech resources page.
 
-We are honored by the number of interested parties who contacted us about setting up their own projects with Meta Mesh. Please reach out if you are interested in what we do and want to explore options for connecting your area. 
+We are honored by the number of interested parties who contacted us about setting up their own projects with Meta Mesh. Please reach out if you are interested in what we do and want to explore options for connecting your area.
