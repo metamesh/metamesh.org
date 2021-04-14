@@ -1,4 +1,8 @@
-# Meta Mesh Website
+# [Deprecated] Meta Mesh Website
+
+As of April 2021, the metamesh.org site is now maintained in Squarespace. This repository is no longer used.
+
+## Original README
 
 ![Publish Status](https://github.com/metamesh/metamesh.org/workflows/Publish%20Site%20to%20GitHub%20Pages/badge.svg)
 
